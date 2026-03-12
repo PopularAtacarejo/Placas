@@ -1,0 +1,690 @@
+{
+  "versao": 1,
+  "atualizado_em": "2026-03-11T16:51:10",
+  "itens": {
+    "refresc frutybom frut citri 330ml 08 03 2026": {
+      "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "bebida mista frutas citricas garrafa valedourado 27 03 2026": {
+      "descricao": "Bebida Mista Frutas Citricas Garrafa Valedourado",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "beb mista maratinho abacaxi 200ml 25 03 2026": {
+      "descricao": "Beb Mista Maratinho Abacaxi 200ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "cerv skol beats gin tonica l 269ml 14 03 2026": {
+      "descricao": "Cerv Skol Beats Gin&Tonica L 269ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "barra de protein doctor cookies c pedacos ame 28 03 2026": {
+      "descricao": "Barra De Protein Doctor Cookies C/Pedacos Ame",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "barra de protein doctor doce de leit 62g 31 03 2026": {
+      "descricao": "Barra De Protein Doctor Doce De Leit 62g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "choc barra bold leite avela 60g 31 03 2026": {
+      "descricao": "Choc Barra Bold Leite & Avela 60g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "barra sup bold pacoca e choc 60g 31 03 2026": {
+      "descricao": "Barra Sup Bold Pacoça e Choc 60g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "fish oil 120caps dux 120cps 31 03 2026": {
+      "descricao": "Fish Oil 120caps Dux 120cps",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "beb lactea piracanjuba fr verm 200ml 25 03 2026": {
+      "descricao": "Beb Lactea Piracanjuba Fr. Verm 200ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "beb lactea piracanjuba morango e banana 200ml 26 03 2026": {
+      "descricao": "Beb Lactea Piracanjuba Morango e Banana 200ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "beb lact piracanjuba banana 200ml 26 03 2026": {
+      "descricao": "Beb Lact Piracanjuba Banana 200ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "beb whey piracanjuba banoffee zl 23g 250ml 12 03 2026": {
+      "descricao": "Beb Whey Piracanjuba Banoffee Zl 23g 250ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "granola tia sonia light 200g 25 03 2026": {
+      "descricao": "Granola Tia Sonia Light 200g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "granola frutas light vovo maze 250g 03 03 2026": {
+      "descricao": "Granola Frutas Light Vovo Maze 250g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "granola nordeste tradicional 500g 28 03 2026": {
+      "descricao": "Granola Nordeste Tradicional 500g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "psyllium vitac s glutem 100g 31 03 2026": {
+      "descricao": "Psyllium Vitac S/Glutem 100g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "mel karo pet 350g 17 03 2026": {
+      "descricao": "Mel Karo Pet 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "mist p bolo coco urbano zero glut 300g 25 03 2026": {
+      "descricao": "Mist P/Bolo Coco Urbano Zero Glut 300g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "pao de forma vitalin trad s gluten 300g 14 03 2026": {
+      "descricao": "Pão De Forma Vitalin Trad.S/ Gluten 300g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "pao de forma vitalin gergel linhaca 300g 14 03 2026": {
+      "descricao": "Pão De Forma Vitalin Gergel.Linhaca 300g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "pao de forma vitalin frut semente 300g 10 03 2026": {
+      "descricao": "Pão De Forma Vitalin Frut/Semente 300g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "torrada de arroz org 75g 30 03 2026": {
+      "descricao": "Torrada De Arroz Org 75g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "bisc 3 de maio salitos queijo 100g 22 03 2026": {
+      "descricao": "Bisc 3 De Maio Salitos Queijo 100g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "bisc 3 de maio salitos trad 100g 17 03 2026": {
+      "descricao": "Bisc 3 De Maio Salitos Trad 100g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-23T09:40:41"
+    },
+    "band aid peq ferimentos c 16un": {
+      "descricao": "Nutella Creme De Avela C/Cacau 140g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-24T09:00:03"
+    },
+    "cond inf palmolive kids cab cacheado 350ml": {
+      "descricao": "Bisc Marilan Pit Stop Pão Na Chapa 274g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-24T09:00:03"
+    },
+    "cond inf huggies kids cachos 360ml": {
+      "descricao": "Pão De Queijo Coq. Brasa 1kg",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-24T09:00:03"
+    },
+    "fralda pampers pants xxg c 12": {
+      "descricao": "Margarina Claybom Crem C/Sal 250g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-24T09:00:03"
+    },
+    "ofertas do hortifruti validas para 25 e 26 02": {
+      "descricao": "Bisc Marilan Salgadinhos Sort Queijo 400g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-24T15:29:40"
+    },
+    "26": {
+      "descricao": "Cappuccino Melitta Trad 200g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-24T15:29:40"
+    },
+    "bisc marilan salgadinhos sort queijo 400g": {
+      "descricao": "Pipoca Popcorn Yoki Nat 100g",
+      "unidade": "Unid.",
+      "hits": 2,
+      "atualizado_em": "2026-02-24T15:36:34"
+    },
+    "cappuccino melitta trad 200g": {
+      "descricao": "Marg Qualy Crem. C/Sal 250g",
+      "unidade": "Unid.",
+      "hits": 4,
+      "atualizado_em": "2026-03-09T15:01:40"
+    },
+    "47729": {
+      "descricao": "Barra Prot Darkness Cookies/Cream 90g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-25T09:38:59"
+    },
+    "47730": {
+      "descricao": "Nutella Creme De Avelã C/Cacau 140g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-25T09:38:59"
+    },
+    "barra prot darkness cookies cream 90g": {
+      "descricao": "Granola Tia Sonia Light 200g",
+      "unidade": "Unid.",
+      "hits": 3,
+      "atualizado_em": "2026-02-25T14:36:23"
+    },
+    "nutella creme de avela c cacau 140g": {
+      "descricao": "Mort Perdigao Ouro Fat Kg",
+      "unidade": "Kg",
+      "hits": 4,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "cafe marata 250g diversos": {
+      "descricao": "Bisc Maria Vitarella Chocolate 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:10:38"
+    },
+    "oleo de soja soya 900ml": {
+      "descricao": "Nutella Creme De Avela C/Cacau 140g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:10:38"
+    },
+    "arroz pilao branco 1kg": {
+      "descricao": "Amido De Milho Maizena 500g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:10:38"
+    },
+    "flocao de milho coringa 500g": {
+      "descricao": "Bisc Cream Cracker Trad Pilar 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:10:38"
+    },
+    "arroz branco coringa t1 1kg": {
+      "descricao": "Bisc Cr Cracker Vitarella Pão Assado 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:10:38"
+    },
+    "feijao carioca mui nobre t 1 1kg": {
+      "descricao": "Bisc Cr Cracker Vitarella Crocks Queijo 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:10:38"
+    },
+    "mac inst lamen nissin 85g diversos sabores": {
+      "descricao": "Choc Quente Cremoso 3coracoes 360g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:10:38"
+    },
+    "kitut de boi fiambre 320g": {
+      "descricao": "Bisc Wafer Negresco 110g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:10:38"
+    },
+    "ofertas do hortifruti 04 e 05 26": {
+      "descricao": "Bisc Wafer Negresco 110g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:13:02"
+    },
+    "27": {
+      "descricao": "Bisc Cr Cracker Vitarella Crocks Queijo 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:13:02"
+    },
+    "34": {
+      "descricao": "Bisc Cr Cracker Vitarella Pão Assado 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:13:02"
+    },
+    "39": {
+      "descricao": "Bisc Cream Cracker Trad Pilar 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:13:02"
+    },
+    "48": {
+      "descricao": "Amido De Milho Maizena 500g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:13:02"
+    },
+    "291374": {
+      "descricao": "Bisc Maria Vitarella Chocolate 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:13:02"
+    },
+    "58": {
+      "descricao": "Nutella Creme De Avela C/Cacau 140g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-26T15:13:02"
+    },
+    "1": {
+      "descricao": "Sabon.Liq.Sensus Antibac Free Rf 220ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-27T08:21:32"
+    },
+    "2": {
+      "descricao": "Sabon.Liq.Sensus Antibac Free Rf 220ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-27T08:21:32"
+    },
+    "3": {
+      "descricao": "Sabon.Liq.Sensus Antibac Free Rf 220ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-27T08:21:32"
+    },
+    "4": {
+      "descricao": "Sabon.Liq.Sensus Antibac Free Rf 220ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-02-27T08:21:32"
+    },
+    "cod de preco 80000": {
+      "descricao": "Pizza Perdigão Brasileira Cong 460g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "543543": {
+      "descricao": "Galinha Caipira Do Campo Unid",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "66909": {
+      "descricao": "Pizza Perdigão Napolitana 460g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "59731": {
+      "descricao": "Nata Regina 300g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "46933": {
+      "descricao": "Iog Itambe 1.15kg Gf Vit C/Cerea",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "cod de preco 805": {
+      "descricao": "Iog Itambe 1.15kg Gf Maracujá",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "64035": {
+      "descricao": "Iog Itambe 1.15kg Gr Vermelhas Itambe",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "cod de preco 721": {
+      "descricao": "Iog Itambe 1.15kg Gf Coco",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "584160": {
+      "descricao": "Iog Itambe 1.15kg Gf Morango",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "51277": {
+      "descricao": "Margarina Claybom Crem C/Sal 250g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "78928374 48381": {
+      "descricao": "Patê De Peito De Peru Sadia 100g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "cod de preco 80000 fralda calca mamypoko dn giga 60un diversos tamanhos": {
+      "descricao": "Marg Qualy Crem. C/Sal 250g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "543543 col inf kolene cachinhos tq de carinho 200ml": {
+      "descricao": "Marg. Deline C/sal 250g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "66909 talco infantil baby poppy 100g": {
+      "descricao": "Queijo Petit Camembert 125g President",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "59731 cr p assaduras turma da xuxinha 90g": {
+      "descricao": "Amac Downy Conc Frescor Da Primaver 1l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "46933 toalha umed huggies supreme 48un": {
+      "descricao": "Amac Downy Conc 900ml 4x Adoravel",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "cod de preco 805 hidrat corp johnsons baby 200ml diversas fragancias": {
+      "descricao": "Tira Manchas Brilhante 380g Floral Pó Bag",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "64035 repelente moskitoff locao kids 100ml": {
+      "descricao": "Limp Perf Urca Purificante 500ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "cod de preco 721 sustagen kids 190g diversos sabores": {
+      "descricao": "Limp Perf Urca Purificante 500ml",
+      "unidade": "Kg",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "584160 leito po ninho integral 575g": {
+      "descricao": "Desinf Oriental Alfazema 500ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "51277 iog suisse betania mor bdj 320g": {
+      "descricao": "Lava Roupas Liq Omo Lav.Perf Rf 700ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-02T15:06:52"
+    },
+    "bisc marilan pit stop presu 137g": {
+      "descricao": "Gelatines Docile Beijo 1kg",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-04T08:37:52"
+    },
+    "bisc marilan pit stop pizza 137g": {
+      "descricao": "Wafer Kinder Tronky 18g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-04T08:37:52"
+    },
+    "bisc marilan pit stop original 137g": {
+      "descricao": "Bisc Nesfit Banana/Aveia/Canela 160g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-04T08:37:52"
+    },
+    "bolinho treloso chocolate 40g": {
+      "descricao": "Bisc Cr Cracker Vitarella Pão Assado 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-04T08:37:52"
+    },
+    "bolinho treloso brigadeiro 40g": {
+      "descricao": "Bisc Rech Skin Bem Casado 60g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-04T08:37:52"
+    },
+    "bisc cookies vitarella original 80g": {
+      "descricao": "Bisc Wafer Toddy Choc C/mor 94g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-04T08:37:52"
+    },
+    "bisc treloso clubinho morango 130g": {
+      "descricao": "Café Lor Hazelnut Expresso 10un",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-04T08:37:52"
+    },
+    "bisc rech divertix morango 112g": {
+      "descricao": "Café 3 Coracoes Gourmet Dark Roast 250g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-04T08:37:52"
+    },
+    "bisc cr cracker vitarella crocks queijo 350g": {
+      "descricao": "Bebida Whey Piracanjuba Banoffe ZL 23g 250ml",
+      "unidade": "Unid.",
+      "hits": 2,
+      "atualizado_em": "2026-03-09T15:01:40"
+    },
+    "bisc cr cracker vitarella pao assado 350g": {
+      "descricao": "Bebida Whey Piracanjuba Banoffe ZL 23g 250ml",
+      "unidade": "Unid.",
+      "hits": 2,
+      "atualizado_em": "2026-03-09T15:01:40"
+    },
+    "bisc cream cracker trad pilar 350g": {
+      "descricao": "Aveia Flocos Finos Sem Glut Jasmine 200g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-04T11:31:05"
+    },
+    "32": {
+      "descricao": "Bisc Cr Cracker Vitarella Pão Assado 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-04T11:31:05"
+    },
+    "40": {
+      "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-04T11:31:05"
+    },
+    "74157": {
+      "descricao": "Bisc Cr Cracker Vitarella Integral 367.5g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-04T11:31:05"
+    },
+    "305251": {
+      "descricao": "Bisc Sol Salt Queijo 150g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-04T11:31:05"
+    },
+    "bisc wafer negresco 110g": {
+      "descricao": "Beb Whey Piracanjuba Banoffee Zl 23g 250ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-09T15:01:40"
+    },
+    "216887": {
+      "descricao": "Bisc Marilan Pit Stop Presu 137g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-09T16:47:07"
+    },
+    "243396": {
+      "descricao": "Bisc Marilan Pit Stop Pizza 137g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-09T16:47:07"
+    },
+    "45993": {
+      "descricao": "Bisc Marilan Pit Stop Original 137g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-09T16:47:07"
+    },
+    "50038": {
+      "descricao": "Pipoca Micro-Ondas Yoki Nat C/Sal 100g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-09T16:47:07"
+    },
+    "47741": {
+      "descricao": "Pão De Alho Santa Massa Trad 240g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "47832": {
+      "descricao": "Pão De Alho Santa Massa Trad 400g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "192015": {
+      "descricao": "Pão De Alho Santa Massa Lev Picante 400g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "305758": {
+      "descricao": "Mortadela S/Toucinho Tony 1kg",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "47736": {
+      "descricao": "Mort Tub Sadia 1kg",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "81525": {
+      "descricao": "Charque Jerked Suíno Seara 400g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "222615": {
+      "descricao": "Ling Grossa Def Perdigao 2,5kg",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "47728": {
+      "descricao": "Mort Sadia Frango Mini 400g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "51187": {
+      "descricao": "Mortadela Def Gourmet Seara Fat Kg",
+      "unidade": "Kg",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "166898": {
+      "descricao": "Presunto Sadia S/Capa De Gord Kg",
+      "unidade": "Kg",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "47742": {
+      "descricao": "Galinha Caipira Do Campo Unid",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "81704": {
+      "descricao": "Empanado De Fgo Qj Perdigao Chicken 275g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "173282": {
+      "descricao": "Waflle Forno De Minas Light/Integral 280g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "47766": {
+      "descricao": "Pão De Queijo Padaria Do Ben Doce De Leite 300g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "182990": {
+      "descricao": "Pizza Cong Calabresa Sadia 460g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "161136": {
+      "descricao": "Empanado Steak Perdigao Frango 100g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "47759": {
+      "descricao": "Yakisoba Seara 500g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "atualizado_em": "2026-03-11T16:51:10"
+    }
+  }
+}
