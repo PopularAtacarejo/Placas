@@ -1,1 +1,10 @@
-
+[
+  {
+    "usuario": "Jeferson",
+    "senha_hash": "pbkdf2_sha256$390000$3XG9ajDpL6nvOGQh9MZPKA$dhlXixV7pTlcTVbqAF8bB-T1VL3E03Bl01fKJXnAb60",
+    "nome": "Jeferson",
+    "perfil": "Desenvolvedor",
+    "ativo": true,
+    "email": "djaxelf22@gmail.com"
+  }
+]
