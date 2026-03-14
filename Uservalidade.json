@@ -1,1 +1,11 @@
-
+[
+  {
+    "usuario": "Jeferson",
+    "nome": "Jeferson",
+    "email": "djaxelf22@gmail.com",
+    "telefone": "82 999158412",
+    "perfil": "Desenvolvedor",
+    "ativo": true,
+    "senha_hash": "pbkdf2_sha256$390000$pGx7A1V5NOchLQ4RIGPyCQ$nRRBOLZ6YhLckZJ1qDPs6fDGXYzD79c9UzjX9yRsyWU"
+  }
+]
