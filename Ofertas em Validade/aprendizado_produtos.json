@@ -1,6 +1,6 @@
 {
-  "versao": 1,
-  "atualizado_em": "2026-03-11T16:51:10",
+  "versao": 2,
+  "atualizado_em": "2026-03-14T10:31:19",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -685,6 +685,192 @@
       "unidade": "Unid.",
       "hits": 1,
       "atualizado_em": "2026-03-11T16:51:10"
+    },
+    "por": {
+      "descricao": "Chá Leao Camomila 10g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cha leao camomila 10g",
+        "cha leao camomila | massa:10g",
+        "por"
+      ],
+      "descricao_base": "cha leao camomila",
+      "medidas": [
+        "massa:10g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-14T10:31:19"
+    },
+    "cha leao camomila | massa:10g": {
+      "descricao": "Chá Leao Boldo 10g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cha leao boldo 10g",
+        "cha leao boldo | massa:10g",
+        "cha leao camomila 10g",
+        "cha leao camomila | massa:10g"
+      ],
+      "descricao_base": "cha leao boldo",
+      "medidas": [
+        "massa:10g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-14T10:31:19"
+    },
+    "cha leao boldo | massa:10g": {
+      "descricao": "Bisc Marilan Cream Cracker Água Sal 300g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan cream cracker agua sal 300g",
+        "bisc marilan cream cracker agua sal | massa:300g",
+        "cha leao boldo 10g",
+        "cha leao boldo | massa:10g"
+      ],
+      "descricao_base": "bisc marilan cream cracker agua sal",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-14T10:31:19"
+    },
+    "bisc marilan cream cracker agua sal | massa:300g": {
+      "descricao": "Bisc Cream Cracker Trad Pilar 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc cream cracker trad pilar 350g",
+        "bisc cream cracker trad pilar | massa:350g",
+        "bisc marilan cream cracker agua sal 300g",
+        "bisc marilan cream cracker agua sal | massa:300g"
+      ],
+      "descricao_base": "bisc cream cracker trad pilar",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-14T10:31:19"
+    },
+    "bisc cream cracker trad pilar | massa:350g": {
+      "descricao": "Bisc C.Cracker Pilar Integral 367.5g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc c cracker pilar integral 367 5g",
+        "bisc c cracker pilar integral | massa:367.5g",
+        "bisc cream cracker trad pilar 350g",
+        "bisc cream cracker trad pilar | massa:350g"
+      ],
+      "descricao_base": "bisc c cracker pilar integral",
+      "medidas": [
+        "massa:367.5g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-14T10:31:19"
+    },
+    "bisc c cracker pilar integral | massa:367.5g": {
+      "descricao": "Bisc Cr Cracker Vitarella Crocks Queijo 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc c cracker pilar integral 367 5g",
+        "bisc c cracker pilar integral | massa:367.5g",
+        "bisc cr cracker vitarella crocks queijo 350g",
+        "bisc cr cracker vitarella crocks queijo | massa:350g"
+      ],
+      "descricao_base": "bisc cr cracker vitarella crocks queijo",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-14T10:31:19"
+    },
+    "bisc cr cracker vitarella crocks queijo | massa:350g": {
+      "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc cr cracker vitarella crocks queijo 350g",
+        "bisc cr cracker vitarella crocks queijo | massa:350g",
+        "bisc cr cracker vitarella tostadinha 350g",
+        "bisc cr cracker vitarella tostadinha | massa:350g"
+      ],
+      "descricao_base": "bisc cr cracker vitarella tostadinha",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-14T10:31:19"
+    },
+    "bisc cr cracker vitarella tostadinha | massa:350g": {
+      "descricao": "Bisc Vitarella Delicita Salg Pizza 138g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc cr cracker vitarella tostadinha 350g",
+        "bisc cr cracker vitarella tostadinha | massa:350g",
+        "bisc vitarella delicita salg pizza 138g",
+        "bisc vitarella delicita salg pizza | massa:138g"
+      ],
+      "descricao_base": "bisc vitarella delicita salg pizza",
+      "medidas": [
+        "massa:138g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-14T10:31:19"
+    },
+    "bisc vitarella delicita salg pizza | massa:138g": {
+      "descricao": "Bisc Vitarella Delicita Salg Orig 138g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc vitarella delicita salg orig 138g",
+        "bisc vitarella delicita salg orig | massa:138g",
+        "bisc vitarella delicita salg pizza 138g",
+        "bisc vitarella delicita salg pizza | massa:138g"
+      ],
+      "descricao_base": "bisc vitarella delicita salg orig",
+      "medidas": [
+        "massa:138g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-14T10:31:19"
+    },
+    "bisc vitarella delicita salg orig | massa:138g": {
+      "descricao": "Bisc Vitarella Delicita Salg Presunto 138g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc vitarella delicita salg orig 138g",
+        "bisc vitarella delicita salg orig | massa:138g",
+        "bisc vitarella delicita salg presunto 138g",
+        "bisc vitarella delicita salg presunto | massa:138g"
+      ],
+      "descricao_base": "bisc vitarella delicita salg presunto",
+      "medidas": [
+        "massa:138g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-14T10:31:19"
+    },
+    "bisc vitarella delicita salg presunto | massa:138g": {
+      "descricao": "Biscoito Cream Craker Integral 350g Vitamassa",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc vitarella delicita salg presunto 138g",
+        "bisc vitarella delicita salg presunto | massa:138g",
+        "biscoito cream craker integral 350g vitamassa",
+        "biscoito cream craker integral vitamassa | massa:350g"
+      ],
+      "descricao_base": "biscoito cream craker integral vitamassa",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-14T10:31:19"
     }
   }
 }
