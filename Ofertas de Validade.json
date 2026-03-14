@@ -62,5 +62,31 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "14/03/2026",
+    "hora": "10:37:04",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Vitarella Delicita Salg Orig 138g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Vitarella Delicita Salg Presunto 138g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Biscoito Cream Craker Integral 350g Vitamassa",
+        "preco": "2,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
