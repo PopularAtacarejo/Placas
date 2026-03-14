@@ -30,5 +30,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "14/03/2026",
+    "hora": "10:35:19",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc C.Cracker Pilar Integral 367.5g",
+        "preco": "3,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Cr Cracker Vitarella Crocks Queijo 350g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350g",
+        "preco": "3,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Vitarella Delicita Salg Pizza 138g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
