@@ -88,5 +88,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/03/2026",
+    "hora": "11:55:47",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Combo Vizet 900ml",
+        "preco": "24,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Sh + Cond Niely Gold Pos 2und",
+        "preco": "17,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sh Dove 400ml",
+        "preco": "18,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Fralda Confortsec Pants Mega Pampers",
+        "preco": "39,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
