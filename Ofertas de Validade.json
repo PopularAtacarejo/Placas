@@ -120,5 +120,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/03/2026",
+    "hora": "11:58:22",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Fr Desc Huggies Tripla Protecao",
+        "preco": "38,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Fralda Desc.T.Da Monica Prem.Econ.M",
+        "preco": "38,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Kit Sab Int Dermacyd Inf 200ml+100ml",
+        "preco": "27,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Sab Liq Dermacidy Infantil 200ml",
+        "preco": "18,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
