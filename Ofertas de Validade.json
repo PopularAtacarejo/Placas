@@ -152,5 +152,31 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/03/2026",
+    "hora": "12:00:06",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Cream Cracker Trad Pilar 350g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350g",
+        "preco": "3,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Marilan Cream Cracker Água Sal 300g",
+        "preco": "2,48",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
