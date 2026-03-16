@@ -178,5 +178,25 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/03/2026",
+    "hora": "15:24:40",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cr Nivea Corp Todo Tipo de Pele 97g",
+        "preco": "29,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Doce De Leite Trad Frimesa 400g",
+        "preco": "6,88",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
