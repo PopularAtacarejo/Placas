@@ -198,5 +198,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/03/2026",
+    "hora": "17:28:08",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Granola Nordeste Tradicional 500g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Granola Tia Sonia Light 200g",
+        "preco": "3,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Doce De Leite Trad Frimesa 400g",
+        "preco": "6,88",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Amendoim Japones Salg Jazam",
+        "preco": "0,78",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
