@@ -314,5 +314,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/03/2026",
+    "hora": "17:20:13",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bala Docile Gelatina Amora 15g",
+        "preco": "0,88",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Lact Frutigutti Morango Grf 850g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Bom Leite Petit Suisse Morango 270g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Valiade 17/03 Iog Verde Campo Whey 14 Morango 250g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
