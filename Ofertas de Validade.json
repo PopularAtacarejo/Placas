@@ -262,5 +262,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/03/2026",
+    "hora": "10:31:20",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cr Ressecamento Pe Halley 240g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Sab. Liq. Hidraderm 180ml",
+        "preco": "20,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pack Dia a Dia Esfol 150ml+hidrat 190ml",
+        "preco": "27,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Loc Vult Des Hid Cpo 3500ml",
+        "preco": "20,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
