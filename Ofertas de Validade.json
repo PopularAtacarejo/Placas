@@ -346,5 +346,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/03/2026",
+    "hora": "17:22:00",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Verde Campo Lacfre Trad 170g",
+        "preco": "1,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mel Yoki 350g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc 3 De Maio Salitos Trad 100g",
+        "preco": "0,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Beb Whey Piracanjuba Banoffee Zl 23g 250ml",
+        "preco": "4,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
