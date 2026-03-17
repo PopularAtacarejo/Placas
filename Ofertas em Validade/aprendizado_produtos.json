@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-16T11:53:33",
+  "atualizado_em": "2026-03-17T17:18:03",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -871,6 +871,24 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-03-14T10:31:19"
+    },
+    "beb whey piracanjuba cafe | volume:250ml": {
+      "descricao": "Beb Whey Piracanjuba Banoffee Zl 23g 250ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "beb whey piracanjuba banoffee zl 23g 250ml",
+        "beb whey piracanjuba banoffee zl | massa:23g | volume:250ml",
+        "beb whey piracanjuba cafe 250ml",
+        "beb whey piracanjuba cafe | volume:250ml"
+      ],
+      "descricao_base": "beb whey piracanjuba banoffee zl",
+      "medidas": [
+        "massa:23g",
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-17T17:18:03"
     }
   }
 }
