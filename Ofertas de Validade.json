@@ -424,5 +424,25 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "18/03/2026",
+    "hora": "14:38:02",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Classic Nestle Prestigio 80g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Classic Nestle Prestigio 80g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
