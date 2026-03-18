@@ -404,5 +404,25 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "18/03/2026",
+    "hora": "13:56:33",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Marshmallow Fofs Mallow Pop Azul 40g",
+        "preco": "8,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Marshmallow Fofs Mallow Pop Rosa 40g",
+        "preco": "8,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
