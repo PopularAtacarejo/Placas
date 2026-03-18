@@ -378,5 +378,31 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "18/03/2026",
+    "hora": "08:35:30",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pão Forma Plusvita Australiano 500g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pão Forma Plusvita Artesano Orig 400g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pão Frutas Nutrella Grãos e Castanhas 350g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
