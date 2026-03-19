@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-19T07:59:33",
+  "atualizado_em": "2026-03-19T15:21:23",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -934,6 +934,21 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-03-19T07:59:33"
+    },
+    "iog itambe fit bdj mor/ameixa/maca | massa:510g": {
+      "descricao": "Iog Itambe Fit 510g Bdj Mor/Ameixa/Maçã",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "iog itambe fit 510g bdj mor ameixa maca",
+        "iog itambe fit bdj mor/ameixa/maca | massa:510g"
+      ],
+      "descricao_base": "iog itambe fit bdj mor/ameixa/maca",
+      "medidas": [
+        "massa:510g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-19T15:21:23"
     }
   }
 }
