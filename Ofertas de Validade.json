@@ -684,5 +684,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/03/2026",
+    "hora": "17:55:33",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pastilha Minty Menta Sem Açúcar 21g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Amendoim Japones Dori 70g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc Kinder Joy Menina 20g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Kinder Joy Batwheels 20g",
+        "preco": "3,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
