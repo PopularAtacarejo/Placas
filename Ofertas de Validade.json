@@ -580,5 +580,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/03/2026",
+    "hora": "15:24:14",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Itambe Fit 510g Bdj Mor/Ameixa/Maçã",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Verde Campo Whey 30 Cookes/Cr 500g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Verde Campo Whey 14 Cookies 250g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Verde Campo Whey 14prot Banana250g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
