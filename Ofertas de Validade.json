@@ -748,5 +748,31 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/03/2026",
+    "hora": "17:59:17",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Trento Slin Chocolate 20g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra Choc 70 Ao Leite Cacau Cia 20g",
+        "preco": "3,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pastilha Mentos Kiss Sour Mor. 38,5g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
