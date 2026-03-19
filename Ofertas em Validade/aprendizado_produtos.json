@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-17T17:18:03",
+  "atualizado_em": "2026-03-19T07:59:33",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -889,6 +889,51 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-03-17T17:18:03"
+    },
+    "cafe 3 coracoes gourmet dark roast | massa:250g": {
+      "descricao": "Café 3 Corações Gourmet Dark Roast 250g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cafe 3 coracoes gourmet dark roast 250g",
+        "cafe 3 coracoes gourmet dark roast | massa:250g"
+      ],
+      "descricao_base": "cafe 3 coracoes gourmet dark roast",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-19T07:59:33"
+    },
+    "cafe santa clara gourmet serra canastra | massa:250g": {
+      "descricao": "Café Santa Clara Gourmet Serra Canastra 250g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cafe santa clara gourmet serra canastra 250g",
+        "cafe santa clara gourmet serra canastra | massa:250g"
+      ],
+      "descricao_base": "cafe santa clara gourmet serra canastra",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-19T07:59:33"
+    },
+    "hamb perdigao frango | massa:56g": {
+      "descricao": "Hamb Perdigão Frango 56g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "hamb perdigao frango 56g",
+        "hamb perdigao frango | massa:56g"
+      ],
+      "descricao_base": "hamb perdigao frango",
+      "medidas": [
+        "massa:56g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-19T07:59:33"
     }
   }
 }
