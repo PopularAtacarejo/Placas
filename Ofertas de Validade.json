@@ -632,5 +632,25 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/03/2026",
+    "hora": "16:42:51",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Sab. Liq. 123 Baby 400Ml Div. Fragrâncias",
+        "preco": "13,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Des Roll On Davene Ho Men Confort 50ml",
+        "preco": "4,68",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
