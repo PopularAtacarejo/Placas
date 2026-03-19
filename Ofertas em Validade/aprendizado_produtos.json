@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-19T15:21:23",
+  "atualizado_em": "2026-03-19T17:52:28",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -949,6 +949,51 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-03-19T15:21:23"
+    },
+    "cacau em po apti 100 | massa:200g": {
+      "descricao": "Cacau Em Pó Apti 100% 200g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cacau em po apti 100 200g",
+        "cacau em po apti 100 | massa:200g"
+      ],
+      "descricao_base": "cacau em po apti 100",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-19T17:52:28"
+    },
+    "pastilha minty menta sem acucar | massa:21g": {
+      "descricao": "Pastilha Minty Menta Sem Açúcar 21g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "pastilha minty menta sem acucar 21g",
+        "pastilha minty menta sem acucar | massa:21g"
+      ],
+      "descricao_base": "pastilha minty menta sem acucar",
+      "medidas": [
+        "massa:21g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-19T17:52:28"
+    },
+    "choc barra talento amendoas e passas | massa:85g": {
+      "descricao": "Choc Barra Talento Amêndoas e Passas 85g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc barra talento amendoas e passas 85g",
+        "choc barra talento amendoas e passas | massa:85g"
+      ],
+      "descricao_base": "choc barra talento amendoas e passas",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-19T17:52:28"
     }
   }
 }
