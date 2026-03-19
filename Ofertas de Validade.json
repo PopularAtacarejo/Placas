@@ -652,5 +652,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/03/2026",
+    "hora": "17:54:01",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Molho Popular Madeira 300g",
+        "preco": "0,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cacau Em Pó Apti 100% 200g",
+        "preco": "24,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc Charge Nestle 40g",
+        "preco": "2,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Amendoim Dori Pettiz Croc Natural 70g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
