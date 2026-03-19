@@ -464,5 +464,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/03/2026",
+    "hora": "08:02:05",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Café 3 Corações Gourmet Dark Roast 250g",
+        "preco": "19,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Café Santa Clara Gourmet Serra Canastra 250g",
+        "preco": "19,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mort Frango Perdigão Kg",
+        "preco": "15,98",
+        "unidade": "Kg"
+      },
+      {
+        "posicao": "4",
+        "descricao": "Waflle Forno De Minas Light/Integral 280g",
+        "preco": "18,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
