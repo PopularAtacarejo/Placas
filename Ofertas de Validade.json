@@ -612,5 +612,25 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/03/2026",
+    "hora": "15:48:36",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Molho Popular Madeira 300g",
+        "preco": "0,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Classic Nestle Prestigio 80g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
