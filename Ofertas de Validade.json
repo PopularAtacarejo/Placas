@@ -528,5 +528,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/03/2026",
+    "hora": "14:19:35",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Kinder Joy Batwheels 20g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Kinder Joy C/2 Meniina 20g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sh. Inf. Johnsons Baby Blackinho Pod 200ml",
+        "preco": "16,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Sab. Liq. 123 Baby 200ml Div. Fragrâncias",
+        "preco": "6,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
