@@ -716,5 +716,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/03/2026",
+    "hora": "17:57:23",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Barra Talento Amêndoas e Passas 85g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Snickers Pe De Moleque 42g",
+        "preco": "3,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bombom Raffaello 30g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Amend Crocante Pimenta Ver Dori 70g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
