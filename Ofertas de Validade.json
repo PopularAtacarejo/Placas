@@ -496,5 +496,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/03/2026",
+    "hora": "08:03:46",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Hamb Perdigão Frango 56g",
+        "preco": "1,58",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Hamb Brasa Carne Bov/Frag 56g",
+        "preco": "1,58",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Hamb Brasa Burg Picanha 56g",
+        "preco": "1,58",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Hamb Seara Bovino 672g",
+        "preco": "27,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
