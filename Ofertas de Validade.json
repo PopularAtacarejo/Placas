@@ -774,5 +774,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/03/2026",
+    "hora": "09:25:51",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Sab Liq Protex Erva Doce 250ml",
+        "preco": "19,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Serum Facial Negra Rosa Renovador 30ml",
+        "preco": "29,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Abs Intimus Gel Tripla S/Abas Suave C/8un",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Serum Facial Negra Rosa Uniformizador 30ml",
+        "preco": "29,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
