@@ -884,5 +884,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/03/2026",
+    "hora": "15:57:44",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Ação 21 a 22/03 Feijão Carioca Mui Nobre T 1 1kg",
+        "preco": "7,38",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Ação 21 a 22/03 Milho Pipoca Yoki 400g",
+        "preco": "3,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Ação 21 a 22/03 Leite De Coco Pindorama Trad. 200ml",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Ação 21 a 22/03 Leite Uht Piracanjuba Integral / Desnatado 1l",
+        "preco": "5,18",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
