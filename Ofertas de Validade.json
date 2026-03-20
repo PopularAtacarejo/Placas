@@ -1058,5 +1058,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/03/2026",
+    "hora": "16:14:10",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mist P/Bolo Apti 380g (Diversos Sabores)",
+        "preco": "4,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Arroz Urbano Parb 1kg",
+        "preco": "3,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cup Noodles (Diversos Sabores)",
+        "preco": "5,28",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Wafer Toddy 94g (Diversos Sabores)",
+        "preco": "2,68",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
