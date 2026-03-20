@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-19T17:52:28",
+  "atualizado_em": "2026-03-20T15:52:40",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -994,6 +994,36 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-03-19T17:52:28"
+    },
+    "acao 21 a feijao carioca mui nobre t 1 | massa:1000g": {
+      "descricao": "Ação 21 a 22/03 Feijão Carioca Mui Nobre T 1 1kg",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "acao 21 a 22 03 feijao carioca mui nobre t 1 1kg",
+        "acao 21 a feijao carioca mui nobre t 1 | massa:1000g"
+      ],
+      "descricao_base": "acao 21 a feijao carioca mui nobre t 1",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-20T15:52:40"
+    },
+    "acao 21 a leite em po camponesa instantaneo/integral | massa:400g": {
+      "descricao": "Ação 21 a 22/03 Leite Em Pó Camponesa Instantaneo / Integral 400g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "acao 21 a 22 03 leite em po camponesa instantaneo integral 400g",
+        "acao 21 a leite em po camponesa instantaneo/integral | massa:400g"
+      ],
+      "descricao_base": "acao 21 a leite em po camponesa instantaneo/integral",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-20T15:52:40"
     }
   }
 }
