@@ -1026,5 +1026,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/03/2026",
+    "hora": "16:11:46",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Ação 21 a 22/03 Leite Em Pó Camponesa Instantaneo / Integral 400g",
+        "preco": "13,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cr. Dental Colgate Natural CArv. Atv. 140g",
+        "preco": "16,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cr. Dental Colgate Natural CArv. Atv. 90g",
+        "preco": "12,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Abs. Intimus Gel. Tripla S/Abas Suave C/8Unid.",
+        "preco": "2,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
