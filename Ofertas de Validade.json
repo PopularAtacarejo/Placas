@@ -820,5 +820,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/03/2026",
+    "hora": "15:20:21",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cobertura Sorvete Fini Bananas 1kg",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Manteiga President S/Sal 200g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Beb Lactea Parmalat Wheyfit Coco 250ml",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Beb Lact Engenho Sh 900g Div. Sabores",
+        "preco": "2,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
