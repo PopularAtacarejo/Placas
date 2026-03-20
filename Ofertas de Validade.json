@@ -962,5 +962,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/03/2026",
+    "hora": "16:07:43",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Farinha De Trigo Rosa Branca C/F 1kg",
+        "preco": "4,28",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rosquinha Mabel 300g (Diversos Sabores)",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Petyan Coco 750g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Cream Crack Renata 360g",
+        "preco": "3,48",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
