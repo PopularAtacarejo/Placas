@@ -1090,5 +1090,31 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/03/2026",
+    "hora": "16:16:09",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Batata Pringles 109g (Diversos Sabores)",
+        "preco": "11,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cr. Dental Colg. Sensi Pro Alivio Imed 90g",
+        "preco": "17,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sab. Liq. Protex Limpeza Profunda250ml",
+        "preco": "19,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
