@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-20T16:06:15",
+  "atualizado_em": "2026-03-20T16:17:37",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1043,21 +1043,21 @@
       "atualizado_em": "2026-03-20T16:06:15"
     },
     "leite em po camponesa instantaneo/integral | massa:400g": {
-      "descricao": "Ação 21 a 22/03 Leite Em Pó Camponesa Instantaneo / Integral 400g",
+      "descricao": "Leite Em Pó Camponesa Instantaneo / Integral 400g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "acao 21 a 22 03 leite em po camponesa instantaneo integral 400g",
         "acao 21 a leite em po camponesa instantaneo/integral | massa:400g",
         "leite em po camponesa instantaneo integral 400g",
         "leite em po camponesa instantaneo/integral | massa:400g"
       ],
-      "descricao_base": "acao 21 a leite em po camponesa instantaneo/integral",
+      "descricao_base": "leite em po camponesa instantaneo/integral",
       "medidas": [
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-20T16:06:15"
+      "atualizado_em": "2026-03-20T16:17:37"
     }
   }
 }
