@@ -1180,5 +1180,19 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "23/03/2026",
+    "hora": "11:20:13",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mortadela Mista Sadia Kg",
+        "preco": "9,98",
+        "unidade": "Kg"
+      }
+    ]
   }
 ]
