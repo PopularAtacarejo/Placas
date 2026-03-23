@@ -1148,5 +1148,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "23/03/2026",
+    "hora": "10:15:58",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mort Frango Perdigão",
+        "preco": "10,98",
+        "unidade": "Kg"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mort Mista Perdigão",
+        "preco": "10,98",
+        "unidade": "Kg"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Danone Yopro Natural 160g",
+        "preco": "1,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Massa De Pastel Pasticrem T. Aniv 500",
+        "preco": "4,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
