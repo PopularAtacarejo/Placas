@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-20T16:17:37",
+  "atualizado_em": "2026-03-23T10:13:20",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1058,6 +1058,30 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-03-20T16:17:37"
+    },
+    "mort frango perdigao": {
+      "descricao": "Mort Frango Perdigão",
+      "unidade": "Kg",
+      "hits": 1,
+      "aliases": [
+        "mort frango perdigao"
+      ],
+      "descricao_base": "mort frango perdigao",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-23T10:13:20"
+    },
+    "mort mista perdigao": {
+      "descricao": "Mort Mista Perdigão",
+      "unidade": "Kg",
+      "hits": 1,
+      "aliases": [
+        "mort mista perdigao"
+      ],
+      "descricao_base": "mort mista perdigao",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-23T10:13:20"
     }
   }
 }
