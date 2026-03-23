@@ -1194,5 +1194,37 @@
         "unidade": "Kg"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "23/03/2026",
+    "hora": "14:36:43",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Salg Popcroc Met Churrasco 70g",
+        "preco": "0,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Barra Rech Nestle Prestigio 80g",
+        "preco": "1,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salg Popcroc Met Churrasco 70g",
+        "preco": "0,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc Barra Rech Nestle Prestigio 80g",
+        "preco": "1,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
