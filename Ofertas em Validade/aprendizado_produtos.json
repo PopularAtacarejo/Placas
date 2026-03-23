@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-23T10:13:20",
+  "atualizado_em": "2026-03-23T17:12:48",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1082,6 +1082,21 @@
       "medidas": [],
       "confidence": 1.0,
       "atualizado_em": "2026-03-23T10:13:20"
+    },
+    "choc neugebauer 1891 cafe | massa:90g": {
+      "descricao": "Choc. Neugebauer 1891 Café 90g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc neugebauer 1891 cafe 90g",
+        "choc neugebauer 1891 cafe | massa:90g"
+      ],
+      "descricao_base": "choc neugebauer 1891 cafe",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-23T17:12:48"
     }
   }
 }
