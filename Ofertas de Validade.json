@@ -1226,5 +1226,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "23/03/2026",
+    "hora": "17:14:53",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc. Neugebauer 1891 Café 90g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra Choc. Neugebawer Bco 80g",
+        "preco": "3,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra Choc. Neugebawer Caramelo 80g",
+        "preco": "3,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cocada Recheada Do Vovo 350g",
+        "preco": "8,18",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
