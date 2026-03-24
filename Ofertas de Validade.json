@@ -2090,5 +2090,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:49:03",
+    "placa": 27,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Wafer Pajucara Limão 78g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Pajucara Wafer Choc Meio Amargo 78g",
+        "preco": "1,38",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Pajucara Wafer Trufa 78g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Pajucara Wafer Choc Branco 78g",
+        "preco": "1,48",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
