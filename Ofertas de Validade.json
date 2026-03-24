@@ -1578,5 +1578,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:14:37",
+    "placa": 11,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cappuccino Melitta Chocolate 200g",
+        "preco": "12,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Café Cap Santa Clara Chapada Diamantina 56g",
+        "preco": "18,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Café Pilao Trad Abre e Fecha Refil 250g",
+        "preco": "14,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Vinagre Marata De Alho 500ml",
+        "preco": "1,78",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
