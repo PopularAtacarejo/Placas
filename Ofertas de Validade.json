@@ -2250,5 +2250,25 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:58:52",
+    "placa": 32,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rech Bono Morango 90g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Wafer Prestigio 110g",
+        "preco": "3,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
