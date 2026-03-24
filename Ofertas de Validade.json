@@ -1738,5 +1738,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:24:45",
+    "placa": 16,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mac Miojo Nissin Ufo Yakissoba Legumes 97g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mac Parafuso Semola d Benta 500g",
+        "preco": "5,28",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mostarda Tambau C/ Mel Premium 185g",
+        "preco": "10,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Molho Barbecue 330g Hemmer",
+        "preco": "9,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
