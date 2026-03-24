@@ -1674,5 +1674,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:20:23",
+    "placa": 14,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Caldo Maggi Costela 57g",
+        "preco": "2,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Caldo Marata Galinha 57g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Temp Knorr Carne Pó 50g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Temp Marata Frango 60g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
