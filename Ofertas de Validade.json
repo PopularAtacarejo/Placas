@@ -1930,5 +1930,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:38:19",
+    "placa": 22,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Skin Maria Leite 300g",
+        "preco": "4,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Maizena Vitarella Chocolate 350g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Vitamassa Maria Trad 400g",
+        "preco": "4,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Rosq Vitamassa Chocolate 280g",
+        "preco": "4,48",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
