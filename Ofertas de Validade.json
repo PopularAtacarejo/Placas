@@ -2058,5 +2058,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:46:54",
+    "placa": 26,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Pajucara Wafer Abacaxi 78g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Wafer Pajucara Chocolate 78g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Pajucara Wafer Morango 78g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Pajucara Wafer Brigadeiro 78g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
