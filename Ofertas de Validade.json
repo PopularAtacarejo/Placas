@@ -1834,5 +1834,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:31:44",
+    "placa": 19,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mac Miojo Nissin Ufo Yakissoba Legumes 97g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Ervilha Quero Sc 170g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Maria Vitarella Chocolate 350g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
