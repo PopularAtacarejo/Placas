@@ -1258,5 +1258,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "11:51:26",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Lacta Intense Nut40% Avel Croc Cacau 85g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc.Arcor Bon o Bon Morango 750g",
+        "preco": "39,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pipoca Marata Pronta Tradicional 25g",
+        "preco": "0,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Salg Popcroc 70g Cebola",
+        "preco": "0,78",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
