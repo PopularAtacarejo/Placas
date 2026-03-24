@@ -1706,5 +1706,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:22:29",
+    "placa": 15,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Sopao Kitano Carne Sh 196g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Sopao Kitano Galinha Sh 196g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sopao Maggi Carne C/Leg Menos Sódio 150g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cup Noodles Yakissoba Nissin 70g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
