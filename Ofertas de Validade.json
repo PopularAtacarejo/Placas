@@ -2154,5 +2154,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:53:18",
+    "placa": 29,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rech. Skin Choc. 60g - Un",
+        "preco": "0,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Wafer Toddy Chocolate 94g",
+        "preco": "2,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Toddy Wafer Trufado 94g",
+        "preco": "2,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bolinho Rech.Cenoura/Choc Turma M. Cs40g",
+        "preco": "1,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
