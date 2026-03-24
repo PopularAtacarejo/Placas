@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-23T17:12:48",
+  "atualizado_em": "2026-03-24T11:48:51",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1097,6 +1097,194 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-03-23T17:12:48"
+    },
+    "choc barra hersheya s 60 cacau cafe amarg | massa:85g": {
+      "descricao": "Choc Barra Hersheyâ´s 60% Cacau Café Amarg 85g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc barra hersheya s 60 cacau cafe amarg 85g",
+        "choc barra hersheya s 60 cacau cafe amarg | massa:85g"
+      ],
+      "descricao_base": "choc barra hersheya s 60 cacau cafe amarg",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-24T11:48:51"
+    },
+    "po p/preparo nesquik morango lt | massa:380g": {
+      "descricao": "Pó P/Preparo Nesquik Morango Lt 380g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "po p preparo nesquik morango lt 380g",
+        "po p/preparo nesquik morango lt | massa:380g"
+      ],
+      "descricao_base": "po p/preparo nesquik morango lt",
+      "medidas": [
+        "massa:380g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-24T11:48:51"
+    },
+    "cafe cap santa clara chapada diamantina | massa:56g": {
+      "descricao": "Café Cap Santa Clara Chapada Diamantina 56g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cafe cap santa clara chapada diamantina 56g",
+        "cafe cap santa clara chapada diamantina | massa:56g"
+      ],
+      "descricao_base": "cafe cap santa clara chapada diamantina",
+      "medidas": [
+        "massa:56g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-24T11:48:51"
+    },
+    "cafe pilao trad abre e fecha refil | massa:250g": {
+      "descricao": "Café Pilao Trad Abre e Fecha Refil 250g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cafe pilao trad abre e fecha refil 250g",
+        "cafe pilao trad abre e fecha refil | massa:250g"
+      ],
+      "descricao_base": "cafe pilao trad abre e fecha refil",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-24T11:48:51"
+    },
+    "temp knorr carne po | massa:50g": {
+      "descricao": "Temp Knorr Carne Pó 50g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "temp knorr carne po 50g",
+        "temp knorr carne po | massa:50g"
+      ],
+      "descricao_base": "temp knorr carne po",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-24T11:48:51"
+    },
+    "sopao maggi carne c/leg menos sodio | massa:150g": {
+      "descricao": "Sopao Maggi Carne C/Leg Menos Sódio 150g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "sopao maggi carne c leg menos sodio 150g",
+        "sopao maggi carne c/leg menos sodio | massa:150g"
+      ],
+      "descricao_base": "sopao maggi carne c/leg menos sodio",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-24T11:48:51"
+    },
+    "bisc cr cracker vitarella tostadinh | massa:350g": {
+      "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc cr cracker vitarella tostadinh 350g",
+        "bisc cr cracker vitarella tostadinh | massa:350g",
+        "bisc cr cracker vitarella tostadinha 350g",
+        "bisc cr cracker vitarella tostadinha | massa:350g"
+      ],
+      "descricao_base": "bisc cr cracker vitarella tostadinha",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-24T11:48:51"
+    },
+    "bisc cr cracker vitarella trad | massa:350g": {
+      "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc cr cracker vitarella tostadinha 350g",
+        "bisc cr cracker vitarella tostadinha | massa:350g",
+        "bisc cr cracker vitarella trad 350g",
+        "bisc cr cracker vitarella trad | massa:350g"
+      ],
+      "descricao_base": "bisc cr cracker vitarella tostadinha",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-24T11:48:51"
+    },
+    "bisc cream cracker pilar trad | massa:350g": {
+      "descricao": "Bisc Marilan Cream Cracker Água Sal 300g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc cream cracker pilar trad 350gr",
+        "bisc cream cracker pilar trad | massa:350g",
+        "bisc marilan cream cracker agua sal 300g",
+        "bisc marilan cream cracker agua sal | massa:300g"
+      ],
+      "descricao_base": "bisc marilan cream cracker agua sal",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-24T11:48:51"
+    },
+    "bisc marilan cream cracker manteiga | massa:300g": {
+      "descricao": "Bisc Marilan Cream Cracker Água Sal 300g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan cream cracker agua sal 300g",
+        "bisc marilan cream cracker agua sal | massa:300g",
+        "bisc marilan cream cracker manteiga 300g",
+        "bisc marilan cream cracker manteiga | massa:300g"
+      ],
+      "descricao_base": "bisc marilan cream cracker agua sal",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-24T11:48:51"
+    },
+    "bisc agua e sal renata | massa:360g": {
+      "descricao": "Bisc Água E Sal Renata 360g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc agua e sal renata 360g",
+        "bisc agua e sal renata | massa:360g"
+      ],
+      "descricao_base": "bisc agua e sal renata",
+      "medidas": [
+        "massa:360g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-24T11:48:51"
+    },
+    "bisc wafer pajucara limao | massa:78g": {
+      "descricao": "Bisc Wafer Pajucara Limão 78g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc wafer pajucara limao 78g",
+        "bisc wafer pajucara limao | massa:78g"
+      ],
+      "descricao_base": "bisc wafer pajucara limao",
+      "medidas": [
+        "massa:78g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-24T11:48:51"
     }
   }
 }
