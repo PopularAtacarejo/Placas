@@ -1866,5 +1866,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:34:01",
+    "placa": 20,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Marilan Cream Cracker Água Sal 300g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Marilan Cream Cracker Água Sal 300g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Cream Crack Renata Int 360g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
