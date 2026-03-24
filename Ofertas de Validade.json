@@ -1770,5 +1770,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:27:17",
+    "placa": 17,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Molho Heinz Barbecue 397g",
+        "preco": "22,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Maionese Hellmanns Alho Sqz 335g",
+        "preco": "14,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Maionese Hellmanns Verde 335g",
+        "preco": "14,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Molho Sugo Bolognese Pasta Reggia 350g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
