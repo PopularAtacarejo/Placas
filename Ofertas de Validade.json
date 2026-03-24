@@ -1642,5 +1642,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:18:42",
+    "placa": 13,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Sal Black Steak Gonzalo 300gr",
+        "preco": "19,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Sazon Ret Caldo Galinha 11gr",
+        "preco": "0,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sazon Ret Caldo Carne 11gr",
+        "preco": "0,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Caldo Knorr Espec.Puro Caldo De Br 57g",
+        "preco": "2,48",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
