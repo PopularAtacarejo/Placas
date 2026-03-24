@@ -1898,5 +1898,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:36:07",
+    "placa": 21,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Água E Sal Renata 360g",
+        "preco": "3,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Club Social Queijo 141g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Club Social Presunto 141g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Maria Vitarella Baun 350g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
