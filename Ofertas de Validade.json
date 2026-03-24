@@ -1418,5 +1418,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:03:28",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Salg Maratitos Galeto 35g",
+        "preco": "1,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Barra Suflair Duo Areado 80g",
+        "preco": "8,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc Nestle Classic Ao Leite 80g",
+        "preco": "8,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc Lacta Bis Xtra Branco 45g",
+        "preco": "3,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
