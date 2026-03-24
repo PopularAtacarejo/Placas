@@ -1450,5 +1450,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:05:33",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Balas Fini Tubes Tutti Frutti 80g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Barra Hersheyâ´s 60% Cacau Café Amarg 85g",
+        "preco": "11,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc Barra Hershey Dark 80% 85g",
+        "preco": "13,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Canjica Zaeli Amarela 500g",
+        "preco": "1,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
