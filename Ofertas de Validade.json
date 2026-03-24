@@ -1610,5 +1610,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:16:27",
+    "placa": 12,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Queijo Parm Ralado Faixa Azul Vigor 50g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Molho Knorr Alho 150ml",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Molho Aji No Shoyu 150ml",
+        "preco": "3,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Molho Ingles Tio Fernando 150ml",
+        "preco": "2,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
