@@ -2186,5 +2186,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:55:32",
+    "placa": 30,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Piraque Rech Malt. Black C/ Baun 85",
+        "preco": "2,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rech Piraque Morango 76g",
+        "preco": "2,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Wafer Premium Morango 80g",
+        "preco": "1,28",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Wafer Chokolot Morango Trufado 30g",
+        "preco": "0,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
