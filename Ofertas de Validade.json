@@ -1514,5 +1514,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:10:03",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Farinha De Milho Coringa 500g Papel",
+        "preco": "1,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pó P/Preparo Nesquik Morango Lt 380g",
+        "preco": "18,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cereal Sucrilhos Chocolate 690g Kelloggs",
+        "preco": "19,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Uht Molico Desn Zero Lactose 1l",
+        "preco": "5,48",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
