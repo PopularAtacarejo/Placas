@@ -1386,5 +1386,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:01:09",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Batata Yokitos Ondulada Natural 45g",
+        "preco": "3,18",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cheetos Bola 33g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salg Elma Chips Cebolitos 36g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc Barra Lacta Intense 70% Cacau 85g",
+        "preco": "15,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
