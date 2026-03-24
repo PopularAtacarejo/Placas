@@ -2122,5 +2122,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:51:09",
+    "placa": 28,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bolinho Renata Divertix Choc 40g",
+        "preco": "1,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bolinho Renata Choc 40g",
+        "preco": "1,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Rech. Skin Morango 60g - Un",
+        "preco": "0,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Rech Skinegro Baunilha 60g",
+        "preco": "0,68",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
