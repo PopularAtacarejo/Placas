@@ -2218,5 +2218,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:57:46",
+    "placa": 31,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Toboga Vitamassa Amant Leite 100g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rech. Vitamassa Choc Suico 130g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Trakinas Rech Branco e Preto 126g",
+        "preco": "1,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Rech Gul Choc Bauducco 108g",
+        "preco": "3,48",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
