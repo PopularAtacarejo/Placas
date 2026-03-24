@@ -1994,5 +1994,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:42:30",
+    "placa": 24,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Marilan Pit Stop Integral 137g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Treloso Amant Coco 110g",
+        "preco": "3,68",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Marilan Tort Chocolate 140g",
+        "preco": "3,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Amant Trad 280g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
