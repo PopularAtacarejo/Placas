@@ -1802,5 +1802,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:29:33",
+    "placa": 18,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Catchup Arisco Trad Pet 370g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Tomate Pelado Pomarola Em Cubos 400g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Catchup Zaeli Trad. 180g - Un",
+        "preco": "3,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Molho Tomate Pomarola Passata Sach 1,02k",
+        "preco": "13,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
