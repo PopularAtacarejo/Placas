@@ -2270,5 +2270,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "16:59:49",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Margarina Delicia Chef Alho e Cebola 250g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Margarina Delicia Chef Ervas Arom 250g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Marg Delicia Supreme 250g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Margarina Delicia Chef Ervas Arom 500g",
+        "preco": "10,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
