@@ -1962,5 +1962,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:40:22",
+    "placa": 23,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rosq Leite Parati 250g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Coco Petyan 200g",
+        "preco": "2,28",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Vitarella Coquinho 300g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Pit Stop Integral 274g",
+        "preco": "11,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
