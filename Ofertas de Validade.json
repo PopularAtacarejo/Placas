@@ -2026,5 +2026,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:44:42",
+    "placa": 25,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Marilan Teens Snack Rech Bauny 37g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Marilan Teens Snack Rech Avela 37g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Marilan Teens Snack Rech Pacoc 37g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Teens Choc Bra 30g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
