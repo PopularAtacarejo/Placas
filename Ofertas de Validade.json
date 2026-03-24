@@ -1322,5 +1322,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "11:56:35",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Barra Suflair Ao Leite Areado 80g",
+        "preco": "8,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Bis Sortidos Lacta 119,7g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Yokitos Conch Presunto 153g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Amendoim Japones Dori 70g",
+        "preco": "2,68",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
