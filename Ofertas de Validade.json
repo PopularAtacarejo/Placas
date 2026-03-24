@@ -1482,5 +1482,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/03/2026",
+    "hora": "12:07:42",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pipoca Micro-ondas Yoki Manteiga100g",
+        "preco": "3,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pipoca Micro-ondas Yoki Manteiga Cinema 100g",
+        "preco": "3,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Arroz Olim Risoto Branco T.Perola 500g",
+        "preco": "4,28",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Goma Tapioca Predileto 1kg",
+        "preco": "5,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
