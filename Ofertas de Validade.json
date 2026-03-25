@@ -2694,5 +2694,31 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "12:04:32",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Suco Mitto Banana 1lt",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Suco De Laranja Integral Oq 1l",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Beb Isotonico Tnt Limão 500ml",
+        "preco": "4,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
