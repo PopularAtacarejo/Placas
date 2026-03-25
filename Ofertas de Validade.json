@@ -2598,5 +2598,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "12:00:31",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cerv Blue Moon Lt 350ml",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Schweppes Mixed Spritz Lt 269ml",
+        "preco": "5,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cerv Devassa Lt 350ml",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cerv Brahma Duplo Malte Lt 350ml",
+        "preco": "3,58",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
