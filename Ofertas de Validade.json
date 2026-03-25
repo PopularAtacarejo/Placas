@@ -2398,5 +2398,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "07:55:59",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mist Panq Americana Urbano Zero Gluten 300g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Cr Cracker Vitarella Integral 367.5g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc C.Cracker Pilar Integral 367.5g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Pit Stop Integral 137g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
