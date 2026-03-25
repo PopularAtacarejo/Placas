@@ -2366,5 +2366,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "07:54:16",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Granola Passas e Mel Vovo Maze 250g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Granola Mae Terra Azul 250g",
+        "preco": "12,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Granola Biosoft Trad Int 230g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Beb Lact Whey Pirac Zl Morango 250ml",
+        "preco": "6,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
