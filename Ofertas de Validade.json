@@ -2816,5 +2816,25 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "17:44:06",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Refri Guarana Kuat Lt 350ml",
+        "preco": "1,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Goma Tapioca Predileto 1kg",
+        "preco": "2,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
