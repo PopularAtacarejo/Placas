@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-25T11:58:46",
+  "atualizado_em": "2026-03-25T17:40:37",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1456,6 +1456,21 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-03-25T11:58:46"
+    },
+    "lavitan creatina po fr | massa:150g": {
+      "descricao": "Lavitan Creatina Pó Fr C/ 150g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "lavitan creatina po fr c 150g",
+        "lavitan creatina po fr | massa:150g"
+      ],
+      "descricao_base": "lavitan creatina po fr",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-25T17:40:37"
     }
   }
 }
