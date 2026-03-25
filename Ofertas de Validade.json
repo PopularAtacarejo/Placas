@@ -2662,5 +2662,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "12:03:49",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Refresco Pó Tang Manga 18g",
+        "preco": "0,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Refresco Frisco Limão 18g",
+        "preco": "0,88",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Refresco Mid Guarana 20g",
+        "preco": "0,88",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Beb Mista Maratinho Abacaxi 200ml",
+        "preco": "1,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
