@@ -2720,5 +2720,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "15:11:19",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Desod Aer Giovanna Baby Blanc Vanilla 150ml",
+        "preco": "10,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Desod Aer Giovanna Baby Lilac 150ml",
+        "preco": "10,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Des Aer Giovanna Baby Lovely 150ml",
+        "preco": "10,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Tomate Pelado Pomarola Inteiro 400g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
