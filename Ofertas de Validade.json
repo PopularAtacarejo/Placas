@@ -2462,5 +2462,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "07:59:11",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Nesfit Maçã e Canela 140g",
+        "preco": "3,58",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Nesfit Banana/Aveia/Canela 160g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Nesfit Cacau E Cereais 160g",
+        "preco": "3,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Nesfit Morango E Cereais 160g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
