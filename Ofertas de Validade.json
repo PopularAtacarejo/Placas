@@ -2540,5 +2540,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "11:08:49",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Danone Kids Mor Bdj 510g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Danone Corp Break Vita/Fruta F.Tri.Zero 800g",
+        "preco": "15,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Batavo Pedacos 100g Morango",
+        "preco": "3,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Batavo Natural Cen/Lar 170g",
+        "preco": "4,48",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
