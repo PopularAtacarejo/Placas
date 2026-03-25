@@ -2334,5 +2334,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "07:52:27",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Supl.Glutmine Integral Medica 150g",
+        "preco": "39,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Whey Piracanjuba Banoffee Zl 23g 250ml",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Castanha De Caju Iracema 30g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Granola Tia Sonia Light 200g",
+        "preco": "16,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
