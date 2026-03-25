@@ -2302,5 +2302,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "07:50:40",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Barra Pinati Cups Amendoim 42g",
+        "preco": "14,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Barra Bold Trufa De Chocolate 60g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra Bold Crunch Caramelo e Chocolate 50g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Pasta Amend Dr Peanut Cookies & Cream 250g",
+        "preco": "17,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
