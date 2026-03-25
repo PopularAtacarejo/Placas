@@ -2508,5 +2508,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "11:06:37",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Marilan Int Lev Gran e Mel150g",
+        "preco": "3,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Verde Campo Whey 21 Morango 250g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Verde Campo Whey 11 Ban/Can 140g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Nestle Natural Mel/Lar/Cenoura 170g",
+        "preco": "4,48",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
