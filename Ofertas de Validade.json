@@ -2430,5 +2430,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "07:57:32",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Torrada De Arroz Org 75g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Torrada Bauducco Multigraos 142g",
+        "preco": "8,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Renata Integrale Banana/Aveia/Mel 150g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Nesfit Cacau e Avela 140g",
+        "preco": "3,58",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
