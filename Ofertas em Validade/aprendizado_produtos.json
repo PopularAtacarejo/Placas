@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-25T07:48:21",
+  "atualizado_em": "2026-03-25T11:04:02",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1334,6 +1334,21 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-03-25T07:48:21"
+    },
+    "terere menta e limao leao | massa:500g": {
+      "descricao": "Terere Menta e Limão Leao 500g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "terere menta e limao leao 500g",
+        "terere menta e limao leao | massa:500g"
+      ],
+      "descricao_base": "terere menta e limao leao",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-25T11:04:02"
     }
   }
 }
