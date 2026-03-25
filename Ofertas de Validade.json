@@ -2630,5 +2630,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "12:02:07",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cerv Itaipava 0,0 Álcool 330ml",
+        "preco": "4,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Ref Frisco Graviola 18g",
+        "preco": "0,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Refresco Pó Tang Limão 18g",
+        "preco": "0,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Refresco Pó Tang Abacaxi 18g",
+        "preco": "0,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
