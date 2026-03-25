@@ -2752,5 +2752,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "16:15:03",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Azeite Oliva Ext Virgem Coimbra 500ml",
+        "preco": "38,58",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Azeite Oliva Coimbra t Unico 500ml",
+        "preco": "33,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Azeite Oliva Ext Virgem Coimbra 250ml",
+        "preco": "19,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Azeite Oliva Coimbra t Unico 250ml",
+        "preco": "19,48",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
