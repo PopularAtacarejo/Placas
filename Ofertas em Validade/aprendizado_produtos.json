@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-25T11:04:02",
+  "atualizado_em": "2026-03-25T11:58:46",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1349,6 +1349,113 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-03-25T11:04:02"
+    },
+    "cerv itaipava 0 0 alcool | volume:330ml": {
+      "descricao": "Cerv Itaipava 0,0 Álcool 330ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cerv itaipava 0 0 alcool 330ml",
+        "cerv itaipava 0 0 alcool | volume:330ml"
+      ],
+      "descricao_base": "cerv itaipava 0 0 alcool",
+      "medidas": [
+        "volume:330ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-25T11:58:46"
+    },
+    "refresco po tang limao | massa:18g": {
+      "descricao": "Refresco Pó Tang Limão 18g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refresco po tang limao 18g",
+        "refresco po tang limao | massa:18g"
+      ],
+      "descricao_base": "refresco po tang limao",
+      "medidas": [
+        "massa:18g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-25T11:58:46"
+    },
+    "refresco po tang abacaxi | massa:18g": {
+      "descricao": "Refresco Pó Tang Abacaxi 18g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refresco po tang abacaxi 18g",
+        "refresco po tang abacaxi | massa:18g"
+      ],
+      "descricao_base": "refresco po tang abacaxi",
+      "medidas": [
+        "massa:18g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-25T11:58:46"
+    },
+    "refresco po tang manga | massa:18g": {
+      "descricao": "Refresco Pó Tang Manga 18g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refresco po tang manga 18g",
+        "refresco po tang manga | massa:18g"
+      ],
+      "descricao_base": "refresco po tang manga",
+      "medidas": [
+        "massa:18g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-25T11:58:46"
+    },
+    "refresco frisco limao | massa:18g": {
+      "descricao": "Refresco Frisco Limão 18g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refresco frisco limao 18g",
+        "refresco frisco limao | massa:18g"
+      ],
+      "descricao_base": "refresco frisco limao",
+      "medidas": [
+        "massa:18g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-25T11:58:46"
+    },
+    "beb mista maratinho maracuja | volume:200ml": {
+      "descricao": "Beb Mista Maratinho Abacaxi 200ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "beb mista maratinho abacaxi 200ml",
+        "beb mista maratinho abacaxi | volume:200ml",
+        "beb mista maratinho maracuja 200ml",
+        "beb mista maratinho maracuja | volume:200ml"
+      ],
+      "descricao_base": "beb mista maratinho abacaxi",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-25T11:58:46"
+    },
+    "beb isotonico tnt limao | volume:500ml": {
+      "descricao": "Beb Isotonico Tnt Limão 500ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "beb isotonico tnt limao 500ml",
+        "beb isotonico tnt limao | volume:500ml"
+      ],
+      "descricao_base": "beb isotonico tnt limao",
+      "medidas": [
+        "volume:500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-03-25T11:58:46"
     }
   }
 }
