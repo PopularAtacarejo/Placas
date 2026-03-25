@@ -2784,5 +2784,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/03/2026",
+    "hora": "17:43:01",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Barra Pinati Simple Whey 35g diversos",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra Pinati Crunch Whey 40g diversos",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Lavitan Creatina Pó Fr C/ 150g",
+        "preco": "69,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Barra Probiotica Wheybar 38g diversos",
+        "preco": "5,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
