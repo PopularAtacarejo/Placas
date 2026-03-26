@@ -2836,5 +2836,31 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "26/03/2026",
+    "hora": "15:02:36",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Verde Campo Whey 21 Morango 250g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Danone Corp Break Vita/Fruta F.Tri.Zero 800g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Batavo Pedacos 100g Morango",
+        "preco": "1,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
