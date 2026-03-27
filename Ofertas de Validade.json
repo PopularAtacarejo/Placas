@@ -2888,5 +2888,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/03/2026",
+    "hora": "14:42:52",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Suco Mitto Goiaba 1lt",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Mista Maratinho Abacaxi 200ml",
+        "preco": "0,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Beb Mista Maratinho Abacaxi 200ml",
+        "preco": "0,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Suco Pindorama Frutas Citricas 220ml",
+        "preco": "0,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
