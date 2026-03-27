@@ -2862,5 +2862,31 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/03/2026",
+    "hora": "14:33:50",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pé de moleque tradicional popular 1kg",
+        "preco": "8,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Lact Engenho Sh 900g Diversos Sabores",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra De Protein Doctor Doce De Leit 62g",
+        "preco": "3,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
