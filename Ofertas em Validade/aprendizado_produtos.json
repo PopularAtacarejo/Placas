@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-25T17:40:37",
+  "atualizado_em": "2026-03-27T14:40:18",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1428,7 +1428,7 @@
     "beb mista maratinho maracuja | volume:200ml": {
       "descricao": "Beb Mista Maratinho Abacaxi 200ml",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb mista maratinho abacaxi 200ml",
         "beb mista maratinho abacaxi | volume:200ml",
@@ -1440,7 +1440,7 @@
         "volume:200ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-25T11:58:46"
+      "atualizado_em": "2026-03-27T14:40:18"
     },
     "beb isotonico tnt limao | volume:500ml": {
       "descricao": "Beb Isotonico Tnt Limão 500ml",
