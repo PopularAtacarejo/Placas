@@ -3176,5 +3176,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/03/2026",
+    "hora": "12:22:12",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Café Cap Santa Clara Chapada Diamantina 56g",
+        "preco": "18,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Café Pilao Trad Abre e Fecha Refil 250g",
+        "preco": "14,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc Lacta Intense Nut40% Avel Croc Cacau 85g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc.Arcor Bon o Bon Morango 750g",
+        "preco": "39,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
