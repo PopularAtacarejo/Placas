@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-27T14:40:18",
+  "atualizado_em": "2026-03-30T12:04:46",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1101,7 +1101,7 @@
     "choc barra hersheya s 60 cacau cafe amarg | massa:85g": {
       "descricao": "Choc Barra Hersheyâ´s 60% Cacau Café Amarg 85g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "choc barra hersheya s 60 cacau cafe amarg 85g",
         "choc barra hersheya s 60 cacau cafe amarg | massa:85g"
@@ -1111,12 +1111,12 @@
         "massa:85g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-24T11:48:51"
+      "atualizado_em": "2026-03-30T12:04:46"
     },
     "po p/preparo nesquik morango lt | massa:380g": {
       "descricao": "Pó P/Preparo Nesquik Morango Lt 380g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "po p preparo nesquik morango lt 380g",
         "po p/preparo nesquik morango lt | massa:380g"
@@ -1126,12 +1126,12 @@
         "massa:380g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-24T11:48:51"
+      "atualizado_em": "2026-03-30T12:04:46"
     },
     "cafe cap santa clara chapada diamantina | massa:56g": {
       "descricao": "Café Cap Santa Clara Chapada Diamantina 56g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cafe cap santa clara chapada diamantina 56g",
         "cafe cap santa clara chapada diamantina | massa:56g"
@@ -1141,12 +1141,12 @@
         "massa:56g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-24T11:48:51"
+      "atualizado_em": "2026-03-30T12:04:46"
     },
     "cafe pilao trad abre e fecha refil | massa:250g": {
       "descricao": "Café Pilao Trad Abre e Fecha Refil 250g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cafe pilao trad abre e fecha refil 250g",
         "cafe pilao trad abre e fecha refil | massa:250g"
@@ -1156,12 +1156,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-24T11:48:51"
+      "atualizado_em": "2026-03-30T12:04:46"
     },
     "temp knorr carne po | massa:50g": {
       "descricao": "Temp Knorr Carne Pó 50g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "temp knorr carne po 50g",
         "temp knorr carne po | massa:50g"
@@ -1171,12 +1171,12 @@
         "massa:50g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-24T11:48:51"
+      "atualizado_em": "2026-03-30T12:04:46"
     },
     "sopao maggi carne c/leg menos sodio | massa:150g": {
       "descricao": "Sopao Maggi Carne C/Leg Menos Sódio 150g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "sopao maggi carne c leg menos sodio 150g",
         "sopao maggi carne c/leg menos sodio | massa:150g"
@@ -1186,7 +1186,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-24T11:48:51"
+      "atualizado_em": "2026-03-30T12:04:46"
     },
     "bisc cr cracker vitarella tostadinh | massa:350g": {
       "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350g",
