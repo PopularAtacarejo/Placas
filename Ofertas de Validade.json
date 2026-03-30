@@ -3144,5 +3144,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/03/2026",
+    "hora": "12:19:56",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Uht Ninho Semi Zr Lact Levinho 1l",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Leite Ninho Uht Tp Zl Integral 1l",
+        "preco": "5,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Confeito Dr.Oetker Granulado Macio 70g",
+        "preco": "3,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cappuccino Melitta Chocolate 200g",
+        "preco": "12,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
