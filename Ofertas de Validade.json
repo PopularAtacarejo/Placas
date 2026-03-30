@@ -3016,5 +3016,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/03/2026",
+    "hora": "12:11:40",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Temp Marata Frango 60g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Sopao Kitano Carne Sh 196g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sopao Kitano Galinha Sh 196g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Sopao Maggi Carne C/Leg Menos Sódio 150g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
