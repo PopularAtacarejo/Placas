@@ -3272,5 +3272,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/03/2026",
+    "hora": "12:27:54",
+    "placa": 12,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Yokitos Conch Presunto 153g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Amendoim Japones Dori 70g",
+        "preco": "2,68",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bala Canudinho Puxa Estica 12g",
+        "preco": "1,38",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Batata Frita Yokitos Lisa 45g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
