@@ -3240,5 +3240,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/03/2026",
+    "hora": "12:26:09",
+    "placa": 11,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Gelatines Docile Amoras 1kg",
+        "preco": "35,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Barra Arcor Rocklets 80g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc Barra Suflair Ao Leite Areado 80g",
+        "preco": "8,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc Bis Sortidos Lacta 119,7g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
