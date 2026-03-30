@@ -3400,5 +3400,25 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/03/2026",
+    "hora": "14:19:26",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Maionese Dajuda Bag 3kg",
+        "preco": "19,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Lact Betania Bat Gut Sh Ameixa 900g",
+        "preco": "1,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
