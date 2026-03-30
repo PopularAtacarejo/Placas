@@ -2984,5 +2984,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/03/2026",
+    "hora": "12:09:56",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Caldo Knorr Espec.Puro Caldo De Br 57g",
+        "preco": "2,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Caldo Maggi Costela 57g",
+        "preco": "2,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Caldo Marata Galinha 57g",
+        "preco": "1,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Temp Knorr Carne Pó 50g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
