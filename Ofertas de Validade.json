@@ -3112,5 +3112,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/03/2026",
+    "hora": "12:17:56",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pó P/Preparo Nesquik Morango Lt 380g",
+        "preco": "18,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cereal Sucrilhos Chocolate 690g Kelloggs",
+        "preco": "19,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Uht Molico Desn Zero Lactose 1l",
+        "preco": "5,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Desnat Molico +prot Zero Lactose 1l",
+        "preco": "6,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
