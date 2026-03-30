@@ -2920,5 +2920,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/03/2026",
+    "hora": "12:06:27",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Vinagre Marata De Alho 500ml",
+        "preco": "1,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Queijo Parm Ralado Faixa Azul Vigor 50g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Molho Knorr Alho 150ml",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Molho Aji No Shoyu 150ml",
+        "preco": "3,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
