@@ -3080,5 +3080,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/03/2026",
+    "hora": "12:15:48",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Molho Barbecue 330g Hemmer",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Molho Heinz Barbecue 397g",
+        "preco": "22,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Maionese Hellmanns Alho Sqz 335g",
+        "preco": "14,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Maionese Hellmanns Verde 335g",
+        "preco": "14,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
