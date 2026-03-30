@@ -3336,5 +3336,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/03/2026",
+    "hora": "12:31:25",
+    "placa": 14,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Salg Elma Chips Cebolitos 36g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Barra Lacta Intense 70% Cacau 85g",
+        "preco": "15,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salg Maratitos Galeto 35g",
+        "preco": "1,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc Barra Suflair Duo Areado 80g",
+        "preco": "8,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
