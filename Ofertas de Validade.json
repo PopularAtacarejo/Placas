@@ -3208,5 +3208,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/03/2026",
+    "hora": "12:24:10",
+    "placa": 10,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pipoca Marata Pronta Tradicional 25g",
+        "preco": "0,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Salg Popcroc 70g Cebola",
+        "preco": "0,78",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salg Elma Chips Fandangos Churrasco 35g",
+        "preco": "2,28",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc Barra Lacta Intense 60% Cacau 85g",
+        "preco": "15,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
