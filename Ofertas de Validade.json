@@ -3552,5 +3552,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/03/2026",
+    "hora": "16:23:09",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Molho Ingles Tio Fernando 150ml",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/04/2026",
+        "codigo_barras": "7898994752257",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Sal Black Steak Gonzalo 300gr",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/04/2026",
+        "codigo_barras": "7898706060137",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sazon Ret Caldo Galinha 11gr",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/04/2026",
+        "codigo_barras": "7891132165926",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Sazon Ret Caldo Carne 11gr",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/04/2026",
+        "codigo_barras": "7891132165964",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
