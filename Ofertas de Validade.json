@@ -3420,5 +3420,49 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/03/2026",
+    "hora": "09:32:20",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Vinagre Marata De Alho 500ml",
+        "preco": "1,78",
+        "unidade": "Unid.",
+        "validade_oferta": "19/04/2026",
+        "codigo_barras": "7898286191061",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Queijo Parm Ralado Faixa Azul Vigor 50g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/04/2026",
+        "codigo_barras": "7891999960054",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Molho Knorr Alho 150ml",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/04/2026",
+        "codigo_barras": "7891150089426",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Molho Aji No Shoyu 150ml",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/04/2026",
+        "codigo_barras": "7896007811021",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
