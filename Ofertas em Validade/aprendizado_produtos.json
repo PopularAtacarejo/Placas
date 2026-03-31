@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-31T10:38:27",
+  "atualizado_em": "2026-03-31T14:54:59",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1161,7 +1161,7 @@
     "temp knorr carne po | massa:50g": {
       "descricao": "Temp Knorr Carne Pó 50g",
       "unidade": "Unid.",
-      "hits": 9,
+      "hits": 10,
       "aliases": [
         "temp knorr carne po 50g",
         "temp knorr carne po | massa:50g"
@@ -1171,12 +1171,12 @@
         "massa:50g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-31T10:38:27"
+      "atualizado_em": "2026-03-31T14:54:59"
     },
     "sopao maggi carne c/leg menos sodio | massa:150g": {
       "descricao": "Sopao Maggi Carne C/Leg Menos Sódio 150g",
       "unidade": "Unid.",
-      "hits": 9,
+      "hits": 10,
       "aliases": [
         "sopao maggi carne c leg menos sodio 150g",
         "sopao maggi carne c/leg menos sodio | massa:150g"
@@ -1186,7 +1186,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-31T10:38:27"
+      "atualizado_em": "2026-03-31T14:54:59"
     },
     "bisc cr cracker vitarella tostadinh | massa:350g": {
       "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350g",
