@@ -3644,5 +3644,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "01/04/2026",
+    "hora": "14:25:27",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Manteiga Itacolomy C/Sal 200g",
+        "preco": "11,48",
+        "unidade": "Unid.",
+        "validade_oferta": "06/04/2026",
+        "codigo_barras": "7896260700216",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Manteiga Itacolomy S/Sal 200g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/04/2026",
+        "codigo_barras": "7896260735911",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Manteiga Extra Sem Sal Frimesa Pote 200g",
+        "preco": "10,48",
+        "unidade": "Unid.",
+        "validade_oferta": "25/04/2026",
+        "codigo_barras": "7896275981952",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Manteiga Frimesa Extra C/Sal 200g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/04/2026",
+        "codigo_barras": "7896275981945",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
