@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-03-31T16:18:18",
+  "atualizado_em": "2026-04-01T09:40:36",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1471,6 +1471,55 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-03-25T17:40:37"
+    },
+    "7896038300419 mist panq americana urbano zero gluten | massa:300g": {
+      "descricao": "Mist Panq Americana Urbano Zero Gluten 300g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7896038300419 mist panq americana urbano zero gluten 300g",
+        "7896038300419 mist panq americana urbano zero gluten | massa:300g",
+        "mist panq americana urbano zero gluten 300g",
+        "mist panq americana urbano zero gluten | massa:300g"
+      ],
+      "descricao_base": "mist panq americana urbano zero gluten",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T09:40:36"
+    },
+    "7898215157847 beb lact whey pirac zl morango | volume:250ml": {
+      "descricao": "Beb Lact Whey Pirac Zl Morango 250m",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7898215157847 beb lact whey pirac zl morango 250ml",
+        "7898215157847 beb lact whey pirac zl morango | volume:250ml",
+        "beb lact whey pirac zl morango 250 m",
+        "beb lact whey pirac zl morango 250m"
+      ],
+      "descricao_base": "beb lact whey pirac zl morango 250 m",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T09:40:36"
+    },
+    "7891000289747 bisc nesfit maca e canela | massa:140g": {
+      "descricao": "Bisc Nesfit Maçã e Canela 140g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7891000289747 bisc nesfit maca e canela 140g",
+        "7891000289747 bisc nesfit maca e canela | massa:140g",
+        "bisc nesfit maca e canela 140g",
+        "bisc nesfit maca e canela | massa:140g"
+      ],
+      "descricao_base": "bisc nesfit maca e canela",
+      "medidas": [
+        "massa:140g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T09:40:36"
     }
   }
 }
