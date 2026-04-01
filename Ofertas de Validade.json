@@ -3688,5 +3688,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "01/04/2026",
+    "hora": "14:27:29",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Marg Delicia C/Sal 250g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/04/2026",
+        "codigo_barras": "7894904271535",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Margarina Delicia Chef Alho e Cebola 250g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/04/2026",
+        "codigo_barras": "7894904272921",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Margarina Delicia Chef Ervas Arom 250g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/04/2026",
+        "codigo_barras": "7894904272945",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Margarina Delicia Chef Ervas Arom 500g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/04/2026",
+        "codigo_barras": "7894904272952",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
