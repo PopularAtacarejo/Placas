@@ -3826,5 +3826,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "01/04/2026",
+    "hora": "14:50:14",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Falda Desc. Turma Da Monica Jumbo XXG",
+        "preco": "22,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/04/2026",
+        "codigo_barras": "7896012879801",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Falda Desc. Turma Da Monica Jumbo XXG",
+        "preco": "22,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/04/2026",
+        "codigo_barras": "7896012879801",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
