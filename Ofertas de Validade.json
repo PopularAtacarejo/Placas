@@ -3878,5 +3878,45 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "01/04/2026",
+    "hora": "17:51:55",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Vinho Tt Sc Rio Sol Syrah 750ml",
+        "preco": "39,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7898921126090",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Vinho Tinto Tarapaca Leon Cab Sauv Seco 750ml",
+        "preco": "55,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7804340902573",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Vinho Tt Del Grano Sv Gold 750ml - Un",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7897015211148",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Vinho Tinto Suave Prom Pet 1l",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7897015212305",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
