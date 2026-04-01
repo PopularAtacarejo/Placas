@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-01T10:41:58",
+  "atualizado_em": "2026-04-01T14:23:00",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1520,6 +1520,227 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-04-01T09:40:36"
+    },
+    "7896260700216 manteiga itacolomy c/sal | massa:200g": {
+      "descricao": "Manteiga Itacolomy C/Sal 200g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7896260700216 manteiga itacolomy c sal 200g",
+        "7896260700216 manteiga itacolomy c/sal | massa:200g",
+        "manteiga itacolomy c sal 200g",
+        "manteiga itacolomy c/sal | massa:200g"
+      ],
+      "descricao_base": "manteiga itacolomy c/sal",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T14:23:00"
+    },
+    "7896260735911 manteiga itacolomy s/sal | massa:200g": {
+      "descricao": "Manteiga Itacolomy S/Sal 200g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7896260735911 manteiga itacolomy s sal 200g",
+        "7896260735911 manteiga itacolomy s/sal | massa:200g",
+        "manteiga itacolomy s sal 200g",
+        "manteiga itacolomy s/sal | massa:200g"
+      ],
+      "descricao_base": "manteiga itacolomy s/sal",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T14:23:00"
+    },
+    "7896275981952 manteiga extra sem sal frimesa pote | massa:200g": {
+      "descricao": "Manteiga Extra Sem Sal Frimesa Pote 200g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7896275981952 manteiga extra sem sal frimesa pote 200g",
+        "7896275981952 manteiga extra sem sal frimesa pote | massa:200g",
+        "manteiga extra sem sal frimesa pote 200g",
+        "manteiga extra sem sal frimesa pote | massa:200g"
+      ],
+      "descricao_base": "manteiga extra sem sal frimesa pote",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T14:23:00"
+    },
+    "7896275981945 manteiga frimesa extra c/sal | massa:200g": {
+      "descricao": "Manteiga Frimesa Extra C/Sal 200g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7896275981945 manteiga frimesa extra c sal 200g",
+        "7896275981945 manteiga frimesa extra c/sal | massa:200g",
+        "manteiga frimesa extra c sal 200g",
+        "manteiga frimesa extra c/sal | massa:200g"
+      ],
+      "descricao_base": "manteiga frimesa extra c/sal",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T14:23:00"
+    },
+    "7894904271535 marg delicia c/sal | massa:250g": {
+      "descricao": "Marg Delicia C/Sal 250g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7894904271535 marg delicia c sal 250g",
+        "7894904271535 marg delicia c/sal | massa:250g",
+        "marg delicia c sal 250g",
+        "marg delicia c/sal | massa:250g"
+      ],
+      "descricao_base": "marg delicia c/sal",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T14:23:00"
+    },
+    "7894904272921 margarina delicia chef alho e cebola | massa:250g": {
+      "descricao": "Margarina Delicia Chef Alho e Cebola 250g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7894904272921 margarina delicia chef alho e cebola 250g",
+        "7894904272921 margarina delicia chef alho e cebola | massa:250g",
+        "margarina delicia chef alho e cebola 250g",
+        "margarina delicia chef alho e cebola | massa:250g"
+      ],
+      "descricao_base": "margarina delicia chef alho e cebola",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T14:23:00"
+    },
+    "7894904272945 margarina delicia chef ervas arom | massa:250g": {
+      "descricao": "Margarina Delicia Chef Ervas Arom 250g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7894904272945 margarina delicia chef ervas arom 250g",
+        "7894904272945 margarina delicia chef ervas arom | massa:250g",
+        "margarina delicia chef ervas arom 250g",
+        "margarina delicia chef ervas arom | massa:250g"
+      ],
+      "descricao_base": "margarina delicia chef ervas arom",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T14:23:00"
+    },
+    "7894904272952 margarina delicia chef ervas arom | massa:500g": {
+      "descricao": "Margarina Delicia Chef Ervas Arom 500g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7894904272952 margarina delicia chef ervas arom 500g",
+        "7894904272952 margarina delicia chef ervas arom | massa:500g",
+        "margarina delicia chef ervas arom 500g",
+        "margarina delicia chef ervas arom | massa:500g"
+      ],
+      "descricao_base": "margarina delicia chef ervas arom",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T14:23:00"
+    },
+    "7896275985332 queijo mussa zero lac frimesa | massa:150g": {
+      "descricao": "Queijo Mussa Zero Lac Frimesa 150g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7896275985332 queijo mussa zero lac frimesa 150g",
+        "7896275985332 queijo mussa zero lac frimesa | massa:150g",
+        "queijo mussa zero lac frimesa 150g",
+        "queijo mussa zero lac frimesa | massa:150g"
+      ],
+      "descricao_base": "queijo mussa zero lac frimesa",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T14:23:00"
+    },
+    "7896260780119 queijo mussarela fat itacolomy | massa:150g": {
+      "descricao": "Queijo Muçarela Fat Itacolomy 150g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7896260780119 queijo mussarela fat itacolomy 150g",
+        "7896260780119 queijo mussarela fat itacolomy | massa:150g",
+        "queijo mucarela fat itacolomy 150g",
+        "queijo mucarela fat itacolomy | massa:150g"
+      ],
+      "descricao_base": "queijo mucarela fat itacolomy",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T14:23:00"
+    },
+    "7891097105739 queijo mussarela fatiado galbani | massa:150g": {
+      "descricao": "Queijo Muçarela Fatiado Galbani 150g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7891097105739 queijo mussarela fatiado galbani 150g",
+        "7891097105739 queijo mussarela fatiado galbani | massa:150g",
+        "queijo mucarela fatiado galbani 150g",
+        "queijo mucarela fatiado galbani | massa:150g"
+      ],
+      "descricao_base": "queijo mucarela fatiado galbani",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T14:23:00"
+    },
+    "r 7896353301184 requeijao cremoso catupiry trad | massa:200g": {
+      "descricao": "Requeijao Cremoso Catupiry Trad 200g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "r 7896353301184 requeijao cremoso catupiry trad 200g",
+        "r 7896353301184 requeijao cremoso catupiry trad | massa:200g",
+        "requeijao cremoso catupiry trad 200g",
+        "requeijao cremoso catupiry trad | massa:200g"
+      ],
+      "descricao_base": "requeijao cremoso catupiry trad",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T14:23:00"
+    },
+    "7898618520750 salame tp italiano defum ceratti | massa:100g": {
+      "descricao": "Salame Tp Italiano Defum Ceratti 100g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "7898618520750 salame tp italiano defum ceratti 100g",
+        "7898618520750 salame tp italiano defum ceratti | massa:100g",
+        "salame tp italiano defum ceratti 100g",
+        "salame tp italiano defum ceratti | massa:100g"
+      ],
+      "descricao_base": "salame tp italiano defum ceratti",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-01T14:23:00"
     }
   }
 }
