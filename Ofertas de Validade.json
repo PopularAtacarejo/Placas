@@ -3596,5 +3596,37 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "01/04/2026",
+    "hora": "09:42:36",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mist Panq Americana Urbano Zero Gluten 300g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7896038300419",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Lact Whey Pirac Zl Morango 250m",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7898215157847",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Nesfit Maçã e Canela 140g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7891000289747",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
