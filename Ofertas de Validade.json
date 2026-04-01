@@ -3628,5 +3628,21 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "01/04/2026",
+    "hora": "11:23:26",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Prot. Solar Nivea SunPH FPS50 400ml",
+        "preco": "59,98",
+        "unidade": "Unid.",
+        "codigo_barras": "4005808858217",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
