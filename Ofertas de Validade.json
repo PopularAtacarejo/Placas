@@ -3852,5 +3852,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "01/04/2026",
+    "hora": "15:47:20",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Barra Pinati Crunch Whey Avelã 40g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra Pinati Simple Whey Beijinho 35g",
+        "preco": "4,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra Pinati Crunch Whey Doce de Leite 40g",
+        "preco": "6,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
