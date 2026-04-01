@@ -7,5 +7,14 @@
     "ativo": true,
     "email": "djaxelf22@gmail.com",
     "telefone": "82999158412"
+  },
+  {
+    "usuario": "Matheus",
+    "senha_hash": "pbkdf2_sha256$390000$1W8nLxrvwaPgL-Iac3xCeg$XBxuEjx3E3tdwMO0t5svDRkbkNp1ZO_Bw-2kraeqUvY",
+    "nome": "Matheus",
+    "perfil": "Gerador de Placas",
+    "ativo": true,
+    "email": "matheusantonio96@gmail.com",
+    "telefone": "82988430631"
   }
 ]
