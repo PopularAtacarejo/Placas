@@ -3732,5 +3732,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "01/04/2026",
+    "hora": "14:29:36",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Queijo Mussa Zero Lac Frimesa 150g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/04/2026",
+        "codigo_barras": "7896275985332",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Queijo Muçarela Fat Itacolomy 150g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/04/2026",
+        "codigo_barras": "7896260780119",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Queijo Muçarela Fatiado Galbani 150g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/04/2026",
+        "codigo_barras": "7891097105739",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Requeijao Cremoso Catupiry Trad 200g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/04/2026",
+        "codigo_barras": "7896353301184",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
