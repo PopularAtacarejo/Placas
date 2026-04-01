@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-01T09:40:36",
+  "atualizado_em": "2026-04-01T10:21:46",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1116,7 +1116,7 @@
     "po p/preparo nesquik morango lt | massa:380g": {
       "descricao": "Pó P/Preparo Nesquik Morango Lt 380g",
       "unidade": "Unid.",
-      "hits": 6,
+      "hits": 7,
       "aliases": [
         "po p preparo nesquik morango lt 380g",
         "po p/preparo nesquik morango lt | massa:380g"
@@ -1126,12 +1126,12 @@
         "massa:380g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-31T09:19:14"
+      "atualizado_em": "2026-04-01T10:21:46"
     },
     "cafe cap santa clara chapada diamantina | massa:56g": {
       "descricao": "Café Cap Santa Clara Chapada Diamantina 56g",
       "unidade": "Unid.",
-      "hits": 6,
+      "hits": 7,
       "aliases": [
         "cafe cap santa clara chapada diamantina 56g",
         "cafe cap santa clara chapada diamantina | massa:56g"
@@ -1141,12 +1141,12 @@
         "massa:56g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-31T09:19:14"
+      "atualizado_em": "2026-04-01T10:21:46"
     },
     "cafe pilao trad abre e fecha refil | massa:250g": {
       "descricao": "Café Pilao Trad Abre e Fecha Refil 250g",
       "unidade": "Unid.",
-      "hits": 6,
+      "hits": 7,
       "aliases": [
         "cafe pilao trad abre e fecha refil 250g",
         "cafe pilao trad abre e fecha refil | massa:250g"
@@ -1156,7 +1156,7 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-31T09:19:14"
+      "atualizado_em": "2026-04-01T10:21:46"
     },
     "temp knorr carne po | massa:50g": {
       "descricao": "Temp Knorr Carne Pó 50g",
