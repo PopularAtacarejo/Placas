@@ -3776,5 +3776,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "01/04/2026",
+    "hora": "14:31:00",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Salame Tp Italiano Defum Ceratti 100g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/04/2026",
+        "codigo_barras": "7898618520750",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Presunto Sadia Solt Fatiado 200g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/04/2026",
+        "codigo_barras": "7891515432652",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
