@@ -3802,5 +3802,29 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "01/04/2026",
+    "hora": "14:37:36",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Barra Sup Bold Torta De Limão 60g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7898755182026",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra Sup Bold Torta De Limão 60g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7898755182026",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
