@@ -582,5 +582,21 @@
     "produto": "Arroz Urbano Parb. 1Kg",
     "preco": "3,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "17:19:59",
+    "feito_por": "Jeferson",
+    "produto": "Coco Seco Ralado Fresco",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "17:19:59",
+    "feito_por": "Jeferson",
+    "produto": "Vinho Tinta Pergola Suave 1L",
+    "preco": "24,98",
+    "validade_oferta_ate": ""
   }
 ]
