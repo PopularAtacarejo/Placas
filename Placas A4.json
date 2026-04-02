@@ -526,5 +526,21 @@
     "produto": "Suco De Uva Integral Oq 1l",
     "preco": "14,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "14:54:06",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Pilão Parboilizado 1kg",
+    "preco": "3,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "14:54:06",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Gringo Branco Tipo 2 1kg",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
   }
 ]
