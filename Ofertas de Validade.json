@@ -3962,5 +3962,25 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "02/04/2026",
+    "hora": "15:53:30",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Barra de Proteína Bold Torta de Limão 60g",
+        "preco": "9,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pré Treino Horus Max Titanium Citrus 150g",
+        "preco": "79,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
