@@ -542,5 +542,21 @@
     "produto": "Arroz Gringo Branco Tipo 2 1kg",
     "preco": "3,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "15:12:02",
+    "feito_por": "Jeferson",
+    "produto": "Camarão Fresco",
+    "preco": "31,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "15:12:02",
+    "feito_por": "Jeferson",
+    "produto": "Peixe Tilápia Eviscerada",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
   }
 ]
