@@ -558,5 +558,29 @@
     "produto": "Peixe Tilápia Eviscerada",
     "preco": "19,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "17:12:27",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Pilão Parb. 1Kg",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "17:12:27",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Emoções Tipo 1 1Kg",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "17:12:27",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Urbano Parb. 1Kg",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
   }
 ]
