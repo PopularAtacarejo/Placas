@@ -454,5 +454,13 @@
     "produto": "Arroz Gringo Branco Tipo 2 1kg",
     "preco": "3,55",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "11:10:04",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Itaipava Lt 473ml",
+    "preco": "2,90",
+    "validade_oferta_ate": ""
   }
 ]
