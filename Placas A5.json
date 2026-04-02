@@ -886,5 +886,37 @@
     "produto": "Sorv Fika Frio 2l Div. Sabores",
     "preco": "27,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "17:12:27",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Pilão Parb. 1Kg",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "17:12:27",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Emoções Tipo 1 1Kg",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "17:12:27",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Urbano Parb. 1Kg",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "17:17:01",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Cream Cracker Pilar Premium 350g",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
   }
 ]
