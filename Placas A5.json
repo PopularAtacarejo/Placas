@@ -1,1 +1,394 @@
-[]
+[
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Original Lata 350ml C/12 Multipack",
+    "preco": "49,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Stella Artois Pure Gold Lt 350ml",
+    "preco": "5,38",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Refri Guarana Antarctica Pet 2l",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Mussarela Engenho Fat Kg",
+    "preco": "35,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Presunto Cozido Gran Campeiro Fat Kg",
+    "preco": "24,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Hamb Brasa Burg 56g Div. Sabores",
+    "preco": "1,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Filé De Peito Frango Lar Bdj 1kg",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Batata Mccain Pre-Frita Airfryer 600g",
+    "preco": "18,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA PONTA DE AGULHA",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA DO PEITO",
+    "preco": "17,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "CHAREU C/OSSO",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA DA AGULHA",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "CHÃ DE DENTRO/COXÃO MOLÉ",
+    "preco": "34,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "CARNE MOÍDA DE SEGUNDA",
+    "preco": "18,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "PERNIL SUÍNO",
+    "preco": "18,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Bisteca Suína Cong. Kg",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Coxa C/Sobrecoxa Dorsal a Granel Kg",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Linguiça Toscana Frimesa Kg",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Pão De Forma Skin 450g Div. Sabores",
+    "preco": "5,58",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Dueto Quero Sch 170g",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Cream Cracker Pilar Premium 350g",
+    "preco": "6,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Mist P/Bolo Apti Ref 400g Div. Sabores",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Café Moído Pilão Tradic 250g",
+    "preco": "15,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Feijão Carioca Mui Nobre T 1 1kg",
+    "preco": "7,68",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Lava Roupa Ala Pó 400g (DIVERSAS FRAGÂNCIAS)",
+    "preco": "2,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Sabão Barra Brisa 800g (DIVERSAS FRAGÂNCIAS)",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Sab Liq Brilhante 700ml Rf Limp Total",
+    "preco": "10,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Água Sanit Clorito 1l",
+    "preco": "1,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Sab Liq Alyne 1l Div. Sabores",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Sabon Protex 85g (DIVERSAS FRAGÂNCIAS)",
+    "preco": "2,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Kit Sab Liq Dermafeme Fr 2 x 200ml (DIVERSAS FRAGÂNCIAS)",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Abs.Prot.Diar.Longo Poise Esc.Urina 14 un",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Toalha Umed Bebe Limp Prem 140 un",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Kit Selagem Origem Redutora Todos Tps Cabelo",
+    "preco": "30,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Óleo Cap.Magico Dabelle 45ml",
+    "preco": "21,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Cr Trat Origem 1kg (DIVERSAS FRAGÂNCIAS)",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Beb Energ Baly Morango/Pêssego Pet 2l",
+    "preco": "11,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Manteiga Bom Leite 200g",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Beb Lact Bom Leite Bdj 540g Div. Sabores",
+    "preco": "3,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Beb Lact Engenho Sh 900g",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Cream Crack Renata 360g",
+    "preco": "3,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Rosquinha Petyan 300g Div. Sabores",
+    "preco": "4,68",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Maria Vitarella Tradicional 350g",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Suco Mid (R$0,20 por Sell Out)",
+    "preco": "0,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Maionese Hellmanns Sh 200g",
+    "preco": "4,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Trento Momentos 168g",
+    "preco": "14,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Wafer Toddy 94g Div. Sabores",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Toddy Rech 100g Div. Sabores",
+    "preco": "2,38",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "10:23:50",
+    "feito_por": "Jeferson",
+    "produto": "Bisnaguinha Skin 300g Div. Sabores",
+    "preco": "6,48",
+    "validade_oferta_ate": ""
+  }
+]
