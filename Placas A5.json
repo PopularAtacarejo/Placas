@@ -798,5 +798,45 @@
     "produto": "Arroz Gringo Branco Tipo 2 1kg",
     "preco": "3,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "15:12:02",
+    "feito_por": "Jeferson",
+    "produto": "Camarão Fresco",
+    "preco": "31,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "15:12:02",
+    "feito_por": "Jeferson",
+    "produto": "Peixe Tilápia Eviscerada",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "15:45:45",
+    "feito_por": "Jeferson",
+    "produto": "Cond Tresemme 400ml",
+    "preco": "17,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "15:45:45",
+    "feito_por": "Jeferson",
+    "produto": "Cond Seda Forca & Crescimento e babosa óleo 325ml",
+    "preco": "7,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-02",
+    "horario": "15:45:45",
+    "feito_por": "Jeferson",
+    "produto": "Sh ou cond Tresemme 650ml",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
   }
 ]
