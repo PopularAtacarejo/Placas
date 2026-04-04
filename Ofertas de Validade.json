@@ -4060,5 +4060,19 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "04/04/2026",
+    "hora": "09:44:23",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Glutamax 300g",
+        "preco": "49,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
