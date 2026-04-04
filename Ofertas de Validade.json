@@ -4014,5 +4014,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "04/04/2026",
+    "hora": "09:22:23",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350g",
+        "preco": "2,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350g",
+        "preco": "3,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Marilan Cream Cracker Água Sal 300g",
+        "preco": "3,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Tapioca SemiPronta Lopes 1Kg",
+        "preco": "5,38",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
