@@ -1,0 +1,2510 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Configuracao das placas</title>
+  <style>
+    :root {
+      --bg: #e8eef5;
+      --surface: #ffffff;
+      --surface-soft: #f6f9fc;
+      --border: #d3dfeb;
+      --text: #1d2b3a;
+      --muted: #5f7285;
+      --accent: #0f69c8;
+      --accent-2: #0b4f97;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+      color: var(--text);
+      background: radial-gradient(circle at 14% 0%, #f6fbff 0%, #eef4fb 35%, var(--bg) 100%);
+    }
+    body.auth-pending .page {
+      visibility: hidden;
+      pointer-events: none;
+    }
+    body.auth-pending #loginOverlay {
+      opacity: 0;
+      pointer-events: none;
+    }
+    body.auth-locked .page {
+      display: none;
+    }
+    .page {
+      max-width: 1700px;
+      margin: 0 auto;
+      padding: 16px;
+      display: grid;
+      gap: 12px;
+      min-height: 100vh;
+    }
+    .hero, .panel, .table-wrap, .footer {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      box-shadow: 0 6px 22px rgba(25, 45, 66, 0.08);
+    }
+    .hero {
+      padding: 14px 16px;
+      border-left: 4px solid var(--accent);
+    }
+    .hero-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .hero h1 {
+      margin: 0;
+      font-size: 20px;
+      font-weight: 700;
+    }
+    .hero p {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .auth-strip {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      position: relative;
+      padding: 6px;
+      border-radius: 14px;
+      border: 1px solid #d5e2ef;
+      background: linear-gradient(180deg, #fdfefe 0%, #f1f6fb 100%);
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.92), 0 4px 14px rgba(33, 70, 108, 0.08);
+    }
+    .panel {
+      padding: 12px;
+      display: grid;
+      grid-template-columns: minmax(780px, 1fr) minmax(320px, 440px);
+      gap: 12px;
+      align-items: start;
+    }
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+    .toolbar .group {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+      padding: 6px;
+      background: var(--surface-soft);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+    }
+    .group-title {
+      font-size: 12px;
+      font-weight: 700;
+      color: #4d647a;
+      margin-right: 6px;
+      padding: 0 4px;
+    }
+    .search {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 8px;
+      align-items: center;
+    }
+    button, input, select {
+      font: inherit;
+    }
+    button {
+      border: 1px solid #c6d3df;
+      background: #fff;
+      color: var(--text);
+      border-radius: 8px;
+      padding: 6px 10px;
+      cursor: pointer;
+    }
+    button.primary {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+    button.primary:hover { background: var(--accent-2); }
+    button:hover { border-color: #93aec5; }
+    input[type="text"], input[type="number"], select {
+      border: 1px solid #c7d2de;
+      border-radius: 8px;
+      padding: 6px 8px;
+      min-height: 34px;
+      background: #fff;
+      width: 100%;
+    }
+    .search input { min-width: 220px; }
+    .table-wrap {
+      overflow: auto;
+      max-height: calc(100vh - 285px);
+    }
+    table {
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0;
+      min-width: 1180px;
+    }
+    thead th {
+      position: sticky;
+      top: 0;
+      z-index: 1;
+      background: #f4f8fc;
+      color: #2f4356;
+      font-size: 12px;
+      letter-spacing: 0.2px;
+      text-align: left;
+      padding: 10px 8px;
+      border-bottom: 1px solid var(--border);
+      box-shadow: inset 0 -1px 0 #dce8f4;
+    }
+    tbody td {
+      padding: 6px 8px;
+      border-bottom: 1px solid #edf2f7;
+      vertical-align: middle;
+    }
+    tbody tr:nth-child(even) { background: #fbfdff; }
+    tbody tr:hover { background: #f4f9ff; }
+    tbody tr.is-disabled {
+      opacity: 0.62;
+      background: #f7f9fb;
+    }
+    .col-check { width: 60px; }
+    .col-num { width: 52px; }
+    .col-format { width: 90px; }
+    .col-price { width: 120px; }
+    .col-qtd { width: 88px; }
+    .col-qfmt { width: 88px; }
+    .col-unit { width: 100px; }
+    .col-val { width: 90px; }
+    .col-day { width: 90px; }
+    .col-month { width: 92px; }
+    .footer {
+      display: grid;
+      gap: 10px;
+      grid-template-columns: 1fr auto;
+      align-items: center;
+      padding: 12px;
+    }
+    .status {
+      color: #3f5366;
+      font-size: 13px;
+    }
+    .actions {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+    .actions label {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 13px;
+      color: #38526a;
+      margin-right: 6px;
+      white-space: nowrap;
+    }
+    .hero-stats {
+      margin-top: 8px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .progress-panel {
+      margin-top: 10px;
+      padding: 10px 12px;
+      border: 1px solid var(--border);
+      background: linear-gradient(180deg, #fbfdff 0%, #f3f8fd 100%);
+      border-radius: 12px;
+      display: grid;
+      gap: 8px;
+    }
+    .progress-meta {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+      font-size: 12px;
+      color: #46617a;
+    }
+    .progress-bar {
+      width: 100%;
+      height: 12px;
+      border-radius: 999px;
+      background: #dce7f3;
+      overflow: hidden;
+      box-shadow: inset 0 1px 2px rgba(15, 48, 82, 0.08);
+    }
+    .progress-fill {
+      width: 0%;
+      height: 100%;
+      border-radius: inherit;
+      background: linear-gradient(90deg, #0f69c8 0%, #3f9df0 100%);
+      transition: width 0.35s ease;
+    }
+    .workflow-panel {
+      margin-top: 10px;
+      display: grid;
+      gap: 10px;
+    }
+    .workflow-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+      font-size: 12px;
+      color: #46617a;
+    }
+    .workflow-rail {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 10px;
+    }
+    .workflow-step {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      background: linear-gradient(180deg, #ffffff 0%, #f5f9fd 100%);
+      border-radius: 14px;
+      padding: 12px;
+      min-height: 88px;
+      transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+    }
+    .workflow-step::after {
+      content: "";
+      position: absolute;
+      inset: -30% auto auto -40%;
+      width: 60%;
+      height: 180%;
+      opacity: 0;
+      background: linear-gradient(90deg, transparent 0%, rgba(63, 157, 240, 0.18) 50%, transparent 100%);
+      transform: rotate(16deg);
+    }
+    .workflow-step.is-active {
+      border-color: #68aee9;
+      box-shadow: 0 10px 26px rgba(41, 102, 164, 0.14);
+      transform: translateY(-1px);
+    }
+    .workflow-step.is-active::after {
+      opacity: 1;
+      animation: workflowSweep 1.8s linear infinite;
+    }
+    .workflow-step.is-done {
+      border-color: #97d0b4;
+      background: linear-gradient(180deg, #f8fffb 0%, #eefaf3 100%);
+    }
+    .workflow-step.is-waiting {
+      opacity: 0.72;
+    }
+    .workflow-icon {
+      width: 34px;
+      height: 34px;
+      border-radius: 10px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: #eef6ff;
+      font-size: 17px;
+      margin-bottom: 10px;
+      position: relative;
+    }
+    .workflow-step.is-active .workflow-icon {
+      animation: workflowPulse 1.2s ease-in-out infinite;
+      background: #dff0ff;
+    }
+    .workflow-title {
+      font-size: 13px;
+      font-weight: 700;
+      color: #28445c;
+    }
+    .workflow-desc {
+      margin-top: 4px;
+      font-size: 12px;
+      line-height: 1.35;
+      color: #5f7285;
+    }
+    @keyframes workflowPulse {
+      0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(63, 157, 240, 0.15); }
+      50% { transform: scale(1.06); box-shadow: 0 0 0 10px rgba(63, 157, 240, 0); }
+    }
+    @keyframes workflowSweep {
+      from { transform: translateX(-35%) rotate(16deg); }
+      to { transform: translateX(250%) rotate(16deg); }
+    }
+    .footer-note {
+      grid-column: 1 / -1;
+      justify-self: end;
+      font-size: 11px;
+      color: #6b7d8f;
+    }
+    .footer-note a {
+      color: inherit;
+      text-decoration: none;
+      border-bottom: 1px solid #b8c8d8;
+    }
+    .footer-note a:hover {
+      color: var(--accent-2);
+      border-bottom-color: var(--accent-2);
+    }
+    .login-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(7, 20, 34, 0.55);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      padding: 16px;
+      overflow: hidden;
+    }
+    .login-overlay.hidden {
+      display: none;
+    }
+    .login-bg-decoration {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      overflow: hidden;
+    }
+    .login-blob {
+      position: absolute;
+      border-radius: 50%;
+      filter: blur(52px);
+      opacity: .55;
+      animation: loginFloat 20s infinite alternate;
+    }
+    .login-blob.b1 { top: -12%; left: -8%; width: 40vw; height: 40vw; background: #c3d9ff; animation-delay: 0s; }
+    .login-blob.b2 { bottom: -14%; right: -6%; width: 44vw; height: 44vw; background: #b5f5e0; animation-delay: -4s; }
+    .login-blob.b3 { top: 46%; left: 52%; width: 30vw; height: 30vw; background: #e0c3fc; animation-delay: -10s; }
+    @keyframes loginFloat {
+      0% { transform: translate(0, 0) scale(1); }
+      100% { transform: translate(28px, 44px) scale(1.08); }
+    }
+    .login-shell {
+      position: relative;
+      width: 100%;
+      max-width: 440px;
+      background: rgba(255, 255, 255, .87);
+      backdrop-filter: blur(12px);
+      border-radius: 24px;
+      box-shadow: 0 20px 50px -12px rgba(16,42,67,.15);
+      border: 1px solid rgba(255,255,255,.65);
+      overflow: hidden;
+      z-index: 1;
+      animation: loginSlideUp .5s cubic-bezier(.16,1,.3,1);
+    }
+    @keyframes loginSlideUp {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .login-panel {
+      padding: 40px 34px;
+      display: grid;
+      gap: 18px;
+    }
+    .login-header {
+      text-align: center;
+    }
+    .login-header h2 {
+      margin: 0;
+      font-size: 26px;
+      font-weight: 700;
+      color: #102a43;
+      letter-spacing: -.4px;
+    }
+    .login-header p {
+      margin: 8px 0 0;
+      color: #627d98;
+      font-size: 14px;
+    }
+    .login-form-grid {
+      display: grid;
+      gap: 16px;
+    }
+    .login-field label {
+      display: block;
+      margin-bottom: 8px;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .45px;
+      color: #627d98;
+    }
+    .login-input-wrapper {
+      position: relative;
+    }
+    .login-field input[type="text"],
+    .login-field input[type="password"] {
+      width: 100%;
+      height: 52px;
+      padding: 0 16px 0 48px;
+      border: 1.5px solid #e0e7ef;
+      border-radius: 16px;
+      font-family: inherit;
+      font-size: 15px;
+      color: #102a43;
+      background: #fff;
+      box-shadow: 0 4px 6px -1px rgba(0,0,0,.05),0 2px 4px -1px rgba(0,0,0,.03);
+      transition: all .2s ease;
+    }
+    .login-field input:focus {
+      outline: none;
+      border-color: #0052cc;
+      box-shadow: 0 0 0 3px rgba(0,82,204,.15);
+    }
+    .login-field-icon {
+      position: absolute;
+      left: 16px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 20px;
+      height: 20px;
+      color: #627d98;
+      pointer-events: none;
+    }
+    .login-toggle-password {
+      position: absolute;
+      right: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      border: none;
+      background: none;
+      color: #627d98;
+      cursor: pointer;
+      padding: 4px;
+      border-radius: 10px;
+    }
+    .login-toggle-password:hover {
+      background: #f7f9fc;
+      color: #0052cc;
+    }
+    .login-toggle-password svg {
+      width: 22px;
+      height: 22px;
+    }
+    .login-options-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      font-size: 13px;
+      margin-top: 2px;
+    }
+    .login-remember {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      color: #627d98;
+      cursor: pointer;
+      user-select: none;
+    }
+    .login-remember input { display: none; }
+    .login-checkmark {
+      width: 18px;
+      height: 18px;
+      border: 2px solid #e0e7ef;
+      border-radius: 5px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      transition: all .2s;
+    }
+    .login-remember input:checked + .login-checkmark {
+      background: #0052cc;
+      border-color: #0052cc;
+    }
+    .login-checkmark svg {
+      width: 12px;
+      height: 12px;
+      color: #fff;
+      opacity: 0;
+      transform: scale(.5);
+      transition: all .2s;
+    }
+    .login-remember input:checked + .login-checkmark svg {
+      opacity: 1;
+      transform: scale(1);
+    }
+    .login-actions {
+      display: grid;
+      gap: 10px;
+    }
+    .login-actions button {
+      height: 50px;
+      border-radius: 16px;
+      font-size: 15px;
+      font-weight: 600;
+    }
+    .login-actions .primary {
+      background: #0052cc;
+      color: #fff;
+      border: none;
+      box-shadow: 0 4px 12px rgba(0,82,204,.25);
+    }
+    .login-actions .primary:hover {
+      background: #003e9c;
+      box-shadow: 0 6px 16px rgba(0,82,204,.35);
+    }
+    .login-actions .secondary {
+      background: transparent;
+      color: #627d98;
+      border: 1px solid #e0e7ef;
+    }
+    .login-actions .secondary:hover {
+      background: #f7f9fc;
+      border-color: #c3d0db;
+    }
+    .login-notice {
+      margin-top: -2px;
+      padding: 12px 16px;
+      border-radius: 12px;
+      font-size: 13px;
+      display: none;
+      align-items: center;
+      gap: 10px;
+    }
+    .login-notice.error {
+      display: flex;
+      background: #fff0f3;
+      color: #d92550;
+      border: 1px solid #ffd9e0;
+    }
+    .login-notice.success {
+      display: flex;
+      background: #e6fff4;
+      color: #00a96e;
+      border: 1px solid #b5f5d8;
+    }
+    .login-meta {
+      text-align: center;
+      font-size: 12px;
+      color: #8799a9;
+    }
+    .login-link-btn {
+      border: 0;
+      background: transparent;
+      padding: 0;
+      color: #0052cc;
+      text-decoration: underline;
+      cursor: pointer;
+      font-size: 13px;
+    }
+    .dev-user-group input, .dev-user-group select {
+      width: 155px;
+      min-width: 130px;
+    }
+    .stat-pill {
+      border: 1px solid var(--border);
+      background: #f6faff;
+      border-radius: 999px;
+      padding: 4px 10px;
+      font-size: 12px;
+      color: #3b556d;
+    }
+    .auth-pill {
+      position: relative;
+      border-color: #b8cce0;
+      background: linear-gradient(180deg, #f9fcff 0%, #edf4fb 100%);
+      color: #21415f;
+      font-weight: 600;
+      padding: 8px 14px 8px 30px;
+      letter-spacing: 0.2px;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.95), 0 2px 8px rgba(33, 74, 114, 0.09);
+      transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+    }
+    .auth-pill::before {
+      content: "";
+      position: absolute;
+      left: 11px;
+      top: 50%;
+      width: 10px;
+      height: 10px;
+      border-radius: 999px;
+      transform: translateY(-50%);
+      background: #7897b5;
+      box-shadow: 0 0 0 4px rgba(120, 151, 181, 0.16);
+    }
+    .auth-pill.is-logged:hover {
+      transform: translateY(-1px);
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.95), 0 8px 18px rgba(27, 70, 112, 0.16);
+    }
+    .auth-pill.is-logged {
+      cursor: pointer;
+    }
+    .auth-pill.role-dev {
+      border-color: #9ac2e8;
+      background: linear-gradient(180deg, #f4faff 0%, #e8f2fd 100%);
+      color: #104876;
+    }
+    .auth-pill.role-dev::before {
+      background: #2e7ec8;
+      box-shadow: 0 0 0 4px rgba(46, 126, 200, 0.2);
+    }
+    .auth-pill.role-admin {
+      border-color: #9bcfc0;
+      background: linear-gradient(180deg, #f4fff9 0%, #e8f8f0 100%);
+      color: #145f4c;
+    }
+    .auth-pill.role-admin::before {
+      background: #1a9d79;
+      box-shadow: 0 0 0 4px rgba(26, 157, 121, 0.2);
+    }
+    .auth-pill.role-gerador {
+      border-color: #d6c79e;
+      background: linear-gradient(180deg, #fffdf6 0%, #f8f3e4 100%);
+      color: #6f5310;
+    }
+    .auth-pill.role-gerador::before {
+      background: #c99418;
+      box-shadow: 0 0 0 4px rgba(201, 148, 24, 0.19);
+    }
+    .auth-strip #btnLogout {
+      min-height: 38px;
+      padding: 8px 14px;
+      border-radius: 12px;
+      border: 1px solid #d2d7df;
+      background: linear-gradient(180deg, #ffffff 0%, #f3f6f9 100%);
+      color: #1f2f3f;
+      font-weight: 700;
+      letter-spacing: 0.2px;
+      transition: transform 0.16s ease, box-shadow 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+    }
+    .auth-strip #btnLogout:hover {
+      border-color: #d28b93;
+      background: linear-gradient(180deg, #fff6f7 0%, #ffecef 100%);
+      color: #932a3a;
+      box-shadow: 0 7px 14px rgba(170, 44, 66, 0.15);
+      transform: translateY(-1px);
+    }
+    .auth-strip #btnLogout:active {
+      transform: translateY(0);
+      box-shadow: 0 2px 6px rgba(170, 44, 66, 0.18);
+    }
+    .user-menu-toggle {
+      min-height: 48px;
+      padding: 6px 14px 6px 8px;
+      border-radius: 999px;
+      border: 1px solid #bfd0e1;
+      background: linear-gradient(180deg, #f8fbff 0%, #eef4fb 100%);
+      color: #153f61;
+      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 170px;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.95), 0 4px 12px rgba(25, 69, 109, 0.12);
+    }
+    .user-menu-toggle:hover {
+      border-color: #83a8cb;
+      transform: translateY(-1px);
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.95), 0 8px 16px rgba(25, 69, 109, 0.16);
+    }
+    .user-menu-toggle.is-open {
+      border-color: #6c96bf;
+      background: linear-gradient(180deg, #eef6ff 0%, #e4eef8 100%);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.9), 0 8px 18px rgba(27, 83, 133, 0.2);
+    }
+    .user-chip-avatar {
+      width: 34px;
+      height: 34px;
+      border-radius: 999px;
+      background: #1f67bb;
+      color: #fff;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 15px;
+      font-weight: 800;
+      flex: 0 0 auto;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.35);
+    }
+    .user-chip-meta {
+      display: grid;
+      gap: 1px;
+      text-align: left;
+      min-width: 0;
+    }
+    .user-chip-name {
+      font-size: 16px;
+      line-height: 1.05;
+      font-weight: 700;
+      color: #123c60;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .user-chip-role {
+      font-size: 12px;
+      color: #45627f;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .user-menu-panel {
+      position: absolute;
+      right: 0;
+      top: calc(100% + 8px);
+      width: min(340px, calc(100vw - 36px));
+      z-index: 14;
+      border: 1px solid #bed1e3;
+      border-radius: 16px;
+      background: #f4f8fc;
+      box-shadow: 0 20px 34px rgba(29, 59, 89, 0.2);
+      padding: 10px 10px 12px;
+      display: grid;
+      gap: 10px;
+    }
+    .user-menu-panel.hidden {
+      display: none;
+    }
+    .user-menu-head {
+      font-size: 12px;
+      font-weight: 700;
+      color: #48637c;
+      letter-spacing: 0.4px;
+      text-transform: uppercase;
+      display: none;
+    }
+    .user-menu-card {
+      border: 1px solid #bfd1e3;
+      border-radius: 14px;
+      background: #f2f6fa;
+      padding: 10px;
+      display: grid;
+      gap: 8px;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.95);
+    }
+    .user-menu-user-name {
+      font-size: 28px;
+      line-height: 1.1;
+      color: #143e61;
+      font-weight: 700;
+    }
+    .user-menu-user-role {
+      font-size: 23px;
+      color: #466480;
+      margin-top: -4px;
+    }
+    .user-menu-divider {
+      border-top: 1px solid #d1dde9;
+      margin: 1px 0 0;
+    }
+    .user-menu-session {
+      font-size: 13px;
+      color: #3e5a75;
+      line-height: 1.35;
+      word-break: break-word;
+    }
+    .user-menu-dev-section {
+      border-top: 1px solid #d1dde9;
+      padding-top: 8px;
+      display: grid;
+      gap: 7px;
+    }
+    .user-menu-dev-title {
+      font-size: 26px;
+      font-weight: 700;
+      color: #1a4568;
+    }
+    .user-menu-dev-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+      align-items: center;
+    }
+    .user-menu-dev-row .full-row {
+      grid-column: 1 / -1;
+    }
+    .user-menu-dev-row input,
+    .user-menu-dev-row select {
+      min-height: 38px;
+      border-radius: 9px;
+      border-color: #b9ccde;
+      background: #fff;
+      font-size: 15px;
+      padding: 7px 10px;
+    }
+    .user-menu-dev-row button {
+      min-height: 38px;
+      border-radius: 10px;
+      padding: 8px 12px;
+      white-space: nowrap;
+    }
+    .user-menu-dev-row input[type="password"] {
+      border: 2px solid #20252b;
+    }
+    .menu-create-btn {
+      grid-column: 1 / -1;
+      border-radius: 10px;
+      background: #1f6bc0;
+      border-color: #1f6bc0;
+      color: #fff;
+      font-weight: 700;
+    }
+    .menu-create-btn:hover {
+      background: #0f56a4;
+      border-color: #0f56a4;
+    }
+    .user-menu-help {
+      font-size: 12px;
+      color: #506a82;
+    }
+    .menu-logout-btn {
+      justify-self: center;
+      border-radius: 10px;
+      border: 1px solid #d9a9b1;
+      color: #a93e51;
+      background: #fff6f7;
+      padding: 8px 16px;
+      min-height: 38px;
+      font-weight: 700;
+    }
+    .menu-logout-btn:hover {
+      border-color: #cc7a8a;
+      background: #ffecee;
+      color: #8f2e40;
+    }
+    @media (max-width: 1180px) {
+      .panel { grid-template-columns: 1fr; }
+      .search { grid-template-columns: 1fr auto; }
+      .table-wrap { max-height: calc(100vh - 360px); }
+      .footer { grid-template-columns: 1fr; }
+      .actions { justify-content: flex-end; }
+      .workflow-rail { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 640px) {
+      .auth-strip {
+        width: 100%;
+        justify-content: space-between;
+      }
+      .auth-strip #btnLogout {
+        margin-left: auto;
+      }
+      .auth-pill {
+        max-width: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .user-menu-panel {
+        width: calc(100vw - 36px);
+        right: -6px;
+      }
+      .user-menu-dev-row {
+        grid-template-columns: 1fr;
+      }
+      .user-menu-dev-row .full-row {
+        grid-column: auto;
+      }
+    }
+  </style>
+</head>
+<body class="__BODY_AUTH_CLASS__">
+  <div class="page">
+    <section class="hero">
+      <div class="hero-head">
+        <div>
+          <h1>Configuracao das placas</h1>
+          <p>Edite os itens, aplique ajustes em lote e confirme para iniciar a geracao.</p>
+        </div>
+        <div class="auth-strip">
+          <span id="authLabel" class="stat-pill auth-pill" style="display:none">Nao autenticado</span>
+          <button id="btnUserMenu" type="button" class="user-menu-toggle" style="display:none">
+            <span id="userChipAvatar" class="user-chip-avatar">U</span>
+            <span class="user-chip-meta">
+              <span id="userChipName" class="user-chip-name">Usuario</span>
+              <span id="userChipRole" class="user-chip-role">Perfil</span>
+            </span>
+          </button>
+          <button id="btnLogout" type="button" style="display:none">Sair</button>
+          <div id="userMenuPanel" class="user-menu-panel hidden">
+            <div class="user-menu-head">Menu do usuario logado</div>
+            <div class="user-menu-card">
+              <div id="menuInfoNome" class="user-menu-user-name">--</div>
+              <div id="menuInfoPerfil" class="user-menu-user-role">--</div>
+              <div class="user-menu-divider"></div>
+              <div id="menuSessionInfo" class="user-menu-session">Sessao ativa.</div>
+              <div class="user-menu-divider"></div>
+              <div id="userMenuDevSection" class="user-menu-dev-section" style="display:none">
+                <div class="user-menu-dev-title">Criar novo usuario</div>
+                <div class="user-menu-dev-row">
+                  <input id="menuNewUserUsuario" type="text" placeholder="Usuario" />
+                  <input id="menuNewUserNome" type="text" placeholder="Nome" />
+                  <input id="menuNewUserEmail" class="full-row" type="text" placeholder="E-mail (opcional)" />
+                  <input id="menuNewUserPhone" class="full-row" type="text" placeholder="Telefone (opcional)" />
+                  <select id="menuNewUserPerfil" class="full-row">
+                    <option value="Gerador de Placas">Gerador de Placas</option>
+                    <option value="Admin">Admin</option>
+                    <option value="Dev">Dev</option>
+                  </select>
+                  <input id="menuNewUserSenha" class="full-row" type="password" placeholder="Senha (minimo 6 caracteres)" />
+                  <button id="menuBtnCreateUser" type="button" class="menu-create-btn">Criar usuario no GitHub</button>
+                </div>
+                <div class="user-menu-help">Cadastre usuarios e defina o nivel de acesso.</div>
+              </div>
+              <button id="menuBtnLogout" type="button" class="menu-logout-btn">Sair da conta</button>
+            </div>
+            <strong id="menuInfoUsuario" style="display:none">--</strong>
+            <strong id="menuInfoEmail" style="display:none">--</strong>
+          </div>
+        </div>
+      </div>
+      <div id="heroStats" class="hero-stats"></div>
+      <div id="aiStatus" class="hero-stats"></div>
+      <div id="progressPanel" class="progress-panel">
+        <div class="progress-meta">
+          <span id="progressLabel">Progresso: 0%</span>
+          <span id="progressEta">Tempo estimado restante: --</span>
+        </div>
+        <div class="progress-bar">
+          <div id="progressFill" class="progress-fill"></div>
+        </div>
+      </div>
+      <div id="workflowPanel" class="workflow-panel">
+        <div class="workflow-head">
+          <span id="workflowHeadline">Fluxo inteligente em espera</span>
+          <span id="workflowDetail">A IA vai mostrar cada etapa enquanto trabalha.</span>
+        </div>
+        <div id="workflowRail" class="workflow-rail"></div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="toolbar">
+        <div class="group">
+          <span class="group-title">Selecao</span>
+          <button id="btnSelectAll">Marcar todas</button>
+          <button id="btnDeselectAll">Desmarcar todas</button>
+          <button id="btnInvert">Inverter</button>
+        </div>
+        <div class="group">
+          <span class="group-title">Itens</span>
+          <button id="btnAddItem">Adicionar item</button>
+          <button id="btnAiSel">IA nas selecionadas</button>
+          <button id="btnDeleteSel">Excluir selecionadas</button>
+        </div>
+        <div id="devUserGroup" class="group dev-user-group" style="display:none">
+          <span class="group-title">Usuarios (Dev)</span>
+          <input id="newUserNome" type="text" placeholder="Nome" />
+          <input id="newUserUsuario" type="text" placeholder="Usuario" />
+          <input id="newUserEmail" type="text" placeholder="E-mail" />
+          <input id="newUserSenha" type="password" placeholder="Senha" />
+          <select id="newUserPerfil">
+            <option value="Gerador de Placas">Gerador de Placas</option>
+            <option value="Admin">Admin</option>
+            <option value="Dev">Dev</option>
+          </select>
+          <button id="btnCreateUser" type="button">Criar usuario</button>
+        </div>
+        <div class="group">
+          <span class="group-title">Lote</span>
+          <button data-bulk-unit="KG">KG selecionadas</button>
+          <button data-bulk-unit="UNID">UNID selecionadas</button>
+          <button data-bulk-unit="PCT.">PCT. selecionadas</button>
+          <button data-bulk-unit="BDJ.">BDJ. selecionadas</button>
+          <button data-bulk-unit="PACK.">PACK. selecionadas</button>
+          <button data-bulk-format="A4">Somente A4</button>
+          <button data-bulk-format="A5">Somente A5</button>
+          <button data-bulk-format="A6">Somente A6</button>
+          <button id="btnDuplexOnSel">Fr/Verso ON</button>
+          <button id="btnDuplexOffSel">Fr/Verso OFF</button>
+        </div>
+        <div class="group">
+          <span class="group-title">Modelo</span>
+          <label for="templateA4">A4:</label>
+          <select id="templateA4" style="min-width: 250px"></select>
+          <label for="templateA5">A5:</label>
+          <select id="templateA5" style="min-width: 250px"></select>
+          <label for="templateA6">A6:</label>
+          <select id="templateA6" style="min-width: 250px"></select>
+        </div>
+        <div class="group">
+          <span class="group-title">Validade</span>
+          <label for="bulkMonth">Mes:</label>
+          <select id="bulkMonth" style="width:88px"></select>
+          <label for="bulkDay">Dia:</label>
+          <input id="bulkDay" type="number" min="1" max="31" style="width:74px" />
+          <button id="btnDateSel">Data selecionadas</button>
+          <button id="btnValOnSel">Validade ON</button>
+          <button id="btnValOffSel">Validade OFF</button>
+        </div>
+      </div>
+      <div class="search">
+        <input id="searchInput" type="text" placeholder="Buscar produto..." />
+        <button id="btnSearchClear">Limpar</button>
+      </div>
+    </section>
+
+    <section class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th class="col-check">Gerar</th>
+            <th class="col-num">#</th>
+            <th>Produto</th>
+            <th class="col-price">Preco</th>
+            <th class="col-qfmt">Qtd A4</th>
+            <th class="col-qfmt">Qtd A5</th>
+            <th class="col-qfmt">Qtd A6</th>
+            <th class="col-unit">Unidade</th>
+            <th class="col-check">Fr/Vs</th>
+            <th class="col-val">Validade</th>
+            <th class="col-day">Dia</th>
+            <th class="col-month">Mes</th>
+          </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </section>
+
+    <section class="footer">
+      <div id="statusText" class="status">Carregando...</div>
+      <div class="actions">
+        <label><input id="autoPrint" type="checkbox" /> Imprimir ao concluir</label>
+        <label><input id="duplexPrint" type="checkbox" /> Preparar frente e verso</label>
+        <label><input id="shutdownAfterPrint" type="checkbox" /> Desligar ao finalizar</label>
+        <button id="btnCancel">Cancelar</button>
+        <button id="btnSubmit" class="primary">OK - Iniciar geracao</button>
+      </div>
+      <div class="footer-note">
+        Desenvolvido por
+        <a href="https://wa.me/5582999158412" target="_blank" rel="noopener noreferrer">Jeferson</a>
+      </div>
+    </section>
+  </div>
+
+  <div id="loginOverlay" class="__LOGIN_OVERLAY_CLASS__">
+    <div class="login-bg-decoration">
+      <div class="login-blob b1"></div>
+      <div class="login-blob b2"></div>
+      <div class="login-blob b3"></div>
+    </div>
+    <section class="login-shell">
+      <div class="login-panel">
+        <div class="login-header">
+          <h2>Bem-vindo de volta</h2>
+          <p>Use suas credenciais para acessar o sistema.</p>
+        </div>
+
+        <div class="login-form-grid">
+          <div class="login-field">
+            <label for="loginUser">Usuario, e-mail ou telefone</label>
+            <div class="login-input-wrapper">
+              <input id="loginUser" type="text" autocomplete="username" placeholder="Digite seu login" />
+              <svg class="login-field-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M16 7a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 14a7 7 0 0 0-7 7h14a7 7 0 0 0-7-7Z" />
+              </svg>
+            </div>
+          </div>
+
+          <div class="login-field">
+            <label for="loginPassword">Senha</label>
+            <div class="login-input-wrapper">
+              <input id="loginPassword" type="password" autocomplete="current-password" placeholder="Digite sua senha" />
+              <svg class="login-field-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M6 20h12a2 2 0 0 0 2-2v-6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2Z" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M8 10V7a4 4 0 1 1 8 0v3" />
+              </svg>
+              <button type="button" class="login-toggle-password" id="togglePassword" aria-label="Mostrar senha">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7Z" />
+                </svg>
+              </button>
+            </div>
+          </div>
+
+          <div class="login-options-row">
+            <label class="login-remember">
+              <input id="remember24h" type="checkbox" />
+              <span class="login-checkmark">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+                </svg>
+              </span>
+              <span>Lembrar por <strong id="sessionHoursLabel">24</strong>h</span>
+            </label>
+            <button id="btnForgotPassword" type="button" class="login-link-btn">Esqueci minha senha</button>
+          </div>
+
+          <div class="login-actions">
+            <button id="btnLogin" type="button" class="primary">Entrar</button>
+            <button id="btnLoginCancel" type="button" class="secondary">Cancelar</button>
+          </div>
+
+          <div id="noticeBox" class="login-notice"></div>
+          <div class="login-meta"><span id="loginStatus">Aguardando credenciais.</span></div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    const INITIAL_AUTH = __INITIAL_AUTH_JSON__;
+    const state = {
+      rows: [],
+      month: 0,
+      year: 0,
+      max_day: 31,
+      ai: { enabled: false, running: false, done: true, processed: 0, total: 0, current: "" },
+      template_options: [],
+      templates: { A4: "", A5: "", A6: "" },
+      auth: {
+        logged_in: false,
+        user: null,
+        permissions: {},
+        roles: ["Dev", "Admin", "Gerador de Placas"],
+      },
+    };
+    const body = document.getElementById("tableBody");
+    const statusText = document.getElementById("statusText");
+    const heroStats = document.getElementById("heroStats");
+    const aiStatus = document.getElementById("aiStatus");
+    const authLabel = document.getElementById("authLabel");
+    const btnUserMenu = document.getElementById("btnUserMenu");
+    const userChipAvatar = document.getElementById("userChipAvatar");
+    const userChipName = document.getElementById("userChipName");
+    const userChipRole = document.getElementById("userChipRole");
+    const btnLogout = document.getElementById("btnLogout");
+    const userMenuPanel = document.getElementById("userMenuPanel");
+    const menuInfoNome = document.getElementById("menuInfoNome");
+    const menuInfoUsuario = document.getElementById("menuInfoUsuario");
+    const menuInfoEmail = document.getElementById("menuInfoEmail");
+    const menuInfoPerfil = document.getElementById("menuInfoPerfil");
+    const menuSessionInfo = document.getElementById("menuSessionInfo");
+    const userMenuDevSection = document.getElementById("userMenuDevSection");
+    const menuNewUserNome = document.getElementById("menuNewUserNome");
+    const menuNewUserUsuario = document.getElementById("menuNewUserUsuario");
+    const menuNewUserEmail = document.getElementById("menuNewUserEmail");
+    const menuNewUserPhone = document.getElementById("menuNewUserPhone");
+    const menuNewUserSenha = document.getElementById("menuNewUserSenha");
+    const menuNewUserPerfil = document.getElementById("menuNewUserPerfil");
+    const menuBtnCreateUser = document.getElementById("menuBtnCreateUser");
+    const menuBtnLogout = document.getElementById("menuBtnLogout");
+    const progressLabel = document.getElementById("progressLabel");
+    const progressEta = document.getElementById("progressEta");
+    const progressFill = document.getElementById("progressFill");
+    const workflowHeadline = document.getElementById("workflowHeadline");
+    const workflowDetail = document.getElementById("workflowDetail");
+    const workflowRail = document.getElementById("workflowRail");
+    const searchInput = document.getElementById("searchInput");
+    const bulkMonth = document.getElementById("bulkMonth");
+    const bulkDay = document.getElementById("bulkDay");
+    const autoPrint = document.getElementById("autoPrint");
+    const duplexPrint = document.getElementById("duplexPrint");
+    const shutdownAfterPrint = document.getElementById("shutdownAfterPrint");
+    const templateA4 = document.getElementById("templateA4");
+    const templateA5 = document.getElementById("templateA5");
+    const templateA6 = document.getElementById("templateA6");
+    const btnAiSel = document.getElementById("btnAiSel");
+    const btnAddItem = document.getElementById("btnAddItem");
+    const btnDeleteSel = document.getElementById("btnDeleteSel");
+    const devUserGroup = document.getElementById("devUserGroup");
+    const btnCreateUser = document.getElementById("btnCreateUser");
+    const newUserNome = document.getElementById("newUserNome");
+    const newUserUsuario = document.getElementById("newUserUsuario");
+    const newUserEmail = document.getElementById("newUserEmail");
+    const newUserSenha = document.getElementById("newUserSenha");
+    const newUserPerfil = document.getElementById("newUserPerfil");
+    const loginOverlay = document.getElementById("loginOverlay");
+    const loginUser = document.getElementById("loginUser");
+    const loginPassword = document.getElementById("loginPassword");
+    const remember24h = document.getElementById("remember24h");
+    const sessionHoursLabel = document.getElementById("sessionHoursLabel");
+    const loginStatusLabel = document.getElementById("loginStatus");
+    const noticeBox = document.getElementById("noticeBox");
+    const btnLogin = document.getElementById("btnLogin");
+    const btnLoginCancel = document.getElementById("btnLoginCancel");
+    const btnForgotPassword = document.getElementById("btnForgotPassword");
+    const togglePassword = document.getElementById("togglePassword");
+    let progressPollTimer = null;
+    let liveConfigPollTimer = null;
+    let generationMode = false;
+    let lastProgressSnapshot = null;
+    const MONTH_OPTIONS = Array.from({ length: 12 }, (_v, idx) => {
+      const value = String(idx + 1).padStart(2, "0");
+      return `<option value="${value}">${value}</option>`;
+    }).join("");
+
+    function getPermissions() {
+      return state.auth && state.auth.permissions ? state.auth.permissions : {};
+    }
+
+    function can(permissionKey) {
+      return !!getPermissions()[permissionKey];
+    }
+
+    function stopPollingTimers() {
+      if (progressPollTimer) {
+        clearInterval(progressPollTimer);
+        progressPollTimer = null;
+      }
+      if (liveConfigPollTimer) {
+        clearInterval(liveConfigPollTimer);
+        liveConfigPollTimer = null;
+      }
+    }
+
+    function setLoginOverlayVisible(visible) {
+      if (!loginOverlay) return;
+      loginOverlay.classList.toggle("hidden", !visible);
+      if (visible && loginUser) {
+        setTimeout(() => loginUser.focus(), 30);
+      }
+    }
+
+    function setLoginNotice(message, kind) {
+      if (!noticeBox) return;
+      noticeBox.className = `login-notice ${kind}`;
+      noticeBox.textContent = String(message || "");
+    }
+
+    function clearLoginNotice() {
+      if (!noticeBox) return;
+      noticeBox.className = "login-notice";
+      noticeBox.textContent = "";
+    }
+
+    function setUserMenuVisible(visible) {
+      if (!userMenuPanel) return;
+      userMenuPanel.classList.toggle("hidden", !visible);
+      if (btnUserMenu) {
+        btnUserMenu.classList.toggle("is-open", !!visible);
+      }
+    }
+
+    function setMenuInfoValue(el, value) {
+      if (!el) return;
+      const text = String(value || "").trim();
+      el.textContent = text || "--";
+    }
+
+    function formatLocalIso(value) {
+      const dt = value instanceof Date ? value : new Date(value);
+      if (!(dt instanceof Date) || Number.isNaN(dt.getTime())) return "";
+      const pad = (num) => String(Math.trunc(Math.abs(num))).padStart(2, "0");
+      const year = dt.getFullYear();
+      const month = pad(dt.getMonth() + 1);
+      const day = pad(dt.getDate());
+      const hh = pad(dt.getHours());
+      const mm = pad(dt.getMinutes());
+      const ss = pad(dt.getSeconds());
+      const offsetMin = -dt.getTimezoneOffset();
+      const sign = offsetMin >= 0 ? "+" : "-";
+      const offH = pad(Math.floor(Math.abs(offsetMin) / 60));
+      const offM = pad(Math.abs(offsetMin) % 60);
+      return `${year}-${month}-${day}T${hh}:${mm}:${ss}${sign}${offH}:${offM}`;
+    }
+
+    function resolveSessionInfoText() {
+      if (!state.auth.logged_in) return "Sessao encerrada.";
+      let expireRaw = "";
+      if (state.auth.user && state.auth.user.sessao_expira_em) {
+        expireRaw = String(state.auth.user.sessao_expira_em || "").trim();
+      }
+      if (!expireRaw) {
+        try {
+          expireRaw = String(localStorage.getItem("placas_24h_expires_at") || "").trim();
+        } catch (_err) {
+          expireRaw = "";
+        }
+      }
+      if (!expireRaw) return "Sessao ativa sem prazo de 24 horas.";
+      const parsed = new Date(expireRaw);
+      if (Number.isNaN(parsed.getTime())) return `Sessao de 24 horas ate ${expireRaw}`;
+      return `Sessao de 24 horas ate ${formatLocalIso(parsed)}`;
+    }
+
+    function populateRoleSelect(selectEl) {
+      if (!selectEl) return;
+      const options = Array.isArray(state.auth.roles) ? state.auth.roles : [];
+      if (!options.length) return;
+      const previous = String(selectEl.value || "");
+      selectEl.innerHTML = options.map((role) => {
+        const safe = escapeHtml(String(role || ""));
+        return `<option value="${safe}">${safe}</option>`;
+      }).join("");
+      if (options.includes(previous)) {
+        selectEl.value = previous;
+        return;
+      }
+      selectEl.value = options.includes("Gerador de Placas") ? "Gerador de Placas" : String(options[0] || "");
+    }
+
+    function renderAuthStatus(authPayload) {
+      const auth = authPayload && typeof authPayload === "object" ? authPayload : {};
+      state.auth.logged_in = !!auth.logged_in;
+      state.auth.user = auth.user || null;
+      state.auth.permissions = auth.permissions || {};
+      state.auth.roles = Array.isArray(auth.roles) && auth.roles.length ? auth.roles : state.auth.roles;
+      if (document.body) {
+        document.body.classList.remove("auth-pending");
+        document.body.classList.toggle("auth-locked", !state.auth.logged_in);
+      }
+      const profile = state.auth.user ? String(state.auth.user.perfil || "").trim() : "";
+      const nome = state.auth.user ? String(state.auth.user.nome || state.auth.user.usuario || "").trim() : "";
+      const usuario = state.auth.user ? String(state.auth.user.usuario || "").trim() : "";
+      const email = state.auth.user ? String(state.auth.user.email || "").trim() : "";
+      if (authLabel) {
+        authLabel.classList.remove("is-logged", "role-dev", "role-admin", "role-gerador");
+        authLabel.textContent = state.auth.logged_in
+          ? `${nome || "Usuario"} (${profile || "Sem perfil"})`
+          : "Nao autenticado";
+        if (state.auth.logged_in) {
+          authLabel.classList.add("is-logged");
+          const roleKey = normalizeText(profile);
+          if (roleKey.startsWith("dev")) {
+            authLabel.classList.add("role-dev");
+          } else if (roleKey.startsWith("admin")) {
+            authLabel.classList.add("role-admin");
+          } else {
+            authLabel.classList.add("role-gerador");
+          }
+        }
+      }
+      setMenuInfoValue(menuInfoNome, nome);
+      setMenuInfoValue(menuInfoUsuario, usuario);
+      setMenuInfoValue(menuInfoEmail, email);
+      setMenuInfoValue(menuInfoPerfil, profile);
+      if (menuSessionInfo) {
+        menuSessionInfo.textContent = resolveSessionInfoText();
+      }
+      if (userChipName) userChipName.textContent = nome || usuario || "Usuario";
+      if (userChipRole) userChipRole.textContent = profile || "Sem perfil";
+      if (userChipAvatar) {
+        const label = (nome || usuario || "U").trim();
+        userChipAvatar.textContent = label ? label.charAt(0).toUpperCase() : "U";
+      }
+      if (btnUserMenu) btnUserMenu.style.display = state.auth.logged_in ? "" : "none";
+      if (btnLogout) btnLogout.style.display = "none";
+      if (devUserGroup) devUserGroup.style.display = "none";
+      if (userMenuDevSection) userMenuDevSection.style.display = can("can_manage_users") ? "" : "none";
+      populateRoleSelect(newUserPerfil);
+      populateRoleSelect(menuNewUserPerfil);
+      applyPermissionsToUi();
+      setLoginOverlayVisible(!state.auth.logged_in);
+      if (!state.auth.logged_in) {
+        setUserMenuVisible(false);
+        stopPollingTimers();
+        if (loginStatusLabel) loginStatusLabel.textContent = "Aguardando credenciais.";
+      } else {
+        clearLoginNotice();
+        if (loginStatusLabel) loginStatusLabel.textContent = `Acesso liberado para ${nome || "usuario"}.`;
+      }
+    }
+
+    function applyPermissionsToUi() {
+      if (btnAiSel) btnAiSel.disabled = !can("can_use_ai_cleanup");
+      [templateA4, templateA5, templateA6].forEach((el) => {
+        if (!el) return;
+        el.disabled = !can("can_manage_templates");
+      });
+      if (btnAddItem) btnAddItem.disabled = !can("can_configure_plates");
+      if (btnDeleteSel) btnDeleteSel.disabled = !can("can_configure_plates");
+    }
+
+    function redirectToLoginPage() {
+      if (document.body) {
+        document.body.classList.add("auth-locked");
+      }
+      window.location.replace("/");
+    }
+
+    async function apiFetch(url, options = {}) {
+      const resp = await fetch(url, options);
+      if (resp.status === 401) {
+        generationMode = false;
+        statusText.textContent = "Sessao expirada. Faca login novamente.";
+        renderAuthStatus({ logged_in: false, roles: state.auth.roles });
+        setTimeout(redirectToLoginPage, 0);
+        throw new Error("Nao autenticado");
+      }
+      return resp;
+    }
+
+    function monthMaxDay(monthValue) {
+      const month = Math.max(1, Math.min(12, Number(monthValue || state.month || 1)));
+      const year = Math.max(1, Number(state.year || new Date().getFullYear()));
+      return new Date(year, month, 0).getDate();
+    }
+
+    function normalizeMonth(monthValue) {
+      const month = Math.max(1, Math.min(12, Number(monthValue || state.month || 1)));
+      return String(month).padStart(2, "0");
+    }
+
+    function clampDayToMonth(row) {
+      const maxDay = monthMaxDay(row.offer_validity_month);
+      const current = Number(row.offer_validity_day || 1);
+      if (!Number.isFinite(current) || current < 1) {
+        row.offer_validity_day = 1;
+        return;
+      }
+      if (current > maxDay) {
+        row.offer_validity_day = maxDay;
+      }
+    }
+
+    function normalizeText(value) {
+      return (value || "")
+        .toString()
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\\u0300-\\u036f]/g, "")
+        .replace(/[^a-z0-9]+/g, "");
+    }
+
+    function escapeHtml(value) {
+      return (value || "")
+        .toString()
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function formatDuration(totalSeconds) {
+      const sec = Math.max(0, Number(totalSeconds || 0));
+      const hh = Math.floor(sec / 3600);
+      const mm = Math.floor((sec % 3600) / 60);
+      const ss = Math.floor(sec % 60);
+      if (hh > 0) return `${hh}h ${String(mm).padStart(2, "0")}m ${String(ss).padStart(2, "0")}s`;
+      return `${mm}m ${String(ss).padStart(2, "0")}s`;
+    }
+
+    function disableEditingForGeneration() {
+      document.querySelectorAll(".panel button, .panel input, .panel select, .table-wrap input, .table-wrap select")
+        .forEach(el => { el.disabled = true; });
+      const cancelBtn = document.getElementById("btnCancel");
+      if (cancelBtn) cancelBtn.disabled = true;
+      const submitBtn = document.getElementById("btnSubmit");
+      if (submitBtn) submitBtn.disabled = true;
+    }
+
+    function updateProgressBar(percentValue, etaText) {
+      const safePercent = Math.max(0, Math.min(100, Number(percentValue || 0)));
+      if (progressFill) progressFill.style.width = `${safePercent.toFixed(1)}%`;
+      if (progressLabel) progressLabel.textContent = `Progresso: ${safePercent.toFixed(1)}%`;
+      if (progressEta) progressEta.textContent = `Tempo estimado restante: ${etaText || "--"}`;
+    }
+
+    function computeWorkflowState() {
+      const ai = state.ai || {};
+      const progress = lastProgressSnapshot || {};
+      let activeKey = "waiting";
+      let headline = "Fluxo inteligente em espera";
+      let detail = "A IA vai mostrar cada etapa enquanto trabalha.";
+
+      if (generationMode || String(progress.phase || "").trim()) {
+        const phase = String(progress.phase || "").trim();
+        headline = String(progress.phase_label || "Processando");
+        detail = String(progress.phase_detail || "Executando a etapa atual.");
+        if (["opening_corel"].includes(phase)) activeKey = "analyzing";
+        else if (["config_submitted", "preparing", "grouping", "print_prepare"].includes(phase)) activeKey = "correcting";
+        else if (["running"].includes(phase)) activeKey = "generating";
+        else if (["printing", "printing_done", "printing_errors", "print_skip"].includes(phase)) activeKey = "printing";
+        else if (["finished", "finished_with_errors", "stopped", "cancelled"].includes(phase)) activeKey = "done";
+      } else if (ai.running) {
+        const aiPhase = String(ai.phase || "").trim();
+        headline = String(ai.label || "IA trabalhando");
+        detail = String(ai.detail || "A IA esta revisando os itens.");
+        if (["analyzing", "queue_ready"].includes(aiPhase)) activeKey = "analyzing";
+        else if (["researching", "correcting", "learning"].includes(aiPhase)) activeKey = "correcting";
+      } else if (ai.done) {
+        headline = String(ai.label || "Pronto para gerar");
+        detail = String(ai.detail || "As correcoes terminaram e a tela esta pronta.");
+      }
+
+      return {
+        activeKey,
+        headline,
+        detail,
+        steps: [
+          { key: "analyzing", icon: "🔎", title: "Analisando", desc: "Lendo contexto, sinais do item e verificando dados." },
+          { key: "correcting", icon: "🧠", title: "Corrigindo", desc: "Aplicando IA, pesquisa web e salvando aprendizado." },
+          { key: "waiting", icon: "📋", title: "Aguardando", desc: "Tela pronta para revisar, editar e confirmar." },
+          { key: "generating", icon: "🏷️", title: "Gerando placas", desc: "Criando e acompanhando o desenvolvimento das placas." },
+          { key: "printing", icon: "🖨️", title: "Mandando imprimir", desc: "Preparando jobs e enviando para a impressora." },
+          { key: "done", icon: "✅", title: "Finalizado", desc: "Processo concluido, interrompido ou cancelado." },
+        ],
+      };
+    }
+
+    function renderWorkflow() {
+      if (!workflowRail) return;
+      const flow = computeWorkflowState();
+      const order = flow.steps.map(step => step.key);
+      const activeIndex = order.indexOf(flow.activeKey);
+      if (workflowHeadline) workflowHeadline.textContent = flow.headline;
+      if (workflowDetail) workflowDetail.textContent = flow.detail;
+      workflowRail.innerHTML = flow.steps.map((step, idx) => {
+        const classes = ["workflow-step"];
+        if (idx < activeIndex) classes.push("is-done");
+        else if (idx === activeIndex) classes.push("is-active");
+        else classes.push("is-waiting");
+        return `
+          <div class="${classes.join(" ")}">
+            <div class="workflow-icon">${step.icon}</div>
+            <div class="workflow-title">${step.title}</div>
+            <div class="workflow-desc">${step.desc}</div>
+          </div>
+        `;
+      }).join("");
+    }
+
+    function renderGenerationStatus(progress) {
+      if (!progress || typeof progress !== "object") return;
+      lastProgressSnapshot = progress;
+      const total = Number(progress.total_jobs || 0);
+      const done = Number(progress.completed_jobs || 0);
+      const failed = Number(progress.failed_jobs || 0);
+      const processed = Number(progress.processed_jobs || (done + failed) || 0);
+      const elapsed = formatDuration(progress.elapsed_seconds || 0);
+      const progressPercent = Number(progress.progress_percent || (total > 0 ? (processed / total) * 100 : 0));
+      const etaSeconds = Number(progress.estimated_remaining_seconds || 0);
+      let etaText = "--";
+      if (total > 0) {
+        if (processed >= total) etaText = "concluido";
+        else if (etaSeconds > 0) etaText = formatDuration(etaSeconds);
+        else etaText = "calculando...";
+      }
+      const currentIdx = Number(progress.current_job_index || 0);
+      const currentName = String(progress.current_plate_name || "").trim();
+      const currentFmt = String(progress.current_plate_format || "").trim();
+      const currentLabel = currentName
+        ? `${currentIdx > 0 ? "#" + currentIdx + " " : ""}${currentName}${currentFmt ? " (" + currentFmt + ")" : ""}`
+        : "aguardando";
+      const failedItems = Array.isArray(progress.failed_items) ? progress.failed_items : [];
+      const failedNames = failedItems
+        .slice(-3)
+        .map(item => String(item.plate_name || "").trim())
+        .filter(Boolean)
+        .join(", ");
+      const failedInfo = failedNames ? ` | Falhas: ${failedNames}` : "";
+      statusText.textContent =
+        `Tempo: ${elapsed} | Feitas: ${done}/${total} | Erros: ${failed} | Atual: ${currentLabel}${failedInfo}`;
+      updateProgressBar(progressPercent, etaText);
+      renderWorkflow();
+    }
+
+    function renderAiStatus(ai) {
+      state.ai = ai && typeof ai === "object" ? ai : state.ai;
+      if (!aiStatus) return;
+      const currentName = String((state.ai && state.ai.current) || "").trim();
+      if (!state.ai || !state.ai.enabled) {
+        aiStatus.innerHTML = `<span class="stat-pill">IA: desligada</span>`;
+        renderWorkflow();
+        return;
+      }
+      if (state.ai.done && !state.ai.running) {
+        aiStatus.innerHTML = `<span class="stat-pill">IA: correcoes concluidas (${Number(state.ai.processed || 0)}/${Number(state.ai.total || 0)})</span>`;
+        renderWorkflow();
+        return;
+      }
+      aiStatus.innerHTML = `
+        <span class="stat-pill">IA corrigindo: <b>${Number(state.ai.processed || 0)}/${Number(state.ai.total || 0)}</b></span>
+        <span class="stat-pill">Pesquisa web: <b>ativa</b></span>
+        <span class="stat-pill">Atual: <b>${escapeHtml(currentName || "aguardando")}</b></span>
+      `;
+      renderWorkflow();
+    }
+
+    async function pollProgressOnce() {
+      try {
+        if (!state.auth.logged_in) return;
+        const resp = await apiFetch("/progress");
+        if (!resp.ok) return;
+        const progress = await resp.json();
+        renderGenerationStatus(progress);
+      } catch (_err) {
+        // Ignora falhas de polling para nao travar a UI.
+      }
+    }
+
+    function startProgressPolling() {
+      if (progressPollTimer) return;
+      pollProgressOnce();
+      progressPollTimer = setInterval(pollProgressOnce, 700);
+    }
+
+    function mergeLiveRows(incomingRows) {
+      if (!Array.isArray(incomingRows) || !incomingRows.length) return;
+      const changedIndexes = new Set();
+      incomingRows.forEach((incoming) => {
+        const incomingSourceIdx = incoming && incoming.source_idx;
+        if (incomingSourceIdx === null || incomingSourceIdx === undefined) return;
+        const idx = state.rows.findIndex((row) => Number(row.source_idx) === Number(incomingSourceIdx));
+        if (idx < 0) return;
+        const current = state.rows[idx];
+        if (!current._nameTouched && String(incoming.name || "").trim() && incoming.name !== current.name) {
+          current.name = incoming.name;
+          changedIndexes.add(idx);
+        }
+        if (!current._unitTouched && String(incoming.unit || "").trim() && incoming.unit !== current.unit) {
+          current.unit = incoming.unit;
+          changedIndexes.add(idx);
+        }
+        if (!String(current.original_name || "").trim() && String(incoming.original_name || "").trim()) {
+          current.original_name = incoming.original_name;
+          changedIndexes.add(idx);
+        }
+        if (String(incoming.cleanup_source || "").trim() && incoming.cleanup_source !== current.cleanup_source) {
+          current.cleanup_source = incoming.cleanup_source;
+          changedIndexes.add(idx);
+        }
+      });
+      if (!changedIndexes.size) return;
+      changedIndexes.forEach((idx) => syncRowDom(idx));
+      refreshStatus();
+    }
+
+    async function pollLiveConfigOnce() {
+      try {
+        if (!state.auth.logged_in) return;
+        const resp = await apiFetch("/live-config");
+        if (!resp.ok) return;
+        const data = await resp.json();
+        mergeLiveRows(data.items || []);
+        renderAiStatus(data.ai || {});
+        if (data.auth && typeof data.auth === "object") {
+          renderAuthStatus({
+            logged_in: true,
+            user: data.auth.user,
+            permissions: data.auth.permissions,
+            roles: state.auth.roles,
+          });
+        }
+        renderWorkflow();
+      } catch (_err) {
+        // Ignora falhas de polling para nao travar a tela.
+      }
+    }
+
+    function startLiveConfigPolling() {
+      if (liveConfigPollTimer) return;
+      pollLiveConfigOnce();
+      liveConfigPollTimer = setInterval(pollLiveConfigOnce, 1200);
+    }
+
+    function rowVisible(row) {
+      const query = normalizeText(searchInput.value);
+      if (!query) return true;
+      return normalizeText(row.name).includes(query);
+    }
+
+    function nextManualIndex() {
+      return state.rows.reduce((acc, row) => Math.max(acc, Number(row.index || 0)), 0) + 1;
+    }
+
+    function createManualRow() {
+      const monthValue = Number((bulkMonth && bulkMonth.value) || state.month || 1);
+      const dayValue = Number((bulkDay && bulkDay.value) || 1);
+      return {
+        source_idx: null,
+        index: nextManualIndex(),
+        enabled: true,
+        name: "",
+        original_name: "",
+        price: "",
+        qty_a4: 1,
+        qty_a5: 0,
+        qty_a6: 0,
+        unit: "KG",
+        cleanup_source: "manual_add",
+        duplex_enabled: false,
+        offer_validity_enabled: false,
+        offer_validity_day: dayValue,
+        offer_validity_month: monthValue,
+        manual_item: true,
+        _nameTouched: true,
+        _unitTouched: false,
+      };
+    }
+
+    function refreshStatus() {
+      const visibleRows = state.rows.filter(rowVisible);
+      const selectedRows = state.rows.filter(r => r.enabled);
+      const selectedVisible = visibleRows.filter(r => r.enabled);
+      const a4 = selectedRows.reduce((acc, r) => acc + Math.max(0, Number(r.qty_a4 || 0)), 0);
+      const a5 = selectedRows.reduce((acc, r) => acc + Math.max(0, Number(r.qty_a5 || 0)), 0);
+      const a6 = selectedRows.reduce((acc, r) => acc + Math.max(0, Number(r.qty_a6 || 0)), 0);
+      const totalCopies = a4 + a5 + a6;
+      const withValidity = selectedRows.filter(r => r.offer_validity_enabled).length;
+      const duplexRows = selectedRows.filter(r => r.duplex_enabled).length;
+      if (!generationMode) {
+        statusText.textContent =
+          `Selecionadas: ${selectedRows.length}/${state.rows.length} | ` +
+          `Copias: ${totalCopies} | A4: ${a4} | A5: ${a5} | A6: ${a6} | ` +
+          `Fr/Verso: ${duplexRows} | Validade: ${withValidity} | Visiveis: ${visibleRows.length} | ` +
+          `Selecionadas visiveis: ${selectedVisible.length}`;
+      }
+
+      if (heroStats) {
+        heroStats.innerHTML = `
+          <span class="stat-pill">Selecionadas: <b>${selectedRows.length}</b></span>
+          <span class="stat-pill">Copias: <b>${totalCopies}</b></span>
+          <span class="stat-pill">A4: <b>${a4}</b></span>
+          <span class="stat-pill">A5: <b>${a5}</b></span>
+          <span class="stat-pill">A6: <b>${a6}</b></span>
+          <span class="stat-pill">Fr/Verso: <b>${duplexRows}</b></span>
+          <span class="stat-pill">Validade: <b>${withValidity}</b></span>
+        `;
+      }
+      if (!generationMode) updateProgressBar(0, "--");
+    }
+
+    function renderTemplateSelectors() {
+      const selectors = [
+        { key: "A4", el: templateA4 },
+        { key: "A5", el: templateA5 },
+        { key: "A6", el: templateA6 },
+      ];
+      selectors.forEach(({ key, el }) => {
+        if (!el) return;
+        el.innerHTML = "";
+
+        const autoOption = document.createElement("option");
+        autoOption.value = "";
+        autoOption.textContent = "Automatico";
+        el.appendChild(autoOption);
+
+        (state.template_options || []).forEach((opt) => {
+          const optionEl = document.createElement("option");
+          optionEl.value = String(opt.path || "");
+          optionEl.textContent = String(opt.label || opt.path || "");
+          el.appendChild(optionEl);
+        });
+
+        const selectedValue = String((state.templates && state.templates[key]) || "");
+        el.value = selectedValue;
+      });
+    }
+
+    function updateRowUI(tr, row) {
+      tr.classList.toggle("is-disabled", !row.enabled);
+      const disableRow = !row.enabled;
+      tr.querySelectorAll("[data-field='name'], [data-field='price'], [data-field='qty_a4'], [data-field='qty_a5'], [data-field='qty_a6'], [data-field='unit'], [data-field='duplex_enabled'], [data-field='offer_validity_enabled']")
+        .forEach(el => { el.disabled = disableRow; });
+      const dayInput = tr.querySelector("[data-field='offer_validity_day']");
+      const monthInput = tr.querySelector("[data-field='offer_validity_month']");
+      const maxDay = monthMaxDay(row.offer_validity_month);
+      if (dayInput) dayInput.max = String(maxDay);
+      if (dayInput) dayInput.value = String(Number(row.offer_validity_day || 1));
+      if (monthInput) monthInput.value = normalizeMonth(row.offer_validity_month);
+      if (dayInput) dayInput.disabled = disableRow || !row.offer_validity_enabled;
+      if (monthInput) monthInput.disabled = disableRow || !row.offer_validity_enabled;
+    }
+
+    function createRow(row, idx) {
+      const tr = document.createElement("tr");
+      tr.dataset.idx = String(idx);
+      tr.innerHTML = `
+        <td><input type="checkbox" data-field="enabled" ${row.enabled ? "checked" : ""}></td>
+        <td>${row.index}</td>
+        <td><input type="text" data-field="name" value="${escapeHtml(row.name || "")}"></td>
+        <td><input type="text" data-field="price" value="${escapeHtml(row.price || "")}"></td>
+        <td><input type="number" min="0" max="999" data-field="qty_a4" value="${Number(row.qty_a4 || 0)}"></td>
+        <td><input type="number" min="0" max="999" data-field="qty_a5" value="${Number(row.qty_a5 || 0)}"></td>
+        <td><input type="number" min="0" max="999" data-field="qty_a6" value="${Number(row.qty_a6 || 0)}"></td>
+        <td>
+          <select data-field="unit">
+            <option value="KG" ${row.unit === "KG" ? "selected" : ""}>KG</option>
+            <option value="UNID" ${row.unit === "UNID" ? "selected" : ""}>UNID</option>
+            <option value="PCT." ${row.unit === "PCT." ? "selected" : ""}>PCT.</option>
+            <option value="BDJ." ${row.unit === "BDJ." ? "selected" : ""}>BDJ.</option>
+            <option value="PACK." ${row.unit === "PACK." ? "selected" : ""}>PACK.</option>
+          </select>
+        </td>
+        <td><input type="checkbox" data-field="duplex_enabled" ${row.duplex_enabled ? "checked" : ""}></td>
+        <td><input type="checkbox" data-field="offer_validity_enabled" ${row.offer_validity_enabled ? "checked" : ""}></td>
+        <td><input type="number" min="1" max="${monthMaxDay(row.offer_validity_month)}" data-field="offer_validity_day" value="${Number(row.offer_validity_day || 1)}"></td>
+        <td>
+          <select data-field="offer_validity_month">
+            ${MONTH_OPTIONS}
+          </select>
+        </td>
+      `;
+      const monthEl = tr.querySelector("[data-field='offer_validity_month']");
+      if (monthEl) monthEl.value = normalizeMonth(row.offer_validity_month);
+      updateRowUI(tr, row);
+      tr.style.display = rowVisible(row) ? "" : "none";
+      body.appendChild(tr);
+    }
+
+    function renderTable() {
+      body.innerHTML = "";
+      state.rows.forEach((row, idx) => createRow(row, idx));
+      refreshStatus();
+    }
+
+    function syncRowDom(idx) {
+      const tr = body.querySelector(`tr[data-idx="${idx}"]`);
+      if (!tr || idx < 0 || idx >= state.rows.length) return;
+      const row = state.rows[idx];
+      const nameEl = tr.querySelector("[data-field='name']");
+      const priceEl = tr.querySelector("[data-field='price']");
+      const qtyA4El = tr.querySelector("[data-field='qty_a4']");
+      const qtyA5El = tr.querySelector("[data-field='qty_a5']");
+      const qtyA6El = tr.querySelector("[data-field='qty_a6']");
+      const unitEl = tr.querySelector("[data-field='unit']");
+      if (nameEl && document.activeElement !== nameEl) nameEl.value = String(row.name || "");
+      if (priceEl && document.activeElement !== priceEl) priceEl.value = String(row.price || "");
+      if (qtyA4El && document.activeElement !== qtyA4El) qtyA4El.value = String(Number(row.qty_a4 || 0));
+      if (qtyA5El && document.activeElement !== qtyA5El) qtyA5El.value = String(Number(row.qty_a5 || 0));
+      if (qtyA6El && document.activeElement !== qtyA6El) qtyA6El.value = String(Number(row.qty_a6 || 0));
+      if (unitEl && document.activeElement !== unitEl) unitEl.value = String(row.unit || "KG");
+      updateRowUI(tr, row);
+      tr.style.display = rowVisible(row) ? "" : "none";
+    }
+
+    function applyFilterOnly() {
+      const rows = body.querySelectorAll("tr");
+      rows.forEach(tr => {
+        const idx = Number(tr.dataset.idx || "-1");
+        if (!Number.isFinite(idx) || idx < 0 || idx >= state.rows.length) return;
+        tr.style.display = rowVisible(state.rows[idx]) ? "" : "none";
+      });
+      refreshStatus();
+    }
+
+    function setAllEnabled(value) {
+      state.rows.forEach(r => { r.enabled = value; });
+      renderTable();
+    }
+
+    function forSelected(callback) {
+      state.rows.forEach(r => { if (r.enabled) callback(r); });
+    }
+
+    function getBulkDay() {
+      const selectedMonth = bulkMonth ? Number(bulkMonth.value || state.month || 1) : Number(state.month || 1);
+      const maxDay = monthMaxDay(selectedMonth);
+      const parsed = Number(bulkDay.value || 0);
+      if (!Number.isFinite(parsed) || parsed < 1 || parsed > maxDay) {
+        alert(`Informe um dia entre 1 e ${maxDay}.`);
+        return null;
+      }
+      return parsed;
+    }
+
+    function syncRowsFromDom() {
+      const rows = body.querySelectorAll("tr");
+      rows.forEach(tr => {
+        const idx = Number(tr.dataset.idx || "-1");
+        if (!Number.isFinite(idx) || idx < 0 || idx >= state.rows.length) return;
+        const row = state.rows[idx];
+
+        const enabledEl = tr.querySelector("[data-field='enabled']");
+        const nameEl = tr.querySelector("[data-field='name']");
+        const priceEl = tr.querySelector("[data-field='price']");
+        const qtyA4El = tr.querySelector("[data-field='qty_a4']");
+        const qtyA5El = tr.querySelector("[data-field='qty_a5']");
+        const qtyA6El = tr.querySelector("[data-field='qty_a6']");
+        const unitEl = tr.querySelector("[data-field='unit']");
+        const duplexEl = tr.querySelector("[data-field='duplex_enabled']");
+        const validityEl = tr.querySelector("[data-field='offer_validity_enabled']");
+        const validityDayEl = tr.querySelector("[data-field='offer_validity_day']");
+        const validityMonthEl = tr.querySelector("[data-field='offer_validity_month']");
+
+        row.enabled = !!(enabledEl && enabledEl.checked);
+        row.name = nameEl ? nameEl.value : row.name;
+        row.price = priceEl ? priceEl.value : row.price;
+        row.qty_a4 = qtyA4El ? Number(qtyA4El.value || row.qty_a4 || 0) : row.qty_a4;
+        row.qty_a5 = qtyA5El ? Number(qtyA5El.value || row.qty_a5 || 0) : row.qty_a5;
+        row.qty_a6 = qtyA6El ? Number(qtyA6El.value || row.qty_a6 || 0) : row.qty_a6;
+        row.unit = unitEl ? unitEl.value : row.unit;
+        row.duplex_enabled = !!(duplexEl && duplexEl.checked);
+        row.offer_validity_enabled = !!(validityEl && validityEl.checked);
+        row.offer_validity_day = validityDayEl
+          ? Number(validityDayEl.value || row.offer_validity_day || 1)
+          : row.offer_validity_day;
+        row.offer_validity_month = validityMonthEl
+          ? Number(validityMonthEl.value || row.offer_validity_month || state.month || 1)
+          : row.offer_validity_month;
+        clampDayToMonth(row);
+        row.original_name = String(row.original_name || row.name || "").trim();
+      });
+    }
+
+    function syncTemplatesFromDom() {
+      if (!can("can_manage_templates")) return;
+      state.templates = {
+        A4: templateA4 ? String(templateA4.value || "") : "",
+        A5: templateA5 ? String(templateA5.value || "") : "",
+        A6: templateA6 ? String(templateA6.value || "") : "",
+      };
+    }
+
+    async function submitConfig() {
+      syncRowsFromDom();
+      syncTemplatesFromDom();
+      try {
+        const resp = await apiFetch("/submit", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            rows: state.rows,
+            auto_print: !!(autoPrint && autoPrint.checked),
+            duplex_print: !!(duplexPrint && duplexPrint.checked),
+            shutdown_after_print: !!(shutdownAfterPrint && shutdownAfterPrint.checked),
+            templates: state.templates,
+          }),
+        });
+        const data = await resp.json().catch(() => ({}));
+        if (!resp.ok || !data.ok) {
+          alert(data.error || "Falha ao validar configuracao.");
+          return;
+        }
+      } catch (_err) {
+        return;
+      }
+      generationMode = true;
+      disableEditingForGeneration();
+      statusText.textContent = "Configuracao enviada. Aguardando inicio da geracao...";
+      renderWorkflow();
+      startProgressPolling();
+    }
+
+    async function correctSelectedWithAi() {
+      if (!can("can_use_ai_cleanup")) {
+        alert("Seu perfil nao possui permissao para usar correcao com IA.");
+        return;
+      }
+      syncRowsFromDom();
+      const selected = state.rows
+        .map((row, idx) => row.enabled ? { ...row, client_idx: idx } : null)
+        .filter(Boolean);
+      if (!selected.length) {
+        alert("Selecione ao menos um item para corrigir com a IA.");
+        return;
+      }
+      statusText.textContent = `IA corrigindo ${selected.length} item(ns) selecionado(s)...`;
+      let resp = null;
+      try {
+        resp = await apiFetch("/ai-cleanup", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ rows: selected }),
+        });
+      } catch (_err) {
+        return;
+      }
+      const data = await resp.json().catch(() => ({}));
+      if (!resp.ok || !data.ok) {
+        alert(data.error || "Falha ao corrigir com IA.");
+        refreshStatus();
+        return;
+      }
+      (Array.isArray(data.updates) ? data.updates : []).forEach((update) => {
+        let idx = Number(update.client_idx);
+        if (!Number.isFinite(idx) || idx < 0 || idx >= state.rows.length) {
+          idx = state.rows.findIndex((row) => Number(row.source_idx) === Number(update.source_idx));
+        }
+        if (idx < 0 || idx >= state.rows.length) return;
+        const row = state.rows[idx];
+        row.name = String(update.name || row.name || "");
+        row.original_name = String(update.original_name || row.original_name || row.name || "");
+        row.unit = String(update.unit || row.unit || "KG");
+        row.cleanup_source = String(update.cleanup_source || row.cleanup_source || "ollama");
+        row._nameTouched = false;
+        row._unitTouched = false;
+        syncRowDom(idx);
+      });
+      refreshStatus();
+      statusText.textContent = `IA corrigiu ${selected.length} item(ns).`;
+    }
+
+    async function cancelConfig() {
+      try {
+        await apiFetch("/cancel", { method: "POST" });
+      } catch (_err) {
+        return;
+      }
+      statusText.textContent = "Cancelado.";
+    }
+
+    async function refreshAuthStatus() {
+      const resp = await fetch("/auth/status");
+      const data = await resp.json().catch(() => ({}));
+      renderAuthStatus({
+        logged_in: !!data.logged_in,
+        user: data.user || null,
+        permissions: data.permissions || {},
+        roles: Array.isArray(data.roles) ? data.roles : state.auth.roles,
+      });
+    }
+
+    async function loadDataAfterAuth() {
+      generationMode = false;
+      lastProgressSnapshot = null;
+      stopPollingTimers();
+      const resp = await apiFetch("/data");
+      const data = await resp.json();
+      state.month = Number(data.month || 0);
+      state.year = Number(data.year || 0);
+      state.max_day = Number(data.max_day || 31);
+      state.rows = data.items || [];
+      if (data.auth && typeof data.auth === "object") {
+        renderAuthStatus({
+          logged_in: true,
+          user: data.auth.user || state.auth.user,
+          permissions: data.auth.permissions || state.auth.permissions,
+          roles: state.auth.roles,
+        });
+      }
+      state.rows.forEach(row => {
+        row.original_name = String(row.original_name || row.name || "").trim();
+        row.cleanup_source = String(row.cleanup_source || "manual");
+        row._nameTouched = false;
+        row._unitTouched = false;
+        row.offer_validity_month = Number(row.offer_validity_month || data.default_month || data.month || 1);
+        row.offer_validity_day = Number(row.offer_validity_day || data.default_day || 1);
+        clampDayToMonth(row);
+      });
+      state.ai = data.ai || state.ai;
+      const templates = data.templates || {};
+      state.template_options = Array.isArray(templates.available) ? templates.available : [];
+      state.templates = {
+        A4: String((templates.defaults && templates.defaults.A4) || ""),
+        A5: String((templates.defaults && templates.defaults.A5) || ""),
+        A6: String((templates.defaults && templates.defaults.A6) || ""),
+      };
+      if (autoPrint) autoPrint.checked = !!data.auto_print_default;
+      if (duplexPrint) duplexPrint.checked = !!data.duplex_print_default;
+      if (shutdownAfterPrint) shutdownAfterPrint.checked = !!data.shutdown_after_print_default;
+      if (bulkMonth) {
+        bulkMonth.innerHTML = MONTH_OPTIONS;
+        bulkMonth.value = normalizeMonth(Number(data.default_month || state.month || 1));
+      }
+      if (btnAiSel) btnAiSel.disabled = !state.ai.enabled || !can("can_use_ai_cleanup");
+      const initialBulkMaxDay = monthMaxDay(bulkMonth ? Number(bulkMonth.value) : state.month);
+      bulkDay.max = String(initialBulkMaxDay);
+      bulkDay.value = String(Math.min(initialBulkMaxDay, Number(data.default_day || 1)));
+      renderTemplateSelectors();
+      applyPermissionsToUi();
+      renderTable();
+      renderAiStatus(state.ai || {});
+      renderWorkflow();
+      startLiveConfigPolling();
+    }
+
+    async function createUserFromFields(refs) {
+      if (!can("can_manage_users")) {
+        alert("Somente perfil Dev pode criar usuarios.");
+        return;
+      }
+      const nomeEl = refs && refs.nome ? refs.nome : null;
+      const usuarioEl = refs && refs.usuario ? refs.usuario : null;
+      const emailEl = refs && refs.email ? refs.email : null;
+      const telefoneEl = refs && refs.telefone ? refs.telefone : null;
+      const senhaEl = refs && refs.senha ? refs.senha : null;
+      const perfilEl = refs && refs.perfil ? refs.perfil : null;
+      const payload = {
+        nome: nomeEl ? String(nomeEl.value || "").trim() : "",
+        usuario: usuarioEl ? String(usuarioEl.value || "").trim() : "",
+        email: emailEl ? String(emailEl.value || "").trim() : "",
+        telefone: telefoneEl ? String(telefoneEl.value || "").trim() : "",
+        senha: senhaEl ? String(senhaEl.value || "") : "",
+        perfil: perfilEl ? String(perfilEl.value || "Gerador de Placas") : "Gerador de Placas",
+      };
+      if (!payload.usuario || !payload.senha) {
+        alert("Informe usuario e senha para criar o cadastro.");
+        return;
+      }
+      if (payload.senha.length < 6) {
+        alert("A senha deve ter no minimo 6 caracteres.");
+        return;
+      }
+      let resp = null;
+      try {
+        resp = await apiFetch("/auth/users", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload),
+        });
+      } catch (_err) {
+        return;
+      }
+      const data = await resp.json().catch(() => ({}));
+      if (!resp.ok || !data.ok) {
+        alert(data.error || "Falha ao criar usuario.");
+        return;
+      }
+      if (nomeEl) nomeEl.value = "";
+      if (usuarioEl) usuarioEl.value = "";
+      if (emailEl) emailEl.value = "";
+      if (telefoneEl) telefoneEl.value = "";
+      if (senhaEl) senhaEl.value = "";
+      if (perfilEl) perfilEl.value = "Gerador de Placas";
+      const syncLabel = data.saved_remote ? "sincronizado no GitHub" : "salvo apenas no cache local";
+      alert(`Usuario criado com sucesso (${syncLabel}).`);
+    }
+
+    async function createUserFromDevPanel() {
+      await createUserFromFields({
+        nome: newUserNome,
+        usuario: newUserUsuario,
+        email: newUserEmail,
+        senha: newUserSenha,
+        perfil: newUserPerfil,
+      });
+    }
+
+    async function createUserFromLoggedMenu() {
+      await createUserFromFields({
+        nome: menuNewUserNome,
+        usuario: menuNewUserUsuario,
+        email: menuNewUserEmail,
+        telefone: menuNewUserPhone,
+        senha: menuNewUserSenha,
+        perfil: menuNewUserPerfil,
+      });
+    }
+
+    async function submitLogin() {
+      const identifier = loginUser ? String(loginUser.value || "").trim() : "";
+      const password = loginPassword ? String(loginPassword.value || "").trim() : "";
+      const remember = !!(remember24h && remember24h.checked);
+      if (!identifier || !password) {
+        setLoginNotice("Informe usuario e senha para continuar.", "error");
+        return;
+      }
+      clearLoginNotice();
+      if (loginStatusLabel) loginStatusLabel.textContent = "Validando acesso...";
+      let resp = null;
+      try {
+        resp = await fetch("/login", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ usuario: identifier, senha: password, remember_24h: remember }),
+        });
+      } catch (_err) {
+        if (loginStatusLabel) loginStatusLabel.textContent = "Acesso negado.";
+        setLoginNotice("Falha de conexao ao autenticar.", "error");
+        return;
+      }
+      const data = await resp.json().catch(() => ({}));
+      if (!resp.ok || !data.ok) {
+        if (loginStatusLabel) loginStatusLabel.textContent = "Acesso negado.";
+        setLoginNotice(String(data.error || "Falha no login."), "error");
+        if (loginPassword) {
+          loginPassword.value = "";
+          loginPassword.focus();
+        }
+        return;
+      }
+      if (loginStatusLabel) loginStatusLabel.textContent = `Acesso liberado para ${data.nome || identifier}.`;
+      try {
+        if (remember) {
+          const expireAt = data && data.user && data.user.sessao_expira_em
+            ? String(data.user.sessao_expira_em || "").trim()
+            : formatLocalIso(new Date(Date.now() + (24 * 60 * 60 * 1000)));
+          localStorage.setItem("placas_24h_expires_at", expireAt);
+        } else {
+          localStorage.removeItem("placas_24h_expires_at");
+        }
+      } catch (_err) {
+        // Ignora indisponibilidade de storage no navegador.
+      }
+      setLoginNotice("Login realizado com sucesso. O programa vai continuar.", "success");
+      renderAuthStatus({
+        logged_in: true,
+        user: data.user || null,
+        permissions: data.permissions || {},
+        roles: Array.isArray(data.roles) ? data.roles : state.auth.roles,
+      });
+      if (loginPassword) loginPassword.value = "";
+      await loadDataAfterAuth();
+    }
+
+    async function logoutCurrentUser() {
+      await fetch("/logout", { method: "POST" }).catch(() => null);
+      try {
+        localStorage.removeItem("placas_24h_expires_at");
+      } catch (_err) {
+        // Ignora indisponibilidade de storage no navegador.
+      }
+      state.rows = [];
+      body.innerHTML = "";
+      statusText.textContent = "Sessao encerrada.";
+      renderAuthStatus({ logged_in: false, roles: state.auth.roles });
+      setTimeout(redirectToLoginPage, 0);
+    }
+
+    async function init() {
+      if (INITIAL_AUTH && typeof INITIAL_AUTH === "object" && INITIAL_AUTH.logged_in) {
+        renderAuthStatus(INITIAL_AUTH);
+      }
+      await refreshAuthStatus();
+      if (!state.auth.logged_in) {
+        statusText.textContent = "Faca login para continuar.";
+        return;
+      }
+      await loadDataAfterAuth();
+    }
+
+    function handleRowFieldEvent(event) {
+      const target = event.target;
+      const tr = target.closest("tr");
+      if (!tr) return;
+      const idx = Number(tr.dataset.idx || "-1");
+      if (!Number.isFinite(idx) || idx < 0 || idx >= state.rows.length) return;
+      const row = state.rows[idx];
+      const field = target.dataset.field;
+      if (!field) return;
+
+      if (field === "enabled" || field === "offer_validity_enabled" || field === "duplex_enabled") {
+        row[field] = !!target.checked;
+        if (field === "enabled" || field === "offer_validity_enabled") {
+          updateRowUI(tr, row);
+          applyFilterOnly();
+          return;
+        }
+        refreshStatus();
+        return;
+      }
+      if (field === "qty_a4" || field === "qty_a5" || field === "qty_a6" || field === "offer_validity_day" || field === "offer_validity_month") {
+        row[field] = Number(target.value || 0);
+        if (field === "offer_validity_month") {
+          row.offer_validity_month = Number(normalizeMonth(row.offer_validity_month));
+        }
+        if (field === "offer_validity_day" || field === "offer_validity_month") {
+          clampDayToMonth(row);
+          updateRowUI(tr, row);
+        }
+      } else {
+        row[field] = target.value;
+        if (field === "name") {
+          row._nameTouched = true;
+          if (!String(row.original_name || "").trim()) {
+            row.original_name = String(target.value || "").trim();
+          }
+        }
+        if (field === "unit") {
+          row._unitTouched = true;
+        }
+      }
+      refreshStatus();
+    }
+
+    body.addEventListener("input", handleRowFieldEvent);
+    body.addEventListener("change", handleRowFieldEvent);
+
+    document.getElementById("btnSelectAll").addEventListener("click", () => setAllEnabled(true));
+    document.getElementById("btnDeselectAll").addEventListener("click", () => setAllEnabled(false));
+    document.getElementById("btnInvert").addEventListener("click", () => {
+      state.rows.forEach(r => { r.enabled = !r.enabled; });
+      renderTable();
+    });
+    document.getElementById("btnAddItem").addEventListener("click", () => {
+      if (!can("can_configure_plates")) {
+        alert("Seu perfil nao pode adicionar itens manualmente.");
+        return;
+      }
+      syncRowsFromDom();
+      state.rows.push(createManualRow());
+      renderTable();
+      const lastIdx = state.rows.length - 1;
+      const input = body.querySelector(`tr[data-idx="${lastIdx}"] [data-field="name"]`);
+      if (input) input.focus();
+    });
+    document.getElementById("btnAiSel").addEventListener("click", correctSelectedWithAi);
+    document.getElementById("btnDeleteSel").addEventListener("click", () => {
+      if (!can("can_configure_plates")) {
+        alert("Seu perfil nao pode excluir itens.");
+        return;
+      }
+      syncRowsFromDom();
+      const selectedCount = state.rows.filter(r => r.enabled).length;
+      if (!selectedCount) {
+        alert("Selecione ao menos um item para excluir.");
+        return;
+      }
+      if (!window.confirm(`Excluir ${selectedCount} item(ns) selecionado(s)?`)) {
+        return;
+      }
+      state.rows = state.rows.filter(r => !r.enabled);
+      renderTable();
+    });
+    document.querySelectorAll("[data-bulk-unit]").forEach(btn => {
+      btn.addEventListener("click", () => { forSelected(r => { r.unit = btn.dataset.bulkUnit; }); renderTable(); });
+    });
+    document.querySelectorAll("[data-bulk-format]").forEach(btn => {
+      btn.addEventListener("click", () => {
+        forSelected(r => {
+          const fmt = btn.dataset.bulkFormat;
+          r.qty_a4 = fmt === "A4" ? Math.max(1, Number(r.qty_a4 || 1)) : 0;
+          r.qty_a5 = fmt === "A5" ? Math.max(1, Number(r.qty_a5 || 1)) : 0;
+          r.qty_a6 = fmt === "A6" ? Math.max(1, Number(r.qty_a6 || 1)) : 0;
+        });
+        renderTable();
+      });
+    });
+    document.getElementById("btnDuplexOnSel").addEventListener("click", () => {
+      forSelected(r => { r.duplex_enabled = true; });
+      renderTable();
+    });
+    document.getElementById("btnDuplexOffSel").addEventListener("click", () => {
+      forSelected(r => { r.duplex_enabled = false; });
+      renderTable();
+    });
+    document.getElementById("btnDateSel").addEventListener("click", () => {
+      const day = getBulkDay();
+      if (day == null) return;
+      const month = bulkMonth ? Number(bulkMonth.value || state.month || 1) : Number(state.month || 1);
+      forSelected(r => {
+        r.offer_validity_month = month;
+        r.offer_validity_day = day;
+        clampDayToMonth(r);
+      });
+      renderTable();
+    });
+    if (bulkMonth) {
+      bulkMonth.addEventListener("change", () => {
+        const maxDay = monthMaxDay(Number(bulkMonth.value || state.month || 1));
+        bulkDay.max = String(maxDay);
+        const currentDay = Number(bulkDay.value || 1);
+        if (!Number.isFinite(currentDay) || currentDay < 1) {
+          bulkDay.value = "1";
+        } else if (currentDay > maxDay) {
+          bulkDay.value = String(maxDay);
+        }
+      });
+    }
+    document.getElementById("btnValOnSel").addEventListener("click", () => {
+      forSelected(r => { r.offer_validity_enabled = true; });
+      renderTable();
+    });
+    document.getElementById("btnValOffSel").addEventListener("click", () => {
+      forSelected(r => { r.offer_validity_enabled = false; });
+      renderTable();
+    });
+    [templateA4, templateA5, templateA6].forEach((el) => {
+      if (!el) return;
+      el.addEventListener("change", syncTemplatesFromDom);
+    });
+    searchInput.addEventListener("input", applyFilterOnly);
+    document.getElementById("btnSearchClear").addEventListener("click", () => {
+      searchInput.value = "";
+      applyFilterOnly();
+    });
+    document.getElementById("btnSubmit").addEventListener("click", submitConfig);
+    document.getElementById("btnCancel").addEventListener("click", cancelConfig);
+    if (btnCreateUser) btnCreateUser.addEventListener("click", createUserFromDevPanel);
+    if (menuBtnCreateUser) menuBtnCreateUser.addEventListener("click", createUserFromLoggedMenu);
+    if (btnUserMenu) {
+      btnUserMenu.addEventListener("click", (event) => {
+        event.preventDefault();
+        event.stopPropagation();
+        const isHidden = !userMenuPanel || userMenuPanel.classList.contains("hidden");
+        setUserMenuVisible(isHidden);
+      });
+    }
+    if (authLabel) {
+      authLabel.addEventListener("click", (event) => {
+        if (!state.auth.logged_in) return;
+        event.preventDefault();
+        event.stopPropagation();
+        const isHidden = !userMenuPanel || userMenuPanel.classList.contains("hidden");
+        setUserMenuVisible(isHidden);
+      });
+    }
+    if (userMenuPanel) {
+      userMenuPanel.addEventListener("click", (event) => {
+        event.stopPropagation();
+      });
+    }
+    document.addEventListener("click", () => {
+      setUserMenuVisible(false);
+    });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") {
+        setUserMenuVisible(false);
+      }
+    });
+    if (btnLogin) btnLogin.addEventListener("click", submitLogin);
+    if (btnLoginCancel) {
+      btnLoginCancel.addEventListener("click", async () => {
+        clearLoginNotice();
+        try {
+          await fetch("/cancel", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ cancelled: true }),
+          });
+        } catch (_err) {
+          setLoginNotice("Nao foi possivel cancelar o acesso.", "error");
+        }
+      });
+    }
+    if (btnForgotPassword) {
+      btnForgotPassword.addEventListener("click", async () => {
+        const identifier = loginUser ? String(loginUser.value || "").trim() : "";
+        if (!identifier) {
+          setLoginNotice("Informe usuario, e-mail ou telefone para solicitar.", "error");
+          return;
+        }
+        try {
+          const resp = await fetch("/auth/forgot-password", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ identifier }),
+          });
+          const data = await resp.json().catch(() => ({}));
+          if (!resp.ok || !data.ok) {
+            setLoginNotice(String(data.error || "Nao foi possivel enviar a solicitacao."), "error");
+            return;
+          }
+          setLoginNotice(String(data.message || "Solicitacao recebida."), "success");
+        } catch (_err) {
+          setLoginNotice("Falha de conexao ao solicitar redefinicao.", "error");
+        }
+      });
+    }
+    if (togglePassword && loginPassword) {
+      togglePassword.addEventListener("click", () => {
+        const isPassword = loginPassword.getAttribute("type") === "password";
+        loginPassword.setAttribute("type", isPassword ? "text" : "password");
+      });
+    }
+    if (loginUser) {
+      loginUser.addEventListener("keydown", (event) => {
+        if (event.key === "Enter") {
+          event.preventDefault();
+          submitLogin();
+        }
+      });
+    }
+    if (loginPassword) {
+      loginPassword.addEventListener("keydown", (event) => {
+        if (event.key === "Enter") {
+          event.preventDefault();
+          submitLogin();
+        }
+      });
+    }
+    if (btnLogout) btnLogout.addEventListener("click", logoutCurrentUser);
+    if (menuBtnLogout) menuBtnLogout.addEventListener("click", logoutCurrentUser);
+    if (sessionHoursLabel) sessionHoursLabel.textContent = "24";
+
+    init().catch((err) => {
+      if (document.body) {
+        document.body.classList.remove("auth-pending");
+        document.body.classList.add("auth-locked");
+      }
+      statusText.textContent = "Falha ao carregar dados.";
+      alert("Erro ao inicializar interface web: " + String(err));
+    });
+  </script>
+</body>
+</html>
