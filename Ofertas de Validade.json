@@ -4074,5 +4074,25 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "04/04/2026",
+    "hora": "10:45:57",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Gourmet Queijo 140g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Gourmet Lolitella 140g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
