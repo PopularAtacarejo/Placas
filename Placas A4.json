@@ -630,5 +630,21 @@
     "produto": "Granola Tia Sonia Tradicional 200g",
     "preco": "9,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-04",
+    "horario": "09:38:57",
+    "feito_por": "Jeferson",
+    "produto": "Waflle Forno De Minas Light/Integral 280g",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-04",
+    "horario": "09:38:57",
+    "feito_por": "Jeferson",
+    "produto": "Ling Calab Grossa Gran Campeiro Kg",
+    "preco": "23,98",
+    "validade_oferta_ate": "05/04/2026"
   }
 ]
