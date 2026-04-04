@@ -4094,5 +4094,27 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "04/04/2026",
+    "hora": "10:49:34",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Terere Tradicional 500g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/04/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Terere Abacaxi 500g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/04/2026"
+      }
+    ]
   }
 ]
