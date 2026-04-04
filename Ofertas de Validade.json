@@ -3982,5 +3982,37 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "04/04/2026",
+    "hora": "08:36:25",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Liq Ninho 3 Sabores Bdj 540g",
+        "preco": "7,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra Whey Bar Creamy Chocolate 38g",
+        "preco": "5,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Ovos Codorna Bdj C/30 Und",
+        "preco": "6,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Betania Familia 1,250kg Diversos",
+        "preco": "13,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
