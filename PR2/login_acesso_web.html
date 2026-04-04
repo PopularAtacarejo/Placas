@@ -1,0 +1,435 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Acesso ao Sistema</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --bg-start:#f0f4f8;
+      --bg-end:#d9e2ec;
+      --surface:#ffffff;
+      --border:#e0e7ef;
+      --text:#102a43;
+      --muted:#627d98;
+      --accent:#0052cc;
+      --accent-hover:#003e9c;
+      --accent-soft:#e6f0ff;
+      --danger:#d92550;
+      --success:#00a96e;
+      --radius:16px;
+      --shadow-soft:0 4px 6px -1px rgba(0,0,0,.05),0 2px 4px -1px rgba(0,0,0,.03);
+      --shadow-card:0 20px 50px -12px rgba(16,42,67,.15);
+    }
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{
+      font-family:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+      background:linear-gradient(135deg,var(--bg-start) 0%,var(--bg-end) 100%);
+      min-height:100vh;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      padding:20px;
+      position:relative;
+      overflow:hidden;
+      color:var(--text);
+    }
+    .bg-decoration{
+      position:fixed;
+      inset:0;
+      z-index:0;
+      overflow:hidden;
+      pointer-events:none;
+    }
+    .blob{
+      position:absolute;
+      border-radius:50%;
+      filter:blur(60px);
+      opacity:.6;
+      animation:float 20s infinite alternate;
+    }
+    .blob-1{top:-10%;left:-5%;width:40vw;height:40vw;background:#c3d9ff;animation-delay:0s}
+    .blob-2{bottom:-10%;right:-5%;width:50vw;height:50vw;background:#b5f5e0;animation-delay:-5s}
+    .blob-3{top:40%;left:50%;width:30vw;height:30vw;background:#e0c3fc;animation-delay:-10s}
+    @keyframes float{
+      0%{transform:translate(0,0) scale(1)}
+      100%{transform:translate(30px,50px) scale(1.1)}
+    }
+    .shell{
+      position:relative;
+      z-index:1;
+      width:100%;
+      max-width:440px;
+      background:rgba(255,255,255,.85);
+      backdrop-filter:blur(12px);
+      border-radius:24px;
+      box-shadow:var(--shadow-card);
+      border:1px solid rgba(255,255,255,.6);
+      overflow:hidden;
+      animation:slideUp .6s cubic-bezier(.16,1,.3,1);
+    }
+    @keyframes slideUp{
+      from{opacity:0;transform:translateY(30px)}
+      to{opacity:1;transform:translateY(0)}
+    }
+    .panel{padding:48px 40px}
+    .header{text-align:center;margin-bottom:32px}
+    .header h2{
+      font-size:26px;
+      font-weight:700;
+      letter-spacing:-.5px;
+      color:var(--text);
+      margin-bottom:8px;
+    }
+    .header p{
+      font-size:14px;
+      color:var(--muted);
+      line-height:1.5;
+    }
+    .form-grid{
+      display:flex;
+      flex-direction:column;
+      gap:20px;
+    }
+    .field{position:relative}
+    .field label{
+      display:block;
+      font-size:12px;
+      font-weight:600;
+      text-transform:uppercase;
+      letter-spacing:.5px;
+      color:var(--muted);
+      margin-bottom:8px;
+    }
+    .input-wrapper{
+      position:relative;
+      width:100%;
+    }
+    .input-wrapper .field-icon{
+      position:absolute;
+      left:16px;
+      top:50%;
+      transform:translateY(-50%);
+      width:20px;
+      height:20px;
+      color:var(--muted);
+      pointer-events:none;
+      transition:color .2s;
+    }
+    .field input{
+      width:100%;
+      height:52px;
+      padding:0 16px 0 48px;
+      border:1.5px solid var(--border);
+      border-radius:var(--radius);
+      font-family:inherit;
+      font-size:15px;
+      color:var(--text);
+      background:#fff;
+      transition:all .2s ease;
+      box-shadow:var(--shadow-soft);
+    }
+    .field input:focus{
+      outline:none;
+      border-color:var(--accent);
+      box-shadow:0 0 0 3px rgba(0,82,204,.15);
+    }
+    .field input:focus ~ .field-icon,
+    .field input:focus + .field-icon{
+      color:var(--accent);
+    }
+    .input-wrapper .toggle-password{
+      position:absolute;
+      right:14px;
+      top:50%;
+      transform:translateY(-50%);
+      background:none;
+      border:none;
+      cursor:pointer;
+      color:var(--muted);
+      padding:4px;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      width:auto;
+      height:auto;
+      border-radius:10px;
+      box-shadow:none;
+    }
+    .input-wrapper .toggle-password:hover{
+      background:#f7f9fc;
+      color:var(--accent);
+      transform:translateY(-50%);
+    }
+    .input-wrapper .toggle-password svg{
+      width:22px;
+      height:22px;
+    }
+    .options-row{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      margin-top:4px;
+      font-size:13px;
+    }
+    .remember{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      cursor:pointer;
+      color:var(--muted);
+      user-select:none;
+    }
+    .remember input{display:none}
+    .checkmark{
+      width:18px;
+      height:18px;
+      border:2px solid var(--border);
+      border-radius:5px;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      transition:all .2s;
+      flex:0 0 auto;
+    }
+    .remember input:checked + .checkmark{
+      background:var(--accent);
+      border-color:var(--accent);
+    }
+    .checkmark svg{
+      color:#fff;
+      width:12px;
+      height:12px;
+      opacity:0;
+      transform:scale(.5);
+      transition:all .2s;
+    }
+    .remember input:checked + .checkmark svg{
+      opacity:1;
+      transform:scale(1);
+    }
+    .actions{
+      margin-top:4px;
+      display:flex;
+      flex-direction:column;
+      gap:12px;
+    }
+    button{
+      width:100%;
+      height:50px;
+      border:none;
+      border-radius:var(--radius);
+      font-family:inherit;
+      font-size:15px;
+      font-weight:600;
+      cursor:pointer;
+      transition:all .2s ease;
+      position:relative;
+      overflow:hidden;
+    }
+    button.primary{
+      background:var(--accent);
+      color:#fff;
+      box-shadow:0 4px 12px rgba(0,82,204,.25);
+    }
+    button.primary:hover{
+      background:var(--accent-hover);
+      transform:translateY(-1px);
+      box-shadow:0 6px 16px rgba(0,82,204,.35);
+    }
+    button.secondary{
+      background:transparent;
+      color:var(--muted);
+      border:1px solid var(--border);
+    }
+    button.secondary:hover{
+      background:#f7f9fc;
+      border-color:#c3d0db;
+    }
+    .notice{
+      margin-top:-4px;
+      padding:12px 16px;
+      border-radius:12px;
+      font-size:13px;
+      display:none;
+      align-items:center;
+      gap:10px;
+    }
+    .notice.error{display:flex;background:#fff0f3;color:var(--danger);border:1px solid #ffd9e0}
+    .notice.success{display:flex;background:#e6fff4;color:var(--success);border:1px solid #b5f5d8}
+    .meta{
+      text-align:center;
+      margin-top:4px;
+      font-size:12px;
+      color:#8799a9;
+    }
+    @media (max-width:480px){
+      .panel{padding:32px 24px}
+      .header h2{font-size:22px}
+    }
+  </style>
+</head>
+<body>
+  <div class="bg-decoration">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+  </div>
+
+  <script id="initial-state" type="application/json">__INITIAL_STATE__</script>
+
+  <div class="shell">
+    <section class="panel">
+      <div class="header">
+        <h2>Bem-vindo de volta</h2>
+        <p>Use suas credenciais para acessar o sistema.</p>
+      </div>
+
+      <div class="form-grid">
+        <div class="field">
+          <label for="loginUser">Usuario, e-mail ou telefone</label>
+          <div class="input-wrapper">
+            <input id="loginUser" type="text" autocomplete="username" placeholder="Digite seu login" />
+            <svg class="field-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M16 7a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 14a7 7 0 0 0-7 7h14a7 7 0 0 0-7-7Z" />
+            </svg>
+          </div>
+        </div>
+
+        <div class="field">
+          <label for="loginPassword">Senha</label>
+          <div class="input-wrapper">
+            <input id="loginPassword" type="password" autocomplete="current-password" placeholder="Digite sua senha" />
+            <svg class="field-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 15v2" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M6 20h12a2 2 0 0 0 2-2v-6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2Z" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M8 10V7a4 4 0 1 1 8 0v3" />
+            </svg>
+            <button type="button" class="toggle-password" id="togglePassword" aria-label="Mostrar senha">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7Z" />
+              </svg>
+            </button>
+          </div>
+        </div>
+
+        <div class="options-row">
+          <label class="remember">
+            <input id="remember24h" type="checkbox" />
+            <span class="checkmark">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+            </span>
+            <span>Lembrar por <strong id="sessionHoursLabel">24</strong>h</span>
+          </label>
+        </div>
+
+        <div class="actions">
+          <button id="btnLogin" type="button" class="primary">Entrar</button>
+          <button id="btnCancel" type="button" class="secondary">Cancelar</button>
+        </div>
+
+        <div id="noticeBox" class="notice"></div>
+
+        <div class="meta">
+          <span id="loginStatus">Aguardando credenciais.</span>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    const initialState = JSON.parse(document.getElementById("initial-state").textContent);
+    const refs = {
+      loginUser: document.getElementById("loginUser"),
+      loginPassword: document.getElementById("loginPassword"),
+      remember24h: document.getElementById("remember24h"),
+      sessionHoursLabel: document.getElementById("sessionHoursLabel"),
+      loginStatus: document.getElementById("loginStatus"),
+      noticeBox: document.getElementById("noticeBox"),
+      btnLogin: document.getElementById("btnLogin"),
+      btnCancel: document.getElementById("btnCancel"),
+      togglePassword: document.getElementById("togglePassword")
+    };
+
+    function setNotice(message, kind) {
+      refs.noticeBox.className = `notice ${kind}`;
+      refs.noticeBox.textContent = message;
+    }
+
+    function clearNotice() {
+      refs.noticeBox.className = "notice";
+      refs.noticeBox.textContent = "";
+    }
+
+    async function postJson(url, payload) {
+      const response = await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload)
+      });
+      const data = await response.json().catch(() => ({}));
+      if (!response.ok || !data.ok) throw new Error(data.error || "Falha ao validar o acesso.");
+      return data;
+    }
+
+    async function submitLogin() {
+      clearNotice();
+      const usuario = String(refs.loginUser.value || "").trim();
+      const senha = String(refs.loginPassword.value || "").trim();
+      if (!usuario || !senha) {
+        setNotice("Informe usuario e senha para continuar.", "error");
+        return;
+      }
+      refs.loginStatus.textContent = "Validando acesso...";
+      try {
+        const data = await postJson("/login", { usuario, senha, remember_24h: refs.remember24h.checked });
+        refs.loginStatus.textContent = `Acesso liberado para ${data.nome || usuario}.`;
+        setNotice("Login realizado com sucesso. O programa vai continuar.", "success");
+      } catch (error) {
+        refs.loginStatus.textContent = "Acesso negado.";
+        setNotice(error.message || String(error), "error");
+        refs.loginPassword.value = "";
+        refs.loginPassword.focus();
+      }
+    }
+
+    refs.togglePassword.addEventListener("click", () => {
+      const type = refs.loginPassword.getAttribute("type") === "password" ? "text" : "password";
+      refs.loginPassword.setAttribute("type", type);
+      refs.togglePassword.querySelector("svg").style.opacity = type === "password" ? "1" : ".55";
+    });
+
+    refs.sessionHoursLabel.textContent = String(initialState.session_hours || 24);
+
+    refs.btnLogin.addEventListener("click", submitLogin);
+    refs.btnCancel.addEventListener("click", async () => {
+      try {
+        await postJson("/cancel", { cancelled: true });
+      } catch (_error) {
+        setNotice("Nao foi possivel cancelar o acesso.", "error");
+      }
+    });
+    refs.loginUser.addEventListener("keydown", (event) => {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        submitLogin();
+      }
+    });
+    refs.loginPassword.addEventListener("keydown", (event) => {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        submitLogin();
+      }
+    });
+
+    refs.loginUser.focus();
+  </script>
+</body>
+</html>

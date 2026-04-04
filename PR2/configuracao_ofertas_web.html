@@ -1,0 +1,1274 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Configuracao das ofertas</title>
+  <style>
+    :root{--bg:#e8eef5;--surface:#fff;--surface-soft:#f6f9fc;--border:#d3dfeb;--text:#1d2b3a;--muted:#5f7285;--accent:#0f69c8;--accent-2:#0b4f97;--ok:#dff4e8;--ok-border:#97d0b4;--error:#fde8e8;--error-border:#e3a4a4}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:"Segoe UI",Tahoma,Arial,sans-serif;color:var(--text);background:radial-gradient(circle at 14% 0%,#f6fbff 0%,#eef4fb 35%,var(--bg) 100%)}
+    .page{max-width:1760px;margin:0 auto;padding:12px;display:grid;gap:10px;min-height:100vh}
+    .hero,.panel,.table-wrap,.side-card,.footer{background:var(--surface);border:1px solid var(--border);border-radius:14px;box-shadow:0 6px 22px rgba(25,45,66,.08)}
+    .hero{padding:12px 14px;border-left:4px solid var(--accent)}
+    .hero-topbar{display:flex;justify-content:space-between;align-items:flex-start;gap:14px;flex-wrap:wrap}
+    .hero h1{margin:0;font-size:18px;font-weight:700}
+    .hero p{margin:4px 0 0;color:var(--muted);font-size:12px}
+    .user-menu{position:relative;display:grid;justify-items:end;gap:8px}
+    .user-trigger{display:inline-flex;align-items:center;gap:10px;padding:8px 12px;border-radius:999px;border:1px solid #d3dfeb;background:linear-gradient(180deg,#ffffff 0%,#f4f8fc 100%);box-shadow:0 8px 20px rgba(22,47,72,.08);cursor:pointer}
+    .user-avatar{width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(180deg,#0f69c8 0%,#0b4f97 100%);color:#fff;font-size:13px;font-weight:700}
+    .user-copy{display:grid;gap:2px;text-align:left}
+    .user-copy strong{font-size:13px;color:#234059}
+    .user-copy span{font-size:11px;color:#62778c}
+    .user-panel{position:absolute;top:100%;right:0;z-index:5;min-width:260px;padding:12px;border-radius:16px;border:1px solid var(--border);background:#fff;box-shadow:0 18px 34px rgba(19,43,67,.14);display:none;gap:10px}
+    .user-panel.open{display:grid}
+    .user-panel strong{font-size:14px;color:#223f59}
+    .user-panel span{font-size:12px;color:#63788d;line-height:1.45}
+    .user-panel .user-line{display:grid;gap:2px;padding-bottom:8px;border-bottom:1px solid #e7eff7}
+    .user-panel .user-switch{display:grid;gap:8px;padding-top:8px;border-top:1px solid #e7eff7}
+    .user-panel .user-switch-title{font-size:12px;font-weight:700;color:#28445c}
+    .user-panel .user-switch-grid{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+    .user-panel .user-switch-grid .full{grid-column:1/-1}
+    .user-panel .user-switch input[type="text"],
+    .user-panel .user-switch input[type="password"]{min-height:32px;font-size:12px;padding:5px 8px}
+    .user-panel .user-switch button{min-height:34px;font-size:12px}
+    .user-panel .user-switch .inline-toggle{display:flex;align-items:center;gap:6px;font-size:11px;color:#5f7285}
+    .user-panel .user-switch .inline-toggle input{margin:0}
+    .user-panel .user-switch-status{font-size:11px;color:#5f7285}
+    .user-panel .user-admin{display:grid;gap:8px;padding-top:8px;border-top:1px solid #e7eff7}
+    .user-panel .user-admin-title{font-size:12px;font-weight:700;color:#28445c}
+    .user-panel .user-admin-grid{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+    .user-panel .user-admin-grid .full{grid-column:1/-1}
+    .user-panel .user-admin input[type="text"],
+    .user-panel .user-admin input[type="password"],
+    .user-panel .user-admin select{min-height:32px;font-size:12px;padding:5px 8px}
+    .user-panel .user-admin button{min-height:34px;font-size:12px}
+    .user-panel .user-admin-status{font-size:11px;color:#5f7285}
+    .user-panel .user-actions{display:flex;justify-content:flex-end;gap:8px;padding-top:2px}
+    .user-panel .danger{border-color:#ebc5cb;color:#9b3142;background:#fff7f8}
+    .hero-stats{margin-top:6px;display:flex;flex-wrap:wrap;gap:6px}
+    .hero-stat{padding:6px 9px;background:var(--surface-soft);border:1px solid var(--border);border-radius:999px;font-size:11px;color:#4b6278}
+    .workflow-panel{margin-top:8px;display:grid;gap:8px}
+    .workflow-head{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-size:12px;color:#46617a}
+    .workflow-rail{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+    .workflow-step{border:1px solid var(--border);background:linear-gradient(180deg,#fff 0%,#f5f9fd 100%);border-radius:14px;padding:10px;min-height:74px}
+    .workflow-step.is-active{border-color:#68aee9;box-shadow:0 10px 26px rgba(41,102,164,.14)}
+    .workflow-step.is-done{border-color:#97d0b4;background:linear-gradient(180deg,#f8fffb 0%,#eefaf3 100%)}
+    .workflow-icon{width:34px;height:34px;border-radius:12px;display:inline-flex;align-items:center;justify-content:center;background:#eef6ff;color:#285d93;border:1px solid #d7e6f4;font-size:0;margin-bottom:8px}
+    .workflow-icon svg{width:16px;height:16px;stroke:currentColor;stroke-width:1.9;fill:none;stroke-linecap:round;stroke-linejoin:round}
+    .workflow-title{font-size:12px;font-weight:700;color:#28445c}
+    .workflow-desc{margin-top:3px;font-size:11px;line-height:1.32;color:#5f7285}
+    .intake{padding:0;overflow:hidden}
+    .intake-shell{display:grid;grid-template-columns:190px minmax(0,1.45fr) 230px minmax(360px,.92fr);align-items:start}
+    .intake-side{padding:14px 14px;background:linear-gradient(180deg,#f7fbff 0%,#eef5fb 100%);border-right:1px solid var(--border);display:grid;align-content:start;gap:10px}
+    .intake-heading h2{margin:0;font-size:18px;line-height:1.1}
+    .intake-heading p{margin:5px 0 0;font-size:11px;line-height:1.45;color:#5d7288}
+    .intake-pills{display:flex;flex-wrap:wrap;gap:6px}
+    .intake-pill{padding:5px 9px;border-radius:999px;border:1px solid #d6e3ef;background:#fff;font-size:10px;font-weight:600;letter-spacing:.2px;color:#48647d}
+    .intake-mode{display:grid;gap:8px}
+    .intake-mode input{position:absolute;opacity:0;pointer-events:none}
+    .intake-option{position:relative;display:grid;gap:4px;padding:11px 11px 11px 40px;border:1px solid var(--border);border-radius:14px;background:rgba(255,255,255,.82);cursor:pointer;transition:border-color .2s ease,box-shadow .2s ease,transform .2s ease}
+    .intake-option:hover{border-color:#9fbfe0;box-shadow:0 8px 24px rgba(34,73,108,.08);transform:translateY(-1px)}
+    .intake-option::before{content:"";position:absolute;left:12px;top:13px;width:16px;height:16px;border-radius:50%;border:1.8px solid #8ea8c0;background:#fff;box-shadow:inset 0 0 0 4px #fff}
+    .intake-option.active{border-color:#6eaee7;background:linear-gradient(180deg,#ffffff 0%,#f4f9ff 100%);box-shadow:0 12px 28px rgba(31,93,154,.12)}
+    .intake-option.active::before{border-color:#0f69c8;box-shadow:inset 0 0 0 4px #fff;background:#0f69c8}
+    .intake-option strong{font-size:13px;color:#24435d}
+    .intake-option span{font-size:10px;line-height:1.4;color:#61778d}
+    .intake-stage{display:grid;gap:6px;padding-top:4px}
+    .intake-stage strong{font-size:11px;letter-spacing:.3px;text-transform:uppercase;color:#4f6980}
+    .intake-stage ul{margin:0;padding-left:18px;color:#5c7287;font-size:11px;line-height:1.55}
+    .intake-main{padding:14px;display:grid;grid-template-rows:auto auto;gap:12px;background:#fff;min-width:0}
+    .intake-topbar{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:start;gap:12px}
+    .intake-topbar .side-title{display:block}
+    .intake-topbar .side-title h2{margin:0;font-size:16px}
+    .intake-topbar .side-title span{display:block;margin-top:3px;font-size:11px;color:#607488}
+    .intake-status-badge{padding:6px 10px;border-radius:999px;border:1px solid #d7e5f2;background:#f6fbff;font-size:11px;font-weight:600;color:#3f678d}
+    .intake-fields{display:grid;gap:10px}
+    .intake-card{border:1px solid var(--border);border-radius:18px;background:linear-gradient(180deg,#ffffff 0%,#f8fbfe 100%);padding:14px;display:grid;align-content:start;gap:10px}
+    .intake-card-head{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;flex-wrap:wrap}
+    .intake-card-head h3{margin:0;font-size:14px;color:#22405a}
+    .intake-card-head p{margin:3px 0 0;font-size:11px;line-height:1.4;color:#62778c}
+    .input-chip{padding:5px 8px;border-radius:999px;background:#eef5fc;border:1px solid #dbe8f4;font-size:10px;font-weight:700;color:#50708d;text-transform:uppercase;letter-spacing:.25px}
+    .file-dropzone{position:relative;display:grid;place-items:center;gap:8px;padding:22px 18px;border:1px dashed #9db9d4;border-radius:16px;background:radial-gradient(circle at top,#f9fcff 0%,#eef5fb 100%);text-align:center;min-height:126px}
+    .file-dropzone strong{font-size:14px;color:#24435d}
+    .file-dropzone span{font-size:11px;line-height:1.45;color:#5f7489;max-width:520px}
+    .file-dropzone input[type="file"]{position:absolute;inset:0;opacity:0;cursor:pointer}
+    .file-dropzone::after{content:"Selecionar arquivo";display:inline-flex;align-items:center;justify-content:center;padding:9px 14px;border-radius:999px;background:#fff;border:1px solid #cfe0ef;font-size:12px;font-weight:700;color:#335a7e;box-shadow:0 6px 14px rgba(29,54,79,.05)}
+    .file-selection{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;padding:9px 10px;border:1px solid #d8e4ef;border-radius:12px;background:#fbfdff}
+    .file-selection strong{font-size:13px;color:#274660}
+    .file-selection span{font-size:12px;color:#63788d}
+    .intake-fields textarea{width:100%;min-height:280px;resize:vertical;border:1px solid #c7d2de;border-radius:16px;padding:14px 15px;font:inherit;line-height:1.65;background:linear-gradient(180deg,#ffffff 0%,#fbfdff 100%);box-shadow:inset 0 1px 2px rgba(19,44,67,.04)}
+    .textarea-meta{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;font-size:11px;color:#5d7489}
+    .intake-actions{padding:14px;background:linear-gradient(180deg,#0f1f33 0%,#16314d 100%);color:#e7f1fb;display:grid;grid-template-rows:auto minmax(0,1fr);align-content:start;align-self:stretch;gap:12px}
+    .action-block{display:grid;gap:10px}
+    .action-block h3{margin:0;font-size:14px;color:#fff}
+    .action-block p{margin:0;font-size:11px;line-height:1.55;color:#bcd0e4}
+    .action-block .primary{width:100%;min-height:46px;border-radius:14px;font-size:17px;font-weight:700;box-shadow:0 12px 28px rgba(7,63,120,.34)}
+    .intake-status-card{padding:10px;border-radius:14px;background:rgba(255,255,255,.08);border:1px solid rgba(194,217,240,.14);display:grid;gap:8px}
+    .intake-status-card strong{font-size:12px;letter-spacing:.28px;text-transform:uppercase;color:#a7c6e2}
+    .intake-status-card .status{color:#f1f7ff;font-size:12px;line-height:1.45}
+    .intake-hint{display:grid;gap:5px;font-size:11px;color:#b7cee4}
+    .intake-hint strong{font-size:11px;text-transform:uppercase;letter-spacing:.24px;color:#dfeeff}
+    .intake-preview-stage{padding:14px 14px 14px 0;background:linear-gradient(180deg,#f9fbfe 0%,#f3f7fb 100%);border-left:1px solid var(--border);display:grid;align-content:start;min-width:0}
+    .intake-preview-shell{display:grid;grid-template-rows:auto auto auto auto;gap:10px;padding:16px;border:1px solid #d8e4ef;border-radius:18px;background:linear-gradient(180deg,#ffffff 0%,#f8fbff 100%);box-shadow:inset 0 1px 0 rgba(255,255,255,.7)}
+    .intake-preview-shell .side-title h2{font-size:15px}
+    .intake-preview-shell .side-title span{font-size:11px}
+    .intake-preview-shell .preview{min-height:110px;background:linear-gradient(180deg,#fbfdff 0%,#f2f7fc 100%);border-color:#d8e4ef;display:grid;align-content:start}
+    .preview.is-empty{place-items:center;text-align:center;color:#607488;font-size:13px;line-height:1.6}
+    .intake-meta{font-size:11px;color:#587086}
+    .panel{padding:10px;display:grid;grid-template-columns:minmax(980px,1fr) minmax(300px,390px);gap:10px;align-items:start}
+    .table-panel{grid-template-columns:minmax(0,1fr)}
+    .toolbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:8px}
+    .toolbar .group{display:flex;flex-wrap:wrap;gap:6px;align-items:center;padding:6px;background:var(--surface-soft);border:1px solid var(--border);border-radius:10px}
+    .group-title{font-size:12px;font-weight:700;color:#4d647a;margin-right:6px;padding:0 4px}
+    button,input,select{font:inherit}
+    button{border:1px solid #c6d3df;background:#fff;color:var(--text);border-radius:8px;padding:6px 10px;cursor:pointer}
+    button.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+    button.primary:hover{background:var(--accent-2)}
+    button:hover{border-color:#93aec5}
+    input[type="text"],select{border:1px solid #c7d2de;border-radius:8px;padding:6px 8px;min-height:34px;background:#fff;width:100%}
+    .table-wrap{overflow:auto;max-height:calc(100vh - 254px)}
+    table{width:100%;border-collapse:separate;border-spacing:0;min-width:1460px}
+    thead th{position:sticky;top:0;z-index:1;background:#f4f8fc;color:#2f4356;font-size:12px;letter-spacing:.2px;text-align:left;padding:10px 8px;border-bottom:1px solid var(--border);box-shadow:inset 0 -1px 0 #dce8f4}
+    tbody td{padding:6px 8px;border-bottom:1px solid #edf2f7;vertical-align:middle}
+    tbody tr:nth-child(even){background:#fbfdff}
+    tbody tr:hover{background:#f4f9ff}
+    .side-stack{display:grid;gap:10px;position:sticky;top:10px}
+    .side-card{padding:10px;display:grid;gap:8px}
+    .top-plate-card{padding:0;border:none;background:transparent;box-shadow:none;gap:10px;align-content:start;min-height:0}
+    .top-plate-card .plate-list{max-height:186px}
+    .side-title{display:flex;justify-content:space-between;align-items:center;gap:8px}
+    .side-title h2{margin:0;font-size:15px}
+    .side-title span{font-size:12px;color:var(--muted)}
+    .stats-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+    .stat-card{border:1px solid var(--border);background:var(--surface-soft);border-radius:12px;padding:10px}
+    .stat-card strong{display:block;font-size:20px;margin-top:4px;color:#234059}
+    .stat-card span{font-size:11px;text-transform:uppercase;letter-spacing:.2px;color:#567189}
+    .filter-block,.range-block{display:grid;gap:8px}
+    .plate-list{display:grid;gap:8px;max-height:260px;overflow:auto}
+    .plate-item{border:1px solid var(--border);background:#fff;border-radius:12px;padding:10px;cursor:pointer}
+    .plate-item.selected{border-color:#69a8e2;background:linear-gradient(180deg,#f7fbff 0%,#edf5fd 100%)}
+    .plate-head{display:flex;justify-content:space-between;gap:8px;font-size:12px;font-weight:700;color:#2b4760;margin-bottom:4px}
+    .plate-body{font-size:12px;color:#546b80;line-height:1.4}
+    .preview{min-height:156px;padding:10px;border-radius:12px;border:1px solid var(--border);background:linear-gradient(180deg,#fbfdff 0%,#f4f8fc 100%);color:#2f4458;white-space:pre-wrap;line-height:1.45;font-size:12px}
+    .notice{display:none;font-size:13px;line-height:1.45;padding:10px 12px;border-radius:10px;border:1px solid transparent}
+    .notice.error{display:block;background:var(--error);border-color:var(--error-border);color:#8c2a2a}
+    .notice.success{display:block;background:var(--ok);border-color:var(--ok-border);color:#1f6a40}
+    .progress-panel{display:grid;gap:8px;padding:10px;border:1px solid var(--border);background:linear-gradient(180deg,#fbfdff 0%,#f3f8fd 100%);border-radius:12px}
+    .progress-meta{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+    .progress-card{padding:10px;border:1px solid var(--border);border-radius:10px;background:#fff}
+    .progress-card span{display:block;font-size:11px;text-transform:uppercase;color:#567189}
+    .progress-card strong{display:block;margin-top:4px;font-size:18px;color:#234059}
+    .progress-bar{width:100%;height:12px;border-radius:999px;background:#dce7f3;overflow:hidden;box-shadow:inset 0 1px 2px rgba(15,48,82,.08)}
+    .progress-fill{width:0%;height:100%;border-radius:inherit;background:linear-gradient(90deg,#0f69c8 0%,#3f9df0 100%);transition:width .35s ease}
+    .footer{display:grid;gap:8px;grid-template-columns:1fr auto;align-items:center;padding:10px}
+    .status{color:#3f5366;font-size:13px}
+    .actions{display:flex;gap:8px;align-items:center}
+    .actions label{display:inline-flex;align-items:center;gap:6px;font-size:13px;color:#38526a;margin-right:6px;white-space:nowrap}
+    .footer-note{grid-column:1/-1;justify-self:end;font-size:11px;color:#6b7d8f}
+    @media (max-width:1280px){.panel,.intake-shell{grid-template-columns:1fr}.side-stack{position:static}.intake-side,.intake-actions,.intake-preview-stage{border-right:none;border-left:none;border-top:1px solid var(--border)}.intake-preview-stage{padding:14px}.intake-topbar{grid-template-columns:1fr}}
+    @media (max-width:900px){.workflow-rail,.progress-meta{grid-template-columns:repeat(2,minmax(0,1fr))}.footer{grid-template-columns:1fr}.actions{flex-wrap:wrap}.intake-topbar,.file-selection,.textarea-meta{align-items:flex-start}}
+  </style>
+</head>
+<body>
+  <script id="initial-state" type="application/json">__INITIAL_STATE__</script>
+  <div class="page">
+    <section class="hero">
+      <div class="hero-topbar">
+        <div>
+          <h1>Configuracao das ofertas</h1>
+          <p>Revise os itens, selecione as placas e siga para a producao.</p>
+        </div>
+        <div class="user-menu" id="userMenu">
+          <button type="button" class="user-trigger" id="userTrigger">
+            <div class="user-avatar" id="userAvatar">U</div>
+            <div class="user-copy">
+              <strong id="userName">Usuario</strong>
+              <span id="userRole">Sessao ativa</span>
+            </div>
+          </button>
+          <div class="user-panel" id="userPanel">
+            <div class="user-line">
+              <strong id="userPanelName">Usuario</strong>
+              <span id="userPanelRole">Sessao ativa</span>
+            </div>
+            <span id="userPanelMeta">Acesso liberado para esta sessao.</span>
+            <div class="user-switch">
+              <span class="user-switch-title">Entrar com outro usuario</span>
+              <div class="user-switch-grid">
+                <input id="switchUserLogin" type="text" class="full" placeholder="Usuario, e-mail ou telefone" />
+                <input id="switchUserPassword" type="password" class="full" placeholder="Senha" />
+                <label class="inline-toggle full">
+                  <input id="switchRemember24h" type="checkbox" />
+                  <span>Lembrar por 24h neste computador</span>
+                </label>
+                <button id="btnSwitchUser" type="button" class="primary full">Entrar com outro usuario</button>
+              </div>
+              <span id="userSwitchStatus" class="user-switch-status">Troque o acesso sem fechar a tela.</span>
+            </div>
+            <div class="user-admin" id="userAdminBox" style="display:none">
+              <span class="user-admin-title">Criar novo usuario</span>
+              <div class="user-admin-grid">
+                <input id="newUserLogin" type="text" placeholder="Usuario" />
+                <input id="newUserName" type="text" placeholder="Nome" />
+                <input id="newUserEmail" type="text" class="full" placeholder="E-mail (opcional)" />
+                <input id="newUserPhone" type="text" class="full" placeholder="Telefone (opcional)" />
+                <select id="newUserLevel" class="full">
+                  <option value="Gerador de Placas">Gerador de Placas</option>
+                  <option value="Desenvolvedor">Desenvolvedor</option>
+                  <option value="Administrador">Administrador</option>
+                </select>
+                <input id="newUserPassword" type="password" class="full" placeholder="Senha (minimo 6 caracteres)" />
+                <button id="btnCreateUser" type="button" class="primary full">Criar usuario no GitHub</button>
+              </div>
+              <span id="userAdminStatus" class="user-admin-status"></span>
+            </div>
+            <div class="user-actions">
+              <button id="btnLogout" type="button" class="danger">Sair da conta</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="hero-stats">
+        <div class="hero-stat">Leitura automatica pronta</div>
+        <div class="hero-stat">Aprendizado local ativo</div>
+        <div class="hero-stat">Recalculo de placas em tempo real</div>
+      </div>
+      <div class="workflow-panel">
+        <div class="workflow-head">
+          <span>Fluxo da operacao</span>
+          <span id="workflowMeta">Etapa ativa: revisao final</span>
+        </div>
+        <div class="workflow-rail">
+          <div class="workflow-step is-done">
+            <div class="workflow-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24"><path d="M4 7.5h16"/><path d="M7 4.5h10a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-11a2 2 0 0 1 2-2Z"/><path d="M9 10.5h6"/><path d="M9 14.5h4"/></svg>
+            </div>
+            <div class="workflow-title">Entrada</div>
+            <div class="workflow-desc">Arquivo ou texto bruto foi carregado e lido pelo sistema.</div>
+          </div>
+          <div class="workflow-step is-done">
+            <div class="workflow-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24"><path d="M6.5 12a5.5 5.5 0 0 1 9.39-3.89"/><path d="M17.5 12a5.5 5.5 0 0 1-9.39 3.89"/><path d="M15.5 5.5h2.8v2.8"/><path d="M8.5 18.5H5.7v-2.8"/></svg>
+            </div>
+            <div class="workflow-title">Limpeza</div>
+            <div class="workflow-desc">Correcao automatica e aprendizado local aplicados quando possivel.</div>
+          </div>
+          <div class="workflow-step is-active">
+            <div class="workflow-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24"><path d="M4.5 6.5h15"/><path d="M4.5 12h15"/><path d="M4.5 17.5h9"/><path d="m16.2 16.3 1.9 1.9 3.4-3.9"/></svg>
+            </div>
+            <div class="workflow-title">Revisao</div>
+            <div class="workflow-desc">Ajuste manual dos itens e selecao das placas que vao para o CorelDRAW.</div>
+          </div>
+          <div class="workflow-step">
+            <div class="workflow-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24"><path d="M7 8.5V6.8A2.8 2.8 0 0 1 9.8 4h4.4A2.8 2.8 0 0 1 17 6.8v1.7"/><path d="M6 10.5h12a2 2 0 0 1 2 2v3.2a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-3.2a2 2 0 0 1 2-2Z"/><path d="M9 14.5h6"/></svg>
+            </div>
+            <div class="workflow-title">Producao</div>
+            <div class="workflow-desc">Ao confirmar, a automacao fecha esta etapa e segue para a producao.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="intake panel" id="analysisPanel">
+      <div class="intake-shell">
+        <aside class="intake-side">
+          <div class="intake-heading">
+            <h2>Entrada e analise</h2>
+            <p>Envie um arquivo ou cole o texto da oferta.</p>
+          </div>
+          <div class="intake-pills">
+            <span class="intake-pill">Leitura local</span>
+            <span class="intake-pill">Correcao inteligente</span>
+            <span class="intake-pill">Aprendizado ativo</span>
+          </div>
+          <div class="intake-mode" id="intakeModeSelector">
+            <label class="intake-option active" data-mode-option="file">
+              <input type="radio" name="intakeMode" value="file" checked />
+              <strong>Arquivo</strong>
+              <span>Excel, PDF, TXT ou MD com leitura automatica no Python.</span>
+            </label>
+            <label class="intake-option" data-mode-option="text">
+              <input type="radio" name="intakeMode" value="text" />
+              <strong>Texto bruto</strong>
+              <span>Mensagem copiada do WhatsApp, e-mail ou lista de ofertas.</span>
+            </label>
+          </div>
+          <div class="intake-stage">
+            <strong>Fluxo desta etapa</strong>
+            <ul>
+              <li>Escolha o modo.</li>
+              <li>Envie ou cole a entrada.</li>
+              <li>Analise e revise os itens.</li>
+            </ul>
+          </div>
+        </aside>
+
+        <div class="intake-main">
+          <div class="intake-topbar">
+            <div class="side-title">
+              <h2>Painel de captura</h2>
+              <span>Escolha o formato da entrada.</span>
+            </div>
+            <div class="intake-status-badge" id="analysisOrigin">Nenhuma entrada analisada nesta sessao</div>
+          </div>
+
+          <div class="intake-fields">
+            <div class="intake-card" id="fileModeBlock">
+              <div class="intake-card-head">
+                <div>
+                  <h3>Importacao por arquivo</h3>
+                  <p>Ideal para planilhas, PDFs e listas exportadas.</p>
+                </div>
+                <span class="input-chip">Modo arquivo</span>
+              </div>
+              <label class="file-dropzone">
+                <input id="fileInput" type="file" />
+                <strong>Solte aqui ou clique para selecionar o arquivo</strong>
+                <span>Excel, PDF, TXT e MD com leitura local.</span>
+              </label>
+              <div class="file-selection">
+                <div>
+                  <strong id="selectedFileName">Nenhum arquivo selecionado</strong>
+                  <span id="selectedFileMeta">Selecione um arquivo para liberar a leitura automatica.</span>
+                </div>
+                <span class="input-chip">Parser local</span>
+              </div>
+            </div>
+
+            <div class="intake-card" id="textModeBlock" style="display:none;">
+              <div class="intake-card-head">
+                <div>
+                  <h3>Texto bruto para parser</h3>
+                  <p>Cole a mensagem completa da oferta para o parser.</p>
+                </div>
+                <span class="input-chip">Modo texto</span>
+              </div>
+              <textarea id="rawTextInput" placeholder="Cole aqui o texto bruto da oferta para analisar..."></textarea>
+              <div class="textarea-meta">
+                <span class="intake-meta">O parser tenta separar descricao, preco e unidade automaticamente.</span>
+                <span id="rawTextStats">0 linha(s) | 0 caractere(s)</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <aside class="intake-actions">
+          <div class="action-block">
+            <h3>Processamento</h3>
+            <p>A analise envia a entrada para o Python, aplica correcoes e atualiza a grade de produtos abaixo.</p>
+            <button id="btnAnalyze" type="button" class="primary">Analisar</button>
+            <div class="intake-status-card">
+              <strong>Status da analise</strong>
+              <div class="status" id="analysisStatus">Aguardando entrada para analisar.</div>
+            </div>
+            <div class="intake-hint">
+              <strong>Dica operacional</strong>
+              <span>Arquivo para exportacoes. Texto bruto para mensagens copiadas.</span>
+            </div>
+          </div>
+        </aside>
+
+        <aside class="intake-preview-stage">
+          <div class="intake-preview-shell">
+            <div class="side-title">
+              <h2>Preview da placa</h2>
+              <span>Atualizacao ao vivo</span>
+            </div>
+            <div class="preview is-empty" id="previewBox">Nenhuma placa selecionada.</div>
+            <div class="side-card top-plate-card" id="plateControls">
+              <div class="side-title">
+                <h2>Placas para producao</h2>
+                <span id="plateSelectionLabel">Todas</span>
+              </div>
+              <div class="filter-block">
+                <input id="plateFilter" type="text" placeholder="Filtrar por placa, produto ou preco" />
+                <select id="plateStatus">
+                  <option value="Todas">Todas</option>
+                  <option value="Com conteudo">Com conteudo</option>
+                  <option value="Vazias">Vazias</option>
+                  <option value="Selecionadas">Selecionadas</option>
+                  <option value="Nao selecionadas">Nao selecionadas</option>
+                </select>
+              </div>
+              <div class="toolbar" style="margin:0;">
+                <button id="btnMarkAll" type="button">Marcar todas</button>
+                <button id="btnMarkNonEmpty" type="button">Somente nao vazias</button>
+                <button id="btnInvert" type="button">Inverter</button>
+              </div>
+              <div class="range-block">
+                <input id="plateRange" type="text" placeholder="Faixa: 1-4, 7, 10-12" />
+                <button id="btnApplyRange" type="button">Aplicar faixa</button>
+              </div>
+              <div class="plate-list" id="platesList"></div>
+            </div>
+            <div id="noticeBox" class="notice"></div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="panel table-panel">
+      <div>
+        <div class="toolbar">
+          <div class="group">
+            <span class="group-title">Acoes rapidas</span>
+            <button id="btnAllUnid" type="button">Todos Unid.</button>
+            <button id="btnAllKg" type="button">Todos Kg</button>
+            <button id="btnAllPct" type="button">Todos PCT.</button>
+            <button id="btnAllPack" type="button">Todos PACK.</button>
+            <button id="btnAllBdj" type="button">Todos BDJ.</button>
+            <button id="btnAddItem" type="button">Inserir item</button>
+            <button id="btnDuplicate" type="button">Duplicar ultimo</button>
+            <button id="btnRemoveEmpty" type="button">Excluir vazios</button>
+            <button id="btnBarcodeAllOn" type="button">CB todos on</button>
+            <button id="btnBarcodeAllOff" type="button">CB todos off</button>
+            <button id="btnBarcodeSelectedOn" type="button">CB selecionadas on</button>
+            <button id="btnBarcodeSelectedOff" type="button">CB selecionadas off</button>
+          </div>
+          <div class="group" style="margin-left:auto;">
+            <span class="group-title">Busca</span>
+            <input id="searchInput" type="text" placeholder="Filtrar produtos por descricao ou preco" />
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th style="width:52px;">#</th>
+                <th style="width:420px;">Descricao</th>
+                <th style="width:120px;">Preco</th>
+                <th style="width:110px;">Unidade</th>
+                <th style="width:140px;">Validade</th>
+                <th style="width:180px;">Cod. barras</th>
+                <th style="width:90px;">Usar CB</th>
+                <th style="width:90px;">Acao</th>
+              </tr>
+            </thead>
+            <tbody id="productsBody"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section class="footer">
+      <div class="progress-panel" style="grid-column:1 / -1;">
+        <div class="side-title">
+          <h2>Progresso da producao</h2>
+          <span id="progressPhase">Em revisao</span>
+        </div>
+        <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+        <div class="progress-meta">
+          <div class="progress-card"><span>Progresso</span><strong id="progressPercent">0%</strong></div>
+          <div class="progress-card"><span>Tempo decorrido</span><strong id="elapsedTime">00:00</strong></div>
+          <div class="progress-card"><span>Tempo restante</span><strong id="etaTime">--:--</strong></div>
+          <div class="progress-card"><span>Placa atual</span><strong id="currentPlate">Aguardando</strong></div>
+        </div>
+        <div class="status" id="currentProduct">Nenhum produto em processamento.</div>
+      </div>
+      <div class="status" id="footerStatus">Ajuste os dados e confirme quando estiver pronto para seguir para producao.</div>
+      <div class="actions">
+        <label><input id="shutdownToggle" type="checkbox" /> Desligar o PC ao final da impressao</label>
+        <button id="btnCancel" type="button">Cancelar</button>
+        <button id="btnSubmit" type="button" class="primary">Iniciar producao</button>
+      </div>
+      <div class="footer-note">Se a automacao estiver aguardando, mantenha esta pagina aberta ate concluir a confirmacao.</div>
+    </section>
+  </div>
+  <script>
+    const initialState = JSON.parse(document.getElementById("initial-state").textContent);
+    const state = {
+      products: (Array.isArray(initialState.products) ? initialState.products : []).map((item) => ({
+        descricao: String(item.descricao || ""),
+        preco: String(item.preco || ""),
+        unidade: String(item.unidade || "Unid."),
+        validade_oferta: String(item.validade_oferta || ""),
+        codigo_barras: String(item.codigo_barras || ""),
+        usar_codigo_barras: Boolean(item.usar_codigo_barras)
+      })),
+      allowPlateSelection: Boolean(initialState.allow_plate_selection),
+      allowInputAnalysis: Boolean(initialState.allow_input_analysis),
+      shutdownAfterPrint: Boolean(initialState.shutdown_after_print),
+      selectedPlates: new Set((Array.isArray(initialState.initial_plate_summary) ? initialState.initial_plate_summary : []).map((item) => Number(item.numero)).filter(Boolean)),
+      searchFilter: "",
+      plateFilter: "",
+      plateStatus: "Todas",
+      focusedPlate: null,
+      intakeMode: "file",
+      analysisOrigin: String(initialState.analysis_origin || "Nenhuma entrada analisada nesta sessao"),
+      analysisStats: initialState.analysis_stats || {}
+    };
+
+    const refs = {
+      userMenu: document.getElementById("userMenu"),
+      userTrigger: document.getElementById("userTrigger"),
+      userAvatar: document.getElementById("userAvatar"),
+      userName: document.getElementById("userName"),
+      userRole: document.getElementById("userRole"),
+      userPanel: document.getElementById("userPanel"),
+      userPanelName: document.getElementById("userPanelName"),
+      userPanelRole: document.getElementById("userPanelRole"),
+      userPanelMeta: document.getElementById("userPanelMeta"),
+      switchUserLogin: document.getElementById("switchUserLogin"),
+      switchUserPassword: document.getElementById("switchUserPassword"),
+      switchRemember24h: document.getElementById("switchRemember24h"),
+      btnSwitchUser: document.getElementById("btnSwitchUser"),
+      userSwitchStatus: document.getElementById("userSwitchStatus"),
+      userAdminBox: document.getElementById("userAdminBox"),
+      newUserLogin: document.getElementById("newUserLogin"),
+      newUserName: document.getElementById("newUserName"),
+      newUserEmail: document.getElementById("newUserEmail"),
+      newUserPhone: document.getElementById("newUserPhone"),
+      newUserLevel: document.getElementById("newUserLevel"),
+      newUserPassword: document.getElementById("newUserPassword"),
+      btnCreateUser: document.getElementById("btnCreateUser"),
+      userAdminStatus: document.getElementById("userAdminStatus"),
+      btnLogout: document.getElementById("btnLogout"),
+      productsBody: document.getElementById("productsBody"),
+      analysisPanel: document.getElementById("analysisPanel"),
+      analysisOrigin: document.getElementById("analysisOrigin"),
+      analysisStatus: document.getElementById("analysisStatus"),
+      intakeModeSelector: document.getElementById("intakeModeSelector"),
+      fileInput: document.getElementById("fileInput"),
+      selectedFileName: document.getElementById("selectedFileName"),
+      selectedFileMeta: document.getElementById("selectedFileMeta"),
+      rawTextInput: document.getElementById("rawTextInput"),
+      rawTextStats: document.getElementById("rawTextStats"),
+      fileModeBlock: document.getElementById("fileModeBlock"),
+      textModeBlock: document.getElementById("textModeBlock"),
+      searchInput: document.getElementById("searchInput"),
+      plateFilter: document.getElementById("plateFilter"),
+      plateStatus: document.getElementById("plateStatus"),
+      plateRange: document.getElementById("plateRange"),
+      platesList: document.getElementById("platesList"),
+      previewBox: document.getElementById("previewBox"),
+      noticeBox: document.getElementById("noticeBox"),
+      footerStatus: document.getElementById("footerStatus"),
+      plateSelectionLabel: document.getElementById("plateSelectionLabel"),
+      progressPhase: document.getElementById("progressPhase"),
+      progressFill: document.getElementById("progressFill"),
+      progressPercent: document.getElementById("progressPercent"),
+      elapsedTime: document.getElementById("elapsedTime"),
+      etaTime: document.getElementById("etaTime"),
+      currentPlate: document.getElementById("currentPlate"),
+      currentProduct: document.getElementById("currentProduct"),
+      shutdownToggle: document.getElementById("shutdownToggle"),
+      plateControls: document.getElementById("plateControls")
+    };
+    let progressPollHandle = null;
+
+    function buildUserInitials(name) {
+      const parts = String(name || "").trim().split(/\s+/).filter(Boolean);
+      if (!parts.length) return "U";
+      return parts.slice(0, 2).map((item) => item.charAt(0).toUpperCase()).join("");
+    }
+
+    function setupLoggedUser() {
+      const user = initialState.logged_user || {};
+      const usuarioId = String(user.usuario || "").trim();
+      const isLogged = Boolean(usuarioId);
+      const nome = String(user.nome || (isLogged ? user.usuario : "Sessao encerrada"));
+      const perfil = String(user.perfil || (isLogged ? "Sessao ativa" : "Entre com outro usuario"));
+      const meta = String(user.meta || (isLogged ? "Acesso liberado para esta sessao." : "Entre com usuario e senha para continuar a producao."));
+      const canManageUsers = Boolean(user.can_manage_users);
+      const accessLevels = Array.isArray(user.access_levels) && user.access_levels.length
+        ? user.access_levels.map((item) => String(item || "").trim()).filter(Boolean)
+        : ["Gerador de Placas", "Desenvolvedor", "Administrador"];
+      refs.userAvatar.textContent = buildUserInitials(nome);
+      refs.userName.textContent = nome;
+      refs.userRole.textContent = perfil;
+      refs.userPanelName.textContent = nome;
+      refs.userPanelRole.textContent = perfil;
+      refs.userPanelMeta.textContent = meta;
+      refs.userAdminBox.style.display = canManageUsers ? "grid" : "none";
+      refs.userAdminStatus.textContent = canManageUsers
+        ? "Cadastre usuarios e defina o nivel de acesso."
+        : "";
+      refs.btnLogout.style.display = isLogged ? "" : "none";
+      refs.btnSwitchUser.textContent = isLogged ? "Entrar com outro usuario" : "Entrar";
+      refs.userSwitchStatus.textContent = isLogged
+        ? "Troque o acesso sem fechar a tela."
+        : "Entre com usuario e senha para continuar.";
+      refs.newUserLevel.innerHTML = accessLevels
+        .map((item) => `<option value="${item}">${item}</option>`)
+        .join("");
+      if (!accessLevels.includes(refs.newUserLevel.value)) refs.newUserLevel.value = accessLevels[0] || "Gerador de Placas";
+    }
+    async function refreshLoggedUser() {
+      try {
+        const response = await fetch("/session-user", { cache: "no-store" });
+        const data = await response.json().catch(() => ({}));
+        if (response.ok && data.ok && data.user) {
+          initialState.logged_user = data.user;
+          setupLoggedUser();
+        }
+      } catch (_error) {
+        // Mantem os dados iniciais se a leitura da sessao falhar.
+      }
+    }
+    async function switchLoggedUser() {
+      clearNotice();
+      const usuario = String(refs.switchUserLogin.value || "").trim();
+      const senha = String(refs.switchUserPassword.value || "").trim();
+      if (!usuario || !senha) {
+        refs.userSwitchStatus.textContent = "Informe usuario e senha para trocar o acesso.";
+        showNotice("Informe usuario e senha para trocar o acesso.", "error");
+        return;
+      }
+      refs.userSwitchStatus.textContent = "Validando acesso...";
+      try {
+        const data = await postJson("/login", { usuario, senha, remember_24h: refs.switchRemember24h.checked });
+        if (data.user) {
+          initialState.logged_user = data.user;
+          setupLoggedUser();
+        }
+        refs.switchUserPassword.value = "";
+        refs.userSwitchStatus.textContent = data.message || `Acesso alterado para ${usuario}.`;
+        showNotice(data.message || "Acesso alterado com sucesso.", "success");
+      } catch (error) {
+        refs.userSwitchStatus.textContent = error.message || String(error);
+        showNotice(error.message || String(error), "error");
+        refs.switchUserPassword.value = "";
+        refs.switchUserPassword.focus();
+      }
+    }
+
+    refs.shutdownToggle.checked = state.shutdownAfterPrint;
+    if (!state.allowPlateSelection) refs.plateControls.style.display = "none";
+    if (!state.allowInputAnalysis) refs.analysisPanel.style.display = "none";
+
+    const normalizeText = (value) => String(value || "").replace(/\s+/g, " ").trim();
+    const normalizePrice = (value) => {
+      const raw = normalizeText(value);
+      if (!raw) return "";
+      const match = raw.replace(/\s+/g, "").match(/(?:R\$)?(\d{1,4})[.,](\d{2})/i);
+      return match ? `${match[1]},${match[2]}` : "";
+    };
+    const normalizeUnit = (value) => {
+      const raw = String(value || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\./g, "").trim();
+      if (/^(kg|quilo|quilos|kilograma|kilogramas)$/.test(raw)) return "Kg";
+      if (/^(pct|pcto|pacote|pacotes)$/.test(raw)) return "PCT.";
+      if (/^(pack|multipack|kit|combo)$/.test(raw)) return "PACK.";
+      if (/^(bdj|bandeja|bandejas)$/.test(raw)) return "BDJ.";
+      return "Unid.";
+    };
+    const normalizeOfferDate = (value) => {
+      const raw = normalizeText(value);
+      if (!raw) return "";
+      let match = raw.match(/\b(\d{4})-(\d{1,2})-(\d{1,2})(?:\b|[ T])/);
+      if (match) return `${String(Number(match[3])).padStart(2, "0")}/${String(Number(match[2])).padStart(2, "0")}/${String(Number(match[1])).padStart(4, "0")}`;
+      match = raw.match(/\b(\d{1,2})[/-](\d{1,2})(?:[/-](\d{2,4}))?\b/);
+      if (match) {
+        const yearRaw = match[3] ? Number(match[3]) : new Date().getFullYear();
+        const year = yearRaw < 100 ? yearRaw + 2000 : yearRaw;
+        return `${String(Number(match[1])).padStart(2, "0")}/${String(Number(match[2])).padStart(2, "0")}/${String(year).padStart(4, "0")}`;
+      }
+      match = raw.match(/\b(\d{1,2})\s+(\d{1,2})\s+(\d{2,4})\b/);
+      if (match) {
+        const yearRaw = Number(match[3]);
+        const year = yearRaw < 100 ? yearRaw + 2000 : yearRaw;
+        return `${String(Number(match[1])).padStart(2, "0")}/${String(Number(match[2])).padStart(2, "0")}/${String(year).padStart(4, "0")}`;
+      }
+      return "";
+    };
+    const normalizeBarcode = (value) => String(value || "").replace(/\D+/g, "").trim();
+    const normalizeBarcodeUsage = (value, barcode) => Boolean(value) && Boolean(normalizeBarcode(barcode));
+    const isValidProduct = (item) => Boolean(normalizeText(item.descricao) && normalizePrice(item.preco));
+    const productMatchesSearch = (item) => {
+      const filter = normalizeText(state.searchFilter).toLowerCase();
+      if (!filter) return true;
+      const haystack = [normalizeText(item.descricao), normalizePrice(item.preco), normalizeUnit(item.unidade), normalizeOfferDate(item.validade_oferta), normalizeBarcode(item.codigo_barras)].join(" ").toLowerCase();
+      return haystack.includes(filter);
+    };
+    const showNotice = (message, kind) => {
+      refs.noticeBox.className = `notice ${kind}`;
+      refs.noticeBox.textContent = message;
+    };
+    const clearNotice = () => {
+      refs.noticeBox.className = "notice";
+      refs.noticeBox.textContent = "";
+    };
+    const formatClock = (seconds) => {
+      if (seconds === null || seconds === undefined || !Number.isFinite(Number(seconds)) || Number(seconds) < 0) return "--:--";
+      const total = Math.round(Number(seconds));
+      const h = Math.floor(total / 3600);
+      const m = Math.floor((total % 3600) / 60);
+      const s = total % 60;
+      if (h > 0) return `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
+      return `${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
+    };
+    const updateAnalysisSummary = () => {
+      const stats = state.analysisStats || {};
+      const parts = [];
+      if (Number(stats.acentos || 0) > 0) parts.push(`${stats.acentos} ajuste(s) de acento`);
+      if (Number(stats.aprendizado || 0) > 0) parts.push(`${stats.aprendizado} sugestao(oes) de aprendizado`);
+      if (Number(stats.ia_local || 0) > 0) parts.push(`${stats.ia_local} limpeza(s) com IA local`);
+      refs.analysisOrigin.textContent = state.analysisOrigin || "Nenhuma entrada analisada nesta sessao";
+      refs.analysisStatus.textContent = parts.length ? parts.join(" | ") : "Entrada pronta para revisar.";
+    };
+    const updateFileSelectionSummary = () => {
+      const file = refs.fileInput.files && refs.fileInput.files[0];
+      if (!file) {
+        refs.selectedFileName.textContent = "Nenhum arquivo selecionado";
+        refs.selectedFileMeta.textContent = "Selecione um arquivo para liberar a leitura automatica.";
+        return;
+      }
+      const sizeKb = file.size > 0 ? `${(file.size / 1024).toFixed(1)} KB` : "Tamanho nao informado";
+      refs.selectedFileName.textContent = file.name || "Arquivo pronto para analise";
+      refs.selectedFileMeta.textContent = `${file.type || "Formato detectado automaticamente"} | ${sizeKb}`;
+    };
+    const updateRawTextStats = () => {
+      const value = String(refs.rawTextInput.value || "");
+      const lines = value ? value.split(/\r\n|\r|\n/).length : 0;
+      refs.rawTextStats.textContent = `${lines} linha(s) | ${value.length} caractere(s)`;
+    };
+    const updateProgressPanel = (progress) => {
+      const total = Math.max(0, Number(progress.total_plates || 0));
+      const completed = Math.max(0, Number(progress.completed_plates || 0));
+      const percent = total > 0 ? Math.max(0, Math.min(100, Math.round((completed / total) * 100))) : 0;
+      refs.progressFill.style.width = `${percent}%`;
+      refs.progressPercent.textContent = `${percent}%`;
+      refs.elapsedTime.textContent = formatClock(progress.elapsed_seconds);
+      refs.etaTime.textContent = formatClock(progress.eta_seconds);
+      refs.currentPlate.textContent = progress.current_plate_label || (progress.current_plate ? `Placa ${progress.current_plate}` : "Aguardando");
+      refs.currentProduct.textContent = progress.current_product || progress.message || "Nenhum produto em processamento.";
+      const phaseMap = {
+        editing: "Em revisao",
+        queued: "Na fila",
+        running: "Em producao",
+        finished: "Finalizado",
+        cancelled: "Cancelado",
+        error: "Erro"
+      };
+      refs.progressPhase.textContent = phaseMap[String(progress.phase || "editing")] || String(progress.phase || "Em revisao");
+    };
+
+    function buildPlates() {
+      const plates = [];
+      for (let i = 0; i < state.products.length; i += 4) {
+        const rawItems = state.products.slice(i, i + 4);
+        const lote = rawItems.slice();
+        while (lote.length < 4) lote.push({ descricao: "", preco: "", unidade: "", validade_oferta: "", codigo_barras: "", usar_codigo_barras: false });
+        const resumo = rawItems.filter((item) => normalizeText(item.descricao)).slice(0, 3).map((item) => {
+          const data = normalizeOfferDate(item.validade_oferta);
+          return `${normalizeText(item.descricao)}${normalizePrice(item.preco) ? ` (${normalizePrice(item.preco)})` : ""}${data ? ` ate ${data}` : ""}`;
+        }).join(" | ") || "[vazio]";
+        plates.push({ numero: (i / 4) + 1, lote, qtd_validos: rawItems.filter(isValidProduct).length, resumo });
+      }
+      return plates;
+    }
+
+    function productIndexesForSelectedPlates() {
+      const indexes = [];
+      [...state.selectedPlates].sort((a, b) => a - b).forEach((plateNumber) => {
+        const start = Math.max(0, (Number(plateNumber) - 1) * 4);
+        const end = Math.min(state.products.length, start + 4);
+        for (let i = start; i < end; i += 1) indexes.push(i);
+      });
+      return indexes;
+    }
+
+    function applyBarcodeUsage(enabled, selectedOnly) {
+      const indexes = selectedOnly ? productIndexesForSelectedPlates() : state.products.map((_, index) => index);
+      if (selectedOnly && !indexes.length) return;
+      state.products = state.products.map((item, index) => {
+        if (!indexes.includes(index)) return item;
+        const codigoBarras = normalizeBarcode(item.codigo_barras);
+        return { ...item, usar_codigo_barras: Boolean(enabled) && Boolean(codigoBarras) };
+      });
+      renderAll();
+    }
+
+    function summarizeRanges(values) {
+      const items = [...new Set(values.map(Number).filter((n) => Number.isFinite(n) && n > 0))].sort((a, b) => a - b);
+      if (!items.length) return "nenhuma";
+      const ranges = [];
+      let start = items[0];
+      let end = items[0];
+      for (let i = 1; i < items.length; i += 1) {
+        const value = items[i];
+        if (value === end + 1) { end = value; continue; }
+        ranges.push(start === end ? `${start}` : `${start}-${end}`);
+        start = value;
+        end = value;
+      }
+      ranges.push(start === end ? `${start}` : `${start}-${end}`);
+      return ranges.join(", ");
+    }
+
+    function parsePlateRange(text, maxNumber) {
+      const parts = normalizeText(text).split(",").map((item) => item.trim()).filter(Boolean);
+      if (!parts.length) return [];
+      const result = new Set();
+      for (const part of parts) {
+        if (part.includes("-")) {
+          const [a, b] = part.split("-", 2).map((item) => item.trim());
+          if (!/^\d+$/.test(a) || !/^\d+$/.test(b)) throw new Error("Use faixas como 1-4, 7, 10-12.");
+          const start = Number(a);
+          const end = Number(b);
+          if (start <= 0 || end <= 0 || start > end) throw new Error("As faixas precisam usar numeros positivos em ordem crescente.");
+          for (let current = start; current <= end; current += 1) {
+            if (current > maxNumber) throw new Error(`A placa ${current} nao existe neste lote.`);
+            result.add(current);
+          }
+          continue;
+        }
+        if (!/^\d+$/.test(part)) throw new Error("Use numeros separados por virgula ou faixas com hifen.");
+        const value = Number(part);
+        if (value <= 0 || value > maxNumber) throw new Error(`A placa ${value} nao existe neste lote.`);
+        result.add(value);
+      }
+      return [...result].sort((a, b) => a - b);
+    }
+
+    function plateMatchesFilters(plate) {
+      const filter = normalizeText(state.plateFilter).toLowerCase();
+      const status = state.plateStatus;
+      const text = [`placa ${String(plate.numero).padStart(3, "0")}`, plate.resumo, ...plate.lote.map((item) => normalizeText(item.descricao)), ...plate.lote.map((item) => normalizePrice(item.preco)), ...plate.lote.map((item) => normalizeOfferDate(item.validade_oferta)), ...plate.lote.map((item) => normalizeBarcode(item.codigo_barras))].join(" ").toLowerCase();
+      if (filter && !text.includes(filter)) return false;
+      if (status === "Com conteudo" && plate.qtd_validos <= 0) return false;
+      if (status === "Vazias" && plate.qtd_validos > 0) return false;
+      if (status === "Selecionadas" && !state.selectedPlates.has(plate.numero)) return false;
+      if (status === "Nao selecionadas" && state.selectedPlates.has(plate.numero)) return false;
+      return true;
+    }
+
+    function updateDashboard() {
+      const plates = buildPlates();
+      const validNumbers = new Set(plates.map((plate) => plate.numero));
+      state.selectedPlates = new Set([...state.selectedPlates].filter((number) => validNumbers.has(number)));
+      if (!state.selectedPlates.size) plates.forEach((plate) => state.selectedPlates.add(plate.numero));
+      const validItems = state.products.filter(isValidProduct).length;
+      const incomplete = state.products.filter((item) => {
+        const desc = normalizeText(item.descricao);
+        const price = normalizePrice(item.preco);
+        return Boolean((desc && !price) || (!desc && normalizeText(item.preco)));
+      }).length;
+      refs.footerStatus.textContent = `Faixas selecionadas: ${summarizeRanges([...state.selectedPlates])} | Itens incompletos: ${incomplete}`;
+      refs.plateSelectionLabel.textContent = `${[...state.selectedPlates].length} marcada(s)`;
+    }
+
+    function updatePreview() {
+      const plates = buildPlates();
+      const current = plates.find((plate) => plate.numero === state.focusedPlate) || plates.find((plate) => state.selectedPlates.has(plate.numero)) || plates[0];
+      if (!current) {
+        refs.previewBox.classList.add("is-empty");
+        refs.previewBox.textContent = "Nenhuma placa selecionada.";
+        return;
+      }
+      refs.previewBox.classList.remove("is-empty");
+      const lines = [`Placa ${String(current.numero).padStart(3, "0")}`];
+      current.lote.forEach((item, index) => {
+        const descricao = normalizeText(item.descricao);
+        const preco = normalizePrice(item.preco);
+        const unidade = normalizeUnit(item.unidade);
+        const validadeOferta = normalizeOfferDate(item.validade_oferta);
+        const codigoBarras = normalizeBarcode(item.codigo_barras);
+        const usaBarcode = normalizeBarcodeUsage(item.usar_codigo_barras, codigoBarras);
+        const validadeText = validadeOferta ? ` | Validade ${validadeOferta}` : "";
+        const barcodeText = codigoBarras ? (usaBarcode ? ` | CB ${codigoBarras}` : ` | CB off`) : "";
+        lines.push(!descricao && !preco ? `  ${index + 1}. [vazio]` : `  ${index + 1}. ${descricao || "[sem descricao]"} | ${preco || "[sem preco]"} | ${unidade}${validadeText}${barcodeText}`);
+      });
+      refs.previewBox.textContent = lines.join("\n");
+    }
+
+    function renderProducts() {
+      refs.productsBody.innerHTML = "";
+      state.products.forEach((item, index) => {
+        if (!productMatchesSearch(item)) return;
+        const row = document.createElement("tr");
+        row.innerHTML = `<td>${index + 1}</td><td><input type="text" data-role="descricao" /></td><td><input type="text" data-role="preco" placeholder="12,99" /></td><td><select data-role="unidade"><option value="Unid.">Unid.</option><option value="Kg">Kg</option><option value="PCT.">PCT.</option><option value="PACK.">PACK.</option><option value="BDJ.">BDJ.</option></select></td><td><input type="text" data-role="validade_oferta" placeholder="dd/mm/aaaa" inputmode="numeric" /></td><td><input type="text" data-role="codigo_barras" placeholder="7891234567890" inputmode="numeric" /></td><td><label><input type="checkbox" data-role="usar_codigo_barras" /> Usar</label></td><td><button type="button" data-role="remove">Excluir</button></td>`;
+        const descInput = row.querySelector('[data-role="descricao"]');
+        const priceInput = row.querySelector('[data-role="preco"]');
+        const unitSelect = row.querySelector('[data-role="unidade"]');
+        const validityInput = row.querySelector('[data-role="validade_oferta"]');
+        const barcodeInput = row.querySelector('[data-role="codigo_barras"]');
+        const barcodeToggle = row.querySelector('[data-role="usar_codigo_barras"]');
+        const removeButton = row.querySelector('[data-role="remove"]');
+        descInput.value = item.descricao || "";
+        priceInput.value = item.preco || "";
+        unitSelect.value = normalizeUnit(item.unidade);
+        validityInput.value = normalizeOfferDate(item.validade_oferta);
+        barcodeInput.value = normalizeBarcode(item.codigo_barras);
+        barcodeToggle.checked = normalizeBarcodeUsage(item.usar_codigo_barras, item.codigo_barras);
+        barcodeToggle.disabled = !normalizeBarcode(item.codigo_barras);
+        descInput.addEventListener("input", () => {
+          state.products[index].descricao = descInput.value;
+          updateDashboard();
+          renderPlates();
+          updatePreview();
+        });
+        priceInput.addEventListener("input", () => {
+          state.products[index].preco = priceInput.value;
+          updateDashboard();
+          renderPlates();
+          updatePreview();
+        });
+        unitSelect.addEventListener("change", () => {
+          state.products[index].unidade = unitSelect.value;
+          updateDashboard();
+          updatePreview();
+        });
+        validityInput.addEventListener("input", () => {
+          state.products[index].validade_oferta = normalizeOfferDate(validityInput.value);
+          validityInput.value = state.products[index].validade_oferta;
+          updateDashboard();
+          renderPlates();
+          updatePreview();
+        });
+        barcodeInput.addEventListener("input", () => {
+          state.products[index].codigo_barras = normalizeBarcode(barcodeInput.value);
+          barcodeInput.value = state.products[index].codigo_barras;
+          state.products[index].usar_codigo_barras = normalizeBarcodeUsage(
+            state.products[index].usar_codigo_barras || Boolean(state.products[index].codigo_barras),
+            state.products[index].codigo_barras
+          );
+          barcodeToggle.checked = normalizeBarcodeUsage(state.products[index].usar_codigo_barras, state.products[index].codigo_barras);
+          barcodeToggle.disabled = !normalizeBarcode(state.products[index].codigo_barras);
+          updateDashboard();
+          renderPlates();
+          updatePreview();
+        });
+        barcodeToggle.addEventListener("change", () => {
+          state.products[index].usar_codigo_barras = normalizeBarcodeUsage(barcodeToggle.checked, state.products[index].codigo_barras);
+          barcodeToggle.checked = state.products[index].usar_codigo_barras;
+          updateDashboard();
+          renderPlates();
+          updatePreview();
+        });
+        removeButton.addEventListener("click", () => {
+          state.products.splice(index, 1);
+          if (!state.products.length) state.products.push({ descricao: "", preco: "", unidade: "Unid.", validade_oferta: "", codigo_barras: "", usar_codigo_barras: false });
+          renderAll();
+        });
+        refs.productsBody.appendChild(row);
+      });
+      if (!refs.productsBody.children.length) {
+        const empty = document.createElement("tr");
+        empty.innerHTML = '<td colspan="8" style="padding:16px; color:#6a7f91;">Nenhum produto encontrado com o filtro atual.</td>';
+        refs.productsBody.appendChild(empty);
+      }
+    }
+
+    function renderPlates() {
+      const plates = buildPlates();
+      refs.platesList.innerHTML = "";
+      const visible = plates.filter(plateMatchesFilters);
+      visible.forEach((plate) => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = `plate-item${state.selectedPlates.has(plate.numero) ? " selected" : ""}`;
+        button.innerHTML = `<div class="plate-head"><span>Placa ${String(plate.numero).padStart(3, "0")}</span><span>${plate.qtd_validos} valido(s)</span></div><div class="plate-body">${plate.resumo}</div>`;
+        button.addEventListener("click", () => {
+          if (state.selectedPlates.has(plate.numero)) state.selectedPlates.delete(plate.numero);
+          else state.selectedPlates.add(plate.numero);
+          state.focusedPlate = plate.numero;
+          updateDashboard();
+          renderPlates();
+          updatePreview();
+        });
+        button.addEventListener("mouseenter", () => {
+          state.focusedPlate = plate.numero;
+          updatePreview();
+        });
+        refs.platesList.appendChild(button);
+      });
+      if (!visible.length) refs.platesList.innerHTML = '<div class="status">Nenhuma placa combina com o filtro atual.</div>';
+    }
+
+    function renderAll() {
+      renderProducts();
+      updateDashboard();
+      renderPlates();
+      updatePreview();
+      updateAnalysisSummary();
+    }
+
+    async function postJson(url, payload) {
+      const response = await fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(payload) });
+      const data = await response.json().catch(() => ({}));
+      if (!response.ok || !data.ok) throw new Error(data.error || "Falha ao enviar a configuracao.");
+      return data;
+    }
+
+    async function pollProgress() {
+      try {
+        const response = await fetch("/progress", { cache: "no-store" });
+        const data = await response.json().catch(() => ({}));
+        if (response.ok && data.ok && data.progress) {
+          updateProgressPanel(data.progress);
+          const phase = String(data.progress.phase || "");
+          if (phase === "finished" || phase === "cancelled" || phase === "error") {
+            if (progressPollHandle) {
+              clearInterval(progressPollHandle);
+              progressPollHandle = null;
+            }
+          }
+        }
+      } catch (_error) {
+        // Mantem a pagina operando mesmo se o endpoint ainda nao estiver ativo.
+      }
+    }
+
+    function applyAnalyzedProducts(data) {
+      state.products = (Array.isArray(data.products) ? data.products : []).map((item) => ({
+        descricao: String(item.descricao || ""),
+        preco: String(item.preco || ""),
+        unidade: String(item.unidade || "Unid."),
+        validade_oferta: String(item.validade_oferta || ""),
+        codigo_barras: String(item.codigo_barras || ""),
+        usar_codigo_barras: Boolean(item.usar_codigo_barras)
+      }));
+      state.selectedPlates = new Set((Array.isArray(data.plate_summary) ? data.plate_summary : []).map((item) => Number(item.numero)).filter(Boolean));
+      state.analysisOrigin = String(data.origin || "pagina web");
+      state.analysisStats = data.stats || {};
+      state.focusedPlate = null;
+      renderAll();
+    }
+
+    function setIntakeMode(mode) {
+      state.intakeMode = mode === "text" ? "text" : "file";
+      refs.fileModeBlock.style.display = state.intakeMode === "file" ? "block" : "none";
+      refs.textModeBlock.style.display = state.intakeMode === "text" ? "block" : "none";
+      refs.intakeModeSelector.querySelectorAll("[data-mode-option]").forEach((node) => {
+        node.classList.toggle("active", node.getAttribute("data-mode-option") === state.intakeMode);
+      });
+    }
+
+    async function fileToBase64(file) {
+      return await new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onload = () => {
+          const raw = String(reader.result || "");
+          const commaIndex = raw.indexOf(",");
+          resolve(commaIndex >= 0 ? raw.slice(commaIndex + 1) : raw);
+        };
+        reader.onerror = () => reject(new Error("Nao foi possivel ler o arquivo selecionado."));
+        reader.readAsDataURL(file);
+      });
+    }
+
+    document.querySelectorAll('input[name="intakeMode"]').forEach((radio) => {
+      radio.addEventListener("change", () => setIntakeMode(radio.value));
+    });
+    refs.fileInput.addEventListener("change", updateFileSelectionSummary);
+    refs.rawTextInput.addEventListener("input", updateRawTextStats);
+
+    document.getElementById("btnAnalyze").addEventListener("click", async () => {
+      clearNotice();
+      if (!state.allowInputAnalysis) return;
+      try {
+        let payload;
+        if (state.intakeMode === "text") {
+          payload = { mode: "text", text: refs.rawTextInput.value };
+        } else {
+          const file = refs.fileInput.files && refs.fileInput.files[0];
+          if (!file) throw new Error("Selecione um arquivo antes de analisar.");
+          payload = {
+            mode: "file",
+            file_name: file.name,
+            file_content_b64: await fileToBase64(file)
+          };
+        }
+        refs.analysisStatus.textContent = "Analisando entrada...";
+        const data = await postJson("/analyze", payload);
+        applyAnalyzedProducts(data);
+        showNotice("Entrada analisada com sucesso. Agora revise e confirme a producao.", "success");
+      } catch (error) {
+        refs.analysisStatus.textContent = "Falha na analise da entrada.";
+        showNotice(error.message || String(error), "error");
+      }
+    });
+
+    document.getElementById("btnAllUnid").addEventListener("click", () => {
+      state.products = state.products.map((item) => ({ ...item, unidade: "Unid." }));
+      renderAll();
+    });
+    document.getElementById("btnAllKg").addEventListener("click", () => {
+      state.products = state.products.map((item) => ({ ...item, unidade: "Kg" }));
+      renderAll();
+    });
+    document.getElementById("btnAllPct").addEventListener("click", () => {
+      state.products = state.products.map((item) => ({ ...item, unidade: "PCT." }));
+      renderAll();
+    });
+    document.getElementById("btnAllPack").addEventListener("click", () => {
+      state.products = state.products.map((item) => ({ ...item, unidade: "PACK." }));
+      renderAll();
+    });
+    document.getElementById("btnAllBdj").addEventListener("click", () => {
+      state.products = state.products.map((item) => ({ ...item, unidade: "BDJ." }));
+      renderAll();
+    });
+    document.getElementById("btnAddItem").addEventListener("click", () => {
+      state.products.push({ descricao: "", preco: "", unidade: "Unid.", validade_oferta: "", codigo_barras: "", usar_codigo_barras: false });
+      renderAll();
+    });
+    document.getElementById("btnDuplicate").addEventListener("click", () => {
+      const last = state.products[state.products.length - 1] || { descricao: "", preco: "", unidade: "Unid.", validade_oferta: "", codigo_barras: "", usar_codigo_barras: false };
+      state.products.push({ ...last });
+      renderAll();
+    });
+    document.getElementById("btnRemoveEmpty").addEventListener("click", () => {
+      state.products = state.products.filter((item) => normalizeText(item.descricao) || normalizePrice(item.preco));
+      if (!state.products.length) state.products.push({ descricao: "", preco: "", unidade: "Unid.", validade_oferta: "", codigo_barras: "", usar_codigo_barras: false });
+      renderAll();
+    });
+    document.getElementById("btnBarcodeAllOn").addEventListener("click", () => applyBarcodeUsage(true, false));
+    document.getElementById("btnBarcodeAllOff").addEventListener("click", () => applyBarcodeUsage(false, false));
+    document.getElementById("btnBarcodeSelectedOn").addEventListener("click", () => applyBarcodeUsage(true, true));
+    document.getElementById("btnBarcodeSelectedOff").addEventListener("click", () => applyBarcodeUsage(false, true));
+    refs.searchInput.addEventListener("input", () => {
+      state.searchFilter = refs.searchInput.value;
+      renderProducts();
+    });
+    document.getElementById("btnMarkAll").addEventListener("click", () => {
+      buildPlates().forEach((plate) => state.selectedPlates.add(plate.numero));
+      renderAll();
+    });
+    document.getElementById("btnMarkNonEmpty").addEventListener("click", () => {
+      state.selectedPlates = new Set(buildPlates().filter((plate) => plate.qtd_validos > 0).map((plate) => plate.numero));
+      renderAll();
+    });
+    document.getElementById("btnInvert").addEventListener("click", () => {
+      const all = buildPlates().map((plate) => plate.numero);
+      state.selectedPlates = new Set(all.filter((number) => !state.selectedPlates.has(number)));
+      renderAll();
+    });
+    document.getElementById("btnApplyRange").addEventListener("click", () => {
+      try {
+        parsePlateRange(refs.plateRange.value, buildPlates().length).forEach((number) => state.selectedPlates.add(number));
+        clearNotice();
+        renderAll();
+      } catch (error) {
+        showNotice(error.message || String(error), "error");
+      }
+    });
+    refs.plateFilter.addEventListener("input", () => {
+      state.plateFilter = refs.plateFilter.value;
+      renderPlates();
+      updatePreview();
+    });
+    refs.plateStatus.addEventListener("change", () => {
+      state.plateStatus = refs.plateStatus.value;
+      renderPlates();
+      updatePreview();
+    });
+    refs.shutdownToggle.addEventListener("change", () => {
+      state.shutdownAfterPrint = refs.shutdownToggle.checked;
+    });
+    document.getElementById("btnCancel").addEventListener("click", async () => {
+      try {
+        await postJson("/cancel", { cancelled: true });
+        showNotice("Configuracao cancelada. Pode fechar esta aba.", "success");
+      } catch (error) {
+        showNotice(error.message || String(error), "error");
+      }
+    });
+    document.getElementById("btnSubmit").addEventListener("click", async () => {
+      clearNotice();
+      try {
+        await postJson("/submit", {
+          products: state.products.map((item) => ({
+            descricao: normalizeText(item.descricao),
+            preco: normalizePrice(item.preco) || normalizeText(item.preco),
+            unidade: normalizeUnit(item.unidade),
+            validade_oferta: normalizeOfferDate(item.validade_oferta),
+            codigo_barras: normalizeBarcode(item.codigo_barras),
+            usar_codigo_barras: normalizeBarcodeUsage(item.usar_codigo_barras, item.codigo_barras)
+          })),
+          selected_plates: [...state.selectedPlates].sort((a, b) => a - b),
+          shutdown_after_print: refs.shutdownToggle.checked
+        });
+        showNotice("Configuracao recebida. Pode voltar para a automacao.", "success");
+        if (!progressPollHandle) {
+          progressPollHandle = setInterval(pollProgress, 1000);
+        }
+        pollProgress();
+      } catch (error) {
+        showNotice(error.message || String(error), "error");
+      }
+    });
+    refs.btnCreateUser.addEventListener("click", async () => {
+      clearNotice();
+      const user = initialState.logged_user || {};
+      if (!Boolean(user.can_manage_users)) {
+        showNotice("Somente usuario Desenvolvedor pode cadastrar novos usuarios.", "error");
+        return;
+      }
+      const usuario = normalizeText(refs.newUserLogin.value);
+      const nome = normalizeText(refs.newUserName.value);
+      const email = normalizeText(refs.newUserEmail.value);
+      const telefone = normalizeText(refs.newUserPhone.value);
+      const nivel = String(refs.newUserLevel.value || "Gerador de Placas").trim();
+      const senha = String(refs.newUserPassword.value || "").trim();
+      if (!usuario || !nome || !senha) {
+        refs.userAdminStatus.textContent = "Preencha usuario, nome e senha.";
+        showNotice("Preencha usuario, nome e senha para cadastrar.", "error");
+        return;
+      }
+      refs.userAdminStatus.textContent = "Cadastrando usuario no GitHub...";
+      try {
+        const data = await postJson("/users/create", { usuario, nome, email, telefone, nivel, senha, ativo: true });
+        refs.newUserLogin.value = "";
+        refs.newUserName.value = "";
+        refs.newUserEmail.value = "";
+        refs.newUserPhone.value = "";
+        refs.newUserPassword.value = "";
+        refs.userAdminStatus.textContent = `Usuario ${String((data.user && data.user.usuario) || usuario)} criado com sucesso.`;
+        showNotice(data.message || "Usuario cadastrado com sucesso.", "success");
+      } catch (error) {
+        refs.userAdminStatus.textContent = error.message || String(error);
+        showNotice(error.message || String(error), "error");
+      }
+    });
+    refs.btnSwitchUser.addEventListener("click", switchLoggedUser);
+    refs.userTrigger.addEventListener("click", () => {
+      refs.userPanel.classList.toggle("open");
+    });
+    refs.btnLogout.addEventListener("click", async () => {
+      try {
+        const data = await postJson("/logout", {});
+        if (data.user) {
+          initialState.logged_user = data.user;
+          setupLoggedUser();
+        }
+        refs.switchUserPassword.value = "";
+        refs.userPanel.classList.add("open");
+        refs.switchUserLogin.focus();
+        showNotice(data.message || "Sessao encerrada.", "success");
+      } catch (error) {
+        showNotice(error.message || String(error), "error");
+      }
+    });
+    refs.switchUserLogin.addEventListener("keydown", (event) => {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        switchLoggedUser();
+      }
+    });
+    refs.switchUserPassword.addEventListener("keydown", (event) => {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        switchLoggedUser();
+      }
+    });
+    document.addEventListener("click", (event) => {
+      if (!refs.userMenu.contains(event.target)) {
+        refs.userPanel.classList.remove("open");
+      }
+    });
+
+    setIntakeMode(state.intakeMode);
+    setupLoggedUser();
+    refreshLoggedUser();
+    updateFileSelectionSummary();
+    updateRawTextStats();
+    updateProgressPanel({ phase: "editing", completed_plates: 0, total_plates: 0, elapsed_seconds: 0, eta_seconds: null, current_plate_label: "", current_product: "Nenhum produto em processamento.", message: "Revise os itens e clique em Iniciar producao." });
+    pollProgress();
+    renderAll();
+  </script>
+</body>
+</html>
