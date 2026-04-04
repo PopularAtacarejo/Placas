@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-02T08:47:51",
+  "atualizado_em": "2026-04-04T09:20:28",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -754,21 +754,23 @@
       "atualizado_em": "2026-03-16T11:53:33"
     },
     "bisc cream cracker trad pilar | massa:350g": {
-      "descricao": "Bisc C.Cracker Pilar Integral 367.5g",
+      "descricao": "Bisc Marilan Cream Cracker Água Sal 300g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc c cracker pilar integral 367 5g",
         "bisc c cracker pilar integral | massa:367.5g",
         "bisc cream cracker trad pilar 350g",
-        "bisc cream cracker trad pilar | massa:350g"
+        "bisc cream cracker trad pilar | massa:350g",
+        "bisc marilan cream cracker agua sal 300g",
+        "bisc marilan cream cracker agua sal | massa:300g"
       ],
-      "descricao_base": "bisc c cracker pilar integral",
+      "descricao_base": "bisc marilan cream cracker agua sal",
       "medidas": [
-        "massa:367.5g"
+        "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-14T10:31:19"
+      "atualizado_em": "2026-04-04T09:20:28"
     },
     "bisc c cracker pilar integral | massa:367.5g": {
       "descricao": "Bisc Cr Cracker Vitarella Crocks Queijo 350g",
@@ -1741,6 +1743,23 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-04-01T14:23:00"
+    },
+    "bisc cr cracker vitarella tradicional | massa:350g": {
+      "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350g",
+      "unidade": "Unid.",
+      "hits": 2,
+      "aliases": [
+        "bisc cr cracker vitarella tostadinha 350g",
+        "bisc cr cracker vitarella tostadinha | massa:350g",
+        "bisc cr cracker vitarella tradicional 350g",
+        "bisc cr cracker vitarella tradicional | massa:350g"
+      ],
+      "descricao_base": "bisc cr cracker vitarella tostadinha",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-04T09:20:28"
     }
   }
 }
