@@ -4248,5 +4248,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "15:12:51",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Azeitona 100 g Predillecta",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026",
+        "codigo_barras": "7896292307094",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Azeitona Marata Verde Gordal c/caroço 230 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7898617582476",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Azeite De Oliva Extravirgem Sabor Pimenta Vermelha Paganini 250 ml",
+        "preco": "56,48",
+        "unidade": "Unid.",
+        "validade_oferta": "28/05/2026",
+        "codigo_barras": "7898152997131",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Temp Kitano Mais Sabor Aves 60 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/05/2026",
+        "codigo_barras": "7891095605569",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
