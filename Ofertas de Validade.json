@@ -4661,5 +4661,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "17:32:25",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Torrada Arroz Org Quinoa e Linhaca 75 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/05/2026",
+        "codigo_barras": "7896639800677",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Renata Int Morango/Aveia 150 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/05/2026",
+        "codigo_barras": "7896022207540",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Bauducco Cereale Cacau Aveia 170 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7891962045160",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Wafer Zero Açúcar Pistache 115 g - Lowcucar",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/05/2026",
+        "codigo_barras": "7896292007574",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
