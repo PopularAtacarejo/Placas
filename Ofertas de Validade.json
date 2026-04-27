@@ -4617,5 +4617,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "17:27:03",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Torrada Vitarella Trad 142 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/05/2026",
+        "codigo_barras": "7896213004743",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Biscoito Maizena Chocolates s/gluten 112 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/05/2026",
+        "codigo_barras": "7896256066456",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Jasmine Rosq 150 g Int Aveia e Mel",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/05/2026",
+        "codigo_barras": "7896283000478",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Brandini Salt Plus Gergelim 360 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/05/2026",
+        "codigo_barras": "7896005211182",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
