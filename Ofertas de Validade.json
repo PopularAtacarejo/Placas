@@ -4705,5 +4705,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "17:38:07",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bolinho Belive Muffin Lar c/choc 40 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/05/2026",
+        "codigo_barras": "7898380411102",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Granola Mae Terra Banana e Cacau 250 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/05/2026",
+        "codigo_barras": "7896496972203",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Granola Tia Sonia Pacoca 120 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/05/2026",
+        "codigo_barras": "7898115758236",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Granola Tia Sonia Light 200 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/05/2026",
+        "codigo_barras": "7898115750025",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
