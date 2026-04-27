@@ -4749,5 +4749,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "17:43:33",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Granola Trad.Tia Sonia 30 g",
+        "preco": "3,78",
+        "unidade": "Unid.",
+        "validade_oferta": "29/05/2026",
+        "codigo_barras": "7898115750049",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Farinha De Casca Maracuja Vovo Maze 250 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/05/2026",
+        "codigo_barras": "7898918420354",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite De Coco P/Beber Copra 900 ml",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/05/2026",
+        "codigo_barras": "7898596081014",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc Lowcucar Blueberry Zero Lactose 30 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026",
+        "codigo_barras": "7896292007284",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
