@@ -4292,5 +4292,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "15:16:53",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Temp Knorr Carne Pó 50 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026",
+        "codigo_barras": "7891150088689",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Caldo Knorr Legumes 57 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026",
+        "codigo_barras": "7894000000268",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Caldo Maggi Carne 57 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/05/2026",
+        "codigo_barras": "7891000250150",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Colorifico Kitano 400 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/05/2026",
+        "codigo_barras": "7891095911370",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
