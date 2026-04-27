@@ -4160,5 +4160,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "15:03:18",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mac Inst Talharim Nissin Bolonhesa 90 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7891079000427",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mac Inst Talharim Nissin Carne c/tom 99 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/05/2026",
+        "codigo_barras": "7891079000410",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Catchup Hellmanns Supreme Sqz 390 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/05/2026",
+        "codigo_barras": "7891150097940",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Maionese Hellmanns Aioli Pt 500 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/05/2026",
+        "codigo_barras": "7891150072077",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
