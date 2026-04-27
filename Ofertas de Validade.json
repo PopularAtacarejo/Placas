@@ -4336,5 +4336,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "15:32:16",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pipoca Micro-Ondas Yoki Nat c/sal 100 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7891095002207",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Farofa Barulhinho Bom Macaxeira 11 ervas 250 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/05/2026",
+        "codigo_barras": "0609963577491",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pipoca Micro-ondas Yoki Manteiga 100 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/05/2026",
+        "codigo_barras": "7891095100934",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Farofa Crocante Tio Fernando 300 gr",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "26/05/2026",
+        "codigo_barras": "7898996455507",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
