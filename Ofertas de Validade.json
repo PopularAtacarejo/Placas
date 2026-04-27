@@ -4424,5 +4424,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "15:45:23",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Biscoito Cream Craker Capricche Premium",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/05/2026",
+        "codigo_barras": "7898657832548",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rosq Vitamassa Chocolate 280 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/05/2026",
+        "codigo_barras": "7897353903477",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Biscoito Arcor Triunfo Tortini Trufa 90 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/05/2026",
+        "codigo_barras": "7896058257670",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Wafer Premium Napolitano 80 g",
+        "preco": "1,18",
+        "unidade": "Unid.",
+        "validade_oferta": "12/05/2026",
+        "codigo_barras": "7897353903132",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
