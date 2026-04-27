@@ -4881,5 +4881,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "17:59:03",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Creme De Cebola 10 x 1,01 kg",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/05/2026",
+        "codigo_barras": "7891095030880",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Maionese Dajuda Trapezio 1 kg",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7896054906046",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mostarda Dajuda Gl 3,2 lt",
+        "preco": "18,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7896054907104",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
