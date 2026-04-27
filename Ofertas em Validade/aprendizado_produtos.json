@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-27T15:33:29",
+  "atualizado_em": "2026-04-27T16:02:23",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -2085,7 +2085,7 @@
     "pipoca micro ondas yoki nat c/sal | massa:100g": {
       "descricao": "Pipoca Micro-Ondas Yoki Nat c/sal 100 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "pipoca micro ondas yoki nat c sal 100 g",
         "pipoca micro ondas yoki nat c sal 100g",
@@ -2096,12 +2096,12 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T15:25:07"
+      "atualizado_em": "2026-04-27T16:02:23"
     },
     "farofa barulhinho bom macaxeira 11 ervas | massa:250g": {
       "descricao": "Farofa Barulhinho Bom Macaxeira 11 ervas 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "farofa barulhinho bom macaxeira 11 ervas 250 g",
         "farofa barulhinho bom macaxeira 11 ervas | massa:250g",
@@ -2112,12 +2112,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T15:25:07"
+      "atualizado_em": "2026-04-27T16:02:23"
     },
     "pipoca micro ondas yoki manteiga | massa:100g": {
       "descricao": "Pipoca Micro-ondas Yoki Manteiga 100 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "pipoca micro ondas yoki manteiga 100 g",
         "pipoca micro ondas yoki manteiga | massa:100g",
@@ -2128,12 +2128,12 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T15:25:07"
+      "atualizado_em": "2026-04-27T16:02:23"
     },
     "farofa crocante tio fernando | massa:300g": {
       "descricao": "Farofa Crocante Tio Fernando 300 gr",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "farofa crocante tio fernando 300 gr",
         "farofa crocante tio fernando 300gr",
@@ -2144,7 +2144,7 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T15:25:07"
+      "atualizado_em": "2026-04-27T16:02:23"
     },
     "bisc skin mini maria tradicional | massa:400g": {
       "descricao": "Bisc Skin Mini Maria Tradicional 400 g",
