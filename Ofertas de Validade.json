@@ -4512,5 +4512,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "15:55:40",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cookies Nestle Choc.Branco 60 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/05/2026",
+        "codigo_barras": "7891000350072",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Bono Rech Morango 90 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "28/05/2026",
+        "codigo_barras": "7891000376959",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Passatempo Leite 150 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/05/2026",
+        "codigo_barras": "7891000051436",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Negresco Rech Fininho 57 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/05/2026",
+        "codigo_barras": "7891000357972",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
