@@ -4204,5 +4204,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "15:08:09",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Maionese Arisco Pet 500 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/05/2026",
+        "codigo_barras": "7891700206921",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Maionese Predileta Stand Up 200 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026",
+        "codigo_barras": "7896292360433",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Molho Barbecue Hellmanns Trad 400 g",
+        "preco": "14,38",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026",
+        "codigo_barras": "7891150071216",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Molho Pesto Genovese Pasta Reggia 190 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026",
+        "codigo_barras": "8008857031965",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
