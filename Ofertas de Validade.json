@@ -4380,5 +4380,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "15:40:58",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Skin Mini Maria Tradicional 400 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/05/2026",
+        "codigo_barras": "7898185761624",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rosq Vitamassa Coco 280 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/05/2026",
+        "codigo_barras": "7897353903491",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Skin Coquinho Doce 400 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7898185760412",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Cream Cracker Água Sal 300 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/05/2026",
+        "codigo_barras": "7898657830827",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
