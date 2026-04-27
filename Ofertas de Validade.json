@@ -4556,5 +4556,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "15:58:02",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Hot Cracker Rech Pizza 100 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/05/2026",
+        "codigo_barras": "7896004010571",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
