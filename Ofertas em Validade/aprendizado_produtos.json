@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-27T15:25:07",
+  "atualizado_em": "2026-04-27T15:33:29",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -2145,6 +2145,263 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-04-27T15:25:07"
+    },
+    "bisc skin mini maria tradicional | massa:400g": {
+      "descricao": "Bisc Skin Mini Maria Tradicional 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc skin mini maria tradicional 400 g",
+        "bisc skin mini maria tradicional 400g",
+        "bisc skin mini maria tradicional | massa:400g"
+      ],
+      "descricao_base": "bisc skin mini maria tradicional",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "bisc rosq vitamassa coco | massa:280g": {
+      "descricao": "Bisc Rosq Vitamassa Coco 280 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rosq vitamassa coco 280 g",
+        "bisc rosq vitamassa coco 280g",
+        "bisc rosq vitamassa coco | massa:280g"
+      ],
+      "descricao_base": "bisc rosq vitamassa coco",
+      "medidas": [
+        "massa:280g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "bisc skin coquinho doce | massa:400g": {
+      "descricao": "Bisc Skin Coquinho Doce 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc skin coquinho doce 400 g",
+        "bisc skin coquinho doce 400g",
+        "bisc skin coquinho doce | massa:400g"
+      ],
+      "descricao_base": "bisc skin coquinho doce",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "bisc cream cracker capricche trad | massa:350g": {
+      "descricao": "Bisc Marilan Cream Cracker Água Sal 300 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc cream cracker capricche trad 350g",
+        "bisc cream cracker capricche trad | massa:350g",
+        "bisc marilan cream cracker agua sal 300 g",
+        "bisc marilan cream cracker agua sal | massa:300g"
+      ],
+      "descricao_base": "bisc marilan cream cracker agua sal",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "bisc rosq vitamassa chocolate | massa:280g": {
+      "descricao": "Bisc Rosq Vitamassa Chocolate 280 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rosq vitamassa chocolate 280 g",
+        "bisc rosq vitamassa chocolate 280g",
+        "bisc rosq vitamassa chocolate | massa:280g"
+      ],
+      "descricao_base": "bisc rosq vitamassa chocolate",
+      "medidas": [
+        "massa:280g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "biscoito arcor triunfo tortini trufa | massa:90g": {
+      "descricao": "Biscoito Arcor Triunfo Tortini Trufa 90 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "biscoito arcor triunfo tortini trufa 90 g",
+        "biscoito arcor triunfo tortini trufa 90g",
+        "biscoito arcor triunfo tortini trufa | massa:90g"
+      ],
+      "descricao_base": "biscoito arcor triunfo tortini trufa",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "bisc wafer premium napolitano | massa:80g": {
+      "descricao": "Bisc Wafer Premium Napolitano 80 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc wafer premium napolitano 80 g",
+        "bisc wafer premium napolitano 80g",
+        "bisc wafer premium napolitano | massa:80g"
+      ],
+      "descricao_base": "bisc wafer premium napolitano",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "bisc bauducco cookies original | massa:100g": {
+      "descricao": "Bisc Bauducco Cookies Original 100 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc bauducco cookies original 100 g",
+        "bisc bauducco cookies original 100g",
+        "bisc bauducco cookies original | massa:100g"
+      ],
+      "descricao_base": "bisc bauducco cookies original",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "bisc bauducco rech choc gul | massa:108g": {
+      "descricao": "Bisc Bauducco Rech Choc Gul 108 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc bauducco rech choc gul 108 g",
+        "bisc bauducco rech choc gul 108g",
+        "bisc bauducco rech choc gul | massa:108g"
+      ],
+      "descricao_base": "bisc bauducco rech choc gul",
+      "medidas": [
+        "massa:108g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "cookies maxi caram bauducc | massa:96g": {
+      "descricao": "Cookies Maxi Caram Bauducc 96 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cookies maxi caram bauducc 96 g",
+        "cookies maxi caram bauducc 96g",
+        "cookies maxi caram bauducc | massa:96g"
+      ],
+      "descricao_base": "cookies maxi caram bauducc",
+      "medidas": [
+        "massa:96g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "bisc classic cookies baun c/gota | massa:60g": {
+      "descricao": "Bisc Classic Cookies Baun c/gota 60 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc classic cookies baun c gota 60 g",
+        "bisc classic cookies baun c gota 60g",
+        "bisc classic cookies baun c/gota | massa:60g"
+      ],
+      "descricao_base": "bisc classic cookies baun c/gota",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "cookies nestle choc branco | massa:60g": {
+      "descricao": "Cookies Nestle Choc.Branco 60 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cookies nestle choc branco 60 g",
+        "cookies nestle choc branco 60g",
+        "cookies nestle choc branco | massa:60g"
+      ],
+      "descricao_base": "cookies nestle choc branco",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "bisc bono rech morango | massa:90g": {
+      "descricao": "Bisc Bono Rech Morango 90 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc bono rech morango 90 g",
+        "bisc bono rech morango 90g",
+        "bisc bono rech morango | massa:90g"
+      ],
+      "descricao_base": "bisc bono rech morango",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "bisc passatempo leite | massa:150g": {
+      "descricao": "Bisc Passatempo Leite 150 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc passatempo leite 150 g",
+        "bisc passatempo leite 150g",
+        "bisc passatempo leite | massa:150g"
+      ],
+      "descricao_base": "bisc passatempo leite",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "bisc negresco rech fininho | massa:57g": {
+      "descricao": "Bisc Negresco Rech Fininho 57 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc negresco rech fininho 57 g",
+        "bisc negresco rech fininho 57g",
+        "bisc negresco rech fininho | massa:57g"
+      ],
+      "descricao_base": "bisc negresco rech fininho",
+      "medidas": [
+        "massa:57g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "bisc hot cracker rech pizza | massa:100g": {
+      "descricao": "Bisc Hot Cracker Rech Pizza 100 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc hot cracker rech pizza 100 g",
+        "bisc hot cracker rech pizza 100g",
+        "bisc hot cracker rech pizza | massa:100g"
+      ],
+      "descricao_base": "bisc hot cracker rech pizza",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T15:33:29"
     }
   }
 }
