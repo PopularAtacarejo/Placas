@@ -4468,5 +4468,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "15:50:51",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Bauducco Cookies Original 100 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026",
+        "codigo_barras": "7891962054100",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Bauducco Rech Choc Gul 108 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/05/2026",
+        "codigo_barras": "7891962065892",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cookies Maxi Caram Bauducc 96 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/05/2026",
+        "codigo_barras": "7891962071619",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Classic Cookies Baun c/gota 60 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/05/2026",
+        "codigo_barras": "7891000339596",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
