@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-27T16:02:23",
+  "atualizado_em": "2026-04-27T17:13:07",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -2402,6 +2402,438 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-04-27T15:33:29"
+    },
+    "torrada vitarella trad | massa:142g": {
+      "descricao": "Torrada Vitarella Trad 142 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "torrada vitarella trad 142 g",
+        "torrada vitarella trad 142g",
+        "torrada vitarella trad | massa:142g"
+      ],
+      "descricao_base": "torrada vitarella trad",
+      "medidas": [
+        "massa:142g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "biscoito maizena chocolates s/gluten | massa:112g": {
+      "descricao": "Biscoito Maizena Chocolates s/gluten 112 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "biscoito maizena chocolates s gluten 112 g",
+        "biscoito maizena chocolates s gluten 112g",
+        "biscoito maizena chocolates s/gluten | massa:112g"
+      ],
+      "descricao_base": "biscoito maizena chocolates s/gluten",
+      "medidas": [
+        "massa:112g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "bisc jasmine rosq int aveia e mel | massa:150g": {
+      "descricao": "Bisc Jasmine Rosq 150 g Int Aveia e Mel",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc jasmine rosq 150 g int aveia e mel",
+        "bisc jasmine rosq 150g int aveia e mel",
+        "bisc jasmine rosq int aveia e mel | massa:150g"
+      ],
+      "descricao_base": "bisc jasmine rosq int aveia e mel",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "bisc brandini salt plus gergelim | massa:360g": {
+      "descricao": "Bisc Brandini Salt Plus Gergelim 360 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc brandini salt plus gergelim 360 g",
+        "bisc brandini salt plus gergelim 360g",
+        "bisc brandini salt plus gergelim | massa:360g"
+      ],
+      "descricao_base": "bisc brandini salt plus gergelim",
+      "medidas": [
+        "massa:360g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "torrada arroz org quinoa e linhaca | massa:75g": {
+      "descricao": "Torrada Arroz Org Quinoa e Linhaca 75 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "torrada arroz org quinoa e linhaca 75 g",
+        "torrada arroz org quinoa e linhaca 75g",
+        "torrada arroz org quinoa e linhaca | massa:75g"
+      ],
+      "descricao_base": "torrada arroz org quinoa e linhaca",
+      "medidas": [
+        "massa:75g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "bisc renata int morango/aveia | massa:150g": {
+      "descricao": "Bisc Renata Int Morango/Aveia 150 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc renata int morango aveia 150 g",
+        "bisc renata int morango aveia 150g",
+        "bisc renata int morango/aveia | massa:150g"
+      ],
+      "descricao_base": "bisc renata int morango/aveia",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "bisc bauducco cereale cacau aveia | massa:170g": {
+      "descricao": "Bisc Bauducco Cereale Cacau Aveia 170 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc bauducco cereale cacau aveia 170 g",
+        "bisc bauducco cereale cacau aveia 170g",
+        "bisc bauducco cereale cacau aveia | massa:170g"
+      ],
+      "descricao_base": "bisc bauducco cereale cacau aveia",
+      "medidas": [
+        "massa:170g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "wafer zero acucar pistache lowcucar 01731 | massa:115g": {
+      "descricao": "Wafer Zero Açúcar Pistache 115 g - Lowcucar",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "wafer zero acucar pistache 115 g lowcucar",
+        "wafer zero acucar pistache 115g lowcucar 01731",
+        "wafer zero acucar pistache lowcucar 01731 | massa:115g",
+        "wafer zero acucar pistache lowcucar | massa:115g"
+      ],
+      "descricao_base": "wafer zero acucar pistache lowcucar",
+      "medidas": [
+        "massa:115g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "bolinho belive muffin lar c/choc | massa:40g": {
+      "descricao": "Bolinho Belive Muffin Lar c/choc 40 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bolinho belive muffin lar c choc 40 g",
+        "bolinho belive muffin lar c choc 40g",
+        "bolinho belive muffin lar c/choc | massa:40g"
+      ],
+      "descricao_base": "bolinho belive muffin lar c/choc",
+      "medidas": [
+        "massa:40g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "granola mae terra banana e cacau | massa:250g": {
+      "descricao": "Granola Mae Terra Banana e Cacau 250 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "granola mae terra banana e cacau 250 g",
+        "granola mae terra banana e cacau 250g",
+        "granola mae terra banana e cacau | massa:250g"
+      ],
+      "descricao_base": "granola mae terra banana e cacau",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "granola tia sonia pacoca | massa:120g": {
+      "descricao": "Granola Tia Sonia Pacoca 120 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "granola tia sonia pacoca 120 g",
+        "granola tia sonia pacoca 120g",
+        "granola tia sonia pacoca | massa:120g"
+      ],
+      "descricao_base": "granola tia sonia pacoca",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "granola tia sonia trad | massa:200g": {
+      "descricao": "Granola Tia Sonia Light 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "granola tia sonia light 200 g",
+        "granola tia sonia light | massa:200g",
+        "granola tia sonia trad 200g",
+        "granola tia sonia trad | massa:200g"
+      ],
+      "descricao_base": "granola tia sonia light",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "granola trad tia sonia | massa:30g": {
+      "descricao": "Granola Trad.Tia Sonia 30 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "granola trad tia sonia 30 g",
+        "granola trad tia sonia 30g",
+        "granola trad tia sonia | massa:30g"
+      ],
+      "descricao_base": "granola trad tia sonia",
+      "medidas": [
+        "massa:30g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "farinha de casca maracuja vovo maze | massa:250g": {
+      "descricao": "Farinha De Casca Maracuja Vovo Maze 250 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "farinha de casca maracuja vovo maze 250 g",
+        "farinha de casca maracuja vovo maze 250g",
+        "farinha de casca maracuja vovo maze | massa:250g"
+      ],
+      "descricao_base": "farinha de casca maracuja vovo maze",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "leite de coco p/beber copra | volume:900ml": {
+      "descricao": "Leite De Coco P/Beber Copra 900 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "leite de coco p beber copra 900 ml",
+        "leite de coco p beber copra 900ml",
+        "leite de coco p/beber copra | volume:900ml"
+      ],
+      "descricao_base": "leite de coco p/beber copra",
+      "medidas": [
+        "volume:900ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "choc lowcucar blueberry zero lactose | massa:30g": {
+      "descricao": "Choc Lowcucar Blueberry Zero Lactose 30 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc lowcucar blueberry zero lactose 30 g",
+        "choc lowcucar blueberry zero lactose 30g",
+        "choc lowcucar blueberry zero lactose | massa:30g"
+      ],
+      "descricao_base": "choc lowcucar blueberry zero lactose",
+      "medidas": [
+        "massa:30g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "po p/gelatina dr oetker zero abacaxi | massa:12g": {
+      "descricao": "Pó P/Gelatina Dr.Oetker Zero Abacaxi 12 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "po p gelatina dr oetker zero abacaxi 12 g",
+        "po p gelatina dr oetker zero abacaxi 12g",
+        "po p/gelatina dr oetker zero abacaxi | massa:12g"
+      ],
+      "descricao_base": "po p/gelatina dr oetker zero abacaxi",
+      "medidas": [
+        "massa:12g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "beb lactea piracanjuba mamao e maca 200 m": {
+      "descricao": "Beb Lactea Piracanjuba Mamão e Maçã 200 m L",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "beb lactea piracanjuba mamao e maca 200 m",
+        "beb lactea piracanjuba mamao e maca 200 m l",
+        "beb lactea piracanjuba mamao e maca 200m"
+      ],
+      "descricao_base": "beb lactea piracanjuba mamao e maca 200 m l",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "shake whey verde campo chocolate | volume:250ml": {
+      "descricao": "Shake Whey Verde Campo Chocolate 250 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "shake whey verde campo chocolate 250 ml",
+        "shake whey verde campo chocolate 250ml",
+        "shake whey verde campo chocolate | volume:250ml"
+      ],
+      "descricao_base": "shake whey verde campo chocolate",
+      "medidas": [
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "weyfit em po parmalat chocolate | massa:450g": {
+      "descricao": "Weyfit Em Pó Parmalat Chocolate 450 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "weyfit em po parmalat chocolate 450 g",
+        "weyfit em po parmalat chocolate 450g",
+        "weyfit em po parmalat chocolate | massa:450g"
+      ],
+      "descricao_base": "weyfit em po parmalat chocolate",
+      "medidas": [
+        "massa:450g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "pasta de amendoim power 10 ne | massa:500g": {
+      "descricao": "Pasta De Amendoim Power 10 ne 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "pasta de amendoim power 10 ne 500 g",
+        "pasta de amendoim power 10 ne | massa:500g",
+        "pasta de amendoim power10ne 500g"
+      ],
+      "descricao_base": "pasta de amendoim power 10 ne",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "pasta prot nut hav doce leit crunch un | massa:600g": {
+      "descricao": "Pasta Prot 600 g Nut Hav Doce Leit Crunch Un",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "pasta prot 600 g nut hav doce leit crunch un",
+        "pasta prot 600g nut hav doce leit crunch un",
+        "pasta prot nut hav doce leit crunch un | massa:600g"
+      ],
+      "descricao_base": "pasta prot nut hav doce leit crunch un",
+      "medidas": [
+        "massa:600g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "pasta de castanha atdc original | massa:120g": {
+      "descricao": "Pasta De Castanha Atdc Original 120 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "pasta de castanha atdc original 120 g",
+        "pasta de castanha atdc original 120g",
+        "pasta de castanha atdc original | massa:120g"
+      ],
+      "descricao_base": "pasta de castanha atdc original",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "barra de banana minions c/cob choc | massa:22g": {
+      "descricao": "Barra De Banana Minions c/cob Choc 22 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra de banana minions c cob choc 22 g",
+        "barra de banana minions c cob choc 22g",
+        "barra de banana minions c/cob choc | massa:22g"
+      ],
+      "descricao_base": "barra de banana minions c/cob choc",
+      "medidas": [
+        "massa:22g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "creme de cebola 10 x | massa:1010g": {
+      "descricao": "Creme De Cebola 10 x 1,01 kg",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "creme de cebola 10 x 1 01 kg",
+        "creme de cebola 10 x | massa:1010g",
+        "creme de cebola 10x1 01kg"
+      ],
+      "descricao_base": "creme de cebola 10 x",
+      "medidas": [
+        "massa:1010g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "maionese dajuda trapezio | massa:1000g": {
+      "descricao": "Maionese Dajuda Trapezio 1 kg",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "maionese dajuda trapezio 1 kg",
+        "maionese dajuda trapezio 1kg",
+        "maionese dajuda trapezio | massa:1000g"
+      ],
+      "descricao_base": "maionese dajuda trapezio",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
+    },
+    "mostarda dajuda gl | volume:3200ml": {
+      "descricao": "Mostarda Dajuda Gl 3,2 lt",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mostarda dajuda gl 3 2 lt",
+        "mostarda dajuda gl 3 2lt",
+        "mostarda dajuda gl | volume:3200ml"
+      ],
+      "descricao_base": "mostarda dajuda gl",
+      "medidas": [
+        "volume:3200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T17:13:07"
     }
   }
 }
