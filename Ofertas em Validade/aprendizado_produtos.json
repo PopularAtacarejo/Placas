@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-04T09:20:28",
+  "atualizado_em": "2026-04-27T14:52:36",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1760,6 +1760,327 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-04-04T09:20:28"
+    },
+    "mac miojo nissin ufo yakissoba legumes | massa:97g": {
+      "descricao": "Mac Miojo Nissin Ufo Yakissoba Legumes 97 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mac miojo nissin ufo yakissoba legumes 97 g",
+        "mac miojo nissin ufo yakissoba legumes 97g",
+        "mac miojo nissin ufo yakissoba legumes | massa:97g"
+      ],
+      "descricao_base": "mac miojo nissin ufo yakissoba legumes",
+      "medidas": [
+        "massa:97g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "cup noodle bolonhesa nissin | massa:72g": {
+      "descricao": "Cup Noodle Bolonhesa Nissin 72 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cup noodle bolonhesa nissin 72 g",
+        "cup noodle bolonhesa nissin 72g",
+        "cup noodle bolonhesa nissin | massa:72g"
+      ],
+      "descricao_base": "cup noodle bolonhesa nissin",
+      "medidas": [
+        "massa:72g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "mac inst lamen nissin caldinho de fe | massa:85g": {
+      "descricao": "Mac Inst Lamen Nissin Caldinho De Fe 85 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mac inst lamen nissin caldinho de fe 85 g",
+        "mac inst lamen nissin caldinho de fe 85g",
+        "mac inst lamen nissin caldinho de fe | massa:85g"
+      ],
+      "descricao_base": "mac inst lamen nissin caldinho de fe",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "mac miojo nissin ufo yakissoba carne | massa:97g": {
+      "descricao": "Mac Miojo Nissin Ufo Yakissoba Carne 97 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mac miojo nissin ufo yakissoba carne 97 g",
+        "mac miojo nissin ufo yakissoba carne 97g",
+        "mac miojo nissin ufo yakissoba carne | massa:97g"
+      ],
+      "descricao_base": "mac miojo nissin ufo yakissoba carne",
+      "medidas": [
+        "massa:97g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "mac inst talharim nissin bolonhesa | massa:90g": {
+      "descricao": "Mac Inst Talharim Nissin Bolonhesa 90 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mac inst talharim nissin bolonhesa 90 g",
+        "mac inst talharim nissin bolonhesa 90g",
+        "mac inst talharim nissin bolonhesa | massa:90g"
+      ],
+      "descricao_base": "mac inst talharim nissin bolonhesa",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "mac inst talharim nissin carne c/tom | massa:99g": {
+      "descricao": "Mac Inst Talharim Nissin Carne c/tom 99 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mac inst talharim nissin carne c tom 99 g",
+        "mac inst talharim nissin carne c tom 99g",
+        "mac inst talharim nissin carne c/tom | massa:99g"
+      ],
+      "descricao_base": "mac inst talharim nissin carne c/tom",
+      "medidas": [
+        "massa:99g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "catchup hellmanns supreme sqz | massa:390g": {
+      "descricao": "Catchup Hellmanns Supreme Sqz 390 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "catchup hellmanns supreme sqz 390 g",
+        "catchup hellmanns supreme sqz 390g",
+        "catchup hellmanns supreme sqz | massa:390g"
+      ],
+      "descricao_base": "catchup hellmanns supreme sqz",
+      "medidas": [
+        "massa:390g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "maionese hellmanns aioli pt | massa:500g": {
+      "descricao": "Maionese Hellmanns Aioli Pt 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "maionese hellmanns aioli pt 500 g",
+        "maionese hellmanns aioli pt 500g",
+        "maionese hellmanns aioli pt | massa:500g"
+      ],
+      "descricao_base": "maionese hellmanns aioli pt",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "maionese arisco pet | massa:500g": {
+      "descricao": "Maionese Arisco Pet 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "maionese arisco pet 500 g",
+        "maionese arisco pet 500g",
+        "maionese arisco pet | massa:500g"
+      ],
+      "descricao_base": "maionese arisco pet",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "maionese predileta stand up | massa:200g": {
+      "descricao": "Maionese Predileta Stand Up 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "maionese predileta stand up 200 g",
+        "maionese predileta stand up 200g",
+        "maionese predileta stand up | massa:200g"
+      ],
+      "descricao_base": "maionese predileta stand up",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "molho barbecue hellmanns trad | massa:400g": {
+      "descricao": "Molho Barbecue Hellmanns Trad 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "molho barbecue hellmanns trad 400 g",
+        "molho barbecue hellmanns trad 400g",
+        "molho barbecue hellmanns trad | massa:400g"
+      ],
+      "descricao_base": "molho barbecue hellmanns trad",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "molho pesto genovese pasta reggia | massa:190g": {
+      "descricao": "Molho Pesto Genovese Pasta Reggia 190 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "molho pesto genovese pasta reggia 190 g",
+        "molho pesto genovese pasta reggia 190g",
+        "molho pesto genovese pasta reggia | massa:190g"
+      ],
+      "descricao_base": "molho pesto genovese pasta reggia",
+      "medidas": [
+        "massa:190g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "azeitona predillecta | massa:100g": {
+      "descricao": "Azeitona 100 g Predillecta",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "azeitona 100 g predillecta",
+        "azeitona 100g predillecta",
+        "azeitona predillecta | massa:100g"
+      ],
+      "descricao_base": "azeitona predillecta",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "azeitona marata verde gordal c/caroco | massa:230g": {
+      "descricao": "Azeitona Marata Verde Gordal c/caroço 230 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "azeitona marata verde gordal c caroco 230 g",
+        "azeitona marata verde gordal c caroco 230g",
+        "azeitona marata verde gordal c/caroco | massa:230g"
+      ],
+      "descricao_base": "azeitona marata verde gordal c/caroco",
+      "medidas": [
+        "massa:230g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "azeite de oliva extravirgem sabor pimenta vermelha paganini | volume:250ml": {
+      "descricao": "Azeite De Oliva Extravirgem Sabor Pimenta Vermelha Paganini 250 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "azeite de oliva extravirgem sabor pimenta vermelha paganini 250 ml",
+        "azeite de oliva extravirgem sabor pimenta vermelha paganini 250ml",
+        "azeite de oliva extravirgem sabor pimenta vermelha paganini | volume:250ml"
+      ],
+      "descricao_base": "azeite de oliva extravirgem sabor pimenta vermelha paganini",
+      "medidas": [
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "temp kitano mais sabor aves | massa:60g": {
+      "descricao": "Temp Kitano Mais Sabor Aves 60 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "temp kitano mais sabor aves 60 g",
+        "temp kitano mais sabor aves 60g",
+        "temp kitano mais sabor aves | massa:60g"
+      ],
+      "descricao_base": "temp kitano mais sabor aves",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "temp knorr arroz po | massa:50g": {
+      "descricao": "Temp Knorr Carne Pó 50 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "temp knorr arroz po 50g",
+        "temp knorr arroz po | massa:50g",
+        "temp knorr carne po 50 g",
+        "temp knorr carne po | massa:50g"
+      ],
+      "descricao_base": "temp knorr carne po",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "caldo knorr legumes | massa:57g": {
+      "descricao": "Caldo Knorr Legumes 57 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "caldo knorr legumes 57 g",
+        "caldo knorr legumes 57g",
+        "caldo knorr legumes | massa:57g"
+      ],
+      "descricao_base": "caldo knorr legumes",
+      "medidas": [
+        "massa:57g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "caldo maggi carne | massa:57g": {
+      "descricao": "Caldo Maggi Carne 57 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "caldo maggi carne 57 g",
+        "caldo maggi carne 57g",
+        "caldo maggi carne | massa:57g"
+      ],
+      "descricao_base": "caldo maggi carne",
+      "medidas": [
+        "massa:57g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
+    },
+    "colorifico kitano | massa:400g": {
+      "descricao": "Colorifico Kitano 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "colorifico kitano 400 g",
+        "colorifico kitano 400g",
+        "colorifico kitano | massa:400g"
+      ],
+      "descricao_base": "colorifico kitano",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-27T14:52:36"
     }
   }
 }
