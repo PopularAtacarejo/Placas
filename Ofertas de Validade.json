@@ -4116,5 +4116,49 @@
         "validade_oferta": "30/04/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "14:58:24",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mac Miojo Nissin Ufo Yakissoba Legumes 97 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7891079013861",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cup Noodle Bolonhesa Nissin 72 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026",
+        "codigo_barras": "7891079013120",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mac Inst Lamen Nissin Caldinho De Fe 85 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/05/2026",
+        "codigo_barras": "7891079013809",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mac Miojo Nissin Ufo Yakissoba Carne 97 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/05/2026",
+        "codigo_barras": "7891079013847",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
