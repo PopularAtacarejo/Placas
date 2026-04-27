@@ -4793,5 +4793,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/04/2026",
+    "hora": "17:48:50",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pó P/Gelatina Dr.Oetker Zero Abacaxi 12 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7891048048979",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Lactea Piracanjuba Mamão e Maçã 200 m L",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "27/05/2026",
+        "codigo_barras": "7898215152798",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Shake Whey Verde Campo Chocolate 250 ml",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/05/2026",
+        "codigo_barras": "7898205924411",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Weyfit Em Pó Parmalat Chocolate 450 g",
+        "preco": "69,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/05/2026",
+        "codigo_barras": "7891097102264",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
