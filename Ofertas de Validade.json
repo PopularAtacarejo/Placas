@@ -5094,5 +5094,34 @@
         "validade_oferta": "30/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/04/2026",
+    "hora": "09:06:52",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Refri Fys Laranja Pera 350 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/05/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Refri Fys Tonica 350 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/05/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Maionese Dajuda Trapezio 1 kg",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026"
+      }
+    ]
   }
 ]
