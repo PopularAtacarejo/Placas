@@ -5004,5 +5004,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/04/2026",
+    "hora": "08:36:35",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Suco Ades Laranja Tp 1 l",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/05/2026",
+        "codigo_barras": "7891132082483",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Suco Ades Uva Tp 1 l",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/05/2026",
+        "codigo_barras": "7894900087123",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Suco Ades Maçã Tp 1 l",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/05/2026",
+        "codigo_barras": "7894900087062",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Suco Skinka Frutas Citricas 450 ml",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "03/05/2026",
+        "codigo_barras": "7896052601516",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
