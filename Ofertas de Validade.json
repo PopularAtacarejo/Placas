@@ -4916,5 +4916,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/04/2026",
+    "hora": "08:27:43",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Xarope Groselha Cereser 1 l",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/05/2026",
+        "codigo_barras": "7896072911800",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Refri It Cola Pet 2 l",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/05/2026",
+        "codigo_barras": "7898377662401",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Refri It Guarana Pet 2 l",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/05/2026",
+        "codigo_barras": "7898377662425",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Refri It Laranja Pet 2 l",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/05/2026",
+        "codigo_barras": "7898377662487",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
