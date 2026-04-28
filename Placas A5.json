@@ -1070,5 +1070,309 @@
     "produto": "Sh ou cond Tresemme 650ml",
     "preco": "19,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-27",
+    "horario": "14:42:33",
+    "feito_por": "Jeferson",
+    "produto": "Batatinha",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-27",
+    "horario": "14:42:33",
+    "feito_por": "Jeferson",
+    "produto": "Cenoura",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-27",
+    "horario": "14:42:33",
+    "feito_por": "Jeferson",
+    "produto": "Beterraba",
+    "preco": "10,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-27",
+    "horario": "14:42:33",
+    "feito_por": "Jeferson",
+    "produto": "Chuchu",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-27",
+    "horario": "14:42:33",
+    "feito_por": "Jeferson",
+    "produto": "Cebola Roxa",
+    "preco": "6,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-27",
+    "horario": "14:42:33",
+    "feito_por": "Jeferson",
+    "produto": "Banana Prata",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-27",
+    "horario": "14:42:33",
+    "feito_por": "Jeferson",
+    "produto": "Maracujá",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-27",
+    "horario": "14:42:33",
+    "feito_por": "Jeferson",
+    "produto": "Macaxeira",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-27",
+    "horario": "14:42:33",
+    "feito_por": "Jeferson",
+    "produto": "Inhame",
+    "preco": "10,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA DO PEITO",
+    "preco": "19,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA PONTA DE AGULHA",
+    "preco": "18,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "ACÉM C/OSSO",
+    "preco": "20,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "CHAREU C/OSSO",
+    "preco": "20,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "ALCATRA",
+    "preco": "40,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "CONTRA FILÉ",
+    "preco": "40,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "CHÃ DE DENTRO",
+    "preco": "37,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "LINGUIÇA MISTA DA CASA",
+    "preco": "18,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA SUÍNA",
+    "preco": "18,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "PERNIL SUÍNO",
+    "preco": "18,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "Peito De Frango a Granel Kg",
+    "preco": "14,48",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "Coxinha Da Asa a Granel Kg",
+    "preco": "14,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "CEBOLA BRANCA KG",
+    "preco": "6,48",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "Cebola Roxa Kg",
+    "preco": "6,48",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "CENOURA KG",
+    "preco": "7,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "BATATINHA KG",
+    "preco": "6,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "ABÓBORA JACARÉ KG",
+    "preco": "4,48",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "INHAME KG",
+    "preco": "7,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "LIMÃO TAITI KG",
+    "preco": "2,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "Maçã Nacional Kg",
+    "preco": "8,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "MAMÃO PAPAYA KG",
+    "preco": "4,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "MARACUJÁ KG",
+    "preco": "6,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "UVA ROXA SEM CAROÇO KG",
+    "preco": "7,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "Super Whey Max Titanium 900g Div. Sabores",
+    "preco": "95,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Piraque Salgado Integral 138g",
+    "preco": "5,48",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "Shake Whey Verde Campos 250g Div. Sabores",
+    "preco": "6,48",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "Doce Leite Piracanjuba Zero Lact Pote 350g",
+    "preco": "11,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "Barra Protein+cookies Banana Brasil 50g Div. Sabores",
+    "preco": "9,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "15:19:22",
+    "feito_por": "Jeferson",
+    "produto": "Iog Betania Yobem Trip Zero 850g Div. Sabores",
+    "preco": "15,98",
+    "validade_oferta_ate": "30/04/2026"
   }
 ]
