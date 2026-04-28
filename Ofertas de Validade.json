@@ -5048,5 +5048,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/04/2026",
+    "hora": "08:38:44",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bebida Mista Frutas Citricas Garrafa Valedourado",
+        "preco": "1,78",
+        "unidade": "Unid.",
+        "validade_oferta": "09/05/2026",
+        "codigo_barras": "7896085300639",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
