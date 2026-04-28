@@ -766,5 +766,101 @@
     "produto": "Inhame",
     "preco": "10,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA DO PEITO",
+    "preco": "19,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA PONTA DE AGULHA",
+    "preco": "18,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "ACÉM C/OSSO",
+    "preco": "20,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "CHAREU C/OSSO",
+    "preco": "20,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "ALCATRA",
+    "preco": "40,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "CONTRA FILÉ",
+    "preco": "40,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "CHÃ DE DENTRO",
+    "preco": "37,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "LINGUIÇA MISTA DA CASA",
+    "preco": "18,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA SUÍNA",
+    "preco": "18,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "PERNIL SUÍNO",
+    "preco": "18,98",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "Peito De Frango a Granel Kg",
+    "preco": "14,48",
+    "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-28",
+    "horario": "14:25:54",
+    "feito_por": "Jeferson",
+    "produto": "Coxinha Da Asa a Granel Kg",
+    "preco": "14,98",
+    "validade_oferta_ate": "30/04/2026"
   }
 ]
