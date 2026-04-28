@@ -4960,5 +4960,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/04/2026",
+    "hora": "08:33:07",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Refri It Limão Pet 2 l",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/05/2026",
+        "codigo_barras": "7898377662449",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Refri Fys Tonica 350 ml",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "06/05/2026",
+        "codigo_barras": "7896052607228",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Água H 2 oh Limão c/gas 1,5 l",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/05/2026",
+        "codigo_barras": "7892840812416",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Refresco Mid Manga 20 g",
+        "preco": "0,88",
+        "unidade": "Unid.",
+        "validade_oferta": "12/05/2026",
+        "codigo_barras": "7891132082483",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
