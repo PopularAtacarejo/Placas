@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-28T08:19:54",
+  "atualizado_em": "2026-04-28T08:48:40",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -2918,8 +2918,9 @@
     "refri fys tonica | volume:350ml": {
       "descricao": "Refri Fys Tonica 350 ml",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
+        "05 05 2026 refri fys tonica 350ml",
         "refri fys tonica 350 ml",
         "refri fys tonica 350ml",
         "refri fys tonica | volume:350ml"
@@ -2929,7 +2930,7 @@
         "volume:350ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-28T08:19:54"
+      "atualizado_em": "2026-04-28T08:48:40"
     },
     "agua h 2 oh limao c/gas | volume:1500ml": {
       "descricao": "Água H 2 oh Limão c/gas 1,5 l",
@@ -3040,6 +3041,22 @@
       "medidas": [],
       "confidence": 1.0,
       "atualizado_em": "2026-04-28T08:19:54"
+    },
+    "refri fys laranja pera | volume:350ml": {
+      "descricao": "Refri Fys Laranja Pera 350 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refri fys laranja pera 350 ml",
+        "refri fys laranja pera 350ml",
+        "refri fys laranja pera | volume:350ml"
+      ],
+      "descricao_base": "refri fys laranja pera",
+      "medidas": [
+        "volume:350ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:48:40"
     }
   }
 }
