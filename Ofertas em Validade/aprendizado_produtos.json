@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-28T08:59:39",
+  "atualizado_em": "2026-04-28T10:50:39",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3057,6 +3057,38 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-04-28T08:59:39"
+    },
+    "iog mainha light pet diversos | massa:900g": {
+      "descricao": "Iog Mainha Light Pet 900 g diversos",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "iog mainha light pet 900 g diversos",
+        "iog mainha light pet 900g diversos",
+        "iog mainha light pet diversos | massa:900g"
+      ],
+      "descricao_base": "iog mainha light pet diversos",
+      "medidas": [
+        "massa:900g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T10:50:39"
+    },
+    "supl max titanium c/wh cook cr | massa:900g": {
+      "descricao": "02/05/2026 Supl. Max Titanium c/wh Cook Cr. 900 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "02 05 2026 supl max titanium c wh cook cr 900 g",
+        "02 05 2026 supl max titanium c wh cook cr 900g",
+        "supl max titanium c/wh cook cr | massa:900g"
+      ],
+      "descricao_base": "supl max titanium c/wh cook cr",
+      "medidas": [
+        "massa:900g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T10:50:39"
     }
   }
 }
