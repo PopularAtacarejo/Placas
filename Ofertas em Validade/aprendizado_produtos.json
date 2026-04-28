@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-27T17:21:22",
+  "atualizado_em": "2026-04-28T08:19:54",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -2834,6 +2834,212 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-04-27T17:21:22"
+    },
+    "xarope groselha cereser | volume:1000ml": {
+      "descricao": "Xarope Groselha Cereser 1 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "xarope groselha cereser 1 l",
+        "xarope groselha cereser 1l",
+        "xarope groselha cereser | volume:1000ml"
+      ],
+      "descricao_base": "xarope groselha cereser",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:19:54"
+    },
+    "refri it cola pet | volume:2000ml": {
+      "descricao": "Refri It Cola Pet 2 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refri it cola pet 2 l",
+        "refri it cola pet 2l",
+        "refri it cola pet | volume:2000ml"
+      ],
+      "descricao_base": "refri it cola pet",
+      "medidas": [
+        "volume:2000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:19:54"
+    },
+    "refri it guarana pet | volume:2000ml": {
+      "descricao": "Refri It Guarana Pet 2 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refri it guarana pet 2 l",
+        "refri it guarana pet 2l",
+        "refri it guarana pet | volume:2000ml"
+      ],
+      "descricao_base": "refri it guarana pet",
+      "medidas": [
+        "volume:2000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:19:54"
+    },
+    "refri it laranja pet | volume:2000ml": {
+      "descricao": "Refri It Laranja Pet 2 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refri it laranja pet 2 l",
+        "refri it laranja pet 2l",
+        "refri it laranja pet | volume:2000ml"
+      ],
+      "descricao_base": "refri it laranja pet",
+      "medidas": [
+        "volume:2000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:19:54"
+    },
+    "refri it limao pet | volume:2000ml": {
+      "descricao": "Refri It Limão Pet 2 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refri it limao pet 2 l",
+        "refri it limao pet 2l",
+        "refri it limao pet | volume:2000ml"
+      ],
+      "descricao_base": "refri it limao pet",
+      "medidas": [
+        "volume:2000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:19:54"
+    },
+    "refri fys tonica | volume:350ml": {
+      "descricao": "Refri Fys Tonica 350 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refri fys tonica 350 ml",
+        "refri fys tonica 350ml",
+        "refri fys tonica | volume:350ml"
+      ],
+      "descricao_base": "refri fys tonica",
+      "medidas": [
+        "volume:350ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:19:54"
+    },
+    "agua h 2 oh limao c/gas | volume:1500ml": {
+      "descricao": "Água H 2 oh Limão c/gas 1,5 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "agua h 2 oh limao c gas 1 5 l",
+        "agua h 2 oh limao c/gas | volume:1500ml",
+        "agua h2oh limao c gas 1 5l"
+      ],
+      "descricao_base": "agua h 2 oh limao c/gas",
+      "medidas": [
+        "volume:1500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:19:54"
+    },
+    "refresco mid manga | massa:20g": {
+      "descricao": "Refresco Mid Manga 20 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refresco mid manga 20 g",
+        "refresco mid manga 20g",
+        "refresco mid manga | massa:20g"
+      ],
+      "descricao_base": "refresco mid manga",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:19:54"
+    },
+    "suco ades laranja tp | volume:1000ml": {
+      "descricao": "Suco Ades Laranja Tp 1 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "suco ades laranja tp 1 l",
+        "suco ades laranja tp 1l",
+        "suco ades laranja tp | volume:1000ml"
+      ],
+      "descricao_base": "suco ades laranja tp",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:19:54"
+    },
+    "suco ades uva tp | volume:1000ml": {
+      "descricao": "Suco Ades Uva Tp 1 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "suco ades uva tp 1 l",
+        "suco ades uva tp 1l",
+        "suco ades uva tp | volume:1000ml"
+      ],
+      "descricao_base": "suco ades uva tp",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:19:54"
+    },
+    "suco ades maca tp | volume:1000ml": {
+      "descricao": "Suco Ades Maçã Tp 1 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "suco ades maca tp 1 l",
+        "suco ades maca tp 1l",
+        "suco ades maca tp | volume:1000ml"
+      ],
+      "descricao_base": "suco ades maca tp",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:19:54"
+    },
+    "suco skinka frutas citricas | volume:450ml": {
+      "descricao": "Suco Skinka Frutas Citricas 450 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "suco skinka frutas citricas 450 ml",
+        "suco skinka frutas citricas 450ml",
+        "suco skinka frutas citricas | volume:450ml"
+      ],
+      "descricao_base": "suco skinka frutas citricas",
+      "medidas": [
+        "volume:450ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:19:54"
+    },
+    "bebida mista frutas citricas garrafa valedourado mix | volume:330ml": {
+      "descricao": "Bebida Mista Frutas Citricas Garrafa Valedourado",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bebida mista frutas citricas garrafa valedourado",
+        "bebida mista frutas citricas garrafa valedourado mix 330ml",
+        "bebida mista frutas citricas garrafa valedourado mix | volume:330ml"
+      ],
+      "descricao_base": "bebida mista frutas citricas garrafa valedourado",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-28T08:19:54"
     }
   }
 }
