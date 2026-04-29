@@ -5299,5 +5299,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/04/2026",
+    "hora": "08:33:50",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Queijo Processado Polenguinho Zr Lac 68",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/05/2026",
+        "codigo_barras": "7891143018921",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Queijo Processado Polenguinho Orig 68 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/05/2026",
+        "codigo_barras": "7891143017436",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Massa Para Pastel Pasticrem 200 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/05/2026",
+        "codigo_barras": "7896109200013",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Massa De Pastel Pasticrem T. Aniv 500 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/05/2026",
+        "codigo_barras": "7896109200044",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
