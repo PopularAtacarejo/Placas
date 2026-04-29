@@ -5255,5 +5255,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/04/2026",
+    "hora": "08:29:10",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Almôndega Seara 500 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/05/2026",
+        "codigo_barras": "7894904575367",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Requeijão Frimesa Crem Light 200 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/05/2026",
+        "codigo_barras": "7896275960209",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Queijo Cheddar Frimesa Fatiado 150 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/05/2026",
+        "codigo_barras": "7896275983963",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Requeijão Poços De Caldas Cheddar 200 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/05/2026",
+        "codigo_barras": "7891097104800",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
