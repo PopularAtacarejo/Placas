@@ -5519,5 +5519,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/04/2026",
+    "hora": "14:23:54",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Super Masc. Aceleradora Haskell 240 ml",
+        "preco": "18,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7898610377024",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
