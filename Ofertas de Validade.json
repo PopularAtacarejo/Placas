@@ -5211,5 +5211,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/04/2026",
+    "hora": "08:24:45",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Hamb Bov/Ave Friboi 56 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/05/2026",
+        "codigo_barras": "7898542022931",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Ling Tosc Perdigão Nabrasa Pim Biqui 600",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/05/2026",
+        "codigo_barras": "7891515485146",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Ling Tosc Perdigão Nabrasa c/queijo 600",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/05/2026",
+        "codigo_barras": "7891515485139",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Sobrecoxas Pioneiro Bj 500 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/05/2026",
+        "codigo_barras": "7898228063418",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
