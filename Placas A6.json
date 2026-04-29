@@ -1070,5 +1070,53 @@
     "produto": "Energy Mix Vovó Maze 250g",
     "preco": "38,98",
     "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-29",
+    "horario": "10:57:16",
+    "feito_por": "Jeferson",
+    "produto": "Tomate",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-29",
+    "horario": "15:20:34",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/12 Unid.",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-29",
+    "horario": "15:20:34",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/30 Unid.",
+    "preco": "26,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-29",
+    "horario": "17:09:30",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Coca Cola S/Açucar C/6 Unid. 350ml",
+    "preco": "20,99",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-29",
+    "horario": "17:09:30",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Lt 350ml C/6 Unid Coca Cola",
+    "preco": "21,49",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-29",
+    "horario": "17:09:30",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Lt 350ml C/6 Unid. Fanta Lt",
+    "preco": "17,99",
+    "validade_oferta_ate": ""
   }
 ]
