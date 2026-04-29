@@ -5562,5 +5562,27 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/04/2026",
+    "hora": "16:48:01",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc. d Licia 220 g Diversos Sabores",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/05/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc. d Licia 220 g Diversos Sabores",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/05/2026"
+      }
+    ]
   }
 ]
