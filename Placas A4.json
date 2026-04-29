@@ -966,5 +966,21 @@
     "produto": "Tomate",
     "preco": "7,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-29",
+    "horario": "15:20:34",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/12 Unid.",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-29",
+    "horario": "15:20:34",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/30 Unid.",
+    "preco": "26,98",
+    "validade_oferta_ate": ""
   }
 ]
