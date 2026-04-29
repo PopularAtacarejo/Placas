@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-29T08:12:22",
+  "atualizado_em": "2026-04-29T09:03:43",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3091,96 +3091,110 @@
       "atualizado_em": "2026-04-28T10:50:39"
     },
     "manteiga itacolomy s/sal | massa:200g": {
-      "descricao": "Manteiga Itacolomy s/sal 200 g",
+      "descricao": "Choc Talento Meio Amargo Amêndoas 85 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
+        "choc talento meio amargo amendoas 85 g",
+        "choc talento meio amargo amendoas | massa:85g",
         "manteiga itacolomy s sal 200 g",
         "manteiga itacolomy s sal 200g",
         "manteiga itacolomy s/sal | massa:200g"
       ],
-      "descricao_base": "manteiga itacolomy s/sal",
+      "descricao_base": "choc talento meio amargo amendoas",
       "medidas": [
-        "massa:200g"
+        "massa:85g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-04-29T09:03:43"
     },
     "hamburguer friboi picanha | massa:56g": {
-      "descricao": "Hambúrguer Friboi Picanha 56 g",
+      "descricao": "Choc Talento Amêndoas e Passas 25 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
+        "choc talento amendoas e passas 25 g",
+        "choc talento amendoas e passas | massa:25g",
         "hamburguer friboi picanha 56 g",
         "hamburguer friboi picanha 56g",
         "hamburguer friboi picanha | massa:56g"
       ],
-      "descricao_base": "hamburguer friboi picanha",
+      "descricao_base": "choc talento amendoas e passas",
       "medidas": [
-        "massa:56g"
+        "massa:25g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-04-29T09:03:43"
     },
     "hamburguer bovino friboi | massa:56g": {
-      "descricao": "Hambúrguer Bovino Friboi 56 g",
+      "descricao": "Baton Garoto Choc Branco 16 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
+        "baton garoto choc branco 16 g",
+        "baton garoto choc branco | massa:16g",
         "hamburguer bovino friboi 56 g",
         "hamburguer bovino friboi 56g",
         "hamburguer bovino friboi | massa:56g"
       ],
-      "descricao_base": "hamburguer bovino friboi",
+      "descricao_base": "baton garoto choc branco",
       "medidas": [
-        "massa:56g"
+        "massa:16g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-04-29T09:03:43"
     },
     "hamburguer bov friboi cartucho | massa:56g": {
-      "descricao": "Hambúrguer Bov Friboi 56 g Cartucho",
+      "descricao": "Trufa Cia Do Cacau Morango 23 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "hamburguer bov friboi 56 g cartucho",
         "hamburguer bov friboi 56g cartucho",
-        "hamburguer bov friboi cartucho | massa:56g"
+        "hamburguer bov friboi cartucho | massa:56g",
+        "trufa cia do cacau morango 23 g",
+        "trufa cia do cacau morango | massa:23g"
       ],
-      "descricao_base": "hamburguer bov friboi cartucho",
+      "descricao_base": "trufa cia do cacau morango",
       "medidas": [
-        "massa:56g"
+        "massa:23g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-04-29T09:03:43"
     },
     "hamb bov/ave friboi | massa:56g": {
-      "descricao": "Hamb Bov/Ave Friboi 56 g",
+      "descricao": "Doce De Leite Mu-Mu 350 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
+        "doce de leite mu mu 350 g",
+        "doce de leite mu mu | massa:350g",
         "hamb bov ave friboi 56 g",
         "hamb bov ave friboi 56g",
         "hamb bov/ave friboi | massa:56g"
       ],
-      "descricao_base": "hamb bov/ave friboi",
+      "descricao_base": "doce de leite mu mu",
       "medidas": [
-        "massa:56g"
+        "massa:350g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-04-29T09:03:43"
     },
     "ling tosc perdigao nabrasa pim biqui 600": {
-      "descricao": "Ling Tosc Perdigão Nabrasa Pim Biqui 600",
+      "descricao": "Pão De Alho Santa Massa Trad. 400 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
-        "ling tosc perdigao nabrasa pim biqui 600"
+        "ling tosc perdigao nabrasa pim biqui 600",
+        "pao de alho santa massa trad 400 g",
+        "pao de alho santa massa trad | massa:400g"
       ],
-      "descricao_base": "ling tosc perdigao nabrasa pim biqui 600",
-      "medidas": [],
+      "descricao_base": "pao de alho santa massa trad",
+      "medidas": [
+        "massa:400g"
+      ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-04-29T09:03:43"
     },
     "ling tosc perdigao nabrasa c/queijo 600": {
       "descricao": "Ling Tosc Perdigão Nabrasa c/queijo 600",
