@@ -5387,5 +5387,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/04/2026",
+    "hora": "08:41:52",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Marg Becel s/sal 500 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/05/2026",
+        "codigo_barras": "7891515555252",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Salamitos Aurora 100 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/05/2026",
+        "codigo_barras": "7891164006204",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salame Tp Italiano Defum Ceratti 100 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/05/2026",
+        "codigo_barras": "7898618520750",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Marg Becel Omega 6 c/sal 250 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "12/05/2026",
+        "codigo_barras": "7891515555245",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
