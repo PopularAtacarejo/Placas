@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-29T07:54:41",
+  "atualizado_em": "2026-04-29T08:12:22",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3093,7 +3093,7 @@
     "manteiga itacolomy s/sal | massa:200g": {
       "descricao": "Manteiga Itacolomy s/sal 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "manteiga itacolomy s sal 200 g",
         "manteiga itacolomy s sal 200g",
@@ -3104,12 +3104,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "hamburguer friboi picanha | massa:56g": {
-      "descricao": "Hamburguer Friboi Picanha 56 g",
+      "descricao": "Hambúrguer Friboi Picanha 56 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "hamburguer friboi picanha 56 g",
         "hamburguer friboi picanha 56g",
@@ -3120,12 +3120,12 @@
         "massa:56g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "hamburguer bovino friboi | massa:56g": {
-      "descricao": "Hamburguer Bovino Friboi 56 g",
+      "descricao": "Hambúrguer Bovino Friboi 56 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "hamburguer bovino friboi 56 g",
         "hamburguer bovino friboi 56g",
@@ -3136,12 +3136,12 @@
         "massa:56g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "hamburguer bov friboi cartucho | massa:56g": {
-      "descricao": "Hamburguer Bov Friboi 56 g Cartucho",
+      "descricao": "Hambúrguer Bov Friboi 56 g Cartucho",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "hamburguer bov friboi 56 g cartucho",
         "hamburguer bov friboi 56g cartucho",
@@ -3152,12 +3152,12 @@
         "massa:56g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "hamb bov/ave friboi | massa:56g": {
       "descricao": "Hamb Bov/Ave Friboi 56 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "hamb bov ave friboi 56 g",
         "hamb bov ave friboi 56g",
@@ -3168,24 +3168,24 @@
         "massa:56g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "ling tosc perdigao nabrasa pim biqui 600": {
       "descricao": "Ling Tosc Perdigão Nabrasa Pim Biqui 600",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "ling tosc perdigao nabrasa pim biqui 600"
       ],
       "descricao_base": "ling tosc perdigao nabrasa pim biqui 600",
       "medidas": [],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "ling tosc perdigao nabrasa c/queijo 600": {
       "descricao": "Ling Tosc Perdigão Nabrasa c/queijo 600",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "ling tosc perdigao nabrasa c queijo 600",
         "ling tosc perdigao nabrasa c/queijo 600"
@@ -3193,12 +3193,12 @@
       "descricao_base": "ling tosc perdigao nabrasa c/queijo 600",
       "medidas": [],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "sobrecoxas pioneiro bj | massa:500g": {
       "descricao": "Sobrecoxas Pioneiro Bj 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "sobrecoxas pioneiro bj 500 g",
         "sobrecoxas pioneiro bj 500g",
@@ -3209,12 +3209,12 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "almondega seara | massa:500g": {
-      "descricao": "Almondega Seara 500 g",
+      "descricao": "Almôndega Seara 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "almondega seara 500 g",
         "almondega seara 500g",
@@ -3225,12 +3225,12 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "requeijao frimesa crem light | massa:200g": {
       "descricao": "Requeijão Frimesa Crem Light 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "requeijao frimesa crem light 200 g",
         "requeijao frimesa crem light 200g",
@@ -3241,12 +3241,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "queijo cheddar frimesa fatiado | massa:150g": {
       "descricao": "Queijo Cheddar Frimesa Fatiado 150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "queijo cheddar frimesa fatiado 150 g",
         "queijo cheddar frimesa fatiado 150g",
@@ -3257,12 +3257,12 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "requeijao pocos de caldas cheddar | massa:200g": {
       "descricao": "Requeijão Poços De Caldas Cheddar 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "requeijao pocos de caldas cheddar 200 g",
         "requeijao pocos de caldas cheddar 200g",
@@ -3273,12 +3273,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "queijo processado polenguinho orig | massa:68g": {
       "descricao": "Queijo Processado Polenguinho Orig 68 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "queijo processado polenguinho orig 68 g",
         "queijo processado polenguinho orig 68g",
@@ -3289,12 +3289,12 @@
         "massa:68g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "massa para pastel pasticrem | massa:200g": {
       "descricao": "Massa Para Pastel Pasticrem 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "massa para pastel pasticrem 200 g",
         "massa para pastel pasticrem 200g",
@@ -3305,12 +3305,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "massa de pastel pasticrem t aniv | massa:500g": {
       "descricao": "Massa De Pastel Pasticrem T. Aniv 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "massa de pastel pasticrem t aniv 500 g",
         "massa de pastel pasticrem t aniv 500g",
@@ -3321,12 +3321,12 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "manteiga tirolez com sal pt | massa:200g": {
       "descricao": "Manteiga Tirolez Com Sal Pt 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "manteiga tirolez com sal pt 200 g",
         "manteiga tirolez com sal pt 200g",
@@ -3337,12 +3337,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "marg claybom cremosa c/sal | massa:250g": {
       "descricao": "Marg Claybom Cremosa c/sal 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "marg claybom cremosa c sal 250 g",
         "marg claybom cremosa c sal 250g",
@@ -3353,12 +3353,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "creme de ricota galbani | massa:200g": {
       "descricao": "Creme De Ricota Galbani 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "creme de ricota galbani 200 g",
         "creme de ricota galbani 200g",
@@ -3369,12 +3369,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "chantilly president | massa:250g": {
       "descricao": "Chantilly President 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "chantilly president 250 g",
         "chantilly president 250g",
@@ -3385,12 +3385,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "marg becel s/sal | massa:500g": {
       "descricao": "Marg Becel s/sal 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "marg becel s sal 500 g",
         "marg becel s sal 500g",
@@ -3401,12 +3401,12 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "salamitos aurora | massa:100g": {
       "descricao": "Salamitos Aurora 100 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "salamitos aurora 100 g",
         "salamitos aurora 100g",
@@ -3417,12 +3417,12 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "salame tp italiano defum ceratti | massa:100g": {
       "descricao": "Salame Tp Italiano Defum Ceratti 100 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "salame tp italiano defum ceratti 100 g",
         "salame tp italiano defum ceratti 100g",
@@ -3433,12 +3433,12 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "marg becel omega 6 c/sal | massa:250g": {
       "descricao": "Marg Becel Omega 6 c/sal 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "marg becel omega 6 c sal 250 g",
         "marg becel omega 6 c sal 250g",
@@ -3449,12 +3449,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "creme de ricota polenghi trad | massa:150g": {
       "descricao": "Creme De Ricota Polenghi Trad 150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "creme de ricota polenghi trad 150 g",
         "creme de ricota polenghi trad 150g",
@@ -3465,24 +3465,24 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "matambrito con suino frimesa kg": {
       "descricao": "Matambrito Con Suíno Frimesa Kg",
       "unidade": "Kg",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "matambrito con suino frimesa kg"
       ],
       "descricao_base": "matambrito con suino frimesa kg",
       "medidas": [],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "marg deline cremosa c/sal | massa:250g": {
       "descricao": "Marg Deline Cremosa c/sal 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "marg deline cremosa c sal 250 g",
         "marg deline cremosa c sal 250g",
@@ -3493,12 +3493,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     },
     "lombo ceratti tp canadense ft | massa:100g": {
       "descricao": "Lombo Ceratti Tp Canadense Ft 100 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "lombo ceratti tp canadense ft 100 g",
         "lombo ceratti tp canadense ft 100g",
@@ -3509,7 +3509,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T07:54:41"
+      "atualizado_em": "2026-04-29T08:12:22"
     }
   }
 }
