@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-29T09:03:43",
+  "atualizado_em": "2026-04-29T16:44:19",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3524,6 +3524,22 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-04-29T08:12:22"
+    },
+    "bisc d licia diversos sabores | massa:220g": {
+      "descricao": "Bisc. d Licia 220 g Diversos Sabores",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc d licia 220 g diversos sabores",
+        "bisc d licia 220g diversos sabores",
+        "bisc d licia diversos sabores | massa:220g"
+      ],
+      "descricao_base": "bisc d licia diversos sabores",
+      "medidas": [
+        "massa:220g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-04-29T16:44:19"
     }
   }
 }
