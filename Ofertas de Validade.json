@@ -5431,5 +5431,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/04/2026",
+    "hora": "08:46:19",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Creme De Ricota Polenghi Trad 150 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/05/2026",
+        "codigo_barras": "7891143021426",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Matambrito Con Suíno Frimesa Kg",
+        "preco": "19,98",
+        "unidade": "Kg",
+        "validade_oferta": "22/05/2026",
+        "codigo_barras": "0000000035484",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Marg Deline Cremosa c/sal 250 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/05/2026",
+        "codigo_barras": "7893000979932",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Lombo Ceratti Tp Canadense Ft 100 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/05/2026",
+        "codigo_barras": "7898618520859",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
