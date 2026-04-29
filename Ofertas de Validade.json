@@ -5536,5 +5536,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/04/2026",
+    "hora": "14:57:15",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Granola Trad. Tia Sonia 30 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/05/2026",
+        "codigo_barras": "7898115750049",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Granola Trad. Tia Sonia 30 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/05/2026",
+        "codigo_barras": "7898115750049",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
