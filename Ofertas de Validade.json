@@ -5123,5 +5123,49 @@
         "validade_oferta": "30/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/04/2026",
+    "hora": "07:58:43",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Manteiga Itacolomy s/sal 200 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/05/2026",
+        "codigo_barras": "7896260735911",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Hamburguer Friboi Picanha 56 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/05/2026",
+        "codigo_barras": "7896031216267",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Hamburguer Bovino Friboi 56 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/05/2026",
+        "codigo_barras": "7898542022900",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Hamburguer Bov Friboi 56 g Cartucho",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/05/2026",
+        "codigo_barras": "7898542022979",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
