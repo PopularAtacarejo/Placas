@@ -5716,5 +5716,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/04/2026",
+    "hora": "12:16:17",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Danone Yopro Protein Mor Pouch 160 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/05/2026",
+        "codigo_barras": "7891025121435",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
