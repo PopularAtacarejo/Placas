@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-30T11:53:47",
+  "atualizado_em": "2026-04-30T11:59:44",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3544,7 +3544,7 @@
     "iog actimel trad danone | massa:100g": {
       "descricao": "Iog Actimel Trad Danone 100 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog actimel trad danone 100 g",
         "iog actimel trad danone 100g",
@@ -3555,12 +3555,12 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:53:47"
+      "atualizado_em": "2026-04-30T11:59:44"
     },
     "iog chambinho morango | massa:510g": {
       "descricao": "Iog Chambinho Morango 510 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog chambinho morango 510 g",
         "iog chambinho morango 510g",
@@ -3571,12 +3571,12 @@
         "massa:510g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:53:47"
+      "atualizado_em": "2026-04-30T11:59:44"
     },
     "leite ferm itambe kids laranja | massa:80g": {
       "descricao": "Leite Ferm Itambe Kids Laranja 80 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "leite ferm itambe kids laranja 80 g",
         "leite ferm itambe kids laranja 80g",
@@ -3587,12 +3587,12 @@
         "massa:80g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:53:47"
+      "atualizado_em": "2026-04-30T11:59:44"
     },
     "iog actimel morango+lc danone | massa:100g": {
       "descricao": "Iog Actimel Morango+lc Danone 100 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog actimel morango lc danone 100 g",
         "iog actimel morango lc danone 100g",
@@ -3603,12 +3603,12 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:53:47"
+      "atualizado_em": "2026-04-30T11:59:44"
     },
     "beb lact bom leite gf acai/banana | massa:170g": {
       "descricao": "Beb Lact Bom Leite Gf 170 g Açaí/Banana",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lact bom leite gf 170 g acai banana",
         "beb lact bom leite gf 170g acai banana",
@@ -3619,12 +3619,12 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:53:47"
+      "atualizado_em": "2026-04-30T11:59:44"
     },
     "beb lact bom leite bdj ameixa | massa:540g": {
       "descricao": "Beb Lact Bom Leite Bdj 540 g Ameixa",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lact bom leite bdj 540 g ameixa",
         "beb lact bom leite bdj 540g ameixa",
@@ -3635,12 +3635,12 @@
         "massa:540g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:53:47"
+      "atualizado_em": "2026-04-30T11:59:44"
     },
     "iog liq ninho maca/banana | massa:850g": {
       "descricao": "Iog Liq Ninho Maçã/banana 850 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog liq ninho maca banana 850 g",
         "iog liq ninho maca banana 850g",
@@ -3651,12 +3651,12 @@
         "massa:850g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:53:47"
+      "atualizado_em": "2026-04-30T11:59:44"
     },
     "leite ferm nestle chamyto big | massa:120g": {
       "descricao": "Leite Ferm Nestle Chamyto Big 120 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "leite ferm nestle chamyto big 120 g",
         "leite ferm nestle chamyto big 120g",
@@ -3667,12 +3667,12 @@
         "massa:120g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:53:47"
+      "atualizado_em": "2026-04-30T11:59:44"
     },
     "iog chambinho desnatado morango | massa:850g": {
       "descricao": "Iog Chambinho Desnatado Morango 850 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog chambinho desnatado morango 850 g",
         "iog chambinho desnatado morango 850g",
@@ -3683,12 +3683,12 @@
         "massa:850g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:53:47"
+      "atualizado_em": "2026-04-30T11:59:44"
     },
     "iog polilac geleleia de abacaxi | massa:1100g": {
       "descricao": "Iog Polilac Geleleia De Abacaxi 1,1 kg",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog polilac geleleia de abacaxi 1 1 kg",
         "iog polilac geleleia de abacaxi 1 1kg",
@@ -3699,12 +3699,12 @@
         "massa:1100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:53:47"
+      "atualizado_em": "2026-04-30T11:59:44"
     },
     "iog batavo morango | massa:1.15g": {
       "descricao": "Iog Batavo Morango 1,150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog batavo morango 1 150 g",
         "iog batavo morango 1 150g",
@@ -3715,12 +3715,12 @@
         "massa:1.15g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:53:47"
+      "atualizado_em": "2026-04-30T11:59:44"
     },
     "yobem semi natural prot pote | massa:170g": {
       "descricao": "Yobem Semi Natural Prot.Pote 170 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "yobem semi natural prot pote 170 g",
         "yobem semi natural prot pote 170g",
@@ -3731,12 +3731,12 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:53:47"
+      "atualizado_em": "2026-04-30T11:59:44"
     },
     "iog danone yopro protein mor pouch | massa:160g": {
       "descricao": "Iog Danone Yopro Protein Mor Pouch 160 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone yopro protein mor pouch 160 g",
         "iog danone yopro protein mor pouch 160g",
@@ -3747,7 +3747,7 @@
         "massa:160g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:53:47"
+      "atualizado_em": "2026-04-30T11:59:44"
     }
   }
 }
