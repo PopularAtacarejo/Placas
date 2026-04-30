@@ -1262,5 +1262,101 @@
     "produto": "Ovo Luna Grande Filmado C/30",
     "preco": "13,98",
     "validade_oferta_ate": "03/05/2026"
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Nutella Creme De Avelã C/Cacau 140g",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Inset Aerosol Raid 420ml Div. Sabores",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Corona Cero Sunbrew Ln 330ml",
+    "preco": "7,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Vinho Quinta Morgado t Suave 750ml",
+    "preco": "14,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Energy Monster Lt 473ml Div. Sabores",
+    "preco": "9,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Suco De Uva Integral Oq 1l",
+    "preco": "14,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Filezinho de Peito Frango Seara Bdj 1kg",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Hamb Tony Frango ou Misto 56g",
+    "preco": "0,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Batata Mccain Pré-Frita 9 mm 720g",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Coalho Gabriel Kg",
+    "preco": "42,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Bolinho Bela Coxita 500g Calabresa, Pizza, Queijo e Frango",
+    "preco": "15,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Salsicha Copacol Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
   }
 ]
