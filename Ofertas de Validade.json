@@ -5672,5 +5672,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/04/2026",
+    "hora": "12:14:20",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Chambinho Desnatado Morango 850 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/05/2026",
+        "codigo_barras": "7898755200393",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Polilac Geleleia De Abacaxi 1,1 kg",
+        "preco": "16,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/05/2026",
+        "codigo_barras": "7898965479251",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Batavo Morango 1,150 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/05/2026",
+        "codigo_barras": "7891097103384",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Yobem Semi Natural Prot.Pote 170 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/05/2026",
+        "codigo_barras": "7898064011901",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
