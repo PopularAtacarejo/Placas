@@ -5628,5 +5628,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/04/2026",
+    "hora": "12:09:26",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb Lact Bom Leite Gf 170 g Açaí/Banana",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "07/05/2026",
+        "codigo_barras": "7898118391874",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Lact Bom Leite Bdj 540 g Ameixa",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/05/2026",
+        "codigo_barras": "7898118392659",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Liq Ninho Maçã/banana 850 g",
+        "preco": "17,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/05/2026",
+        "codigo_barras": "7891000261002",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Ferm Nestle Chamyto Big 120 g",
+        "preco": "1,88",
+        "unidade": "Unid.",
+        "validade_oferta": "11/05/2026",
+        "codigo_barras": "7891000027967",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
