@@ -1318,5 +1318,501 @@
     "produto": "FRALDINHA",
     "preco": "34,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "10:26:06",
+    "feito_por": "Jeferson",
+    "produto": "CARNE MOÍDA DE SEGUNDA",
+    "preco": "19,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "10:26:06",
+    "feito_por": "Jeferson",
+    "produto": "MAMINHA",
+    "preco": "34,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "10:26:06",
+    "feito_por": "Jeferson",
+    "produto": "LAGARTO",
+    "preco": "32,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "10:26:06",
+    "feito_por": "Jeferson",
+    "produto": "PERNIL SUÍNO",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "10:26:06",
+    "feito_por": "Jeferson",
+    "produto": "FRALDINHA",
+    "preco": "34,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Coalho Gabriel Kg",
+    "preco": "42,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "Salsicha Copacol Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA DO PEITO",
+    "preco": "17,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA PONTA DE AGULHA",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "ACÉM C/OSSO",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "ALCATRA",
+    "preco": "40,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "CHÃ DE DENTRO",
+    "preco": "37,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "CHÃ DE FORA",
+    "preco": "32,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA SUÍNA",
+    "preco": "18,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "CHAMBARIL",
+    "preco": "17,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "Bisteca Suína Cong. Kg",
+    "preco": "14,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "Coxa C/Sobrecoxa Dorsal a Granel Kg",
+    "preco": "8,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "Peito De Frango a Granel Kg",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "Coxinha E Asa De Frango a Granel Kg",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "11:56:11",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/12 Unid.",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "14:16:44",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/12 Unid.",
+    "preco": "7,98",
+    "validade_oferta_ate": "03/05/2026"
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "14:16:44",
+    "feito_por": "Jeferson",
+    "produto": "CENOURA KG",
+    "preco": "7,98",
+    "validade_oferta_ate": "03/05/2026"
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "14:16:44",
+    "feito_por": "Jeferson",
+    "produto": "BATATINHA KG",
+    "preco": "6,98",
+    "validade_oferta_ate": "03/05/2026"
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "14:16:44",
+    "feito_por": "Jeferson",
+    "produto": "CEBOLA BRANCA OU CEBOLA ROXA KG",
+    "preco": "5,98",
+    "validade_oferta_ate": "03/05/2026"
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "14:16:44",
+    "feito_por": "Jeferson",
+    "produto": "UVA ROXA SEM CAROÇO KG",
+    "preco": "8,98",
+    "validade_oferta_ate": "03/05/2026"
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "14:16:44",
+    "feito_por": "Jeferson",
+    "produto": "MARACUJÁ KG",
+    "preco": "5,48",
+    "validade_oferta_ate": "03/05/2026"
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "14:16:44",
+    "feito_por": "Jeferson",
+    "produto": "Laranja Pera Kg",
+    "preco": "1,98",
+    "validade_oferta_ate": "03/05/2026"
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "14:16:44",
+    "feito_por": "Jeferson",
+    "produto": "MELÃO ESPANHOL KG",
+    "preco": "3,98",
+    "validade_oferta_ate": "03/05/2026"
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "14:16:44",
+    "feito_por": "Jeferson",
+    "produto": "BANANA PRATA KG.",
+    "preco": "84,98",
+    "validade_oferta_ate": "03/05/2026"
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "14:16:44",
+    "feito_por": "Jeferson",
+    "produto": "Goma De Tapioca Doce Mel 1kg",
+    "preco": "6,98",
+    "validade_oferta_ate": "03/05/2026"
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "14:16:44",
+    "feito_por": "Jeferson",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "13,98",
+    "validade_oferta_ate": "03/05/2026"
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Nutella Creme De Avelã C/Cacau 140g",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Inset Aerosol Raid 420ml Div. Sabores",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Corona Cero Sunbrew Ln 330ml",
+    "preco": "7,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Vinho Quinta Morgado t Suave 750ml",
+    "preco": "14,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Energy Monster Lt 473ml Div. Sabores",
+    "preco": "9,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Suco De Uva Integral Oq 1l",
+    "preco": "14,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Filezinho de Peito Frango Seara Bdj 1kg",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Hamb Tony Frango ou Misto 56g",
+    "preco": "0,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Batata Mccain Pré-Frita 9 mm 720g",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Coalho Gabriel Kg",
+    "preco": "42,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Bolinho Bela Coxita 500g Calabresa, Pizza, Queijo e Frango",
+    "preco": "15,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Salsicha Copacol Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Cream Crack Renata 360g",
+    "preco": "3,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Rosquinha Mabel 300g Div. Sabores",
+    "preco": "4,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Leite Uht Frutigutti Int 1l",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Farinha De Trigo Sarandi S/Ferm 1kg",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Molho Tomate Tarantella 300g Div. Sabores",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Copo Desc Cristalcop Branco Ou Transp 180ml",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Multi Uso Uau Lavanda 500ml Div. Sabores",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Esponja Scotch-Brite L 4 p 3 MULT e EXTREMA",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Amac Downy Conc 1,5l Div. Sabores",
+    "preco": "31,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Sab Liq Alyne 1l Div. Sabores",
+    "preco": "17,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Masc.Trat.Dove Brilho 270g",
+    "preco": "42,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Abs Sempre Livre C/A Sv Adapt 32 und",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Sh Seda 300ml Div. Sabores",
+    "preco": "11,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Toalha Umed Huggies Supreme C/48 und",
+    "preco": "17,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Papel Hig. Usual F.D. 12 x 20 m",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Whisky Black White 700ml",
+    "preco": "44,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Beb Gin Mansao Maromba 750ml Div. Sabores",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Mussarela Engenho Fat Kg",
+    "preco": "44,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "15:01:01",
+    "feito_por": "Jeferson",
+    "produto": "Pres Coz. S/Capa Rezende Kg",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
   }
 ]
