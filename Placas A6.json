@@ -1118,5 +1118,37 @@
     "produto": "Refri. Lt 350ml C/6 Unid. Fanta Lt",
     "preco": "17,99",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "08:14:14",
+    "feito_por": "Jeferson",
+    "produto": "TOP 10",
+    "preco": "789,35",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "08:14:14",
+    "feito_por": "Jeferson",
+    "produto": "Açúcar Cristal Caete 1kg",
+    "preco": "2,85",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "08:14:14",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Kiarroz Parb T 1 1kg",
+    "preco": "3,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "08:14:14",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Skol 473ml C/12 Multipack",
+    "preco": "40,48",
+    "validade_oferta_ate": ""
   }
 ]
