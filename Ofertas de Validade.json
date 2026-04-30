@@ -5584,5 +5584,49 @@
         "validade_oferta": "05/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/04/2026",
+    "hora": "12:04:55",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Actimel Trad Danone 100 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/05/2026",
+        "codigo_barras": "7891025113454",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Chambinho Morango 510 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/05/2026",
+        "codigo_barras": "7891000394632",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Ferm Itambe Kids Laranja 80 g",
+        "preco": "1,28",
+        "unidade": "Unid.",
+        "validade_oferta": "03/05/2026",
+        "codigo_barras": "7896051126072",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Actimel Morango+lc Danone 100 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "03/05/2026",
+        "codigo_barras": "7891025113447",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
