@@ -1014,5 +1014,45 @@
     "produto": "Cerv Skol 473ml C/12 Multipack",
     "preco": "40,48",
     "validade_oferta_ate": "30/04/2026"
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "10:26:06",
+    "feito_por": "Jeferson",
+    "produto": "CARNE MOÍDA DE SEGUNDA",
+    "preco": "19,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "10:26:06",
+    "feito_por": "Jeferson",
+    "produto": "MAMINHA",
+    "preco": "34,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "10:26:06",
+    "feito_por": "Jeferson",
+    "produto": "LAGARTO",
+    "preco": "32,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "10:26:06",
+    "feito_por": "Jeferson",
+    "produto": "PERNIL SUÍNO",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "10:26:06",
+    "feito_por": "Jeferson",
+    "produto": "FRALDINHA",
+    "preco": "34,98",
+    "validade_oferta_ate": ""
   }
 ]
