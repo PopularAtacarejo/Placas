@@ -1358,5 +1358,53 @@
     "produto": "Salsicha Copacol Kg",
     "preco": "7,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "16:38:15",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Corona Cero Sunbrew Ln 330ml",
+    "preco": "7,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "16:38:15",
+    "feito_por": "Jeferson",
+    "produto": "Suco De Uva Integral Oq 1l",
+    "preco": "14,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "16:38:15",
+    "feito_por": "Jeferson",
+    "produto": "Hamb Tony Frango ou Misto 56g",
+    "preco": "0,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "16:38:15",
+    "feito_por": "Jeferson",
+    "produto": "Batata Mccain Pré-Frita 9 mm 720g",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "16:38:15",
+    "feito_por": "Jeferson",
+    "produto": "Bolinho Bela Coxita 500g Calabresa, Pizza, Queijo e Frango",
+    "preco": "15,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-04-30",
+    "horario": "16:38:15",
+    "feito_por": "Jeferson",
+    "produto": "Sorv Fika Frio 2l Div. Sabores",
+    "preco": "27,48",
+    "validade_oferta_ate": ""
   }
 ]
