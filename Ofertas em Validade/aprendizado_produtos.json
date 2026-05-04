@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-04-30T11:59:44",
+  "atualizado_em": "2026-05-04T14:44:15",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -2967,7 +2967,7 @@
     "suco ades laranja tp | volume:1000ml": {
       "descricao": "Suco Ades Laranja Tp 1 l",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "suco ades laranja tp 1 l",
         "suco ades laranja tp 1l",
@@ -2978,12 +2978,12 @@
         "volume:1000ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-28T08:19:54"
+      "atualizado_em": "2026-05-04T14:44:15"
     },
     "suco ades uva tp | volume:1000ml": {
       "descricao": "Suco Ades Uva Tp 1 l",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "suco ades uva tp 1 l",
         "suco ades uva tp 1l",
@@ -2994,12 +2994,12 @@
         "volume:1000ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-28T08:19:54"
+      "atualizado_em": "2026-05-04T14:44:15"
     },
     "suco ades maca tp | volume:1000ml": {
       "descricao": "Suco Ades Maçã Tp 1 l",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "suco ades maca tp 1 l",
         "suco ades maca tp 1l",
@@ -3010,7 +3010,7 @@
         "volume:1000ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-28T08:19:54"
+      "atualizado_em": "2026-05-04T14:44:15"
     },
     "suco skinka frutas citricas | volume:450ml": {
       "descricao": "Suco Skinka Frutas Citricas 450 ml",
@@ -3748,6 +3748,23 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-04-30T11:59:44"
+    },
+    "suco ades morango tp | volume:1000ml": {
+      "descricao": "Suco Ades Maçã Tp 1 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "suco ades maca tp 1 l",
+        "suco ades maca tp | volume:1000ml",
+        "suco ades morango tp 1l",
+        "suco ades morango tp | volume:1000ml"
+      ],
+      "descricao_base": "suco ades maca tp",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-04T14:44:15"
     }
   }
 }
