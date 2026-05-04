@@ -5733,5 +5733,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "04/05/2026",
+    "hora": "14:46:48",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Suco Ades Laranja Tp 1 l",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/05/2026",
+        "codigo_barras": "7894900087048",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Suco Ades Maçã Tp 1 l",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/05/2026",
+        "codigo_barras": "7894900087062",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Suco Ades Maçã Tp 1 l",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/05/2026",
+        "codigo_barras": "7894900087086",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Suco Ades Uva Tp 1 l",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7894900087123",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
