@@ -1526,5 +1526,37 @@
     "produto": "Ovos Luna Com 30 Unidades",
     "preco": "18,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-04",
+    "horario": "15:10:42",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Gringo Branco \"Tipo 2\" 1KG",
+    "preco": "4,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-04",
+    "horario": "15:10:42",
+    "feito_por": "Jeferson",
+    "produto": "Açúcar Cristal Caeté 1Kg",
+    "preco": "3,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-04",
+    "horario": "15:10:42",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Guarana Antarctica Pet 2L",
+    "preco": "8,89",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-04",
+    "horario": "15:10:42",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Kiarroz Parb. \"Tipo 1\" 1Kg",
+    "preco": "4,38",
+    "validade_oferta_ate": ""
   }
 ]
