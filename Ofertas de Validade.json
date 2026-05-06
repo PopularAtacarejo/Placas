@@ -5865,5 +5865,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/05/2026",
+    "hora": "08:07:33",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Cr Cracker Vitarella Integral 367.5 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/05/2026",
+        "codigo_barras": "7896213006266",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/05/2026",
+        "codigo_barras": "7896213006310",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026",
+        "codigo_barras": "7896213006303",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Cream Cracker Água Sal 300 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/05/2026",
+        "codigo_barras": "7896005030356",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
