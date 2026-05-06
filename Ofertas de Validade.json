@@ -5909,5 +5909,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/05/2026",
+    "hora": "08:11:43",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Cr Crack Capricche Integ 314,4 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026",
+        "codigo_barras": "7898657832180",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Marilan Pit Stop Presu 137 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/05/2026",
+        "codigo_barras": "7896003739442",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bolinho Rech Marilan Baunilha 40 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/05/2026",
+        "codigo_barras": "7897173098964",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Piraque Newafer Morango 100 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/05/2026",
+        "codigo_barras": "7896024726667",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
