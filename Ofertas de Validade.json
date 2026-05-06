@@ -6129,5 +6129,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/05/2026",
+    "hora": "08:37:20",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Marilan Tortinhas Morango 300 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/05/2026",
+        "codigo_barras": "7896003738803",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rech Marilan Chocolate Pc 80 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7896003739312",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Marilan Teens Snack Avela 30 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/05/2026",
+        "codigo_barras": "7896003740158",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Teens Snack Rech Choc 37 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/05/2026",
+        "codigo_barras": "7896003737349",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
