@@ -5777,5 +5777,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/05/2026",
+    "hora": "07:57:04",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Maizena Vitarella Ao Leite 350 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/05/2026",
+        "codigo_barras": "7896213006426",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Vitarella Delicita Doce Crist 414 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7896213005771",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Maizena Marilan Chocolate 300 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "23/05/2026",
+        "codigo_barras": "7896003740257",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Pilar Coquinho 300 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "11/05/2026",
+        "codigo_barras": "7896005030073",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
