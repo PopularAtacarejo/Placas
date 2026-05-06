@@ -6173,5 +6173,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/05/2026",
+    "hora": "08:42:17",
+    "placa": 10,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Divertix Rech Chocolate 112 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7896022207106",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rosq Vitamassa Chocolate 280 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/05/2026",
+        "codigo_barras": "7897353903477",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Piraque Rech Leite Malt. Black c/baun 85 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026",
+        "codigo_barras": "7896024761620",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/05/2026",
+        "codigo_barras": "7896016435836",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
