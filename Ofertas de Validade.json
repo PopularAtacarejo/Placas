@@ -6085,5 +6085,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/05/2026",
+    "hora": "08:32:37",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Cookies Vitarella Original 80 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/05/2026",
+        "codigo_barras": "7896213005702",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Treloso Rech Flocos 4 pts 480 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/05/2026",
+        "codigo_barras": "7896213006228",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Treloso Rech Choc/Morango 4 pts 480 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/05/2026",
+        "codigo_barras": "7896213006181",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Rech Pilar Baun 120 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026",
+        "codigo_barras": "7896005030431",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
