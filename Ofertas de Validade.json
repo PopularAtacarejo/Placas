@@ -6217,5 +6217,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/05/2026",
+    "hora": "08:59:38",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Hinomoto Molho Shoyu Light 5 lt",
+        "preco": "48,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7896181500896",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Tempero P/Sushi Azuma 5 lt",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7896299109370",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mostarda Dajuda Gl 3,2 lt",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7896054907104",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Molho Agridoce Mitsuwa 5 l",
+        "preco": "69,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7896054908064",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
