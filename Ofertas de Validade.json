@@ -5821,5 +5821,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/05/2026",
+    "hora": "08:02:18",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Maizena Vitarella Chocolate 350 g",
+        "preco": "6,48",
+        "unidade": "Unid.",
+        "validade_oferta": "09/05/2026",
+        "codigo_barras": "7896213006419",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Maria Vitarella Chocolate 350 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/05/2026",
+        "codigo_barras": "7896213006372",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Vitarella Coquinho 300 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/05/2026",
+        "codigo_barras": "7896213002909",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/05/2026",
+        "codigo_barras": "7896213006358",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
