@@ -5953,5 +5953,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/05/2026",
+    "hora": "08:16:55",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rech Trakinas T.Limão 126 g",
+        "preco": "3,38",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7622210573933",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Trakinas Rech Chocolate 126 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "24/05/2026",
+        "codigo_barras": "7622210592750",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Bauducco Cookies Original 100 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/05/2026",
+        "codigo_barras": "7891962054100",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Bono Rech Morango 90 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/05/2026",
+        "codigo_barras": "7891000376959",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
