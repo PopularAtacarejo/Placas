@@ -6261,5 +6261,27 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/05/2026",
+    "hora": "12:06:16",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Shake Whey Verde Campo Chocolate 250 ml",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/05/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Shake Whey Verde Campo Chocolate 250 ml",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/05/2026"
+      }
+    ]
   }
 ]
