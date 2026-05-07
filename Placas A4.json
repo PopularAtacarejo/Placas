@@ -1726,5 +1726,21 @@
     "produto": "Carne De Sol Kg",
     "preco": "36,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "10:04:08",
+    "feito_por": "Jeferson",
+    "produto": "Macaxeira",
+    "preco": "2,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "10:04:08",
+    "feito_por": "Jeferson",
+    "produto": "Abóbora Jacaré",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
   }
 ]
