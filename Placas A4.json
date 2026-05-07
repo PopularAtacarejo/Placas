@@ -2014,5 +2014,37 @@
     "produto": "Coxinha E Asa De Frango a Granel Kg",
     "preco": "14,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "16:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Fraldinha",
+    "preco": "34,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "16:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Chareu C / Osso",
+    "preco": "21,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "16:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Pernil Suíno",
+    "preco": "18,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "16:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Bisteca Do Contra Filé",
+    "preco": "32,98",
+    "validade_oferta_ate": ""
   }
 ]
