@@ -1742,5 +1742,77 @@
     "produto": "Abóbora Jacaré",
     "preco": "5,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "10:50:47",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Itaipava Lt 473ml",
+    "preco": "3,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "10:50:47",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Stella Artois Pure Gold Lt 350ml",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "10:50:47",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Mussarela Santa Maria Fat Kg",
+    "preco": "36,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "10:50:47",
+    "feito_por": "Jeferson",
+    "produto": "Presunto Cozido Cogran Fat Kg",
+    "preco": "25,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "10:50:47",
+    "feito_por": "Jeferson",
+    "produto": "Filé De Peito Frango Lar Bdj 1kg",
+    "preco": "21,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "10:50:47",
+    "feito_por": "Jeferson",
+    "produto": "Ling Toscana Frango Lar Kg",
+    "preco": "16,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "10:50:47",
+    "feito_por": "Jeferson",
+    "produto": "Galinha Cong C/Miudos Somave Kg",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "10:50:47",
+    "feito_por": "Jeferson",
+    "produto": "Pão De Queijo 800g Maricota Coquetel ou Tradicional",
+    "preco": "13,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-07",
+    "horario": "10:50:47",
+    "feito_por": "Jeferson",
+    "produto": "Batata Pre Frita Crush Easychef 2kg",
+    "preco": "34,98",
+    "validade_oferta_ate": ""
   }
 ]
