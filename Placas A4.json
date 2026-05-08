@@ -2046,5 +2046,37 @@
     "produto": "Bisteca Do Contra Filé",
     "preco": "32,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-08",
+    "horario": "08:21:09",
+    "feito_por": "Jeferson",
+    "produto": "Melão Espanhol",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-08",
+    "horario": "08:21:09",
+    "feito_por": "Jeferson",
+    "produto": "Macaxeira",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-08",
+    "horario": "08:21:09",
+    "feito_por": "Jeferson",
+    "produto": "Batata Doce Branca",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-08",
+    "horario": "08:21:09",
+    "feito_por": "Jeferson",
+    "produto": "Chuchu",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
   }
 ]
