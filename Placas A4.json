@@ -2294,5 +2294,13 @@
     "produto": "Queijo Parm Azul Cilind Faixa Azul 195g",
     "preco": "31,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-08",
+    "horario": "09:39:31",
+    "feito_por": "Jeferson",
+    "produto": "Vinho Quinta Morgado t Suave 750ml",
+    "preco": "13,98",
+    "validade_oferta_ate": "08/05/2026"
   }
 ]
