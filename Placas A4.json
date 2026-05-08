@@ -2238,5 +2238,21 @@
     "produto": "Vinho Tinto Tarapaca Leon Cab Sauv Seco 750ml",
     "preco": "55,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-08",
+    "horario": "09:20:05",
+    "feito_por": "Jeferson",
+    "produto": "Vinho Tinto Del Grano Suave 1l",
+    "preco": "23,98",
+    "validade_oferta_ate": "08/05/2026"
+  },
+  {
+    "data": "2026-05-08",
+    "horario": "09:20:05",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Do Reino Engenho Kg",
+    "preco": "73,98",
+    "validade_oferta_ate": "08/05/2026"
   }
 ]
