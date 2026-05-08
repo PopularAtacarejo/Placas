@@ -2222,5 +2222,13 @@
     "produto": "Banana Prata",
     "preco": "4,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-08",
+    "horario": "09:12:04",
+    "feito_por": "Jeferson",
+    "produto": "Vinho Tinto Tarapaca Leon Cab Sauv Seco 750ml",
+    "preco": "55,98",
+    "validade_oferta_ate": ""
   }
 ]
