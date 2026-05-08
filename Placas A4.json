@@ -2254,5 +2254,13 @@
     "produto": "Queijo Do Reino Engenho Kg",
     "preco": "73,98",
     "validade_oferta_ate": "08/05/2026"
+  },
+  {
+    "data": "2026-05-08",
+    "horario": "09:24:37",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Do Reino Engenho Kg",
+    "preco": "73,98",
+    "validade_oferta_ate": ""
   }
 ]
