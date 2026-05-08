@@ -2310,5 +2310,13 @@
     "produto": "Vinho djklçskjkdsjkd",
     "preco": "55,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-08",
+    "horario": "10:01:41",
+    "feito_por": "Jeferson",
+    "produto": "Vinho Tinto Tarapaca Leon Cab Sauv Seco 750ml",
+    "preco": "55,98",
+    "validade_oferta_ate": "08/05/2026"
   }
 ]
