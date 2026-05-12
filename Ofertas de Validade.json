@@ -6415,5 +6415,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "12/05/2026",
+    "hora": "10:13:42",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Requeijão Culinario Cheddar Pira 400 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/05/2026",
+        "codigo_barras": "7898215151067",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Lombo Ceratti Tp Canadense Ft 100 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/05/2026",
+        "codigo_barras": "7898618520859",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salame Italiano Seara 100 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/05/2026",
+        "codigo_barras": "7894904555659",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mortadela Mista Kitut Kg",
+        "preco": "11,98",
+        "unidade": "Kg",
+        "validade_oferta": "20/05/2026"
+      }
+    ]
   }
 ]
