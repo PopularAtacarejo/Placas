@@ -6501,5 +6501,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "12/05/2026",
+    "hora": "10:16:51",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Marg Becel Omega 6 c/sal 500 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7891515555337",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
