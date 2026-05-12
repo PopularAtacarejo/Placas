@@ -2366,5 +2366,21 @@
     "produto": "Queijo Parm Azul Cilind Faixa Azul 195g",
     "preco": "31,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-12",
+    "horario": "07:39:10",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Kiarroz Parb. Tipo \"1\" 1Kg",
+    "preco": "4,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-12",
+    "horario": "07:39:10",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Pilão Parb. 1Kg",
+    "preco": "4,88",
+    "validade_oferta_ate": ""
   }
 ]
