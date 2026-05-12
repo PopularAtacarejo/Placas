@@ -6327,5 +6327,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "12/05/2026",
+    "hora": "10:09:33",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Loucos Por Coxinha 300 g Coxinha Camara",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/05/2026",
+        "codigo_barras": "7898971187003",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Loucos Por Coxinha 300 g Coxinha Queijo",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "0609963304424",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salamitos Aurora 100 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/05/2026",
+        "codigo_barras": "7891164006204",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Salame Tp Italiano Defum Ceratti 100 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/05/2026",
+        "codigo_barras": "7898618520750",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
