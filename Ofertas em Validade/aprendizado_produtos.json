@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-06T07:50:09",
+  "atualizado_em": "2026-05-12T10:05:15",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3166,9 +3166,9 @@
       "atualizado_em": "2026-04-29T09:03:43"
     },
     "hamb bov/ave friboi | massa:56g": {
-      "descricao": "Doce De Leite Mu-Mu 350 g",
+      "descricao": "Hamb Bov/Ave Friboi 56 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "doce de leite mu mu 350 g",
         "doce de leite mu mu | massa:350g",
@@ -3176,12 +3176,12 @@
         "hamb bov ave friboi 56g",
         "hamb bov/ave friboi | massa:56g"
       ],
-      "descricao_base": "doce de leite mu mu",
+      "descricao_base": "hamb bov/ave friboi",
       "medidas": [
-        "massa:350g"
+        "massa:56g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T09:03:43"
+      "atualizado_em": "2026-05-12T10:05:15"
     },
     "ling tosc perdigao nabrasa pim biqui 600": {
       "descricao": "Pão De Alho Santa Massa Trad. 400 g",
@@ -3295,7 +3295,7 @@
     "queijo processado polenguinho orig | massa:68g": {
       "descricao": "Queijo Processado Polenguinho Orig 68 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "queijo processado polenguinho orig 68 g",
         "queijo processado polenguinho orig 68g",
@@ -3306,7 +3306,7 @@
         "massa:68g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-05-12T10:05:15"
     },
     "massa para pastel pasticrem | massa:200g": {
       "descricao": "Massa Para Pastel Pasticrem 200 g",
@@ -3327,7 +3327,7 @@
     "massa de pastel pasticrem t aniv | massa:500g": {
       "descricao": "Massa De Pastel Pasticrem T. Aniv 500 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "massa de pastel pasticrem t aniv 500 g",
         "massa de pastel pasticrem t aniv 500g",
@@ -3338,7 +3338,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-05-12T10:05:15"
     },
     "manteiga tirolez com sal pt | massa:200g": {
       "descricao": "Manteiga Tirolez Com Sal Pt 200 g",
@@ -3423,7 +3423,7 @@
     "salamitos aurora | massa:100g": {
       "descricao": "Salamitos Aurora 100 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "salamitos aurora 100 g",
         "salamitos aurora 100g",
@@ -3434,12 +3434,12 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-05-12T10:05:15"
     },
     "salame tp italiano defum ceratti | massa:100g": {
       "descricao": "Salame Tp Italiano Defum Ceratti 100 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "salame tp italiano defum ceratti 100 g",
         "salame tp italiano defum ceratti 100g",
@@ -3450,7 +3450,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-05-12T10:05:15"
     },
     "marg becel omega 6 c/sal | massa:250g": {
       "descricao": "Marg Becel Omega 6 c/sal 250 g",
@@ -3515,7 +3515,7 @@
     "lombo ceratti tp canadense ft | massa:100g": {
       "descricao": "Lombo Ceratti Tp Canadense Ft 100 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "lombo ceratti tp canadense ft 100 g",
         "lombo ceratti tp canadense ft 100g",
@@ -3526,7 +3526,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-05-12T10:05:15"
     },
     "bisc d licia diversos sabores | massa:220g": {
       "descricao": "Bisc. d Licia 220 g Diversos Sabores",
@@ -4316,6 +4316,214 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-05-06T07:50:09"
+    },
+    "hamb brasa costela gourmet | massa:150g": {
+      "descricao": "Hamb.Brasa Costela Gourmet 150 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "hamb brasa costela gourmet 150 g",
+        "hamb brasa costela gourmet 150g",
+        "hamb brasa costela gourmet | massa:150g"
+      ],
+      "descricao_base": "hamb brasa costela gourmet",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-12T10:05:15"
+    },
+    "hamb tony frango | massa:56g": {
+      "descricao": "Hamb Tony Frango 56 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "hamb tony frango 56 g",
+        "hamb tony frango 56g",
+        "hamb tony frango | massa:56g"
+      ],
+      "descricao_base": "hamb tony frango",
+      "medidas": [
+        "massa:56g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-12T10:05:15"
+    },
+    "hamb tony misto | massa:56g": {
+      "descricao": "Hamb Tony Misto 56 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "hamb tony misto 56 g",
+        "hamb tony misto 56g",
+        "hamb tony misto | massa:56g"
+      ],
+      "descricao_base": "hamb tony misto",
+      "medidas": [
+        "massa:56g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-12T10:05:15"
+    },
+    "loucos por coxinha coxinha camara | massa:300g": {
+      "descricao": "Loucos Por Coxinha 300 g Coxinha Camara",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "loucos por coxinha 300 g coxinha camara",
+        "loucos por coxinha 300g coxinha camara",
+        "loucos por coxinha coxinha camara | massa:300g"
+      ],
+      "descricao_base": "loucos por coxinha coxinha camara",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-12T10:05:15"
+    },
+    "loucos por coxinha coxinha queijo | massa:300g": {
+      "descricao": "Loucos Por Coxinha 300 g Coxinha Queijo",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "loucos por coxinha 300 g coxinha queijo",
+        "loucos por coxinha 300g coxinha queijo",
+        "loucos por coxinha coxinha queijo | massa:300g"
+      ],
+      "descricao_base": "loucos por coxinha coxinha queijo",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-12T10:05:15"
+    },
+    "salsicha de frango sadia | massa:500g": {
+      "descricao": "Salsicha De Frango Sadia 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salsicha de frango sadia 500 g",
+        "salsicha de frango sadia 500g",
+        "salsicha de frango sadia | massa:500g"
+      ],
+      "descricao_base": "salsicha de frango sadia",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-12T10:05:15"
+    },
+    "salsicha de peru sadia light | massa:500g": {
+      "descricao": "Salsicha De Peru Sadia Light 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salsicha de peru sadia light 500 g",
+        "salsicha de peru sadia light 500g",
+        "salsicha de peru sadia light | massa:500g"
+      ],
+      "descricao_base": "salsicha de peru sadia light",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-12T10:05:15"
+    },
+    "creme de ricota itambe trad | massa:200g": {
+      "descricao": "Creme De Ricota Itambe Trad 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "creme de ricota itambe trad 200 g",
+        "creme de ricota itambe trad 200g",
+        "creme de ricota itambe trad | massa:200g"
+      ],
+      "descricao_base": "creme de ricota itambe trad",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-12T10:05:15"
+    },
+    "requeijao culinario cheddar pira | massa:400g": {
+      "descricao": "Requeijão Culinario Cheddar Pira 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "requeijao culinario cheddar pira 400 g",
+        "requeijao culinario cheddar pira 400g",
+        "requeijao culinario cheddar pira | massa:400g"
+      ],
+      "descricao_base": "requeijao culinario cheddar pira",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-12T10:05:15"
+    },
+    "salame italiano seara | massa:100g": {
+      "descricao": "Salame Italiano Seara 100 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salame italiano seara 100 g",
+        "salame italiano seara 100g",
+        "salame italiano seara | massa:100g"
+      ],
+      "descricao_base": "salame italiano seara",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-12T10:05:15"
+    },
+    "salsicha sadia hot dog | massa:500g": {
+      "descricao": "Salsicha Sadia Hot Dog 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salsicha sadia hot dog 500 g",
+        "salsicha sadia hot dog 500g",
+        "salsicha sadia hot dog | massa:500g"
+      ],
+      "descricao_base": "salsicha sadia hot dog",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-12T10:05:15"
+    },
+    "creme de ricota regina light | massa:200g": {
+      "descricao": "Creme De Ricota Regina Light 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "creme de ricota regina light 200 g",
+        "creme de ricota regina light 200g",
+        "creme de ricota regina light | massa:200g"
+      ],
+      "descricao_base": "creme de ricota regina light",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-12T10:05:15"
+    },
+    "marg becel omega 6 c/sal | massa:500g": {
+      "descricao": "Marg Becel Omega 6 c/sal 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "marg becel omega 6 c sal 500 g",
+        "marg becel omega 6 c sal 500g",
+        "marg becel omega 6 c/sal | massa:500g"
+      ],
+      "descricao_base": "marg becel omega 6 c/sal",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-12T10:05:15"
     }
   }
 }
