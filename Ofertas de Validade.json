@@ -6371,5 +6371,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "12/05/2026",
+    "hora": "10:11:37",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Salsicha De Frango Sadia 500 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/05/2026",
+        "codigo_barras": "7893000719279",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Salsicha De Peru Sadia Light 500 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/05/2026",
+        "codigo_barras": "7893000696631",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Queijo Processado Polenguinho Orig 68 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/05/2026",
+        "codigo_barras": "7891143017436",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Creme De Ricota Itambe Trad 200 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/05/2026",
+        "codigo_barras": "7896051166757",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
