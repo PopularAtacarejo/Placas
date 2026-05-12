@@ -2382,5 +2382,21 @@
     "produto": "Arroz Pilão Parb. 1Kg",
     "preco": "4,88",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-12",
+    "horario": "07:57:09",
+    "feito_por": "Jeferson",
+    "produto": "Maracujá",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-12",
+    "horario": "07:57:09",
+    "feito_por": "Jeferson",
+    "produto": "Banana Prata",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
   }
 ]
