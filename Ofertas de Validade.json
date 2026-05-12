@@ -6457,5 +6457,49 @@
         "validade_oferta": "20/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "12/05/2026",
+    "hora": "10:15:46",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Massa De Pastel Pasticrem T. Aniv 500 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/05/2026",
+        "codigo_barras": "7896109200044",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Creme De Ricota Tradicional President 20",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/05/2026",
+        "codigo_barras": "7891097000935",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salsicha Sadia Hot Dog 500 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/05/2026",
+        "codigo_barras": "7893000135529",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Creme De Ricota Regina Light 200 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/05/2026",
+        "codigo_barras": "7896010400267",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
