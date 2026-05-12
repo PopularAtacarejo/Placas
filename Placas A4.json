@@ -2398,5 +2398,29 @@
     "produto": "Banana Prata",
     "preco": "6,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-12",
+    "horario": "09:15:07",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Guarana Antarctica 2L",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-12",
+    "horario": "09:15:07",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Itaipava LT 473ml",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-12",
+    "horario": "09:15:07",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Corona Cero Long Neck 330ml",
+    "preco": "7,29",
+    "validade_oferta_ate": ""
   }
 ]
