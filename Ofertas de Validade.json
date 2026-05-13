@@ -6775,5 +6775,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "09:39:05",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Kit Kat Branco 41,5 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7891000249239",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Kit Kat Dark 41,5 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/07/2026",
+        "codigo_barras": "7891000248829",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc Lacta Bis Xtra Black 45 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "26/06/2026",
+        "codigo_barras": "7622210566409",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc M&m´s Amendoim 40 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7896423438703",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
