@@ -7073,5 +7073,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "10:48:54",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog.Copo Int.c/cenoura Laranja e Mel 150 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026",
+        "codigo_barras": "7898657380339",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Leite Ferm Desnatado Yakult 80 g",
+        "preco": "2,28",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Batavo Morango Bdj 510 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026",
+        "codigo_barras": "7891097101717",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Beb Lact Betania Frutas Verm Gf 170 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026",
+        "codigo_barras": "7898403780949",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
