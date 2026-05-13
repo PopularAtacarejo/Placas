@@ -6561,5 +6561,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "09:15:43",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Wafer Hanuta Ferrero 22 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026",
+        "codigo_barras": "7898024398752",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Wafer Kinder Tronky 18 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/07/2026",
+        "codigo_barras": "8000500384763",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Wafer Trento Branco Dark 29 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/07/2026",
+        "codigo_barras": "7896306625251",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Wafer Trento Branco Dark Cx 464 g",
+        "preco": "31,68",
+        "unidade": "Unid.",
+        "validade_oferta": "03/07/2026",
+        "codigo_barras": "7896306625268",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
