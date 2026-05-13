@@ -7029,5 +7029,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "10:44:14",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Actimel Morango+lc Danone 100 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/05/2026",
+        "codigo_barras": "7891025113447",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Batavo Mor/Coco Bdj 540 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/05/2026",
+        "codigo_barras": "7891097101854",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Betania Yobem Triplo Zero Ameixa 850 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/05/2026",
+        "codigo_barras": "7898403781496",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Coalhada Light Betania 140 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026",
+        "codigo_barras": "7898403780284",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
