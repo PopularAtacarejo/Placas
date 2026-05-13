@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-13T10:29:07",
+  "atualizado_em": "2026-05-13T14:45:34",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -2505,7 +2505,7 @@
     "bisc bauducco cereale cacau aveia | massa:170g": {
       "descricao": "Bisc Bauducco Cereale Cacau Aveia 170 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc bauducco cereale cacau aveia 170 g",
         "bisc bauducco cereale cacau aveia 170g",
@@ -2516,7 +2516,7 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T17:21:22"
+      "atualizado_em": "2026-05-13T14:45:34"
     },
     "wafer zero acucar pistache lowcucar 01731 | massa:115g": {
       "descricao": "Wafer Zero Açúcar Pistache 115 g - Lowcucar",
@@ -2761,7 +2761,7 @@
     "pasta de castanha atdc original | massa:120g": {
       "descricao": "Pasta De Castanha Atdc Original 120 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "pasta de castanha atdc original 120 g",
         "pasta de castanha atdc original 120g",
@@ -2772,7 +2772,7 @@
         "massa:120g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T17:21:22"
+      "atualizado_em": "2026-05-13T14:45:34"
     },
     "barra de banana minions c/cob choc | massa:22g": {
       "descricao": "Barra De Banana Minions c/cob Choc 22 g",
@@ -3788,7 +3788,7 @@
     "bisc vitarella delicita doce crist | massa:414g": {
       "descricao": "Bisc Vitarella Delicita Doce Crist 414 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc vitarella delicita doce crist 414 g",
         "bisc vitarella delicita doce crist 414g",
@@ -3799,7 +3799,7 @@
         "massa:414g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-13T14:45:34"
     },
     "bisc maizena marilan chocolate | massa:300g": {
       "descricao": "Bisc Maizena Marilan Chocolate 300 g",
@@ -3951,7 +3951,7 @@
     "bisc cr crack capricche integ | massa:314.4g": {
       "descricao": "Bisc Cr Crack Capricche Integ 314,4 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc cr crack capricche integ 314 4 g",
         "bisc cr crack capricche integ 314 4g",
@@ -3962,7 +3962,7 @@
         "massa:314.4g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-13T14:45:34"
     },
     "bisc marilan pit stop presu | massa:137g": {
       "descricao": "Bisc Marilan Pit Stop Presu 137 g",
@@ -4015,7 +4015,7 @@
     "bisc rech trakinas t limao | massa:126g": {
       "descricao": "Bisc Rech Trakinas T.Limão 126 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc rech trakinas t limao 126 g",
         "bisc rech trakinas t limao 126g",
@@ -4026,7 +4026,7 @@
         "massa:126g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-13T14:45:34"
     },
     "bisc trakinas rech chocolate | massa:126g": {
       "descricao": "Bisc Trakinas Rech Chocolate 126 g",
@@ -4063,7 +4063,7 @@
     "bisc cookies vitarella chocolate | massa:80g": {
       "descricao": "Bisc Cookies Vitarella Chocolate 80 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc cookies vitarella chocolate 80 g",
         "bisc cookies vitarella chocolate 80g",
@@ -4074,7 +4074,7 @@
         "massa:80g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-13T14:45:34"
     },
     "bisc marilan pit stop rech misto quente | massa:91g": {
       "descricao": "Bisc Marilan Pit Stop Rech Misto Quente 91 g",
