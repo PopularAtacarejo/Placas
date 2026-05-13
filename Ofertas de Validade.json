@@ -7203,5 +7203,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "11:03:57",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Ferm Nestle Chamyto Big 120 g",
+        "preco": "1,88",
+        "unidade": "Unid.",
+        "validade_oferta": "25/05/2026",
+        "codigo_barras": "7891000027967",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Lacfree Banana/Maçã/Mamão 140 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/05/2026",
+        "codigo_barras": "7898205924060",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Nestle Natural Mel/Lar/Cenoura 170 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/05/2026",
+        "codigo_barras": "7891000072998",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Verde Campo Whey 28 Morango 500 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/05/2026",
+        "codigo_barras": "7898205924725",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
