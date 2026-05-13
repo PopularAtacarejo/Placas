@@ -6518,5 +6518,48 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "08:52:50",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Verde Campo Lacfre Trad 170 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7898205924497",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Molico Morango T Zero 850 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7891000305775",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Beb.Lact Itambe Bdj 540 g Morango",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7896051166986",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Verde Campo Whey 21 Açaí 250 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/05/2026",
+        "codigo_barras": "7898205925845",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
