@@ -6647,5 +6647,49 @@
         "validade_oferta": "04/07/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "09:25:15",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Barra Talento Amêndoas e Passas 85 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/07/2026",
+        "codigo_barras": "7891008121827",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Talento Castanha Do Para 85 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/07/2026",
+        "codigo_barras": "7891008121773",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc Talento Doce De Leite 85 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/06/2026",
+        "codigo_barras": "7891008121629",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc Talento Meio Amargo Amêndoas 85",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026",
+        "codigo_barras": "7891008121575",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
