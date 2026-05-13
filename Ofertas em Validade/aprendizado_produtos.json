@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-13T09:08:11",
+  "atualizado_em": "2026-05-13T10:29:07",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3595,7 +3595,7 @@
     "iog actimel morango+lc danone | massa:100g": {
       "descricao": "Iog Actimel Morango+lc Danone 100 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "iog actimel morango lc danone 100 g",
         "iog actimel morango lc danone 100g",
@@ -3606,7 +3606,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "beb lact bom leite gf acai/banana | massa:170g": {
       "descricao": "Beb Lact Bom Leite Gf 170 g Açaí/Banana",
@@ -3643,7 +3643,7 @@
     "iog liq ninho maca/banana | massa:850g": {
       "descricao": "Iog Liq Ninho Maçã/banana 850 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "iog liq ninho maca banana 850 g",
         "iog liq ninho maca banana 850g",
@@ -3654,12 +3654,12 @@
         "massa:850g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "leite ferm nestle chamyto big | massa:120g": {
       "descricao": "Leite Ferm Nestle Chamyto Big 120 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "leite ferm nestle chamyto big 120 g",
         "leite ferm nestle chamyto big 120g",
@@ -3670,7 +3670,7 @@
         "massa:120g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog chambinho desnatado morango | massa:850g": {
       "descricao": "Iog Chambinho Desnatado Morango 850 g",
@@ -4528,7 +4528,7 @@
     "iog verde campo lacfre trad | massa:170g": {
       "descricao": "Iog Verde Campo Lacfre Trad 170 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog verde campo lacfre trad 170 g",
         "iog verde campo lacfre trad 170g",
@@ -4539,12 +4539,12 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog molico morango t zero | massa:850g": {
       "descricao": "Iog Molico Morango T Zero 850 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog molico morango t zero 850 g",
         "iog molico morango t zero 850g",
@@ -4555,12 +4555,12 @@
         "massa:850g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog beb lact itambe bdj morango | massa:540g": {
       "descricao": "Iog Beb.Lact Itambe Bdj 540 g Morango",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog beb lact itambe bdj 540 g morango",
         "iog beb lact itambe bdj 540g morango",
@@ -4571,12 +4571,12 @@
         "massa:540g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog verde campo whey 21 acai | massa:250g": {
       "descricao": "Iog Verde Campo Whey 21 Açaí 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog verde campo whey 21 acai 250 g",
         "iog verde campo whey 21 acai 250g",
@@ -4587,12 +4587,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog beb lact itambe bdj mor/coco | massa:540g": {
       "descricao": "Iog Beb.Lact Itambe Bdj 540 g Mor/Coco",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog beb lact itambe bdj 540 g mor coco",
         "iog beb lact itambe bdj 540g mor coco",
@@ -4603,12 +4603,12 @@
         "massa:540g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "beb lact betania bat gut sh morango | massa:900g": {
       "descricao": "Beb Lact Betania Bat Gut Sh Morango 900 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lact betania bat gut sh morango 900 g",
         "beb lact betania bat gut sh morango 900g",
@@ -4619,12 +4619,12 @@
         "massa:900g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iogurte copo natural desnatado | massa:150g": {
       "descricao": "Iogurte Copo Natural Desnatado 150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iogurte copo natural desnatado 150 g",
         "iogurte copo natural desnatado 150g",
@@ -4635,12 +4635,12 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog liq nestle neston 3/cer | massa:850g": {
       "descricao": "Iog Liq Nestle Neston 3/Cer 850 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog liq nestle neston 3 cer 850 g",
         "iog liq nestle neston 3 cer 850g",
@@ -4651,12 +4651,12 @@
         "massa:850g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog batavo mor/coco bdj | massa:540g": {
       "descricao": "Iog Batavo Mor/Coco Bdj 540 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog batavo mor coco bdj 540 g",
         "iog batavo mor coco bdj 540g",
@@ -4667,12 +4667,12 @@
         "massa:540g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog betania yobem triplo zero ameixa | massa:850g": {
       "descricao": "Iog Betania Yobem Triplo Zero Ameixa 850 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog betania yobem triplo zero ameixa 850 g",
         "iog betania yobem triplo zero ameixa 850g",
@@ -4683,12 +4683,12 @@
         "massa:850g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "coalhada light betania | massa:140g": {
       "descricao": "Coalhada Light Betania 140 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "coalhada light betania 140 g",
         "coalhada light betania 140g",
@@ -4699,12 +4699,12 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog copo int c/cenoura laranja e mel | massa:150g": {
       "descricao": "Iog.Copo Int.c/cenoura Laranja e Mel 150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog copo int c cenoura laranja e mel 150 g",
         "iog copo int c cenoura laranja e mel 150g",
@@ -4715,12 +4715,12 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "leite ferm desnatado yakult | massa:80g": {
       "descricao": "Leite Ferm Desnatado Yakult 80 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "leite ferm desnatado yakult 80 g",
         "leite ferm desnatado yakult 80g",
@@ -4731,12 +4731,12 @@
         "massa:80g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog batavo morango bdj | massa:510g": {
       "descricao": "Iog Batavo Morango Bdj 510 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog batavo morango bdj 510 g",
         "iog batavo morango bdj 510g",
@@ -4747,12 +4747,12 @@
         "massa:510g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "beb lact betania frutas verm gf | massa:170g": {
       "descricao": "Beb Lact Betania Frutas Verm Gf 170 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lact betania frutas verm gf 170 g",
         "beb lact betania frutas verm gf 170g",
@@ -4763,12 +4763,12 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog copo integral morango | massa:150g": {
       "descricao": "Iog.Copo Integral Morango 150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog copo integral morango 150 g",
         "iog copo integral morango 150g",
@@ -4779,12 +4779,12 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog lacfree banana/maca/mamao | massa:500g": {
       "descricao": "Iog Lacfree Banana/Maçã/Mamão 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog lacfree banana maca mamao 500 g",
         "iog lacfree banana maca mamao 500g",
@@ -4795,12 +4795,12 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "sobremesa lact chandelle choc bco | massa:360g": {
       "descricao": "Sobremesa Lact Chandelle Choc Bco 360 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "sobremesa lact chandelle choc bco 360 g",
         "sobremesa lact chandelle choc bco 360g",
@@ -4811,12 +4811,12 @@
         "massa:360g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog nestle molico baunilha | massa:170g": {
       "descricao": "Iog Nestle Molico Baunilha 170 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog nestle molico baunilha 170 g",
         "iog nestle molico baunilha 170g",
@@ -4827,12 +4827,12 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog lacfree morango | massa:500g": {
       "descricao": "Iog Lacfree Morango 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog lacfree morango 500 g",
         "iog lacfree morango 500g",
@@ -4843,12 +4843,12 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog verde campo whey 21 morango | massa:250g": {
       "descricao": "Iog Verde Campo Whey 21 Morango 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog verde campo whey 21 morango 250 g",
         "iog verde campo whey 21 morango 250g",
@@ -4859,12 +4859,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog betania yobem triplo zero morango | massa:850g": {
       "descricao": "Iog Betania Yobem Triplo Zero Morango 850 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog betania yobem triplo zero morango 850 g",
         "iog betania yobem triplo zero morango 850g",
@@ -4875,12 +4875,12 @@
         "massa:850g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog lacfree banana/maca/mamao | massa:140g": {
       "descricao": "Iog Lacfree Banana/Maçã/Mamão 140 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog lacfree banana maca mamao 140 g",
         "iog lacfree banana maca mamao 140g",
@@ -4891,12 +4891,12 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog nestle natural mel/lar/cenoura | massa:170g": {
       "descricao": "Iog Nestle Natural Mel/Lar/Cenoura 170 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog nestle natural mel lar cenoura 170 g",
         "iog nestle natural mel lar cenoura 170g",
@@ -4907,12 +4907,12 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog verde campo whey 28 morango | massa:500g": {
       "descricao": "Iog Verde Campo Whey 28 Morango 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog verde campo whey 28 morango 500 g",
         "iog verde campo whey 28 morango 500g",
@@ -4923,12 +4923,12 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "beb lact frutigutti ameixa sh | massa:900g": {
       "descricao": "Beb Lact Frutigutti Ameixa Sh 900 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lact frutigutti ameixa sh 900 g",
         "beb lact frutigutti ameixa sh 900g",
@@ -4939,12 +4939,12 @@
         "massa:900g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog bom leite petit suisse morango | massa:270g": {
       "descricao": "Iog Bom Leite Petit Suisse Morango 270 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog bom leite petit suisse morango 270 g",
         "iog bom leite petit suisse morango 270g",
@@ -4955,7 +4955,7 @@
         "massa:270g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T08:47:45"
+      "atualizado_em": "2026-05-13T10:29:07"
     },
     "wafer hanuta ferrero | massa:22g": {
       "descricao": "Wafer Hanuta Ferrero 22 g",
