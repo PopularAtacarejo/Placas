@@ -6819,5 +6819,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "09:43:45",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Nutella B-ready 22 g",
+        "preco": "5,58",
+        "unidade": "Unid.",
+        "validade_oferta": "02/07/2026",
+        "codigo_barras": "7898024397915",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc.Mumu Kids Banana 15,6 g",
+        "preco": "1,68",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7891330016921",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc.Mumu Kids Coco 15,6 g",
+        "preco": "1,68",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7891330019274",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc.Mumu Kids Morango 15,6 g",
+        "preco": "1,68",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7891330018444",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
