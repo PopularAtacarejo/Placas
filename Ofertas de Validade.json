@@ -7317,5 +7317,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "14:52:51",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Bauducco Cereale Cacau Aveia 170 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7891962045160",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pasta De Castanha Atdc Original 120 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026",
+        "codigo_barras": "7898955705728",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
