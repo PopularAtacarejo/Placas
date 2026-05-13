@@ -6691,5 +6691,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "09:29:50",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Chocolate Rech 5 star 40 g Lacta",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026",
+        "codigo_barras": "7622210411501",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Conf Stick Mentos Frutas Vermelhas 16 x 3",
+        "preco": "41,28",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7895144693064",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Conf Stick Mentos Frutas Vermelhas 37,5 g",
+        "preco": "2,58",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7895144603063",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bombom Raffaello 30 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026"
+      }
+    ]
   }
 ]
