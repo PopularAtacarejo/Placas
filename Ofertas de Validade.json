@@ -6605,5 +6605,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "09:20:16",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Wafer Trento Massimo Dark 25 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026",
+        "codigo_barras": "7896306625084",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Wafer Trento Massimo Duo 25 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/07/2026",
+        "codigo_barras": "7896306625107",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Waffer Trento Massimo Bran Cookies 25 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/07/2026",
+        "codigo_barras": "7896306625022",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Barra Choc Barra Talento Meio Amargo 85",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/07/2026"
+      }
+    ]
   }
 ]
