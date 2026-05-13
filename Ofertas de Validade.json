@@ -6733,5 +6733,47 @@
         "validade_oferta": "01/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "09:34:13",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Arcor Bon o Bon Beijinho 15 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Barra Lacta 20 g",
+        "preco": "2,28",
+        "unidade": "Unid.",
+        "validade_oferta": "12/06/2026",
+        "codigo_barras": "7622300862442",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc Barra Lacta Ao Leite 20 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "18/06/2026",
+        "codigo_barras": "7622300862367",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc Kit Kat Ao Leite 41,5 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/07/2026",
+        "codigo_barras": "7891000248768",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
