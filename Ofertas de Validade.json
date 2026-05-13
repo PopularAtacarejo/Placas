@@ -6907,5 +6907,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "09:53:07",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Trufa Cia Do Cacau Maracuja 23 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/06/2026",
+        "codigo_barras": "7898192252870",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Wafer Recheado Sonho De Valsa 25 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/06/2026",
+        "codigo_barras": "7622210570086",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Wafer Trento Spec.Pistache Ao Leite 20 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7896306625909",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
