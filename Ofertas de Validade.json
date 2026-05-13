@@ -6985,5 +6985,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "10:39:57",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Beb.Lact Itambe Bdj 540 g Mor/Coco",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/05/2026",
+        "codigo_barras": "7896051167006",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Lact Betania Bat Gut Sh Morango 900 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/05/2026",
+        "codigo_barras": "7898403780451",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iogurte Copo Natural Desnatado 150 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/05/2026",
+        "codigo_barras": "7898657380308",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Liq Nestle Neston 3/Cer 850 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/05/2026",
+        "codigo_barras": "7891000260623",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
