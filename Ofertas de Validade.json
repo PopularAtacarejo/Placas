@@ -7115,5 +7115,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "10:54:08",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog.Copo Integral Morango 150 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026",
+        "codigo_barras": "7898657380315",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Lacfree Banana/Maçã/Mamão 500 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/05/2026",
+        "codigo_barras": "7898205923940",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sobremesa Lact Chandelle Choc Bco 360 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/05/2026",
+        "codigo_barras": "7891000110096",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Liq Ninho Maçã/banana 850 g",
+        "preco": "16,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/05/2026",
+        "codigo_barras": "7891000261002",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
