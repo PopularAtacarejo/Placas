@@ -6863,5 +6863,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "09:48:22",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Chocolate Lacta Laka 28 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/06/2026",
+        "codigo_barras": "7622202256721",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Trento Massimo Coco 25 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "09/06/2026",
+        "codigo_barras": "7896306625534",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Trento Slin Caramelo 20 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026",
+        "codigo_barras": "7896306625756",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Trento Slin Chocolate 20 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/05/2026",
+        "codigo_barras": "7896306625732",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
