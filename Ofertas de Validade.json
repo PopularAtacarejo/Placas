@@ -7247,5 +7247,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/05/2026",
+    "hora": "11:07:03",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb Lact Frutigutti Ameixa Sh 900 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/05/2026",
+        "codigo_barras": "7898022210612",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Bom Leite Petit Suisse Morango 270 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/05/2026",
+        "codigo_barras": "7898118390662",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
