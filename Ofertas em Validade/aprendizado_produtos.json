@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-13T08:47:45",
+  "atualizado_em": "2026-05-13T09:08:11",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -4956,6 +4956,543 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-05-13T08:47:45"
+    },
+    "wafer hanuta ferrero | massa:22g": {
+      "descricao": "Wafer Hanuta Ferrero 22 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "wafer hanuta ferrero 22 g",
+        "wafer hanuta ferrero 22g",
+        "wafer hanuta ferrero | massa:22g"
+      ],
+      "descricao_base": "wafer hanuta ferrero",
+      "medidas": [
+        "massa:22g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "wafer kinder tronky | massa:18g": {
+      "descricao": "Wafer Kinder Tronky 18 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "wafer kinder tronky 18 g",
+        "wafer kinder tronky 18g",
+        "wafer kinder tronky | massa:18g"
+      ],
+      "descricao_base": "wafer kinder tronky",
+      "medidas": [
+        "massa:18g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "wafer trento branco dark | massa:29g": {
+      "descricao": "Wafer Trento Branco Dark 29 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "wafer trento branco dark 29 g",
+        "wafer trento branco dark 29g",
+        "wafer trento branco dark | massa:29g"
+      ],
+      "descricao_base": "wafer trento branco dark",
+      "medidas": [
+        "massa:29g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "wafer trento branco dark | massa:464g": {
+      "descricao": "Wafer Trento Branco Dark Cx 464 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "wafer trento branco dark cx 464 g",
+        "wafer trento branco dark cx 464g",
+        "wafer trento branco dark | massa:464g"
+      ],
+      "descricao_base": "wafer trento branco dark",
+      "medidas": [
+        "massa:464g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "wafer trento massimo dark | massa:25g": {
+      "descricao": "Wafer Trento Massimo Dark 25 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "wafer trento massimo dark 25 g",
+        "wafer trento massimo dark 25g",
+        "wafer trento massimo dark | massa:25g"
+      ],
+      "descricao_base": "wafer trento massimo dark",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "wafer trento massimo duo | massa:25g": {
+      "descricao": "Wafer Trento Massimo Duo 25 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "wafer trento massimo duo 25 g",
+        "wafer trento massimo duo 25g",
+        "wafer trento massimo duo | massa:25g"
+      ],
+      "descricao_base": "wafer trento massimo duo",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "waffer trento massimo bran cookies | massa:25g": {
+      "descricao": "Waffer Trento Massimo Bran Cookies 25 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "waffer trento massimo bran cookies 25 g",
+        "waffer trento massimo bran cookies 25g",
+        "waffer trento massimo bran cookies | massa:25g"
+      ],
+      "descricao_base": "waffer trento massimo bran cookies",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc barra talento amendoas e passas 85": {
+      "descricao": "Choc Barra Talento Amêndoas e Passas 85 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc barra talento amendoas e passas 85",
+        "choc barra talento amendoas e passas 85 g",
+        "choc barra talento amendoas e passas | massa:85g"
+      ],
+      "descricao_base": "choc barra talento amendoas e passas",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc talento castanha do para | massa:85g": {
+      "descricao": "Choc Talento Castanha Do Para 85 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc talento castanha do para 85 g",
+        "choc talento castanha do para 85g",
+        "choc talento castanha do para | massa:85g"
+      ],
+      "descricao_base": "choc talento castanha do para",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc talento doce de leite | massa:85g": {
+      "descricao": "Choc Talento Doce De Leite 85 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc talento doce de leite 85 g",
+        "choc talento doce de leite 85g",
+        "choc talento doce de leite | massa:85g"
+      ],
+      "descricao_base": "choc talento doce de leite",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc talento meio amargo amendoas 85": {
+      "descricao": "Choc Talento Meio Amargo Amêndoas 85",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc talento meio amargo amendoas 85"
+      ],
+      "descricao_base": "choc talento meio amargo amendoas 85",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "chocolate rech 5 star lacta | massa:40g": {
+      "descricao": "Chocolate Rech 5 star 40 g Lacta",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "chocolate rech 5 star 40 g lacta",
+        "chocolate rech 5 star lacta | massa:40g",
+        "chocolate rech 5star 40g lacta"
+      ],
+      "descricao_base": "chocolate rech 5 star lacta",
+      "medidas": [
+        "massa:40g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "conf stick mentos frutas vermelhas 16 x 3": {
+      "descricao": "Conf Stick Mentos Frutas Vermelhas 16 x 3",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "conf stick mentos frutas vermelhas 16 x 3",
+        "conf stick mentos frutas vermelhas 16x3"
+      ],
+      "descricao_base": "conf stick mentos frutas vermelhas 16 x 3",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "conf stick mentos frutas vermelhas | massa:37.5g": {
+      "descricao": "Conf Stick Mentos Frutas Vermelhas 37,5 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "conf stick mentos frutas vermelhas 37 5 g",
+        "conf stick mentos frutas vermelhas 37 5g",
+        "conf stick mentos frutas vermelhas | massa:37.5g"
+      ],
+      "descricao_base": "conf stick mentos frutas vermelhas",
+      "medidas": [
+        "massa:37.5g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "bombom raffaello | massa:30g": {
+      "descricao": "Bombom Raffaello 30 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bombom raffaello 30 g",
+        "bombom raffaello 30g",
+        "bombom raffaello | massa:30g"
+      ],
+      "descricao_base": "bombom raffaello",
+      "medidas": [
+        "massa:30g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc arcor bon o bon beijinho | massa:15g": {
+      "descricao": "Choc Arcor Bon o Bon Beijinho 15 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc arcor bon o bon beijinho 15 g",
+        "choc arcor bon o bon beijinho 15g",
+        "choc arcor bon o bon beijinho | massa:15g"
+      ],
+      "descricao_base": "choc arcor bon o bon beijinho",
+      "medidas": [
+        "massa:15g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc barra lacta | massa:20g": {
+      "descricao": "Choc Barra Lacta 20 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc barra lacta 20 g",
+        "choc barra lacta 20g",
+        "choc barra lacta | massa:20g"
+      ],
+      "descricao_base": "choc barra lacta",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc barra lacta ao leite | massa:20g": {
+      "descricao": "Choc Barra Lacta Ao Leite 20 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc barra lacta ao leite 20 g",
+        "choc barra lacta ao leite 20g",
+        "choc barra lacta ao leite | massa:20g"
+      ],
+      "descricao_base": "choc barra lacta ao leite",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc kit kat ao leite | massa:41.5g": {
+      "descricao": "Choc Kit Kat Ao Leite 41,5 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc kit kat ao leite 41 5 g",
+        "choc kit kat ao leite 41 5g",
+        "choc kit kat ao leite | massa:41.5g"
+      ],
+      "descricao_base": "choc kit kat ao leite",
+      "medidas": [
+        "massa:41.5g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc kit kat branco | massa:41.5g": {
+      "descricao": "Choc Kit Kat Branco 41,5 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc kit kat branco 41 5 g",
+        "choc kit kat branco 41 5g",
+        "choc kit kat branco | massa:41.5g"
+      ],
+      "descricao_base": "choc kit kat branco",
+      "medidas": [
+        "massa:41.5g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc kit kat dark | massa:41.5g": {
+      "descricao": "Choc Kit Kat Dark 41,5 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc kit kat dark 41 5 g",
+        "choc kit kat dark 41 5g",
+        "choc kit kat dark | massa:41.5g"
+      ],
+      "descricao_base": "choc kit kat dark",
+      "medidas": [
+        "massa:41.5g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc lacta bis xtra black | massa:45g": {
+      "descricao": "Choc Lacta Bis Xtra Black 45 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc lacta bis xtra black 45 g",
+        "choc lacta bis xtra black 45g",
+        "choc lacta bis xtra black | massa:45g"
+      ],
+      "descricao_base": "choc lacta bis xtra black",
+      "medidas": [
+        "massa:45g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc m&m s amendoim | massa:40g": {
+      "descricao": "Choc M&m´s Amendoim 40 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc m m s amendoim 40 g",
+        "choc m m s amendoim 40g",
+        "choc m&m s amendoim | massa:40g"
+      ],
+      "descricao_base": "choc m&m s amendoim",
+      "medidas": [
+        "massa:40g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc nutella b ready | massa:22g": {
+      "descricao": "Choc Nutella B-ready 22 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc nutella b ready 22 g",
+        "choc nutella b ready 22g",
+        "choc nutella b ready | massa:22g"
+      ],
+      "descricao_base": "choc nutella b ready",
+      "medidas": [
+        "massa:22g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc mumu kids banana | massa:15.6g": {
+      "descricao": "Choc.Mumu Kids Banana 15,6 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc mumu kids banana 15 6 g",
+        "choc mumu kids banana 15 6g",
+        "choc mumu kids banana | massa:15.6g"
+      ],
+      "descricao_base": "choc mumu kids banana",
+      "medidas": [
+        "massa:15.6g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc mumu kids coco | massa:15.6g": {
+      "descricao": "Choc.Mumu Kids Coco 15,6 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc mumu kids coco 15 6 g",
+        "choc mumu kids coco 15 6g",
+        "choc mumu kids coco | massa:15.6g"
+      ],
+      "descricao_base": "choc mumu kids coco",
+      "medidas": [
+        "massa:15.6g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "choc mumu kids morango | massa:15.6g": {
+      "descricao": "Choc.Mumu Kids Morango 15,6 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc mumu kids morango 15 6 g",
+        "choc mumu kids morango 15 6g",
+        "choc mumu kids morango | massa:15.6g"
+      ],
+      "descricao_base": "choc mumu kids morango",
+      "medidas": [
+        "massa:15.6g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "chocolate lacta laka | massa:28g": {
+      "descricao": "Chocolate Lacta Laka 28 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "chocolate lacta laka 28 g",
+        "chocolate lacta laka 28g",
+        "chocolate lacta laka | massa:28g"
+      ],
+      "descricao_base": "chocolate lacta laka",
+      "medidas": [
+        "massa:28g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "trento massimo coco | massa:25g": {
+      "descricao": "Trento Massimo Coco 25 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "trento massimo coco 25 g",
+        "trento massimo coco 25g",
+        "trento massimo coco | massa:25g"
+      ],
+      "descricao_base": "trento massimo coco",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "trento slin caramelo | massa:20g": {
+      "descricao": "Trento Slin Caramelo 20 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "trento slin caramelo 20 g",
+        "trento slin caramelo 20g",
+        "trento slin caramelo | massa:20g"
+      ],
+      "descricao_base": "trento slin caramelo",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "trento slin chocolate | massa:20g": {
+      "descricao": "Trento Slin Chocolate 20 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "trento slin chocolate 20 g",
+        "trento slin chocolate 20g",
+        "trento slin chocolate | massa:20g"
+      ],
+      "descricao_base": "trento slin chocolate",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "trufa cia do cacau maracuja | massa:23g": {
+      "descricao": "Trufa Cia Do Cacau Maracuja 23 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "trufa cia do cacau maracuja 23 g",
+        "trufa cia do cacau maracuja 23g",
+        "trufa cia do cacau maracuja | massa:23g"
+      ],
+      "descricao_base": "trufa cia do cacau maracuja",
+      "medidas": [
+        "massa:23g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "wafer recheado sonho de valsa | massa:25g": {
+      "descricao": "Wafer Recheado Sonho De Valsa 25 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "wafer recheado sonho de valsa 25 g",
+        "wafer recheado sonho de valsa 25g",
+        "wafer recheado sonho de valsa | massa:25g"
+      ],
+      "descricao_base": "wafer recheado sonho de valsa",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "wafer trento spec pistache ao leite | massa:20g": {
+      "descricao": "Wafer Trento Spec.Pistache Ao Leite 20 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "wafer trento spec pistache ao leite 20 g",
+        "wafer trento spec pistache ao leite | massa:20g",
+        "wafer trento spec pistache ao leite20g"
+      ],
+      "descricao_base": "wafer trento spec pistache ao leite",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-13T09:08:11"
     }
   }
 }
