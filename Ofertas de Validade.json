@@ -7343,5 +7343,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "14/05/2026",
+    "hora": "07:59:03",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Capricche Água/Sal 350 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7898657830841",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Capricche Amant. Coco 288 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/05/2026",
+        "codigo_barras": "7898657831848",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Capricche Champanhe 150 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/05/2026",
+        "codigo_barras": "7898954857411",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Cookies Vitarella Chocolate 80 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7896213005719",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
