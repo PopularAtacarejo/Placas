@@ -7519,5 +7519,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "14/05/2026",
+    "hora": "08:12:19",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Vitarella Delicita Salg Presunto 138 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/05/2026",
+        "codigo_barras": "7896213005368",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Maria Vitarella Chocolate 350 g",
+        "preco": "6,48",
+        "unidade": "Unid.",
+        "validade_oferta": "25/05/2026",
+        "codigo_barras": "7896213006372",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/05/2026",
+        "codigo_barras": "7896213006358",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Biscoito Cream Craker Capricche Premium",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "25/05/2026",
+        "codigo_barras": "7898657832548",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
