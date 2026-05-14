@@ -7431,5 +7431,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "14/05/2026",
+    "hora": "08:06:00",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Pilar Coquinho 300 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/05/2026",
+        "codigo_barras": "7896005030073",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rech Futurinho Brigadeiro 339 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/05/2026",
+        "codigo_barras": "7898657831664",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Rech Nescau Classic 140 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/05/2026",
+        "codigo_barras": "7891000089194",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Rech Trakinas T.Limão 126 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7622210573933",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
