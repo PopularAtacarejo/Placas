@@ -7475,5 +7475,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "14/05/2026",
+    "hora": "08:09:21",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Skin Coquinho Doce 400 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7898185760412",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Trakinas Rech Chocolate 126 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "24/05/2026",
+        "codigo_barras": "7622210592750",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Treloso Amant Coco 110 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026",
+        "codigo_barras": "7896213004927",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Vitarella Delicita Doce Crist 414 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/05/2026",
+        "codigo_barras": "7896213005771",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
