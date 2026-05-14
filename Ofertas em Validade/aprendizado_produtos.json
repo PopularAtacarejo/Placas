@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-13T14:45:34",
+  "atualizado_em": "2026-05-14T07:55:04",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -827,7 +827,7 @@
     "bisc vitarella delicita salg pizza | massa:138g": {
       "descricao": "Bisc Vitarella Delicita Salg Presunto 138 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc vitarella delicita salg orig 138g",
         "bisc vitarella delicita salg orig | massa:138g",
@@ -841,7 +841,7 @@
         "massa:138g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-14T07:55:04"
     },
     "bisc vitarella delicita salg orig | massa:138g": {
       "descricao": "Bisc Vitarella Delicita Salg Presunto 138g",
@@ -2184,7 +2184,7 @@
     "bisc skin coquinho doce | massa:400g": {
       "descricao": "Bisc Skin Coquinho Doce 400 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc skin coquinho doce 400 g",
         "bisc skin coquinho doce 400g",
@@ -2195,7 +2195,7 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T15:33:29"
+      "atualizado_em": "2026-05-14T07:55:04"
     },
     "bisc cream cracker capricche trad | massa:350g": {
       "descricao": "Bisc Marilan Cream Cracker Água Sal 300 g",
@@ -2393,7 +2393,7 @@
     "bisc hot cracker rech pizza | massa:100g": {
       "descricao": "Bisc Hot Cracker Rech Pizza 100 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc hot cracker rech pizza 100 g",
         "bisc hot cracker rech pizza 100g",
@@ -2404,7 +2404,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-14T07:55:04"
     },
     "torrada vitarella trad | massa:142g": {
       "descricao": "Torrada Vitarella Trad 142 g",
@@ -3788,7 +3788,7 @@
     "bisc vitarella delicita doce crist | massa:414g": {
       "descricao": "Bisc Vitarella Delicita Doce Crist 414 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc vitarella delicita doce crist 414 g",
         "bisc vitarella delicita doce crist 414g",
@@ -3799,7 +3799,7 @@
         "massa:414g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T14:45:34"
+      "atualizado_em": "2026-05-14T07:55:04"
     },
     "bisc maizena marilan chocolate | massa:300g": {
       "descricao": "Bisc Maizena Marilan Chocolate 300 g",
@@ -3820,7 +3820,7 @@
     "bisc pilar coquinho | massa:300g": {
       "descricao": "Bisc Pilar Coquinho 300 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc pilar coquinho 300 g",
         "bisc pilar coquinho 300g",
@@ -3831,7 +3831,7 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-14T07:55:04"
     },
     "bisc maizena vitarella chocolate | massa:350g": {
       "descricao": "Bisc Maizena Vitarella Chocolate 350 g",
@@ -3951,7 +3951,7 @@
     "bisc cr crack capricche integ | massa:314.4g": {
       "descricao": "Bisc Cr Crack Capricche Integ 314,4 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc cr crack capricche integ 314 4 g",
         "bisc cr crack capricche integ 314 4g",
@@ -3962,7 +3962,7 @@
         "massa:314.4g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T14:45:34"
+      "atualizado_em": "2026-05-14T07:55:04"
     },
     "bisc marilan pit stop presu | massa:137g": {
       "descricao": "Bisc Marilan Pit Stop Presu 137 g",
@@ -4015,7 +4015,7 @@
     "bisc rech trakinas t limao | massa:126g": {
       "descricao": "Bisc Rech Trakinas T.Limão 126 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc rech trakinas t limao 126 g",
         "bisc rech trakinas t limao 126g",
@@ -4026,12 +4026,12 @@
         "massa:126g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T14:45:34"
+      "atualizado_em": "2026-05-14T07:55:04"
     },
     "bisc trakinas rech chocolate | massa:126g": {
       "descricao": "Bisc Trakinas Rech Chocolate 126 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc trakinas rech chocolate 126 g",
         "bisc trakinas rech chocolate 126g",
@@ -4042,12 +4042,12 @@
         "massa:126g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-14T07:55:04"
     },
     "bisc rech nescau classic | massa:140g": {
       "descricao": "Bisc Rech Nescau Classic 140 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc rech nescau classic 140 g",
         "bisc rech nescau classic 140g",
@@ -4058,12 +4058,12 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-14T07:55:04"
     },
     "bisc cookies vitarella chocolate | massa:80g": {
       "descricao": "Bisc Cookies Vitarella Chocolate 80 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc cookies vitarella chocolate 80 g",
         "bisc cookies vitarella chocolate 80g",
@@ -4074,7 +4074,7 @@
         "massa:80g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T14:45:34"
+      "atualizado_em": "2026-05-14T07:55:04"
     },
     "bisc marilan pit stop rech misto quente | massa:91g": {
       "descricao": "Bisc Marilan Pit Stop Rech Misto Quente 91 g",
@@ -4095,7 +4095,7 @@
     "bisc marilan pit stop rech salsa ceb | massa:91g": {
       "descricao": "Bisc Marilan Pit Stop Rech Salsa Ceb 91 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc marilan pit stop rech salsa ceb 91 g",
         "bisc marilan pit stop rech salsa ceb 91g",
@@ -4106,7 +4106,7 @@
         "massa:91g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-14T07:55:04"
     },
     "bisc vitarella delicita salg queijo | massa:138g": {
       "descricao": "Bisc Vitarella Delicita Salg Presunto 138 g",
@@ -5493,6 +5493,136 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-05-13T09:08:11"
+    },
+    "bisc capricche agua/sal | massa:350g": {
+      "descricao": "Bisc Capricche Água/Sal 350 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc capricche agua sal 350 g",
+        "bisc capricche agua sal 350g",
+        "bisc capricche agua/sal | massa:350g"
+      ],
+      "descricao_base": "bisc capricche agua/sal",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-14T07:55:04"
+    },
+    "bisc capricche amant coco | massa:288g": {
+      "descricao": "Bisc Capricche Amant. Coco 288 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc capricche amant coco 288 g",
+        "bisc capricche amant coco 288g",
+        "bisc capricche amant coco | massa:288g"
+      ],
+      "descricao_base": "bisc capricche amant coco",
+      "medidas": [
+        "massa:288g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-14T07:55:04"
+    },
+    "bisc capricche champanhe | massa:150g": {
+      "descricao": "Bisc Capricche Champanhe 150 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc capricche champanhe 150 g",
+        "bisc capricche champanhe 150g",
+        "bisc capricche champanhe | massa:150g"
+      ],
+      "descricao_base": "bisc capricche champanhe",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-14T07:55:04"
+    },
+    "bisc cream crack renata | massa:360g": {
+      "descricao": "Bisc Cream Crack Renata 360 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc cream crack renata 360 g",
+        "bisc cream crack renata 360g",
+        "bisc cream crack renata | massa:360g"
+      ],
+      "descricao_base": "bisc cream crack renata",
+      "medidas": [
+        "massa:360g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-14T07:55:04"
+    },
+    "bisc rech futurinho brigadeiro | massa:339g": {
+      "descricao": "Bisc Rech Futurinho Brigadeiro 339 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rech futurinho brigadeiro 339 g",
+        "bisc rech futurinho brigadeiro 339g",
+        "bisc rech futurinho brigadeiro | massa:339g"
+      ],
+      "descricao_base": "bisc rech futurinho brigadeiro",
+      "medidas": [
+        "massa:339g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-14T07:55:04"
+    },
+    "bisc treloso amant coco | massa:110g": {
+      "descricao": "Bisc Treloso Amant Coco 110 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc treloso amant coco 110 g",
+        "bisc treloso amant coco 110g",
+        "bisc treloso amant coco | massa:110g"
+      ],
+      "descricao_base": "bisc treloso amant coco",
+      "medidas": [
+        "massa:110g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-14T07:55:04"
+    },
+    "bisc vitarella maria chocolate | massa:350g": {
+      "descricao": "Bisc Maria Vitarella Chocolate 350 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc maria vitarella chocolate 350 g",
+        "bisc maria vitarella chocolate | massa:350g",
+        "bisc vitarella maria chocolate 350g",
+        "bisc vitarella maria chocolate | massa:350g"
+      ],
+      "descricao_base": "bisc maria vitarella chocolate",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-14T07:55:04"
+    },
+    "bisc vitarella maria tradicional | massa:350g": {
+      "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc cr cracker vitarella tostadinha 350 g",
+        "bisc cr cracker vitarella tostadinha | massa:350g",
+        "bisc vitarella maria tradicional 350g",
+        "bisc vitarella maria tradicional | massa:350g"
+      ],
+      "descricao_base": "bisc cr cracker vitarella tostadinha",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-14T07:55:04"
     }
   }
 }
