@@ -2566,5 +2566,29 @@
     "produto": "Hamb Tony Misto 56g",
     "preco": "0 ,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-14",
+    "horario": "17:20:45",
+    "feito_por": "Desconhecido",
+    "produto": "Queijo Mussarela Capelinha Fat Kg",
+    "preco": "44,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-14",
+    "horario": "17:20:45",
+    "feito_por": "Desconhecido",
+    "produto": "Presunto Cozido Cogran Fat Kg",
+    "preco": "24,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-14",
+    "horario": "17:20:45",
+    "feito_por": "Desconhecido",
+    "produto": "Hamb Tony Misto 56g",
+    "preco": "0 ,48",
+    "validade_oferta_ate": ""
   }
 ]
