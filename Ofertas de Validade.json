@@ -7563,5 +7563,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/05/2026",
+    "hora": "16:32:37",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Hamburg. Friboi Aves 56 g",
+        "preco": "0,75",
+        "unidade": "Unid.",
+        "validade_oferta": "19/05/2026",
+        "codigo_barras": "7898542022931",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Hamburg. Friboi Aves 56 g",
+        "preco": "0,75",
+        "unidade": "Unid.",
+        "validade_oferta": "19/05/2026",
+        "codigo_barras": "7898542022931",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
