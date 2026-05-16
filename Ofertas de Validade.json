@@ -7589,5 +7589,27 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/05/2026",
+    "hora": "09:40:46",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Café Moído Pilão Tradic 250 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Café Moído Pilão Tradic 250 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/06/2026"
+      }
+    ]
   }
 ]
