@@ -7611,5 +7611,34 @@
         "validade_oferta": "02/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/05/2026",
+    "hora": "11:31:14",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cerv Skol Beats Gin&tonica Ln 269 ml",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Refri Coca Cola s/açúcar Pet 2 l",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pir. Blong Morango 672 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/06/2026"
+      }
+    ]
   }
 ]
