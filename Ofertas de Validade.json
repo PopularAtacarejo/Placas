@@ -7786,5 +7786,25 @@
         "validade_oferta": "30/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/05/2026",
+    "hora": "17:46:28",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Hidratante Labial Carmed 10 g Diversos Sabores",
+        "preco": "14,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Hidratante Labial Carmed 10 g Diversos Sabores",
+        "preco": "14,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
