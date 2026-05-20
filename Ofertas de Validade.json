@@ -7742,5 +7742,27 @@
         "validade_oferta": "22/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/05/2026",
+    "hora": "14:21:46",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog.Copo Int.c/cenoura Laranja e Mel 150 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog.Copo Int.c/cenoura Laranja e Mel 150 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/05/2026"
+      }
+    ]
   }
 ]
