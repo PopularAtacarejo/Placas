@@ -7806,5 +7806,25 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/05/2026",
+    "hora": "17:49:27",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Hidratante Labial Carmed 10 g Diversos Sabores",
+        "preco": "14,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Hidratante Labial Carmed 10 g Diversos Sabores",
+        "preco": "14,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
