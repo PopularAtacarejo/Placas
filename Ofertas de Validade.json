@@ -7662,5 +7662,41 @@
         "validade_oferta": "12/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/05/2026",
+    "hora": "09:42:10",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc. Vitarella Delicita Salg. Pizza 138 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/05/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Pilar Coquinho 300 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/05/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "G. Mascar Trident Morango 8 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026"
+      },
+      {
+        "posicao": "4",
+        "descricao": "Castanha De Caju Marata 50 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026"
+      }
+    ]
   }
 ]
