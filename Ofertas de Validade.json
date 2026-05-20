@@ -7764,5 +7764,27 @@
         "validade_oferta": "21/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/05/2026",
+    "hora": "17:22:25",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Amanteigado Requeijão Popular 200 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cappuccino 3 Coracoes Chocolate Pt 200 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026"
+      }
+    ]
   }
 ]
