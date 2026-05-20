@@ -7720,5 +7720,27 @@
         "validade_oferta": "30/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/05/2026",
+    "hora": "11:50:53",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Coco Ral Tambau Umido Adoçado 50 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "22/05/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Coco Ral Tambau Umido Adoçado 50 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "22/05/2026"
+      }
+    ]
   }
 ]
