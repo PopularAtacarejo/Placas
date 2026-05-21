@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-14T07:55:04",
+  "atualizado_em": "2026-05-21T07:45:39",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -986,10 +986,11 @@
       "atualizado_em": "2026-03-19T17:52:28"
     },
     "choc barra talento amendoas e passas | massa:85g": {
-      "descricao": "Choc Barra Talento Amêndoas e Passas 85g",
+      "descricao": "Choc Barra Talento Amêndoas e Passas 85 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
+        "choc barra talento amendoas e passas 85 g",
         "choc barra talento amendoas e passas 85g",
         "choc barra talento amendoas e passas | massa:85g"
       ],
@@ -998,7 +999,7 @@
         "massa:85g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-19T17:52:28"
+      "atualizado_em": "2026-05-21T07:45:39"
     },
     "acao 21 a feijao carioca mui nobre t 1 | massa:1000g": {
       "descricao": "Ação 21 a 22/03 Feijão Carioca Mui Nobre T 1 1kg",
@@ -5104,7 +5105,7 @@
     "choc talento doce de leite | massa:85g": {
       "descricao": "Choc Talento Doce De Leite 85 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "choc talento doce de leite 85 g",
         "choc talento doce de leite 85g",
@@ -5115,7 +5116,7 @@
         "massa:85g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T09:08:11"
+      "atualizado_em": "2026-05-21T07:45:39"
     },
     "choc talento meio amargo amendoas 85": {
       "descricao": "Choc Talento Meio Amargo Amêndoas 85",
@@ -5177,7 +5178,7 @@
     "bombom raffaello | massa:30g": {
       "descricao": "Bombom Raffaello 30 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bombom raffaello 30 g",
         "bombom raffaello 30g",
@@ -5188,7 +5189,7 @@
         "massa:30g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T09:08:11"
+      "atualizado_em": "2026-05-21T07:45:39"
     },
     "choc arcor bon o bon beijinho | massa:15g": {
       "descricao": "Choc Arcor Bon o Bon Beijinho 15 g",
@@ -5209,7 +5210,7 @@
     "choc barra lacta | massa:20g": {
       "descricao": "Choc Barra Lacta 20 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "choc barra lacta 20 g",
         "choc barra lacta 20g",
@@ -5220,12 +5221,12 @@
         "massa:20g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T09:08:11"
+      "atualizado_em": "2026-05-21T07:45:39"
     },
     "choc barra lacta ao leite | massa:20g": {
       "descricao": "Choc Barra Lacta Ao Leite 20 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "choc barra lacta ao leite 20 g",
         "choc barra lacta ao leite 20g",
@@ -5236,7 +5237,7 @@
         "massa:20g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T09:08:11"
+      "atualizado_em": "2026-05-21T07:45:39"
     },
     "choc kit kat ao leite | massa:41.5g": {
       "descricao": "Choc Kit Kat Ao Leite 41,5 g",
@@ -5289,7 +5290,7 @@
     "choc lacta bis xtra black | massa:45g": {
       "descricao": "Choc Lacta Bis Xtra Black 45 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "choc lacta bis xtra black 45 g",
         "choc lacta bis xtra black 45g",
@@ -5300,7 +5301,7 @@
         "massa:45g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T09:08:11"
+      "atualizado_em": "2026-05-21T07:45:39"
     },
     "choc m&m s amendoim | massa:40g": {
       "descricao": "Choc M&m´s Amendoim 40 g",
@@ -5337,7 +5338,7 @@
     "choc mumu kids banana | massa:15.6g": {
       "descricao": "Choc.Mumu Kids Banana 15,6 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "choc mumu kids banana 15 6 g",
         "choc mumu kids banana 15 6g",
@@ -5348,12 +5349,12 @@
         "massa:15.6g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T09:08:11"
+      "atualizado_em": "2026-05-21T07:45:39"
     },
     "choc mumu kids coco | massa:15.6g": {
       "descricao": "Choc.Mumu Kids Coco 15,6 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "choc mumu kids coco 15 6 g",
         "choc mumu kids coco 15 6g",
@@ -5364,12 +5365,12 @@
         "massa:15.6g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T09:08:11"
+      "atualizado_em": "2026-05-21T07:45:39"
     },
     "choc mumu kids morango | massa:15.6g": {
       "descricao": "Choc.Mumu Kids Morango 15,6 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "choc mumu kids morango 15 6 g",
         "choc mumu kids morango 15 6g",
@@ -5380,7 +5381,7 @@
         "massa:15.6g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T09:08:11"
+      "atualizado_em": "2026-05-21T07:45:39"
     },
     "chocolate lacta laka | massa:28g": {
       "descricao": "Chocolate Lacta Laka 28 g",
@@ -5401,7 +5402,7 @@
     "trento massimo coco | massa:25g": {
       "descricao": "Trento Massimo Coco 25 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "trento massimo coco 25 g",
         "trento massimo coco 25g",
@@ -5412,12 +5413,12 @@
         "massa:25g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T09:08:11"
+      "atualizado_em": "2026-05-21T07:45:39"
     },
     "trento slin caramelo | massa:20g": {
       "descricao": "Trento Slin Caramelo 20 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "trento slin caramelo 20 g",
         "trento slin caramelo 20g",
@@ -5428,12 +5429,12 @@
         "massa:20g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T09:08:11"
+      "atualizado_em": "2026-05-21T07:45:39"
     },
     "trento slin chocolate | massa:20g": {
       "descricao": "Trento Slin Chocolate 20 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "trento slin chocolate 20 g",
         "trento slin chocolate 20g",
@@ -5444,12 +5445,12 @@
         "massa:20g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T09:08:11"
+      "atualizado_em": "2026-05-21T07:45:39"
     },
     "trufa cia do cacau maracuja | massa:23g": {
       "descricao": "Trufa Cia Do Cacau Maracuja 23 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "trufa cia do cacau maracuja 23 g",
         "trufa cia do cacau maracuja 23g",
@@ -5460,7 +5461,7 @@
         "massa:23g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T09:08:11"
+      "atualizado_em": "2026-05-21T07:45:39"
     },
     "wafer recheado sonho de valsa | massa:25g": {
       "descricao": "Wafer Recheado Sonho De Valsa 25 g",
@@ -5623,6 +5624,148 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-05-14T07:55:04"
+    },
+    "barra choc barra talento meio amargo | massa:85g": {
+      "descricao": "Barra Choc Barra Talento Meio Amargo 85 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra choc barra talento meio amargo 85 g",
+        "barra choc barra talento meio amargo 85g",
+        "barra choc barra talento meio amargo | massa:85g"
+      ],
+      "descricao_base": "barra choc barra talento meio amargo",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-21T07:45:39"
+    },
+    "choc talento meio amargo amendoas | massa:85g": {
+      "descricao": "Choc Talento Meio Amargo Amêndoas 85",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc talento meio amargo amendoas 85",
+        "choc talento meio amargo amendoas 85g",
+        "choc talento meio amargo amendoas | massa:85g"
+      ],
+      "descricao_base": "choc talento meio amargo amendoas 85",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-21T07:45:39"
+    },
+    "conf stick mentos tutti frutti 16 x | massa:37.5g": {
+      "descricao": "Conf Stick Mentos Tutti Frutti 16 x 37,5 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "conf stick mentos tutti frutti 16 x 37 5 g",
+        "conf stick mentos tutti frutti 16 x | massa:37.5g",
+        "conf stick mentos tutti frutti 16x37 5g"
+      ],
+      "descricao_base": "conf stick mentos tutti frutti 16 x",
+      "medidas": [
+        "massa:37.5g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-21T07:45:39"
+    },
+    "choc talento meio amargo amendoas | massa:25g": {
+      "descricao": "Choc Talento Meio Amargo Amêndoas 85",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc talento meio amargo amendoas 25g",
+        "choc talento meio amargo amendoas 85",
+        "choc talento meio amargo amendoas | massa:25g"
+      ],
+      "descricao_base": "choc talento meio amargo amendoas 85",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-21T07:45:39"
+    },
+    "conf stick mentos tutti frutti | massa:37.5g": {
+      "descricao": "Conf Stick Mentos Tutti Frutti 37,5 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "conf stick mentos tutti frutti 37 5 g",
+        "conf stick mentos tutti frutti 37 5g",
+        "conf stick mentos tutti frutti | massa:37.5g"
+      ],
+      "descricao_base": "conf stick mentos tutti frutti",
+      "medidas": [
+        "massa:37.5g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-21T07:45:39"
+    },
+    "g mascar trident morango 21 x | massa:8g": {
+      "descricao": "G. Mascar Trident Morango 21 x 8 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "g mascar trident morango 21 x 8 g",
+        "g mascar trident morango 21 x | massa:8g",
+        "g mascar trident morango 21x8g"
+      ],
+      "descricao_base": "g mascar trident morango 21 x",
+      "medidas": [
+        "massa:8g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-21T07:45:39"
+    },
+    "g mascar trident morango | massa:8g": {
+      "descricao": "G. Mascar Trident Morango 8 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "g mascar trident morango 8 g",
+        "g mascar trident morango 8g",
+        "g mascar trident morango | massa:8g"
+      ],
+      "descricao_base": "g mascar trident morango",
+      "medidas": [
+        "massa:8g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-21T07:45:39"
+    },
+    "trento massimo brownie | massa:25g": {
+      "descricao": "Trento Massimo Coco 25 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "trento massimo brownie 25g",
+        "trento massimo brownie | massa:25g",
+        "trento massimo coco 25 g",
+        "trento massimo coco | massa:25g"
+      ],
+      "descricao_base": "trento massimo coco",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-21T07:45:39"
+    },
+    "trento slin creme | massa:20g": {
+      "descricao": "Trento Slin Caramelo 20 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "trento slin caramelo 20 g",
+        "trento slin caramelo | massa:20g",
+        "trento slin creme 20g",
+        "trento slin creme | massa:20g"
+      ],
+      "descricao_base": "trento slin caramelo",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-21T07:45:39"
     }
   }
 }
