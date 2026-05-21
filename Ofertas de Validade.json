@@ -8040,5 +8040,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "21/05/2026",
+    "hora": "07:55:53",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Trento Slin Caramelo 20 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/06/2026",
+        "codigo_barras": "7896306625770",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Trufa Cia Do Cacau Maracuja 23 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/06/2026",
+        "codigo_barras": "7898192252870",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
