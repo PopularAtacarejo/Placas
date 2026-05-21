@@ -7910,5 +7910,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "21/05/2026",
+    "hora": "07:51:43",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Lacta Bis Xtra Black 45 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/06/2026",
+        "codigo_barras": "7622210566409",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Talento Meio Amargo Amêndoas 85",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/06/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc.Mumu Kids Banana 15,6 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7891330016921",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc.Mumu Kids Coco 15,6 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7891330019274",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
