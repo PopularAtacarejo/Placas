@@ -8066,5 +8066,27 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "21/05/2026",
+    "hora": "08:24:59",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Doce De Leite Pastoso Zero Açúcar 215 g",
+        "preco": "23,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Doce De Leite Pastoso Zero Açúcar 215 g",
+        "preco": "23,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026"
+      }
+    ]
   }
 ]
