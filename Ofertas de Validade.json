@@ -8117,5 +8117,27 @@
         "validade_oferta": "24/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "21/05/2026",
+    "hora": "15:26:50",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pasta Prot. Nut Hav Doce Leite Crunch Unid. 600 g",
+        "preco": "49,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pasta Prot. Nut Hav Doce Leite Crunch Unid. 600 g",
+        "preco": "49,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026"
+      }
+    ]
   }
 ]
