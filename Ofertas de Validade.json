@@ -7868,5 +7868,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "21/05/2026",
+    "hora": "07:49:50",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Conf Stick Mentos Tutti Frutti 16 x 37,5 g",
+        "preco": "47,68",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7895144693224",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bombom Raffaello 30 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc Barra Lacta 20 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/06/2026",
+        "codigo_barras": "7622300862442",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc Barra Lacta Ao Leite 20 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/06/2026",
+        "codigo_barras": "7622300862367",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
