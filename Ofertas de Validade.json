@@ -8088,5 +8088,34 @@
         "validade_oferta": "30/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "21/05/2026",
+    "hora": "08:58:30",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Vitarella Maria Tradicional 350 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/05/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Vitarella Maria Chocolate 350 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/05/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Trakinas Recheado Chocolate 126 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/05/2026"
+      }
+    ]
   }
 ]
