@@ -7952,5 +7952,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "21/05/2026",
+    "hora": "07:53:43",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc.Mumu Kids Morango 15,6 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7891330018444",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Conf Stick Mentos Tutti Frutti 37,5 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7895144603223",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "G. Mascar Trident Morango 21 x 8 g",
+        "preco": "20,58",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026",
+        "codigo_barras": "7895800400180",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "G. Mascar Trident Morango 8 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026",
+        "codigo_barras": "7895800201503",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
