@@ -10048,5 +10048,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "15:13:24",
+    "placa": 14,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Nescau Cookies Duo 60 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "25/06/2026",
+        "codigo_barras": "7891000339558",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Afa Wafer Maroto Abacaxi 26 g",
+        "preco": "0,78",
+        "unidade": "Unid.",
+        "validade_oferta": "26/06/2026",
+        "codigo_barras": "7896016445446",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/06/2026",
+        "codigo_barras": "7896016435935",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Tablete Lacta Cookies Ao Leite 80 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/06/2026",
+        "codigo_barras": "7622210754813",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
