@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-22T11:26:27",
+  "atualizado_em": "2026-05-22T11:42:32",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -2137,7 +2137,7 @@
     "farofa crocante tio fernando | massa:300g": {
       "descricao": "Farofa Crocante Tio Fernando 300 gr",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "farofa crocante tio fernando 300 gr",
         "farofa crocante tio fernando 300gr",
@@ -2148,7 +2148,7 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T16:02:23"
+      "atualizado_em": "2026-05-22T11:42:32"
     },
     "bisc skin mini maria tradicional | massa:400g": {
       "descricao": "Bisc Skin Mini Maria Tradicional 400 g",
@@ -7188,6 +7188,54 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-05-22T11:26:27"
+    },
+    "pipoca popcorn yoki temperada | massa:100g": {
+      "descricao": "Pipoca Popcorn Yoki Temperada 100 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "pipoca popcorn yoki temperada 100 g",
+        "pipoca popcorn yoki temperada 100g",
+        "pipoca popcorn yoki temperada | massa:100g"
+      ],
+      "descricao_base": "pipoca popcorn yoki temperada",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:42:32"
+    },
+    "farofa de mandioca yoki bacon | massa:200g": {
+      "descricao": "Farofa De Mandioca Yoki Bacon 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "farofa de mandioca yoki bacon 200 g",
+        "farofa de mandioca yoki bacon 200g",
+        "farofa de mandioca yoki bacon | massa:200g"
+      ],
+      "descricao_base": "farofa de mandioca yoki bacon",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:42:32"
+    },
+    "flocao de milho coringa rech coco | massa:200g": {
+      "descricao": "Flocao De Milho Coringa Rech Coco 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "flocao de milho coringa rech coco 200 g",
+        "flocao de milho coringa rech coco 200g",
+        "flocao de milho coringa rech coco | massa:200g"
+      ],
+      "descricao_base": "flocao de milho coringa rech coco",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:42:32"
     }
   }
 }
