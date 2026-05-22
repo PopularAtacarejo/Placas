@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-22T11:42:32",
+  "atualizado_em": "2026-05-22T14:35:35",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1278,10 +1278,11 @@
       "atualizado_em": "2026-03-24T11:48:51"
     },
     "bisc wafer pajucara limao | massa:78g": {
-      "descricao": "Bisc Wafer Pajucara Limão 78g",
+      "descricao": "Bisc Wafer Pajucara Limão 78 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
+        "bisc wafer pajucara limao 78 g",
         "bisc wafer pajucara limao 78g",
         "bisc wafer pajucara limao | massa:78g"
       ],
@@ -1290,7 +1291,7 @@
         "massa:78g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-24T11:48:51"
+      "atualizado_em": "2026-05-22T14:35:35"
     },
     "granola tia sonia light zr | massa:200g": {
       "descricao": "Granola Tia Sonia Light 200g",
@@ -2185,7 +2186,7 @@
     "bisc skin coquinho doce | massa:400g": {
       "descricao": "Bisc Skin Coquinho Doce 400 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc skin coquinho doce 400 g",
         "bisc skin coquinho doce 400g",
@@ -2196,7 +2197,7 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-14T07:55:04"
+      "atualizado_em": "2026-05-22T14:35:35"
     },
     "bisc cream cracker capricche trad | massa:350g": {
       "descricao": "Bisc Marilan Cream Cracker Água Sal 300 g",
@@ -2234,7 +2235,7 @@
     "biscoito arcor triunfo tortini trufa | massa:90g": {
       "descricao": "Biscoito Arcor Triunfo Tortini Trufa 90 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "biscoito arcor triunfo tortini trufa 90 g",
         "biscoito arcor triunfo tortini trufa 90g",
@@ -2245,7 +2246,7 @@
         "massa:90g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T15:33:29"
+      "atualizado_em": "2026-05-22T14:35:35"
     },
     "bisc wafer premium napolitano | massa:80g": {
       "descricao": "Bisc Wafer Premium Napolitano 80 g",
@@ -3774,7 +3775,7 @@
     "bisc maizena vitarella ao leite | massa:350g": {
       "descricao": "Bisc Maizena Vitarella Ao Leite 350 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc maizena vitarella ao leite 350 g",
         "bisc maizena vitarella ao leite 350g",
@@ -3785,12 +3786,12 @@
         "massa:350g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-22T14:35:35"
     },
     "bisc vitarella delicita doce crist | massa:414g": {
       "descricao": "Bisc Vitarella Delicita Doce Crist 414 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "bisc vitarella delicita doce crist 414 g",
         "bisc vitarella delicita doce crist 414g",
@@ -3801,7 +3802,7 @@
         "massa:414g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-14T07:55:04"
+      "atualizado_em": "2026-05-22T14:35:35"
     },
     "bisc maizena marilan chocolate | massa:300g": {
       "descricao": "Bisc Maizena Marilan Chocolate 300 g",
@@ -3903,7 +3904,7 @@
     "bisc cr cracker vitarella integral | massa:367.5g": {
       "descricao": "Bisc Cr Cracker Vitarella Integral 367.5 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc cr cracker vitarella integral 367 5 g",
         "bisc cr cracker vitarella integral 367 5g",
@@ -3914,12 +3915,12 @@
         "massa:367.5g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-22T14:35:35"
     },
     "bisc cr cracker vitarella pao assado | massa:350g": {
       "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc cr cracker vitarella pao assado 350g",
         "bisc cr cracker vitarella pao assado | massa:350g",
@@ -3931,7 +3932,7 @@
         "massa:350g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-22T14:35:35"
     },
     "bisc cream cracker pilar premium | massa:350g": {
       "descricao": "Bisc Marilan Cream Cracker Água Sal 300 g",
@@ -3969,7 +3970,7 @@
     "bisc marilan pit stop presu | massa:137g": {
       "descricao": "Bisc Marilan Pit Stop Presu 137 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc marilan pit stop presu 137 g",
         "bisc marilan pit stop presu 137g",
@@ -3980,7 +3981,7 @@
         "massa:137g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-22T14:35:35"
     },
     "bolinho rech marilan baunilha | massa:40g": {
       "descricao": "Bolinho Rech Marilan Baunilha 40 g",
@@ -4065,7 +4066,7 @@
     "bisc cookies vitarella chocolate | massa:80g": {
       "descricao": "Bisc Cookies Vitarella Chocolate 80 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "bisc cookies vitarella chocolate 80 g",
         "bisc cookies vitarella chocolate 80g",
@@ -4076,7 +4077,7 @@
         "massa:80g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-14T07:55:04"
+      "atualizado_em": "2026-05-22T14:35:35"
     },
     "bisc marilan pit stop rech misto quente | massa:91g": {
       "descricao": "Bisc Marilan Pit Stop Rech Misto Quente 91 g",
@@ -4210,7 +4211,7 @@
     "bisc marilan tortinhas morango | massa:300g": {
       "descricao": "Bisc Marilan Tortinhas Morango 300 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc marilan tortinhas morango 300 g",
         "bisc marilan tortinhas morango 300g",
@@ -4221,7 +4222,7 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-22T14:35:35"
     },
     "bisc rech marilan chocolate pc | massa:80g": {
       "descricao": "Bisc Rech Marilan Chocolate Pc 80 g",
@@ -4306,7 +4307,7 @@
     "bisc pajucara wafer choc branco | massa:78g": {
       "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc pajucara wafer choc branco 78 g",
         "bisc pajucara wafer choc branco 78g",
@@ -4317,7 +4318,7 @@
         "massa:78g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-05-22T14:35:35"
     },
     "hamb brasa costela gourmet | massa:150g": {
       "descricao": "Hamb.Brasa Costela Gourmet 150 g",
@@ -5547,7 +5548,7 @@
     "bisc cream crack renata | massa:360g": {
       "descricao": "Bisc Cream Crack Renata 360 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc cream crack renata 360 g",
         "bisc cream crack renata 360g",
@@ -5558,7 +5559,7 @@
         "massa:360g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-14T07:55:04"
+      "atualizado_em": "2026-05-22T14:35:35"
     },
     "bisc rech futurinho brigadeiro | massa:339g": {
       "descricao": "Bisc Rech Futurinho Brigadeiro 339 g",
@@ -7236,6 +7237,788 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-05-22T11:42:32"
+    },
+    "bisc rech skin bem casado | massa:60g": {
+      "descricao": "Bisc Rech Skin Bem Casado 60 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rech skin bem casado 60 g",
+        "bisc rech skin bem casado 60g",
+        "bisc rech skin bem casado | massa:60g"
+      ],
+      "descricao_base": "bisc rech skin bem casado",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bis skin agua e sal | massa:400g": {
+      "descricao": "Bis Skin Água e Sal 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bis skin agua e sal 400 g",
+        "bis skin agua e sal 400g",
+        "bis skin agua e sal | massa:400g"
+      ],
+      "descricao_base": "bis skin agua e sal",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc rech skinegro choc | massa:60g": {
+      "descricao": "Bisc Rech Skinegro Choc 60 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rech skinegro choc 60 g",
+        "bisc rech skinegro choc 60g",
+        "bisc rech skinegro choc | massa:60g"
+      ],
+      "descricao_base": "bisc rech skinegro choc",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc skin familia agua e sal | massa:800g": {
+      "descricao": "Bisc Skin Família Água e Sal 800 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc skin familia agua e sal 800 g",
+        "bisc skin familia agua e sal 800g",
+        "bisc skin familia agua e sal | massa:800g"
+      ],
+      "descricao_base": "bisc skin familia agua e sal",
+      "medidas": [
+        "massa:800g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc skin doce | massa:400g": {
+      "descricao": "Bisc Skin Coquinho Doce 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc skin coquinho doce 400 g",
+        "bisc skin coquinho doce | massa:400g",
+        "bisc skin doce 400g",
+        "bisc skin doce | massa:400g"
+      ],
+      "descricao_base": "bisc skin coquinho doce",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc rosq leite parati | massa:250g": {
+      "descricao": "Bisc Rosq Leite Parati 250 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rosq leite parati 250 g",
+        "bisc rosq leite parati 250g",
+        "bisc rosq leite parati | massa:250g"
+      ],
+      "descricao_base": "bisc rosq leite parati",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc amant renata coco | massa:330g": {
+      "descricao": "Bisc Amant Renata Coco 330 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc amant renata coco 330 g",
+        "bisc amant renata coco 330g",
+        "bisc amant renata coco | massa:330g"
+      ],
+      "descricao_base": "bisc amant renata coco",
+      "medidas": [
+        "massa:330g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc divertix rech brigadeiro | massa:112g": {
+      "descricao": "Bisc Divertix Rech Chocolate 112 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc divertix rech brigadeiro 112g",
+        "bisc divertix rech brigadeiro | massa:112g",
+        "bisc divertix rech chocolate 112 g",
+        "bisc divertix rech chocolate | massa:112g"
+      ],
+      "descricao_base": "bisc divertix rech chocolate",
+      "medidas": [
+        "massa:112g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc rosq nata parati | massa:250g": {
+      "descricao": "Bisc Rosq Nata Parati 250 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rosq nata parati 250 g",
+        "bisc rosq nata parati 250g",
+        "bisc rosq nata parati | massa:250g"
+      ],
+      "descricao_base": "bisc rosq nata parati",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc club social queijo | massa:141g": {
+      "descricao": "Bisc Club Social Queijo 141 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc club social queijo 141 g",
+        "bisc club social queijo 141g",
+        "bisc club social queijo | massa:141g"
+      ],
+      "descricao_base": "bisc club social queijo",
+      "medidas": [
+        "massa:141g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc amanteigado leite maltado vitamassa | massa:120g": {
+      "descricao": "Bisc Amanteigado Leite Maltado Vitamassa 120 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc amanteigado leite maltado vitamassa 120 g",
+        "bisc amanteigado leite maltado vitamassa 120g",
+        "bisc amanteigado leite maltado vitamassa | massa:120g"
+      ],
+      "descricao_base": "bisc amanteigado leite maltado vitamassa",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc rosquinha petyan choc | massa:300g": {
+      "descricao": "Bisc Rosquinha Petyan Choc 300 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rosquinha petyan choc 300 g",
+        "bisc rosquinha petyan choc 300g",
+        "bisc rosquinha petyan choc | massa:300g"
+      ],
+      "descricao_base": "bisc rosquinha petyan choc",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc rech skin morango un | massa:60g": {
+      "descricao": "Bisc Rech. Skin Morango - Un 60 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rech skin morango 60g un",
+        "bisc rech skin morango un 60 g",
+        "bisc rech skin morango un | massa:60g"
+      ],
+      "descricao_base": "bisc rech skin morango un",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc skin coquinho tradicional | massa:400g": {
+      "descricao": "Bisc Skin Coquinho Doce 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc skin coquinho doce 400 g",
+        "bisc skin coquinho doce | massa:400g",
+        "bisc skin coquinho tradicional 400g",
+        "bisc skin coquinho tradicional | massa:400g"
+      ],
+      "descricao_base": "bisc skin coquinho doce",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc skin familia coquinho trad | massa:800g": {
+      "descricao": "Bisc Skin Família Coquinho Trad 800 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc skin familia coquinho trad 800 g",
+        "bisc skin familia coquinho trad 800g",
+        "bisc skin familia coquinho trad | massa:800g"
+      ],
+      "descricao_base": "bisc skin familia coquinho trad",
+      "medidas": [
+        "massa:800g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc skin familia coquinho doce | massa:800g": {
+      "descricao": "Bisc Skin Família Coquinho Doce 800 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc skin familia coquinho doce 800 g",
+        "bisc skin familia coquinho doce 800g",
+        "bisc skin familia coquinho doce | massa:800g"
+      ],
+      "descricao_base": "bisc skin familia coquinho doce",
+      "medidas": [
+        "massa:800g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc skin familia leite | massa:800g": {
+      "descricao": "Bisc Skin Família Leite 800 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc skin familia leite 800 g",
+        "bisc skin familia leite 800g",
+        "bisc skin familia leite | massa:800g"
+      ],
+      "descricao_base": "bisc skin familia leite",
+      "medidas": [
+        "massa:800g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc hot cracker rech requeijao | massa:100g": {
+      "descricao": "Bisc Hot Cracker Rech Pizza 100 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc hot cracker rech pizza 100 g",
+        "bisc hot cracker rech pizza | massa:100g",
+        "bisc hot cracker rech requeijao 100g",
+        "bisc hot cracker rech requeijao | massa:100g"
+      ],
+      "descricao_base": "bisc hot cracker rech pizza",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc treloso amant coco | massa:330g": {
+      "descricao": "Bisc Treloso Amant Coco 330 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc treloso amant coco 330 g",
+        "bisc treloso amant coco 330g",
+        "bisc treloso amant coco | massa:330g"
+      ],
+      "descricao_base": "bisc treloso amant coco",
+      "medidas": [
+        "massa:330g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc marilan amant leite | massa:280g": {
+      "descricao": "Bisc Marilan Amant Leite 280 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan amant leite 280 g",
+        "bisc marilan amant leite 280g",
+        "bisc marilan amant leite | massa:280g"
+      ],
+      "descricao_base": "bisc marilan amant leite",
+      "medidas": [
+        "massa:280g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc parati hot cracker presu | massa:100g": {
+      "descricao": "Bisc Parati Hot Cracker Presu 100 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc parati hot cracker presu 100 g",
+        "bisc parati hot cracker presu 100g",
+        "bisc parati hot cracker presu | massa:100g"
+      ],
+      "descricao_base": "bisc parati hot cracker presu",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc pajucara wafer abacaxi | massa:78g": {
+      "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc pajucara wafer abacaxi 78g",
+        "bisc pajucara wafer abacaxi | massa:78g",
+        "bisc pajucara wafer choc branco 78 g",
+        "bisc pajucara wafer choc branco | massa:78g"
+      ],
+      "descricao_base": "bisc pajucara wafer choc branco",
+      "medidas": [
+        "massa:78g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bolinho marilan turma monica bau/gt choc | massa:40g": {
+      "descricao": "Bolinho Marilan Turma Monica Bau/Gt Choc 40 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bolinho marilan turma monica bau gt choc 40 g",
+        "bolinho marilan turma monica bau gt choc 40g",
+        "bolinho marilan turma monica bau/gt choc | massa:40g"
+      ],
+      "descricao_base": "bolinho marilan turma monica bau/gt choc",
+      "medidas": [
+        "massa:40g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc rech pilar chocolate | massa:120g": {
+      "descricao": "Bisc Rech Pilar Baun 120 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rech pilar baun 120 g",
+        "bisc rech pilar baun | massa:120g",
+        "bisc rech pilar chocolate 120g",
+        "bisc rech pilar chocolate | massa:120g"
+      ],
+      "descricao_base": "bisc rech pilar baun",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc hot cracker rech integ peito peru | massa:100g": {
+      "descricao": "Bisc Hot Cracker Rech Integ Peito Peru 100 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc hot cracker rech integ peito peru 100 g",
+        "bisc hot cracker rech integ peito peru 100g",
+        "bisc hot cracker rech integ peito peru | massa:100g"
+      ],
+      "descricao_base": "bisc hot cracker rech integ peito peru",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc oreo rech milkshake de morango | massa:144g": {
+      "descricao": "Bisc Oreo Rech Milkshake De Morango 144 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc oreo rech milkshake de morango 144 g",
+        "bisc oreo rech milkshake de morango 144g",
+        "bisc oreo rech milkshake de morango | massa:144g"
+      ],
+      "descricao_base": "bisc oreo rech milkshake de morango",
+      "medidas": [
+        "massa:144g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc marilan amant nata | massa:280g": {
+      "descricao": "Bisc Marilan Amant Nata 280 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan amant nata 280 g",
+        "bisc marilan amant nata 280g",
+        "bisc marilan amant nata | massa:280g"
+      ],
+      "descricao_base": "bisc marilan amant nata",
+      "medidas": [
+        "massa:280g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc rech skinegro baunilha | massa:60g": {
+      "descricao": "Bisc Rech Skinegro Baunilha 60 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rech skinegro baunilha 60 g",
+        "bisc rech skinegro baunilha 60g",
+        "bisc rech skinegro baunilha | massa:60g"
+      ],
+      "descricao_base": "bisc rech skinegro baunilha",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc rech vitamassa moran | massa:130g": {
+      "descricao": "Bisc Rech Vitamassa Moran 130 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rech vitamassa moran 130 g",
+        "bisc rech vitamassa moran 130g",
+        "bisc rech vitamassa moran | massa:130g"
+      ],
+      "descricao_base": "bisc rech vitamassa moran",
+      "medidas": [
+        "massa:130g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc oreo rech baunilha | massa:144g": {
+      "descricao": "Bisc Oreo Rech Baunilha 144 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc oreo rech baunilha 144 g",
+        "bisc oreo rech baunilha 144g",
+        "bisc oreo rech baunilha | massa:144g"
+      ],
+      "descricao_base": "bisc oreo rech baunilha",
+      "medidas": [
+        "massa:144g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc marilan laminado manteiga | massa:300g": {
+      "descricao": "Bisc Marilan Cream Cracker Água Sal 300 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan cream cracker agua sal 300 g",
+        "bisc marilan cream cracker agua sal | massa:300g",
+        "bisc marilan laminado manteiga 300g",
+        "bisc marilan laminado manteiga | massa:300g"
+      ],
+      "descricao_base": "bisc marilan cream cracker agua sal",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc cr cracker petyan amandt | massa:350g": {
+      "descricao": "Bisc Cr. Cracker Petyan Amandt 350 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc cr cracker petyan amandt 350 g",
+        "bisc cr cracker petyan amandt 350g",
+        "bisc cr cracker petyan amandt | massa:350g"
+      ],
+      "descricao_base": "bisc cr cracker petyan amandt",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc pajucara wafer brigadeiro | massa:78g": {
+      "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc pajucara wafer brigadeiro 78g",
+        "bisc pajucara wafer brigadeiro | massa:78g",
+        "bisc pajucara wafer choc branco 78 g",
+        "bisc pajucara wafer choc branco | massa:78g"
+      ],
+      "descricao_base": "bisc pajucara wafer choc branco",
+      "medidas": [
+        "massa:78g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc marilan amant coco | massa:280g": {
+      "descricao": "Bisc Marilan Amant Coco 280 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan amant coco 280 g",
+        "bisc marilan amant coco 280g",
+        "bisc marilan amant coco | massa:280g"
+      ],
+      "descricao_base": "bisc marilan amant coco",
+      "medidas": [
+        "massa:280g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc cr cracker petyan trad | massa:350g": {
+      "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc cr cracker petyan trad 350g",
+        "bisc cr cracker petyan trad | massa:350g",
+        "bisc cr cracker vitarella tostadinha 350 g",
+        "bisc cr cracker vitarella tostadinha | massa:350g"
+      ],
+      "descricao_base": "bisc cr cracker vitarella tostadinha",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc rosq brigadeiro parati | massa:250g": {
+      "descricao": "Bisc Rosq Brigadeiro Parati 250 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rosq brigadeiro parati 250 g",
+        "bisc rosq brigadeiro parati 250g",
+        "bisc rosq brigadeiro parati | massa:250g"
+      ],
+      "descricao_base": "bisc rosq brigadeiro parati",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc marilan pit stop queijo | massa:137g": {
+      "descricao": "Bisc Marilan Pit Stop Presu 137 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan pit stop presu 137 g",
+        "bisc marilan pit stop presu | massa:137g",
+        "bisc marilan pit stop queijo 137g",
+        "bisc marilan pit stop queijo | massa:137g"
+      ],
+      "descricao_base": "bisc marilan pit stop presu",
+      "medidas": [
+        "massa:137g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bolinho renata brigadeiro | massa:40g": {
+      "descricao": "Bolinho Renata Brigadeiro 40 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bolinho renata brigadeiro 40 g",
+        "bolinho renata brigadeiro 40g",
+        "bolinho renata brigadeiro | massa:40g"
+      ],
+      "descricao_base": "bolinho renata brigadeiro",
+      "medidas": [
+        "massa:40g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc pajucara wafer morango | massa:78g": {
+      "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc pajucara wafer choc branco 78 g",
+        "bisc pajucara wafer choc branco | massa:78g",
+        "bisc pajucara wafer morango 78g",
+        "bisc pajucara wafer morango | massa:78g"
+      ],
+      "descricao_base": "bisc pajucara wafer choc branco",
+      "medidas": [
+        "massa:78g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc amant renata leite | massa:330g": {
+      "descricao": "Bisc Amant Renata Leite 330 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc amant renata leite 330 g",
+        "bisc amant renata leite 330g",
+        "bisc amant renata leite | massa:330g"
+      ],
+      "descricao_base": "bisc amant renata leite",
+      "medidas": [
+        "massa:330g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc nescau cookies duo | massa:60g": {
+      "descricao": "Bisc Nescau Cookies Duo 60 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc nescau cookies duo 60 g",
+        "bisc nescau cookies duo 60g",
+        "bisc nescau cookies duo | massa:60g"
+      ],
+      "descricao_base": "bisc nescau cookies duo",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc afa wafer maroto abacaxi | massa:26g": {
+      "descricao": "Bisc Afa Wafer Maroto Abacaxi 26 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc afa wafer maroto abacaxi 26 g",
+        "bisc afa wafer maroto abacaxi 26g",
+        "bisc afa wafer maroto abacaxi | massa:26g"
+      ],
+      "descricao_base": "bisc afa wafer maroto abacaxi",
+      "medidas": [
+        "massa:26g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc pajucara wafer trufa | massa:78g": {
+      "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc pajucara wafer choc branco 78 g",
+        "bisc pajucara wafer choc branco | massa:78g",
+        "bisc pajucara wafer trufa 78g",
+        "bisc pajucara wafer trufa | massa:78g"
+      ],
+      "descricao_base": "bisc pajucara wafer choc branco",
+      "medidas": [
+        "massa:78g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "tablete lacta cookies ao leite | massa:80g": {
+      "descricao": "Tablete Lacta Cookies Ao Leite 80 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "tablete lacta cookies ao leite 80 g",
+        "tablete lacta cookies ao leite 80g",
+        "tablete lacta cookies ao leite | massa:80g"
+      ],
+      "descricao_base": "tablete lacta cookies ao leite",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc rosq coco parati | massa:250g": {
+      "descricao": "Bisc Rosq Coco Parati 250 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rosq coco parati 250 g",
+        "bisc rosq coco parati 250g",
+        "bisc rosq coco parati | massa:250g"
+      ],
+      "descricao_base": "bisc rosq coco parati",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "tablete lacta cookies laka | massa:80g": {
+      "descricao": "Tablete Lacta Cookies Laka 80 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "tablete lacta cookies laka 80 g",
+        "tablete lacta cookies laka 80g",
+        "tablete lacta cookies laka | massa:80g"
+      ],
+      "descricao_base": "tablete lacta cookies laka",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc wafer pajucara chocolate | massa:78g": {
+      "descricao": "Bisc Wafer Pajucara Limão 78 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc wafer pajucara chocolate 78g",
+        "bisc wafer pajucara chocolate | massa:78g",
+        "bisc wafer pajucara limao 78 g",
+        "bisc wafer pajucara limao | massa:78g"
+      ],
+      "descricao_base": "bisc wafer pajucara limao",
+      "medidas": [
+        "massa:78g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
+    },
+    "bisc treloso rech brigadeiro 4 pts | massa:480g": {
+      "descricao": "Bisc Treloso Rech Flocos 4 pts 480 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc treloso rech brigadeiro 4 pts | massa:480g",
+        "bisc treloso rech brigadeiro 4pts 480g",
+        "bisc treloso rech flocos 4 pts 480 g",
+        "bisc treloso rech flocos 4 pts | massa:480g"
+      ],
+      "descricao_base": "bisc treloso rech flocos 4 pts",
+      "medidas": [
+        "massa:480g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T14:35:35"
     }
   }
 }
