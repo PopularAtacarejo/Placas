@@ -8447,5 +8447,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "09:33:35",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Torrada Bauducco Multigraos 142 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/06/2026",
+        "codigo_barras": "7891962053202",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Nesfit Banana/Aveia/Canela 160 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/06/2026",
+        "codigo_barras": "7891000304839",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Marilan Int Lev Gran e Mel 150 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/06/2026",
+        "codigo_barras": "7896003706840",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Barra Cereal Supino Banana Branca 24 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/06/2026",
+        "codigo_barras": "7896798603577",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
