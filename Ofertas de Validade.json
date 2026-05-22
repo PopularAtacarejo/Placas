@@ -9212,5 +9212,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "11:18:31",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Enx Bucal Listerine c Total Zero 250 ml",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7891010880842",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Sab Lux Essências Vitoria Regia 120 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7891150082878",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Desod Aer Old Spice Adventure 150 ml",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/06/2026",
+        "codigo_barras": "7500435186438",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Abs.Not.Poise Leve Esc.Urina 8 unun",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/06/2026",
+        "codigo_barras": "7896007553327",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
