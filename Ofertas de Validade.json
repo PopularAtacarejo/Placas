@@ -8878,5 +8878,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "10:41:41",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Neston Nestle 3 Cereais Sc 600 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026",
+        "codigo_barras": "7891000288474",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mucilon Arroz e Aveia Nestle Lt 400 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026",
+        "codigo_barras": "7891000040898",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cereal Sucrilhos Mix 200 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026",
+        "codigo_barras": "7896004011288",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cap Café 3 Coracoes Colombia 8 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/06/2026",
+        "codigo_barras": "7896005807767",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
