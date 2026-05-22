@@ -8491,5 +8491,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "09:34:52",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Supino Banana Maçã e Canela 24 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/06/2026",
+        "codigo_barras": "7896798603607",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Supino Orig Ban Choc Ao Leite 24 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/06/2026",
+        "codigo_barras": "7896798603560",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pasta Prot Nut Hav Doce Leit Crunch Un 600 g",
+        "preco": "49,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7898599217953",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
