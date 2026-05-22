@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-22T09:17:08",
+  "atualizado_em": "2026-05-22T09:24:36",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -2746,7 +2746,7 @@
     "pasta prot nut hav doce leit crunch un | massa:600g": {
       "descricao": "Pasta Prot Nut Hav Doce Leit Crunch Un 600 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "pasta prot 600 g nut hav doce leit crunch un",
         "pasta prot 600g nut hav doce leit crunch un",
@@ -2758,7 +2758,7 @@
         "massa:600g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "pasta de castanha atdc original | massa:120g": {
       "descricao": "Pasta De Castanha Atdc Original 120 g",
@@ -5771,7 +5771,7 @@
     "canjica com acucar org | massa:50g": {
       "descricao": "Canjica Com Açúcar Org 50 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "canjica com acucar org 50 g",
         "canjica com acucar org 50g",
@@ -5782,12 +5782,12 @@
         "massa:50g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "bisc renata integrale banana/aveia/mel | massa:150g": {
       "descricao": "Bisc Renata Integrale Banana/Aveia/Mel 150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc renata integrale banana aveia mel 150 g",
         "bisc renata integrale banana aveia mel 150g",
@@ -5798,12 +5798,12 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "bisc nesfit laranja e cenoura | massa:160g": {
       "descricao": "Bisc Nesfit Laranja e Cenoura 160 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc nesfit laranja e cenoura 160 g",
         "bisc nesfit laranja e cenoura 160g",
@@ -5814,12 +5814,12 @@
         "massa:160g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "bisc marilan cookies cacau/cereais | massa:80g": {
       "descricao": "Bisc Marilan Cookies Cacau/Cereais 80 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc marilan cookies cacau cereais 80 g",
         "bisc marilan cookies cacau cereais 80g",
@@ -5830,12 +5830,12 @@
         "massa:80g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "whey cookie banana c/canela zero s/g vitalin | massa:40g": {
       "descricao": "Whey Cookie Banana c/canela Zero s/g Vitalin 40 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "whey cookie banana c canela zero s g vitalin 40 g",
         "whey cookie banana c canela zero s g vitalin 40g",
@@ -5846,12 +5846,12 @@
         "massa:40g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "whey cookie banana c/chocolate zero s/g vitalin | massa:40g": {
       "descricao": "Whey Cookie Banana c/chocolate Zero s/g Vitalin 40 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "whey cookie banana c chocolate zero s g vitalin 40 g",
         "whey cookie banana c chocolate zero s g vitalin 40g",
@@ -5862,12 +5862,12 @@
         "massa:40g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "doce de leite pastoso zero acu | massa:215g": {
       "descricao": "Doce De Leite Pastoso Zero Acu 215 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "doce de leite pastoso zero acu 215 g",
         "doce de leite pastoso zero acu 215g",
@@ -5878,12 +5878,12 @@
         "massa:215g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "granola mae terra frut mel s/acucar | massa:250g": {
       "descricao": "Granola Mae Terra Frut Mel s/açúcar 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "granola mae terra frut mel s acucar 250 g",
         "granola mae terra frut mel s acucar 250g",
@@ -5894,12 +5894,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "granola jasmine s/gluten cast/cacau | massa:250g": {
       "descricao": "Granola Jasmine s/gluten Cast/Cacau 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "granola jasmine s gluten cast cacau 250 g",
         "granola jasmine s gluten cast cacau 250g",
@@ -5910,12 +5910,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "granola tia sonia light | massa:200g": {
       "descricao": "Granola Tia Sonia Light 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "granola tia sonia light 200 g",
         "granola tia sonia light 200g",
@@ -5926,12 +5926,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "farelo de aveia jasmine sc | massa:200g": {
       "descricao": "Farelo De Aveia Jasmine Sc 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "farelo de aveia jasmine sc 200 g",
         "farelo de aveia jasmine sc 200g",
@@ -5942,12 +5942,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "beb lact piracanjuba coco + whey zl | volume:1000ml": {
       "descricao": "Beb Lact Piracanjuba Coco + Whey Zl 1 l",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lact piracanjuba coco + whey zl | volume:1000ml",
         "beb lact piracanjuba coco whey zl 1 l",
@@ -5958,12 +5958,12 @@
         "volume:1000ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "supl max titanium c/wh cook/cr | massa:900g": {
       "descricao": "02/05/2026 Supl. Max Titanium c/wh Cook Cr. 900 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "02 05 2026 supl max titanium c wh cook cr 900 g",
         "supl max titanium c wh cook cr 900g",
@@ -5975,12 +5975,12 @@
         "massa:900g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "pasta de amendoim predilecta crocante | massa:450g": {
       "descricao": "Pasta De Amendoim Predilecta Crocante 450 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "pasta de amendoim predilecta crocante 450 g",
         "pasta de amendoim predilecta crocante 450g",
@@ -5991,12 +5991,12 @@
         "massa:450g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "pasta de amendoim predilecta cacau | massa:450g": {
       "descricao": "Pasta De Amendoim Predilecta Cacau 450 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "pasta de amendoim predilecta cacau 450 g",
         "pasta de amendoim predilecta cacau 450g",
@@ -6007,12 +6007,12 @@
         "massa:450g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "barra de protein doctor cookies c/pedacos amen | massa:62g": {
       "descricao": "Barra De Protein Doctor Cookies c/pedacos Ame",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "barra de protein doctor cookies c pedacos ame",
         "barra de protein doctor cookies c pedacos amen 62g",
@@ -6022,12 +6022,12 @@
       "descricao_base": "barra de protein doctor cookies c/pedacos ame",
       "medidas": [],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "torrada bauducco multigraos | massa:142g": {
       "descricao": "Torrada Bauducco Multigraos 142 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "torrada bauducco multigraos 142 g",
         "torrada bauducco multigraos 142g",
@@ -6038,12 +6038,12 @@
         "massa:142g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "bisc nesfit banana/aveia/canela | massa:160g": {
       "descricao": "Bisc Nesfit Banana/Aveia/Canela 160 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc nesfit banana aveia canela 160 g",
         "bisc nesfit banana aveia canela 160g",
@@ -6054,12 +6054,12 @@
         "massa:160g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "bisc marilan int lev gran e mel | massa:150g": {
       "descricao": "Bisc Marilan Int Lev Gran e Mel 150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc marilan int lev gran e mel 150 g",
         "bisc marilan int lev gran e mel | massa:150g",
@@ -6070,12 +6070,12 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "barra cereal supino banana branca | massa:24g": {
       "descricao": "Barra Cereal Supino Banana Branca 24 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "barra cereal supino banana branca 24 g",
         "barra cereal supino banana branca 24g",
@@ -6086,12 +6086,12 @@
         "massa:24g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "supino banana maca e canela | massa:24g": {
       "descricao": "Supino Banana Maçã e Canela 24 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "supino banana maca e canela 24 g",
         "supino banana maca e canela 24g",
@@ -6102,12 +6102,12 @@
         "massa:24g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     },
     "supino orig ban choc ao leite | massa:24g": {
       "descricao": "Supino Orig Ban Choc Ao Leite 24 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "supino orig ban choc ao leite 24 g",
         "supino orig ban choc ao leite 24g",
@@ -6118,7 +6118,7 @@
         "massa:24g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:17:08"
+      "atualizado_em": "2026-05-22T09:24:36"
     }
   }
 }
