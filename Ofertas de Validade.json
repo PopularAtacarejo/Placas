@@ -8403,5 +8403,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "09:32:06",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "02/05/2026 Supl. Max Titanium c/wh Cook Cr. 900 g",
+        "preco": "79,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/06/2026",
+        "codigo_barras": "7899941201804",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pasta De Amendoim Predilecta Crocante 450 g",
+        "preco": "16,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/06/2026",
+        "codigo_barras": "7896292372443",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pasta De Amendoim Predilecta Cacau 450 g",
+        "preco": "18,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/06/2026",
+        "codigo_barras": "7896292372467",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Barra De Protein Doctor Cookies c/pedacos Ame",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/06/2026",
+        "codigo_barras": "7899941207196",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
