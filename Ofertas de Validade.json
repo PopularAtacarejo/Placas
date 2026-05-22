@@ -10180,5 +10180,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "15:22:20",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Batata Lays Frango Grelhado 70 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/06/2026",
+        "codigo_barras": "7892840823429",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pir. Blong Morango 672 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/06/2026",
+        "codigo_barras": "7896306610974",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Maxmallows t Rech t Color Baun c/mor 70 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/06/2026",
+        "codigo_barras": "7896451929372",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Salg Elma Chips Fandangos Bacon 35 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/06/2026",
+        "codigo_barras": "7892840822835",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
