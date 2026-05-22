@@ -10224,5 +10224,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "15:23:54",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Salg Tostitos Pimenta Mexicana 110 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "22/06/2026",
+        "codigo_barras": "7892840823580",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Salg Tostitos Toque Sal Marinho 110 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/06/2026",
+        "codigo_barras": "7892840823566",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Amendoim Crocante Sabor Do Chef Yoki 120 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/06/2026",
+        "codigo_barras": "7891095911868",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc.Bombom De Oreo Lacta 540 g",
+        "preco": "25,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7622202258046",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
