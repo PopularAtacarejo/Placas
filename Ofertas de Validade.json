@@ -8139,5 +8139,49 @@
         "validade_oferta": "31/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "09:18:41",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Canjica Com Açúcar Org 50 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "17/06/2026",
+        "codigo_barras": "7896639800318",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Renata Integrale Banana/Aveia/Mel 150 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026",
+        "codigo_barras": "7896022207632",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Nesfit Laranja e Cenoura 160 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/06/2026",
+        "codigo_barras": "7891000304754",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Cookies Cacau/Cereais 80 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/06/2026",
+        "codigo_barras": "7896003706895",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
