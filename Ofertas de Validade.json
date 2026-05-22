@@ -9916,5 +9916,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "15:08:15",
+    "placa": 11,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Biscoito Arcor Triunfo Tortini Trufa 90 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "19/06/2026",
+        "codigo_barras": "7896058257670",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Marilan Amant Coco 280 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/06/2026",
+        "codigo_barras": "7896003738919",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/06/2026",
+        "codigo_barras": "7896532701064",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/06/2026",
+        "codigo_barras": "7896016435836",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
