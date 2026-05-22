@@ -10092,5 +10092,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "15:15:04",
+    "placa": 15,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rosq Coco Parati 250 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/06/2026",
+        "codigo_barras": "7896004009902",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Tablete Lacta Cookies Laka 80 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/06/2026",
+        "codigo_barras": "7622210754714",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Wafer Pajucara Limão 78 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/06/2026",
+        "codigo_barras": "7896016435133",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Treloso Rech Flocos 4 pts 480 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7896213006228",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
