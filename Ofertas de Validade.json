@@ -8183,5 +8183,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "09:20:45",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Whey Cookie Banana c/canela Zero s/g Vitalin 40 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/06/2026",
+        "codigo_barras": "7898568901784",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Whey Cookie Banana c/chocolate Zero s/g Vitalin 40 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/06/2026",
+        "codigo_barras": "7898568901791",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Doce De Leite Pastoso Zero Acu 215 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/06/2026",
+        "codigo_barras": "7898003281877",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Granola Mae Terra Frut Mel s/açúcar 250 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026",
+        "codigo_barras": "7896496972104",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
