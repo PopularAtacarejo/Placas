@@ -3502,5 +3502,93 @@
     "produto": "COSTELA DE PORCO",
     "preco": "19,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-22",
+    "horario": "17:49:20",
+    "feito_por": "Jeferson",
+    "produto": "Kiwi",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-22",
+    "horario": "17:49:20",
+    "feito_por": "Jeferson",
+    "produto": "Batatinha",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-22",
+    "horario": "17:49:20",
+    "feito_por": "Jeferson",
+    "produto": "Abobora Leite",
+    "preco": "5,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-22",
+    "horario": "17:49:20",
+    "feito_por": "Jeferson",
+    "produto": "Manga Tommy",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-22",
+    "horario": "17:49:20",
+    "feito_por": "Jeferson",
+    "produto": "Inhame Cara",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-22",
+    "horario": "17:49:20",
+    "feito_por": "Jeferson",
+    "produto": "Chuchu",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-22",
+    "horario": "17:49:20",
+    "feito_por": "Jeferson",
+    "produto": "Tangerina Importada",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-22",
+    "horario": "17:49:20",
+    "feito_por": "Jeferson",
+    "produto": "Pitaya Vermelha",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-22",
+    "horario": "17:49:20",
+    "feito_por": "Jeferson",
+    "produto": "Batata Doce Roxa",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-22",
+    "horario": "17:49:20",
+    "feito_por": "Jeferson",
+    "produto": "Tomate",
+    "preco": "8,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-22",
+    "horario": "17:49:20",
+    "feito_por": "Jeferson",
+    "produto": "Manga Rosa",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
   }
 ]
