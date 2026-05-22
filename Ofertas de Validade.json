@@ -8834,5 +8834,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "10:38:55",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Pó Integral Piracanjuba 1 kg",
+        "preco": "34,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/05/2026",
+        "codigo_barras": "7898215152354",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Café Capuccino Marata Chocolate Sh 200 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/05/2026",
+        "codigo_barras": "7898286203177",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Achoc Em Pó Chocolatto Sc 900 g",
+        "preco": "26,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/05/2026",
+        "codigo_barras": "7896045115372",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cappuccino 3 Coracoes Chocolate Pt 200 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/05/2026",
+        "codigo_barras": "7896005802892",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
