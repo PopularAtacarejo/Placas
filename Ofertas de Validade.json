@@ -9388,5 +9388,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "11:44:02",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Farofa Crocante Tio Fernando 300 gr",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/05/2026",
+        "codigo_barras": "7898996455507",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pipoca Popcorn Yoki Temperada 100 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "09/06/2026",
+        "codigo_barras": "7891095006274",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Farofa De Mandioca Yoki Bacon 200 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "10/06/2026",
+        "codigo_barras": "7891095911646",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Flocao De Milho Coringa Rech Coco 200 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "11/06/2026",
+        "codigo_barras": "7896481131004",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
