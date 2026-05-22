@@ -9186,5 +9186,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "11:12:49",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mist P/Bolo Apti Coco 400 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7896327511328",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Chá Dr.Oetker Hortela 10 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7891048038055",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
