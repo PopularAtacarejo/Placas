@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-22T10:35:23",
+  "atualizado_em": "2026-05-22T11:00:35",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -6526,7 +6526,7 @@
     "leite po integral piracanjuba | massa:1000g": {
       "descricao": "Leite Pó Integral Piracanjuba 1 kg",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "leite po integral piracanjuba 1 kg",
         "leite po integral piracanjuba 1kg",
@@ -6537,12 +6537,12 @@
         "massa:1000g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "cafe capuccino marata chocolate sh | massa:200g": {
-      "descricao": "Café Capuccino Marata Chocolate Sh 200 g",
+      "descricao": "Café Capuccino Maratá Chocolate Sh 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cafe capuccino marata chocolate sh 200 g",
         "cafe capuccino marata chocolate sh 200g",
@@ -6553,12 +6553,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "achoc em po chocolatto sc | massa:900g": {
       "descricao": "Achoc Em Pó Chocolatto Sc 900 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "achoc em po chocolatto sc 900 g",
         "achoc em po chocolatto sc 900g",
@@ -6569,12 +6569,12 @@
         "massa:900g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "cappuccino 3 coracoes chocolate pt | massa:200g": {
-      "descricao": "Cappuccino 3 Coracoes Chocolate Pt 200 g",
+      "descricao": "Cappuccino 3 Corações Chocolate Pt 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cappuccino 3 coracoes chocolate pt 200 g",
         "cappuccino 3 coracoes chocolate pt 200g",
@@ -6585,12 +6585,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "neston nestle 3 cereais sc | massa:600g": {
-      "descricao": "Neston Nestle 3 Cereais Sc 600 g",
+      "descricao": "Neston Nestlé 3 Cereais Sc 600 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "neston nestle 3 cereais sc 600 g",
         "neston nestle 3 cereais sc 600g",
@@ -6601,12 +6601,12 @@
         "massa:600g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "mucilon arroz e aveia nestle lt | massa:400g": {
-      "descricao": "Mucilon Arroz e Aveia Nestle Lt 400 g",
+      "descricao": "Mucilon Arroz e Aveia Nestlé Lt 400 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "mucilon arroz e aveia nestle lt 400 g",
         "mucilon arroz e aveia nestle lt 400g",
@@ -6617,12 +6617,12 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "cereal sucrilhos mix | massa:200g": {
       "descricao": "Cereal Sucrilhos Mix 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cereal sucrilhos mix 200 g",
         "cereal sucrilhos mix 200g",
@@ -6633,12 +6633,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "cap cafe 3 coracoes colombia | massa:8g": {
-      "descricao": "Cap Café 3 Coracoes Colombia 8 g",
+      "descricao": "Cap Café 3 Corações Colombia 8 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cap cafe 3 coracoes colombia 8 g",
         "cap cafe 3 coracoes colombia 8g",
@@ -6649,12 +6649,12 @@
         "massa:8g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "doce de leite bom leite | massa:250g": {
       "descricao": "Doce De Leite Bom Leite 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "doce de leite bom leite 250 g",
         "doce de leite bom leite 250g",
@@ -6665,12 +6665,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "capsula cafe 3 coracoes porti peneir | massa:8g": {
-      "descricao": "Capsula Café 3 Coracoes Porti.Peneir. 8 g",
+      "descricao": "Capsula Café 3 Corações Porti.Peneir. 8 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "capsula cafe 3 coracoes porti peneir 8 g",
         "capsula cafe 3 coracoes porti peneir 8g",
@@ -6681,12 +6681,12 @@
         "massa:8g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "cap cafe 3 coracoes espresso ameno | massa:8g": {
-      "descricao": "Cap Café 3 Coracoes Espresso Ameno 8 g",
+      "descricao": "Cap Café 3 Corações Espresso Ameno 8 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cap cafe 3 coracoes espresso ameno 8 g",
         "cap cafe 3 coracoes espresso ameno 8g",
@@ -6697,12 +6697,12 @@
         "massa:8g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "creme sabor choc ao leite amor | massa:140g": {
       "descricao": "Creme Sabor Choc Ao Leite (amor) 140 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "creme sabor choc ao leite amor 140 g",
         "creme sabor choc ao leite amor 140g",
@@ -6713,12 +6713,12 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "creme sabor choc meio amargo coragem | massa:140g": {
       "descricao": "Creme Sabor Choc Meio Amargo (coragem) 140 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "creme sabor choc meio amargo coragem 140 g",
         "creme sabor choc meio amargo coragem 140g",
@@ -6729,12 +6729,12 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "cha leao func recarrega | massa:16g": {
-      "descricao": "Chá Leao Func Recarrega 16 g",
+      "descricao": "Chá Leão Func Recarrega 16 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cha leao func recarrega 16 g",
         "cha leao func recarrega 16g",
@@ -6745,12 +6745,12 @@
         "massa:16g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "leite po piracanjuba integral sct | massa:700g": {
       "descricao": "Leite Pó Piracanjuba Integral Sct 700 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "leite po piracanjuba integral sct 700 g",
         "leite po piracanjuba integral sct 700g",
@@ -6761,12 +6761,12 @@
         "massa:700g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "leite de coco bom leite | volume:200ml": {
       "descricao": "Leite De Coco Bom Leite 200 ml",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "leite de coco bom leite 200 ml",
         "leite de coco bom leite 200ml",
@@ -6777,12 +6777,12 @@
         "volume:200ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "doce de leite reserva frimesa | massa:400g": {
       "descricao": "Doce De Leite Reserva Frimesa 400 gr",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "doce de leite reserva frimesa 400 gr",
         "doce de leite reserva frimesa 400gr",
@@ -6793,12 +6793,12 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "cha marata citrico | massa:20g": {
-      "descricao": "Chá Marata Citrico 20 g",
+      "descricao": "Chá Maratá Citrico 20 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cha marata citrico 20 g",
         "cha marata citrico 20g",
@@ -6809,12 +6809,12 @@
         "massa:20g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "cha preto marata | massa:18g": {
-      "descricao": "Chá Preto Marata 18 g",
+      "descricao": "Chá Preto Maratá 18 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cha preto marata 18 g",
         "cha preto marata 18g",
@@ -6825,12 +6825,12 @@
         "massa:18g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "doce de leite b principio | massa:350g": {
       "descricao": "Doce De Leite B.Principio 350 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "doce de leite b principio 350 g",
         "doce de leite b principio 350g",
@@ -6841,12 +6841,12 @@
         "massa:350g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "creme b principio choc ao leite/branco | massa:140g": {
       "descricao": "Creme B.Principio Choc Ao Leite/Branco 140 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "creme b principio choc ao leite branco 140 g",
         "creme b principio choc ao leite branco 140g",
@@ -6857,12 +6857,12 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "mist p/bolo apti coco | massa:400g": {
       "descricao": "Mist P/Bolo Apti Coco 400 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "mist p bolo apti coco 400 g",
         "mist p bolo apti coco 400g",
@@ -6873,12 +6873,12 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
     },
     "cha dr oetker hortela | massa:10g": {
       "descricao": "Chá Dr.Oetker Hortela 10 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cha dr oetker hortela 10 g",
         "cha dr oetker hortela 10g",
@@ -6889,7 +6889,55 @@
         "massa:10g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:35:23"
+      "atualizado_em": "2026-05-22T11:00:35"
+    },
+    "gelatina sol uva sch | massa:20g": {
+      "descricao": "Gelatina Sol Uva Sch 20 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "gelatina sol uva sch 20 g",
+        "gelatina sol uva sch 20g",
+        "gelatina sol uva sch | massa:20g"
+      ],
+      "descricao_base": "gelatina sol uva sch",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:00:35"
+    },
+    "gelatina sol amora | massa:20g": {
+      "descricao": "Gelatina Sol Amora 20 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "gelatina sol amora 20 g",
+        "gelatina sol amora 20g",
+        "gelatina sol amora | massa:20g"
+      ],
+      "descricao_base": "gelatina sol amora",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:00:35"
+    },
+    "leite piracanjuba desn+calcio uht tp | volume:1000ml": {
+      "descricao": "Leite Piracanjuba Desn+calcio Uht Tp 1 lt",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "leite piracanjuba desn calcio uht tp 1 lt",
+        "leite piracanjuba desn calcio uht tp 1lt",
+        "leite piracanjuba desn+calcio uht tp | volume:1000ml"
+      ],
+      "descricao_base": "leite piracanjuba desn+calcio uht tp",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:00:35"
     }
   }
 }
