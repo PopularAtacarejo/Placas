@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-22T14:46:18",
+  "atualizado_em": "2026-05-22T15:19:14",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -8019,6 +8019,198 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-05-22T14:46:18"
+    },
+    "bala fini marsh rech torcao | massa:80g": {
+      "descricao": "Bala Fini Marsh.Rech. Torcao 80 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bala fini marsh rech torcao 80 g",
+        "bala fini marsh rech torcao 80g",
+        "bala fini marsh rech torcao | massa:80g"
+      ],
+      "descricao_base": "bala fini marsh rech torcao",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T15:19:14"
+    },
+    "choc wafer hersheys cookies creme | massa:102g": {
+      "descricao": "Choc Wafer Hersheys Cookies Creme 102 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc wafer hersheys cookies creme 102 g",
+        "choc wafer hersheys cookies creme 102g",
+        "choc wafer hersheys cookies creme | massa:102g"
+      ],
+      "descricao_base": "choc wafer hersheys cookies creme",
+      "medidas": [
+        "massa:102g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T15:19:14"
+    },
+    "marshmallow fini torcao baunilha | massa:80g": {
+      "descricao": "Marshmallow Fini Torcao Baunilha 80 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "marshmallow fini torcao baunilha 80 g",
+        "marshmallow fini torcao baunilha 80g",
+        "marshmallow fini torcao baunilha | massa:80g"
+      ],
+      "descricao_base": "marshmallow fini torcao baunilha",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T15:19:14"
+    },
+    "marsh fini vulcao azul | massa:200g": {
+      "descricao": "Marsh Fini Vulcao Azul 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "marsh fini vulcao azul 200 g",
+        "marsh fini vulcao azul 200g",
+        "marsh fini vulcao azul | massa:200g"
+      ],
+      "descricao_base": "marsh fini vulcao azul",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T15:19:14"
+    },
+    "batata lays frango grelhado | massa:70g": {
+      "descricao": "Batata Lays Frango Grelhado 70 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "batata lays frango grelhado 70 g",
+        "batata lays frango grelhado 70g",
+        "batata lays frango grelhado | massa:70g"
+      ],
+      "descricao_base": "batata lays frango grelhado",
+      "medidas": [
+        "massa:70g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T15:19:14"
+    },
+    "pir blong morango | massa:672g": {
+      "descricao": "Pir. Blong Morango 672 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "pir blong morango 672 g",
+        "pir blong morango 672g",
+        "pir blong morango | massa:672g"
+      ],
+      "descricao_base": "pir blong morango",
+      "medidas": [
+        "massa:672g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T15:19:14"
+    },
+    "maxmallows t rech t color baun c/mor | massa:70g": {
+      "descricao": "Maxmallows t Rech t Color Baun c/mor 70 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "maxmallows t rech t color baun c mor 70 g",
+        "maxmallows t rech t color baun c mor 70g",
+        "maxmallows t rech t color baun c/mor | massa:70g"
+      ],
+      "descricao_base": "maxmallows t rech t color baun c/mor",
+      "medidas": [
+        "massa:70g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T15:19:14"
+    },
+    "salg elma chips fandangos bacon | massa:35g": {
+      "descricao": "Salg Elma Chips Fandangos Bacon 35 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salg elma chips fandangos bacon 35 g",
+        "salg elma chips fandangos bacon 35g",
+        "salg elma chips fandangos bacon | massa:35g"
+      ],
+      "descricao_base": "salg elma chips fandangos bacon",
+      "medidas": [
+        "massa:35g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T15:19:14"
+    },
+    "salg tostitos pimenta mexicana | massa:110g": {
+      "descricao": "Salg Tostitos Pimenta Mexicana 110 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salg tostitos pimenta mexicana 110 g",
+        "salg tostitos pimenta mexicana 110g",
+        "salg tostitos pimenta mexicana | massa:110g"
+      ],
+      "descricao_base": "salg tostitos pimenta mexicana",
+      "medidas": [
+        "massa:110g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T15:19:14"
+    },
+    "salg tostitos toque sal marinho | massa:110g": {
+      "descricao": "Salg Tostitos Toque Sal Marinho 110 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salg tostitos toque sal marinho 110 g",
+        "salg tostitos toque sal marinho 110g",
+        "salg tostitos toque sal marinho | massa:110g"
+      ],
+      "descricao_base": "salg tostitos toque sal marinho",
+      "medidas": [
+        "massa:110g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T15:19:14"
+    },
+    "amendoim crocante sabor do chef yoki | massa:120g": {
+      "descricao": "Amendoim Crocante Sabor Do Chef Yoki 120 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "amendoim crocante sabor do chef yoki 120 g",
+        "amendoim crocante sabor do chef yoki 120g",
+        "amendoim crocante sabor do chef yoki | massa:120g"
+      ],
+      "descricao_base": "amendoim crocante sabor do chef yoki",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T15:19:14"
+    },
+    "choc bombom de oreo lacta | massa:540g": {
+      "descricao": "Choc.Bombom De Oreo Lacta 540 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc bombom de oreo lacta 540 g",
+        "choc bombom de oreo lacta 540g",
+        "choc bombom de oreo lacta | massa:540g"
+      ],
+      "descricao_base": "choc bombom de oreo lacta",
+      "medidas": [
+        "massa:540g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T15:19:14"
     }
   }
 }
