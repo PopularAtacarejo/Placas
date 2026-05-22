@@ -9784,5 +9784,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "15:02:13",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rech Pilar Baun 120 g",
+        "preco": "1,68",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026",
+        "codigo_barras": "7896005030424",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Hot Cracker Rech Integ Peito Peru 100 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026",
+        "codigo_barras": "7896004010595",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Oreo Rech Milkshake De Morango 144 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/06/2026",
+        "codigo_barras": "7622300989446",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Tortinhas Morango 300 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/06/2026",
+        "codigo_barras": "7896003738803",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
