@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-22T11:17:00",
+  "atualizado_em": "2026-05-22T11:26:27",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -6999,6 +6999,195 @@
       "medidas": [],
       "confidence": 1.0,
       "atualizado_em": "2026-05-22T11:17:00"
+    },
+    "lustra mov poliflor multi superfic | volume:200ml": {
+      "descricao": "Lustra Mov Poliflor Multi Superfic 200 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "lustra mov poliflor multi superfic 200 ml",
+        "lustra mov poliflor multi superfic 200ml",
+        "lustra mov poliflor multi superfic | volume:200ml"
+      ],
+      "descricao_base": "lustra mov poliflor multi superfic",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:26:27"
+    },
+    "bom ar elet lirio branco/algodao ref+aparelho": {
+      "descricao": "Bom Ar Elet Lirio Branco/Algodão Ref+aparelho",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bom ar elet lirio branco algodao ref aparelho",
+        "bom ar elet lirio branco/algodao ref+aparelho"
+      ],
+      "descricao_base": "bom ar elet lirio branco/algodao ref+aparelho",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:26:27"
+    },
+    "harpic liq power plus 5 x mais poder | volume:200ml": {
+      "descricao": "Harpic Liq Power Plus 5 x Mais Poder 200 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "harpic liq power plus 5 x mais poder 200 ml",
+        "harpic liq power plus 5 x mais poder | volume:200ml",
+        "harpic liq power plus 5x mais poder 200ml"
+      ],
+      "descricao_base": "harpic liq power plus 5 x mais poder",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:26:27"
+    },
+    "lustra moveis poliflor lavanda | volume:200ml": {
+      "descricao": "Lustra Moveis Poliflor Lavanda 200 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "lustra moveis poliflor lavanda 200 ml",
+        "lustra moveis poliflor lavanda 200ml",
+        "lustra moveis poliflor lavanda | volume:200ml"
+      ],
+      "descricao_base": "lustra moveis poliflor lavanda",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:26:27"
+    },
+    "lava roupa coquel po vegano | massa:800g": {
+      "descricao": "Lava Roupa Coquel Pó Vegano 800 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "lava roupa coquel po vegano 800 g",
+        "lava roupa coquel po vegano 800g",
+        "lava roupa coquel po vegano | massa:800g"
+      ],
+      "descricao_base": "lava roupa coquel po vegano",
+      "medidas": [
+        "massa:800g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:26:27"
+    },
+    "inset sbo eletrico pastilha | contagem:1un": {
+      "descricao": "Inset Sbo Eletrico Pastilha 1 un",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "inset sbo eletrico pastilha 1 un",
+        "inset sbo eletrico pastilha 1un",
+        "inset sbo eletrico pastilha | contagem:1un"
+      ],
+      "descricao_base": "inset sbo eletrico pastilha",
+      "medidas": [
+        "contagem:1un"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:26:27"
+    },
+    "lutras moveis poliflor perf suave | volume:200ml": {
+      "descricao": "Lutras Moveis Poliflor Perf Suave 200 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "lutras moveis poliflor perf suave 200 ml",
+        "lutras moveis poliflor perf suave 200ml",
+        "lutras moveis poliflor perf suave | volume:200ml"
+      ],
+      "descricao_base": "lutras moveis poliflor perf suave",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:26:27"
+    },
+    "amac comfort conc lavanda rf | volume:900ml": {
+      "descricao": "Amac Comfort Conc Lavanda Rf 900 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "amac comfort conc lavanda rf 900 ml",
+        "amac comfort conc lavanda rf 900ml",
+        "amac comfort conc lavanda rf | volume:900ml"
+      ],
+      "descricao_base": "amac comfort conc lavanda rf",
+      "medidas": [
+        "volume:900ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:26:27"
+    },
+    "cloro aditivado vim lavanda | volume:700ml": {
+      "descricao": "Cloro Aditivado Vim Lavanda 700 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cloro aditivado vim lavanda 700 ml",
+        "cloro aditivado vim lavanda 700ml",
+        "cloro aditivado vim lavanda | volume:700ml"
+      ],
+      "descricao_base": "cloro aditivado vim lavanda",
+      "medidas": [
+        "volume:700ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:26:27"
+    },
+    "desinf aer lysoform original | volume:360ml": {
+      "descricao": "Desinf Aer Lysoform Original 360 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "desinf aer lysoform 360ml original",
+        "desinf aer lysoform original 360 ml",
+        "desinf aer lysoform original | volume:360ml"
+      ],
+      "descricao_base": "desinf aer lysoform original",
+      "medidas": [
+        "volume:360ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:26:27"
+    },
+    "odor aero bom ar cher talco | volume:360ml": {
+      "descricao": "Odor Aero Bom Ar Cher Talco 360 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "odor aero bom ar cher talco 360 ml",
+        "odor aero bom ar cher talco 360ml",
+        "odor aero bom ar cher talco | volume:360ml"
+      ],
+      "descricao_base": "odor aero bom ar cher talco",
+      "medidas": [
+        "volume:360ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:26:27"
+    },
+    "difusor secar black bamboo | volume:100ml": {
+      "descricao": "Difusor Secar Black Bamboo 100 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "difusor secar black bamboo 100 ml",
+        "difusor secar black bamboo 100ml",
+        "difusor secar black bamboo | volume:100ml"
+      ],
+      "descricao_base": "difusor secar black bamboo",
+      "medidas": [
+        "volume:100ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:26:27"
     }
   }
 }
