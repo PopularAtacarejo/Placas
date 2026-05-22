@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-22T11:00:35",
+  "atualizado_em": "2026-05-22T11:17:00",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -6938,6 +6938,67 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-05-22T11:00:35"
+    },
+    "enx bucal listerine c total zero | volume:250ml": {
+      "descricao": "Enx Bucal Listerine c Total Zero 250 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "enx bucal listerine 250ml c total zero",
+        "enx bucal listerine c total zero 250 ml",
+        "enx bucal listerine c total zero | volume:250ml"
+      ],
+      "descricao_base": "enx bucal listerine c total zero",
+      "medidas": [
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:17:00"
+    },
+    "sab lux essencias vitoria regia | massa:120g": {
+      "descricao": "Sab Lux Essências Vitoria Regia 120 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "sab lux essencias vitoria regia 120 g",
+        "sab lux essencias vitoria regia 120g",
+        "sab lux essencias vitoria regia | massa:120g"
+      ],
+      "descricao_base": "sab lux essencias vitoria regia",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:17:00"
+    },
+    "desod aer old spice adventure | volume:150ml": {
+      "descricao": "Desod Aer Old Spice Adventure 150 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "desod aer old spice adventure 150 ml",
+        "desod aer old spice adventure 150ml",
+        "desod aer old spice adventure | volume:150ml"
+      ],
+      "descricao_base": "desod aer old spice adventure",
+      "medidas": [
+        "volume:150ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:17:00"
+    },
+    "abs not poise leve esc urina 8 unun": {
+      "descricao": "Abs.Not.Poise Leve Esc.Urina 8 unun",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "abs not poise leve esc urina 8 unun",
+        "abs not poise leve esc urina 8unun"
+      ],
+      "descricao_base": "abs not poise leve esc urina 8 unun",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T11:17:00"
     }
   }
 }
