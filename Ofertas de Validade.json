@@ -9476,5 +9476,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "14:49:20",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rech Skin Bem Casado 60 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026",
+        "codigo_barras": "7898185761051",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bis Skin Água e Sal 400 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026",
+        "codigo_barras": "7898185761631",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Rech Skinegro Choc 60 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/06/2026",
+        "codigo_barras": "7898185761297",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Skin Família Água e Sal 800 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/06/2026",
+        "codigo_barras": "7898185960515",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
