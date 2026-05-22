@@ -9608,5 +9608,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "14:56:04",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Maizena Vitarella Ao Leite 350 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7896213006426",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Amanteigado Leite Maltado Vitamassa 120 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7897353903439",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Vitarella Delicita Doce Crist 414 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7896213005771",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Rosquinha Petyan Choc 300 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7896532700456",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
