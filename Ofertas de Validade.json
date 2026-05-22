@@ -9520,5 +9520,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "14:51:58",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Skin Coquinho Doce 400 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/06/2026",
+        "codigo_barras": "7898185760481",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Cookies Vitarella Chocolate 80 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026",
+        "codigo_barras": "7896213005719",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Rosq Leite Parati 250 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026",
+        "codigo_barras": "7896004009889",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Cream Crack Renata 360 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026",
+        "codigo_barras": "7896022205164",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
