@@ -9256,5 +9256,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "11:28:49",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Lustra Mov Poliflor Multi Superfic 200 ml",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026",
+        "codigo_barras": "7891035502583",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bom Ar Elet Lirio Branco/Algodão Ref+aparelho",
+        "preco": "24,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7891035001444",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Harpic Liq Power Plus 5 x Mais Poder 200 ml",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7891035001727",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Lustra Moveis Poliflor Lavanda 200 ml",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/06/2026",
+        "codigo_barras": "7891035502200",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
