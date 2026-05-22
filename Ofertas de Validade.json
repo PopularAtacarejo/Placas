@@ -9010,5 +9010,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "11:05:51",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Doce De Leite Bom Leite 250 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026",
+        "codigo_barras": "7898118390143",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Capsula Café 3 Corações Porti.Peneir. 8 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026",
+        "codigo_barras": "7896045109647",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cap Café 3 Corações Espresso Ameno 8 g",
+        "preco": "18,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026",
+        "codigo_barras": "7896005805701",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Creme Sabor Choc Ao Leite (amor) 140 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/06/2026",
+        "codigo_barras": "7897500605742",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
