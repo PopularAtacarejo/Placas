@@ -9142,5 +9142,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "11:11:23",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Creme B.Principio Choc Ao Leite/Branco 140 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/06/2026",
+        "codigo_barras": "7897500605759",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Gelatina Sol Uva Sch 20 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "27/06/2026",
+        "codigo_barras": "7896005210789",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Gelatina Sol Amora 20 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "28/06/2026",
+        "codigo_barras": "7896005210604",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Piracanjuba Desn+calcio Uht Tp 1 lt",
+        "preco": "6,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7898215157816",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
