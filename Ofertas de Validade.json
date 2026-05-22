@@ -9960,5 +9960,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "15:09:55",
+    "placa": 12,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rosq Brigadeiro Parati 250 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/06/2026",
+        "codigo_barras": "7896004009872",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/06/2026",
+        "codigo_barras": "7896213006303",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Marilan Pit Stop Presu 137 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/06/2026",
+        "codigo_barras": "7896003739459",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Pit Stop Presu 137 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/06/2026",
+        "codigo_barras": "7896003739442",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
