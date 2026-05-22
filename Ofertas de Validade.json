@@ -9828,5 +9828,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "15:04:12",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Marilan Amant Nata 280 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/06/2026",
+        "codigo_barras": "7896003738926",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Cr Cracker Vitarella Integral 367.5 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/06/2026",
+        "codigo_barras": "7896213006266",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Rech Skinegro Baunilha 60 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/06/2026",
+        "codigo_barras": "7898185760948",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Rech Vitamassa Moran 130 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/06/2026",
+        "codigo_barras": "7897353900261",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
