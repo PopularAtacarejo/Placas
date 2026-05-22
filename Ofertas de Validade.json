@@ -9098,5 +9098,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "11:08:58",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Doce De Leite Reserva Frimesa 400 gr",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/06/2026",
+        "codigo_barras": "7896275980917",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Chá Maratá Citrico 20 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/06/2026",
+        "codigo_barras": "7898286200442",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Chá Preto Maratá 18 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/06/2026",
+        "codigo_barras": "7898286200152",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Doce De Leite B.Principio 350 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/06/2026",
+        "codigo_barras": "7897500600266",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
