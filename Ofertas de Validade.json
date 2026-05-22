@@ -8526,5 +8526,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "10:11:49",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Molho Knorr Shoyu 150 ml",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/05/2026",
+        "codigo_barras": "7891150089433",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mac Inst Lamen Treloso Carne Suav 75 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026",
+        "codigo_barras": "7896213006839",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Caldo Arisco Galinha Caipira 114 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026",
+        "codigo_barras": "7891700080439",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Sopao Maggi Galinha c/leg 200 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026",
+        "codigo_barras": "7891000582008",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
