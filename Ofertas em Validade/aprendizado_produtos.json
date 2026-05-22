@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-22T09:24:36",
+  "atualizado_em": "2026-05-22T10:09:06",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -2024,7 +2024,7 @@
     "temp knorr arroz po | massa:50g": {
       "descricao": "Temp Knorr Carne Pó 50 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "temp knorr arroz po 50g",
         "temp knorr arroz po | massa:50g",
@@ -2036,7 +2036,7 @@
         "massa:50g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T14:52:36"
+      "atualizado_em": "2026-05-22T10:09:06"
     },
     "caldo knorr legumes | massa:57g": {
       "descricao": "Caldo Knorr Legumes 57 g",
@@ -2057,7 +2057,7 @@
     "caldo maggi carne | massa:57g": {
       "descricao": "Caldo Maggi Carne 57 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "caldo maggi carne 57 g",
         "caldo maggi carne 57g",
@@ -2068,7 +2068,7 @@
         "massa:57g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T14:52:36"
+      "atualizado_em": "2026-05-22T10:09:06"
     },
     "colorifico kitano | massa:400g": {
       "descricao": "Colorifico Kitano 400 g",
@@ -6119,6 +6119,409 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-05-22T09:24:36"
+    },
+    "molho knorr shoyu | volume:150ml": {
+      "descricao": "Molho Knorr Shoyu 150 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "molho knorr shoyu 150 ml",
+        "molho knorr shoyu 150ml",
+        "molho knorr shoyu | volume:150ml"
+      ],
+      "descricao_base": "molho knorr shoyu",
+      "medidas": [
+        "volume:150ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "mac inst lamen treloso carne suav | massa:75g": {
+      "descricao": "Mac Inst Lamen Treloso Carne Suav 75 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mac inst lamen treloso carne suav 75 g",
+        "mac inst lamen treloso carne suav 75g",
+        "mac inst lamen treloso carne suav | massa:75g"
+      ],
+      "descricao_base": "mac inst lamen treloso carne suav",
+      "medidas": [
+        "massa:75g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "caldo arisco galinha caipira | massa:114g": {
+      "descricao": "Caldo Arisco Galinha Caipira 114 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "caldo arisco galinha caipira 114 g",
+        "caldo arisco galinha caipira 114g",
+        "caldo arisco galinha caipira | massa:114g"
+      ],
+      "descricao_base": "caldo arisco galinha caipira",
+      "medidas": [
+        "massa:114g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "sopao maggi galinha c/leg | massa:200g": {
+      "descricao": "Sopao Maggi Galinha c/leg 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "sopao maggi galinha c leg 200 g",
+        "sopao maggi galinha c leg 200g",
+        "sopao maggi galinha c/leg | massa:200g"
+      ],
+      "descricao_base": "sopao maggi galinha c/leg",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "sopao maggi galinha caipira | massa:200g": {
+      "descricao": "Sopao Maggi Galinha Caipira 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "sopao maggi galinha caipira 200 g",
+        "sopao maggi galinha caipira 200g",
+        "sopao maggi galinha caipira | massa:200g"
+      ],
+      "descricao_base": "sopao maggi galinha caipira",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "sopao maggi carne de panela | massa:200g": {
+      "descricao": "Sopao Maggi Carne De Panela 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "sopao maggi carne de panela 200 g",
+        "sopao maggi carne de panela 200g",
+        "sopao maggi carne de panela | massa:200g"
+      ],
+      "descricao_base": "sopao maggi carne de panela",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "temp maggi cebola e alho | massa:49g": {
+      "descricao": "Temp Maggi Cebola e Alho 49 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "temp maggi cebola e alho 49 g",
+        "temp maggi cebola e alho 49g",
+        "temp maggi cebola e alho | massa:49g"
+      ],
+      "descricao_base": "temp maggi cebola e alho",
+      "medidas": [
+        "massa:49g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "maionese liza trad caseira sache | massa:400g": {
+      "descricao": "Maionese Liza Trad.Caseira Sache 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "maionese liza trad caseira sache 400 g",
+        "maionese liza trad caseira sache 400g",
+        "maionese liza trad caseira sache | massa:400g"
+      ],
+      "descricao_base": "maionese liza trad caseira sache",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "temp liq caseiro pindorama amac carne | volume:500ml": {
+      "descricao": "Temp Liq Caseiro Pindorama Amac Carne 500 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "temp liq caseiro pindorama amac carne 500 ml",
+        "temp liq caseiro pindorama amac carne 500ml",
+        "temp liq caseiro pindorama amac carne | volume:500ml"
+      ],
+      "descricao_base": "temp liq caseiro pindorama amac carne",
+      "medidas": [
+        "volume:500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "molho liza salada queijo pet | volume:234ml": {
+      "descricao": "Molho Liza Salada Queijo Pet 234 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "molho liza salada queijo pet 234 ml",
+        "molho liza salada queijo pet 234ml",
+        "molho liza salada queijo pet | volume:234ml"
+      ],
+      "descricao_base": "molho liza salada queijo pet",
+      "medidas": [
+        "volume:234ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "molho pomarola parmegiano sh | massa:300g": {
+      "descricao": "Molho Pomarola Parmegiano Sh 300 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "molho pomarola parmegiano sh 300 g",
+        "molho pomarola parmegiano sh 300g",
+        "molho pomarola parmegiano sh | massa:300g"
+      ],
+      "descricao_base": "molho pomarola parmegiano sh",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "mac inst lamen treloso tomate | massa:75g": {
+      "descricao": "Mac Inst Lamen Treloso Tomate 75 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mac inst lamen treloso tomate 75 g",
+        "mac inst lamen treloso tomate 75g",
+        "mac inst lamen treloso tomate | massa:75g"
+      ],
+      "descricao_base": "mac inst lamen treloso tomate",
+      "medidas": [
+        "massa:75g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "maionese hellmanns supreme | massa:330g": {
+      "descricao": "Maionese Hellmanns Supreme 330 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "maionese hellmanns supreme 330 g",
+        "maionese hellmanns supreme 330g",
+        "maionese hellmanns supreme | massa:330g"
+      ],
+      "descricao_base": "maionese hellmanns supreme",
+      "medidas": [
+        "massa:330g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "maionese liza regular | massa:450g": {
+      "descricao": "Maionese Liza Regular 450 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "maionese liza regular 450 g",
+        "maionese liza regular 450g",
+        "maionese liza regular | massa:450g"
+      ],
+      "descricao_base": "maionese liza regular",
+      "medidas": [
+        "massa:450g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "mac petybon penne grano duro int | massa:500g": {
+      "descricao": "Mac Petybon Penne Grano Duro Int 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mac petybon penne grano duro int 500 g",
+        "mac petybon penne grano duro int 500g",
+        "mac petybon penne grano duro int | massa:500g"
+      ],
+      "descricao_base": "mac petybon penne grano duro int",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "maionese hellmanns supreme nba | massa:230g": {
+      "descricao": "Maionese Hellmanns Supreme Nba 230 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "maionese hellmanns supreme nba 230 g",
+        "maionese hellmanns supreme nba 230g",
+        "maionese hellmanns supreme nba | massa:230g"
+      ],
+      "descricao_base": "maionese hellmanns supreme nba",
+      "medidas": [
+        "massa:230g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "maionese hellmanns limao pt | massa:500g": {
+      "descricao": "Maionese Hellmanns Aioli Pt 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "maionese hellmanns aioli pt 500 g",
+        "maionese hellmanns aioli pt | massa:500g",
+        "maionese hellmanns limao pt 500g",
+        "maionese hellmanns limao pt | massa:500g"
+      ],
+      "descricao_base": "maionese hellmanns aioli pt",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "maionese hellmanns pt | massa:500g": {
+      "descricao": "Maionese Hellmanns Aioli Pt 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "maionese hellmanns aioli pt 500 g",
+        "maionese hellmanns aioli pt | massa:500g",
+        "maionese hellmanns pt 500g",
+        "maionese hellmanns pt | massa:500g"
+      ],
+      "descricao_base": "maionese hellmanns aioli pt",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "queijo parmesao ralado galbani | massa:50g": {
+      "descricao": "Queijo Parmesao Ralado Galbani 50 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "queijo parmesao ralado galbani 50 g",
+        "queijo parmesao ralado galbani 50g",
+        "queijo parmesao ralado galbani | massa:50g"
+      ],
+      "descricao_base": "queijo parmesao ralado galbani",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "sal rosa temperado carnes | massa:420g": {
+      "descricao": "Sal Rosa Temperado Carnes 420 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "sal rosa temperado carnes 420 g",
+        "sal rosa temperado carnes 420g",
+        "sal rosa temperado carnes | massa:420g"
+      ],
+      "descricao_base": "sal rosa temperado carnes",
+      "medidas": [
+        "massa:420g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "cominho em po marata | massa:15g": {
+      "descricao": "Cominho Em Pó Marata 15 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cominho em po marata 15 g",
+        "cominho em po marata 15g",
+        "cominho em po marata | massa:15g"
+      ],
+      "descricao_base": "cominho em po marata",
+      "medidas": [
+        "massa:15g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "temp caseiro marata c/amaciante | volume:490ml": {
+      "descricao": "Temp Caseiro Marata c/amaciante 490 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "temp caseiro marata c amaciante 490 ml",
+        "temp caseiro marata c amaciante 490ml",
+        "temp caseiro marata c/amaciante | volume:490ml"
+      ],
+      "descricao_base": "temp caseiro marata c/amaciante",
+      "medidas": [
+        "volume:490ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "caldo knorr bacon | massa:57g": {
+      "descricao": "Caldo Knorr Bacon 57 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "caldo knorr bacon 57 g",
+        "caldo knorr bacon 57g",
+        "caldo knorr bacon | massa:57g"
+      ],
+      "descricao_base": "caldo knorr bacon",
+      "medidas": [
+        "massa:57g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "caldo knorr carne | massa:57g": {
+      "descricao": "Caldo Knorr Carne 57 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "caldo knorr carne 57 g",
+        "caldo knorr carne 57g",
+        "caldo knorr carne | massa:57g"
+      ],
+      "descricao_base": "caldo knorr carne",
+      "medidas": [
+        "massa:57g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
+    },
+    "temp knorr feijao po | massa:50g": {
+      "descricao": "Temp Knorr Carne Pó 50 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "temp knorr carne po 50 g",
+        "temp knorr carne po | massa:50g",
+        "temp knorr feijao po 50g",
+        "temp knorr feijao po | massa:50g"
+      ],
+      "descricao_base": "temp knorr carne po",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-22T10:09:06"
     }
   }
 }
