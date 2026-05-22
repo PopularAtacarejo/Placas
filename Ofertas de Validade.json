@@ -9696,5 +9696,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "14:59:08",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Skin Família Coquinho Doce 800 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/06/2026",
+        "codigo_barras": "7898185760429",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Skin Família Leite 800 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/06/2026",
+        "codigo_barras": "7898185761525",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Hot Cracker Rech Pizza 100 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/06/2026",
+        "codigo_barras": "7896004010588",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Treloso Amant Coco 330 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/06/2026",
+        "codigo_barras": "7896213004897",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
