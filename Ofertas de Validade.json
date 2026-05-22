@@ -8227,5 +8227,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/05/2026",
+    "hora": "09:22:57",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Granola Jasmine s/gluten Cast/Cacau 250 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/06/2026",
+        "codigo_barras": "7896283006234",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Granola Tia Sonia Light 200 g",
+        "preco": "18,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/06/2026",
+        "codigo_barras": "7898115750650",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Farelo De Aveia Jasmine Sc 200 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/06/2026",
+        "codigo_barras": "7896283000072",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Beb Lact Piracanjuba Coco + Whey Zl 1 l",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/06/2026",
+        "codigo_barras": "7898215157892",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
