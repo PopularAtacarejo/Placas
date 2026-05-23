@@ -10268,5 +10268,27 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "23/05/2026",
+    "hora": "10:07:10",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb Lact. Piracanjuba Coco Whey Zl 1 L",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "eb Lact. Piracanjuba Coco Whey Zl 1 L",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/06/2026"
+      }
+    ]
   }
 ]
