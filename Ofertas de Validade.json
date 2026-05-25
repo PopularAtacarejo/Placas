@@ -10290,5 +10290,20 @@
         "validade_oferta": "18/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/05/2026",
+    "hora": "10:03:37",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Salg. Yokitos Queijo Redinha 45 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/05/2026"
+      }
+    ]
   }
 ]
