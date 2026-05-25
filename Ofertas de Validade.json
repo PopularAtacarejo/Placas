@@ -10305,5 +10305,20 @@
         "validade_oferta": "25/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/05/2026",
+    "hora": "14:37:57",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Café Cappuccino Maratá Chocolate Sh 200 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/05/2026"
+      }
+    ]
   }
 ]
