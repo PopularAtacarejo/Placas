@@ -10342,5 +10342,27 @@
         "validade_oferta": "04/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "26/05/2026",
+    "hora": "08:41:50",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc. Nesfit Cacau e Avelã 140 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra De Protein Doctor Doce de Leite 62 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/06/2026"
+      }
+    ]
   }
 ]
