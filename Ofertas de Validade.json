@@ -10320,5 +10320,27 @@
         "validade_oferta": "26/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "26/05/2026",
+    "hora": "07:50:43",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Amant Renata Chocolate 330 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Creme Cebola Ajinomoto 1 kg",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026"
+      }
+    ]
   }
 ]
