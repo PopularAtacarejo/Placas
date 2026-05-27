@@ -4046,5 +4046,13 @@
     "produto": "Batatinha Redinha",
     "preco": "2,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-27",
+    "horario": "15:21:26",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Favorito Branco Grande Bdj 30Unid.",
+    "preco": "14,98",
+    "validade_oferta_ate": "31/05/2026"
   }
 ]
