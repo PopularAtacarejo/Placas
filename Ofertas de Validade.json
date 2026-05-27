@@ -10364,5 +10364,20 @@
         "validade_oferta": "25/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/05/2026",
+    "hora": "10:27:49",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Macarrão Instantâneo Nissin Ufo Yakissoba Legumes 97 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026"
+      }
+    ]
   }
 ]
