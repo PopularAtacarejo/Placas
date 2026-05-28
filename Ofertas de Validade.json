@@ -10421,5 +10421,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/05/2026",
+    "hora": "08:39:46",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc. Neugebauer 1891 Café 90 g",
+        "preco": "18,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/06/2026",
+        "codigo_barras": "7891330018659",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Ruffles Cebola e Salsa - Elma Chips 115 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/06/2026",
+        "codigo_barras": "7892840818159",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Batata Lays Rust Sal Marinho 68 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/06/2026",
+        "codigo_barras": "7892840820633",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
