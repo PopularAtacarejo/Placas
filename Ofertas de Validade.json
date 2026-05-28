@@ -10471,5 +10471,20 @@
         "validade_oferta": "30/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/05/2026",
+    "hora": "16:45:14",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Oreo Original Rech Morango 36 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/06/2026"
+      }
+    ]
   }
 ]
