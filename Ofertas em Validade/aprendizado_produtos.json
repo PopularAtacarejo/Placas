@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-22T15:19:14",
+  "atualizado_em": "2026-05-28T08:36:36",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -8211,6 +8211,119 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-05-22T15:19:14"
+    },
+    "barra choc lacta rech ouro branco | massa:98g": {
+      "descricao": "Barra Choc Lacta Rech Ouro Branco 98 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra choc lacta rech ouro branco 98 g",
+        "barra choc lacta rech ouro branco 98g",
+        "barra choc lacta rech ouro branco | massa:98g"
+      ],
+      "descricao_base": "barra choc lacta rech ouro branco",
+      "medidas": [
+        "massa:98g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-28T08:36:36"
+    },
+    "choc barra rech ouro branco lacta | massa:98g": {
+      "descricao": "Choc Barra Rech Ouro Branco Lacta 98 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc barra rech ouro branco lacta 98 g",
+        "choc barra rech ouro branco lacta 98g",
+        "choc barra rech ouro branco lacta | massa:98g"
+      ],
+      "descricao_base": "choc barra rech ouro branco lacta",
+      "medidas": [
+        "massa:98g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-28T08:36:36"
+    },
+    "salg fandangos queijo | massa:60g": {
+      "descricao": "Salg Fandangos Queijo 60 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salg fandangos queijo 60 g",
+        "salg fandangos queijo 60g",
+        "salg fandangos queijo | massa:60g"
+      ],
+      "descricao_base": "salg fandangos queijo",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-28T08:36:36"
+    },
+    "salg yokitos queijo tubinho | massa:45g": {
+      "descricao": "Salg Yokitos Queijo Tubinho 45 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salg yokitos queijo tubinho 45 g",
+        "salg yokitos queijo tubinho 45g",
+        "salg yokitos queijo tubinho | massa:45g"
+      ],
+      "descricao_base": "salg yokitos queijo tubinho",
+      "medidas": [
+        "massa:45g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-28T08:36:36"
+    },
+    "choc neugebauer 1891 dark | massa:90g": {
+      "descricao": "Choc. Neugebauer 1891 Café 90 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc neugebauer 1891 cafe 90 g",
+        "choc neugebauer 1891 cafe | massa:90g",
+        "choc neugebauer 1891 dark 90g",
+        "choc neugebauer 1891 dark | massa:90g"
+      ],
+      "descricao_base": "choc neugebauer 1891 cafe",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-28T08:36:36"
+    },
+    "ruffles cebola e salsa elma chips | massa:115g": {
+      "descricao": "Ruffles Cebola e Salsa - Elma Chips 115 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "ruffles cebola e salsa 115g elma chips",
+        "ruffles cebola e salsa elma chips 115 g",
+        "ruffles cebola e salsa elma chips | massa:115g"
+      ],
+      "descricao_base": "ruffles cebola e salsa elma chips",
+      "medidas": [
+        "massa:115g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-28T08:36:36"
+    },
+    "batata lays rust sal marinho | massa:68g": {
+      "descricao": "Batata Lays Rust Sal Marinho 68 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "batata lays rust sal marinho 68 g",
+        "batata lays rust sal marinho 68g",
+        "batata lays rust sal marinho | massa:68g"
+      ],
+      "descricao_base": "batata lays rust sal marinho",
+      "medidas": [
+        "massa:68g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-28T08:36:36"
     }
   }
 }
