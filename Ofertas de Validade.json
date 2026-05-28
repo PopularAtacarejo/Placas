@@ -10456,5 +10456,20 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/05/2026",
+    "hora": "08:58:51",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Barra Suplemento Yopro Chocolate Nutrata 55 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026"
+      }
+    ]
   }
 ]
