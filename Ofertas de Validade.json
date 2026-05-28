@@ -10379,5 +10379,47 @@
         "validade_oferta": "30/05/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/05/2026",
+    "hora": "08:38:43",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Barra Choc Lacta Rech Ouro Branco 98 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Barra Rech Ouro Branco Lacta 98 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/06/2026",
+        "codigo_barras": "7622210528216",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salg Fandangos Queijo 60 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/06/2026",
+        "codigo_barras": "7892840823504",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Salg Yokitos Queijo Tubinho 45 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/06/2026",
+        "codigo_barras": "7891095023271",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
