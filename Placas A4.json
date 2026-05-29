@@ -4246,5 +4246,21 @@
     "produto": "Cesta Básica Pequena",
     "preco": "79,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-29",
+    "horario": "15:02:50",
+    "feito_por": "Jeferson",
+    "produto": "Água Mineral Imperial S/Gás ,5L",
+    "preco": "2,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-29",
+    "horario": "15:02:50",
+    "feito_por": "Jeferson",
+    "produto": "Salg. Elma Chips Fandangos 21g/Chettos 21g/Cebolitos 21g",
+    "preco": "1,18",
+    "validade_oferta_ate": ""
   }
 ]
