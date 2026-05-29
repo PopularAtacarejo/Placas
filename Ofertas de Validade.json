@@ -10724,5 +10724,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/05/2026",
+    "hora": "17:54:23",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Capsula Café 3 Corações Porti.Peneir. 8 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026",
+        "codigo_barras": "7896045109647",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cap Café 3 Corações Colombia 8 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/06/2026",
+        "codigo_barras": "7896005807767",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
