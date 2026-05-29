@@ -10548,5 +10548,49 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/05/2026",
+    "hora": "17:47:53",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Creme Sabor Choc Meio Amargo (coragem) 140 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/06/2026",
+        "codigo_barras": "7897500605728",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Creme B.Principio Choc Ao Leite/Branco 140 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/06/2026",
+        "codigo_barras": "7897500605759",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Creme Sabor Choc Ao Leite (amor) 140 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/06/2026",
+        "codigo_barras": "7897500605742",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Pipoca Popcorn Yoki Temperada 100 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/06/2026",
+        "codigo_barras": "7891095006274",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
