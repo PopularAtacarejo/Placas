@@ -10636,5 +10636,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/05/2026",
+    "hora": "17:51:24",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Sopao Maggi Galinha c/leg 200 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026",
+        "codigo_barras": "7891000582008",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mac Petybon Penne Grano Duro Int 500 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/06/2026",
+        "codigo_barras": "7896005277195",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Temp Liq Caseiro Pindorama Amac Carne 500 ml",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026",
+        "codigo_barras": "7896215301413",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Doce De Leite Bom Leite 250 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026",
+        "codigo_barras": "7898118390143",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
