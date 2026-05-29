@@ -10522,5 +10522,31 @@
         "validade_oferta": "31/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/05/2026",
+    "hora": "16:26:12",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Café Ouro Verde Premiun . 250 g",
+        "preco": "12,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Café Ouro Verde Prem. 250 g",
+        "preco": "12,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "3",
+        "descricao": "Café Ouro Verde Premiu 250 g",
+        "preco": "12,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
