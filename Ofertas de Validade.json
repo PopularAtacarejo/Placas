@@ -10486,5 +10486,26 @@
         "validade_oferta": "14/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/05/2026",
+    "hora": "11:03:52",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Requeijão Vigor Cremoso Light 200 g",
+        "preco": "7,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Requeijão Vigor Cremoso Tradicional 200 g",
+        "preco": "3,38",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026"
+      }
+    ]
   }
 ]
