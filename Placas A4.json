@@ -4190,5 +4190,61 @@
     "produto": "Milho Verde",
     "preco": "1,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-29",
+    "horario": "12:03:10",
+    "feito_por": "Jeferson",
+    "produto": "Salg. Elma Chips Presunto 21g",
+    "preco": "1,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-29",
+    "horario": "12:03:10",
+    "feito_por": "Jeferson",
+    "produto": "Água Mineral Cristal S/Gás 500ml",
+    "preco": "1,79",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-29",
+    "horario": "12:03:10",
+    "feito_por": "Jeferson",
+    "produto": "Água Mineral Cristal C/Gás 500ml",
+    "preco": "2,09",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-29",
+    "horario": "12:03:10",
+    "feito_por": "Jeferson",
+    "produto": "Skol MultiPack473ml C/12 Unidades",
+    "preco": "49,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-29",
+    "horario": "12:03:10",
+    "feito_por": "Jeferson",
+    "produto": "Açúcar Cristal Caeté 1Kg",
+    "preco": "3,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-29",
+    "horario": "12:03:10",
+    "feito_por": "Jeferson",
+    "produto": "Óleo De Soja Soya 900ml",
+    "preco": "9,38",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-29",
+    "horario": "12:03:10",
+    "feito_por": "Jeferson",
+    "produto": "Cesta Básica Pequena",
+    "preco": "79,98",
+    "validade_oferta_ate": ""
   }
 ]
