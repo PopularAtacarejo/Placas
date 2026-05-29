@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-28T08:36:36",
+  "atualizado_em": "2026-05-29T17:45:38",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -6172,7 +6172,7 @@
     "sopao maggi galinha c/leg | massa:200g": {
       "descricao": "Sopao Maggi Galinha c/leg 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "sopao maggi galinha c leg 200 g",
         "sopao maggi galinha c leg 200g",
@@ -6183,12 +6183,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:09:06"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "sopao maggi galinha caipira | massa:200g": {
       "descricao": "Sopao Maggi Galinha Caipira 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "sopao maggi galinha caipira 200 g",
         "sopao maggi galinha caipira 200g",
@@ -6199,12 +6199,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:09:06"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "sopao maggi carne de panela | massa:200g": {
       "descricao": "Sopao Maggi Carne De Panela 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "sopao maggi carne de panela 200 g",
         "sopao maggi carne de panela 200g",
@@ -6215,7 +6215,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:09:06"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "temp maggi cebola e alho | massa:49g": {
       "descricao": "Temp Maggi Cebola e Alho 49 g",
@@ -6236,7 +6236,7 @@
     "maionese liza trad caseira sache | massa:400g": {
       "descricao": "Maionese Liza Trad.Caseira Sache 400 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "maionese liza trad caseira sache 400 g",
         "maionese liza trad caseira sache 400g",
@@ -6247,12 +6247,12 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:09:06"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "temp liq caseiro pindorama amac carne | volume:500ml": {
       "descricao": "Temp Liq Caseiro Pindorama Amac Carne 500 ml",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "temp liq caseiro pindorama amac carne 500 ml",
         "temp liq caseiro pindorama amac carne 500ml",
@@ -6263,7 +6263,7 @@
         "volume:500ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:09:06"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "molho liza salada queijo pet | volume:234ml": {
       "descricao": "Molho Liza Salada Queijo Pet 234 ml",
@@ -6348,7 +6348,7 @@
     "mac petybon penne grano duro int | massa:500g": {
       "descricao": "Mac Petybon Penne Grano Duro Int 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "mac petybon penne grano duro int 500 g",
         "mac petybon penne grano duro int 500g",
@@ -6359,7 +6359,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:09:06"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "maionese hellmanns supreme nba | massa:230g": {
       "descricao": "Maionese Hellmanns Supreme Nba 230 g",
@@ -6460,9 +6460,9 @@
       "atualizado_em": "2026-05-22T10:09:06"
     },
     "temp caseiro marata c/amaciante | volume:490ml": {
-      "descricao": "Temp Caseiro Marata c/amaciante 490 ml",
+      "descricao": "Temp Caseiro Maratá c/amaciante 490 ml",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "temp caseiro marata c amaciante 490 ml",
         "temp caseiro marata c amaciante 490ml",
@@ -6473,7 +6473,7 @@
         "volume:490ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:09:06"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "caldo knorr bacon | massa:57g": {
       "descricao": "Caldo Knorr Bacon 57 g",
@@ -6639,7 +6639,7 @@
     "cap cafe 3 coracoes colombia | massa:8g": {
       "descricao": "Cap Café 3 Corações Colombia 8 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "cap cafe 3 coracoes colombia 8 g",
         "cap cafe 3 coracoes colombia 8g",
@@ -6650,12 +6650,12 @@
         "massa:8g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "doce de leite bom leite | massa:250g": {
       "descricao": "Doce De Leite Bom Leite 250 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "doce de leite bom leite 250 g",
         "doce de leite bom leite 250g",
@@ -6666,12 +6666,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "capsula cafe 3 coracoes porti peneir | massa:8g": {
       "descricao": "Capsula Café 3 Corações Porti.Peneir. 8 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "capsula cafe 3 coracoes porti peneir 8 g",
         "capsula cafe 3 coracoes porti peneir 8g",
@@ -6682,12 +6682,12 @@
         "massa:8g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "cap cafe 3 coracoes espresso ameno | massa:8g": {
       "descricao": "Cap Café 3 Corações Espresso Ameno 8 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "cap cafe 3 coracoes espresso ameno 8 g",
         "cap cafe 3 coracoes espresso ameno 8g",
@@ -6698,12 +6698,12 @@
         "massa:8g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "creme sabor choc ao leite amor | massa:140g": {
       "descricao": "Creme Sabor Choc Ao Leite (amor) 140 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "creme sabor choc ao leite amor 140 g",
         "creme sabor choc ao leite amor 140g",
@@ -6714,12 +6714,12 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "creme sabor choc meio amargo coragem | massa:140g": {
       "descricao": "Creme Sabor Choc Meio Amargo (coragem) 140 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "creme sabor choc meio amargo coragem 140 g",
         "creme sabor choc meio amargo coragem 140g",
@@ -6730,12 +6730,12 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "cha leao func recarrega | massa:16g": {
       "descricao": "Chá Leão Func Recarrega 16 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "cha leao func recarrega 16 g",
         "cha leao func recarrega 16g",
@@ -6746,7 +6746,7 @@
         "massa:16g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "leite po piracanjuba integral sct | massa:700g": {
       "descricao": "Leite Pó Piracanjuba Integral Sct 700 g",
@@ -6831,7 +6831,7 @@
     "doce de leite b principio | massa:350g": {
       "descricao": "Doce De Leite B.Principio 350 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "doce de leite b principio 350 g",
         "doce de leite b principio 350g",
@@ -6842,12 +6842,12 @@
         "massa:350g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "creme b principio choc ao leite/branco | massa:140g": {
       "descricao": "Creme B.Principio Choc Ao Leite/Branco 140 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "creme b principio choc ao leite branco 140 g",
         "creme b principio choc ao leite branco 140g",
@@ -6858,7 +6858,7 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "mist p/bolo apti coco | massa:400g": {
       "descricao": "Mist P/Bolo Apti Coco 400 g",
@@ -7193,7 +7193,7 @@
     "pipoca popcorn yoki temperada | massa:100g": {
       "descricao": "Pipoca Popcorn Yoki Temperada 100 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "pipoca popcorn yoki temperada 100 g",
         "pipoca popcorn yoki temperada 100g",
@@ -7204,7 +7204,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:42:32"
+      "atualizado_em": "2026-05-29T17:45:38"
     },
     "farofa de mandioca yoki bacon | massa:200g": {
       "descricao": "Farofa De Mandioca Yoki Bacon 200 g",
@@ -8324,6 +8324,22 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-05-28T08:36:36"
+    },
+    "cafe ouro verde prem | massa:250g": {
+      "descricao": "Café Ouro Verde Prem 250 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cafe ouro verde prem 250 g",
+        "cafe ouro verde prem 250g",
+        "cafe ouro verde prem | massa:250g"
+      ],
+      "descricao_base": "cafe ouro verde prem",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-05-29T17:45:38"
     }
   }
 }
