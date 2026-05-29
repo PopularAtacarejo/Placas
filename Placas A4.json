@@ -4182,5 +4182,13 @@
     "produto": "COSTELA DE PORCO",
     "preco": "18,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-29",
+    "horario": "09:47:05",
+    "feito_por": "Jeferson",
+    "produto": "Milho Verde",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
   }
 ]
