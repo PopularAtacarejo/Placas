@@ -10592,5 +10592,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/05/2026",
+    "hora": "17:49:46",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Maionese Liza Trad.Caseira Sache 400 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/06/2026",
+        "codigo_barras": "7896036000427",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Temp Caseiro Maratá c/amaciante 490 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/06/2026",
+        "codigo_barras": "7898286191290",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sopao Maggi Galinha Caipira 200 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026",
+        "codigo_barras": "7891000049891",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Sopao Maggi Carne De Panela 200 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026",
+        "codigo_barras": "7891000097694",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
