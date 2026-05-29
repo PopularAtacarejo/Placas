@@ -10507,5 +10507,20 @@
         "validade_oferta": "04/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/05/2026",
+    "hora": "15:50:51",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cond. Flora Nenen Cab. Cach 100 ml",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/06/2026"
+      }
+    ]
   }
 ]
