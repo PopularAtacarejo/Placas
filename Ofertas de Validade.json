@@ -11540,5 +11540,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/05/2026",
+    "hora": "10:03:47",
+    "placa": 18,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Queijo Process Chedar Davaca 200 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/06/2026",
+        "codigo_barras": "7897318500055",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Banha Frimesa Pacote 1 kg",
+        "preco": "18,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/06/2026",
+        "codigo_barras": "7896275950316",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
