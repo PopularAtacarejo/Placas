@@ -11408,5 +11408,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/05/2026",
+    "hora": "09:59:06",
+    "placa": 15,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Requeijão Crem Light Davaca 200 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/06/2026",
+        "codigo_barras": "7897318500130",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Marg Claybom c/sal 1 kg",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/06/2026",
+        "codigo_barras": "7891515410315",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Requeijão Vigor Cremoso Trad 200 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/06/2026",
+        "codigo_barras": "7891999144485",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Requeijão Cremoso Catupiry Trad 200 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/06/2026",
+        "codigo_barras": "7896353301184",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
