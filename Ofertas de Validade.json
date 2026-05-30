@@ -10970,5 +10970,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/05/2026",
+    "hora": "09:37:50",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Verde Campo Whey 15 Cookies 250 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7898205924435",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Danone Emb Eco Vit De Frutas 1,250 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/06/2026",
+        "codigo_barras": "7891025121916",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Danone Yopro Protein Açaí/Banana Pouch 160 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/06/2026",
+        "codigo_barras": "7891025121442",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Batavo Pense Zero Morango 1,150 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7891097103643",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
