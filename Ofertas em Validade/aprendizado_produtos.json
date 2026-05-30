@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-30T09:16:59",
+  "atualizado_em": "2026-05-30T09:23:43",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3726,7 +3726,7 @@
     "yobem semi natural prot pote | massa:170g": {
       "descricao": "Yobem Semi Natural Prot.Pote 170 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "yobem semi natural prot pote 170 g",
         "yobem semi natural prot pote 170g",
@@ -3737,7 +3737,7 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danone yopro protein mor pouch | massa:160g": {
       "descricao": "Iog Danone Yopro Protein Mor Pouch 160 g",
@@ -4659,7 +4659,7 @@
     "iog batavo mor/coco bdj | massa:540g": {
       "descricao": "Iog Batavo Mor/Coco Bdj 540 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "iog batavo mor coco bdj 540 g",
         "iog batavo mor coco bdj 540g",
@@ -4670,7 +4670,7 @@
         "massa:540g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog betania yobem triplo zero ameixa | massa:850g": {
       "descricao": "Iog Betania Yobem Triplo Zero Ameixa 850 g",
@@ -8344,7 +8344,7 @@
     "beb lact frutigutti morango light grf | massa:850g": {
       "descricao": "Beb Lact Frutigutti Morango Light Grf 850 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lact frutigutti morango light grf 850 g",
         "beb lact frutigutti morango light grf 850g",
@@ -8355,12 +8355,12 @@
         "massa:850g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danone corpus morango | massa:540g": {
       "descricao": "Iog Danone Corpus Morango 540 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone corpus morango 540 g",
         "iog danone corpus morango 540g",
@@ -8371,12 +8371,12 @@
         "massa:540g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danoninho ban/maca gf | massa:100g": {
       "descricao": "Iog Danoninho Ban/Maçã Gf 100 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danoninho ban maca 100g gf",
         "iog danoninho ban maca gf 100 g",
@@ -8387,12 +8387,12 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danone activia gf ameixa | massa:170g": {
       "descricao": "Iog Danone Activia Gf Ameixa 170 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone activia gf 170g ameixa",
         "iog danone activia gf ameixa 170 g",
@@ -8403,12 +8403,12 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danone yopro natural | massa:160g": {
       "descricao": "Iog Danone Yopro Natural 160 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone yopro natural 160 g",
         "iog danone yopro natural 160g",
@@ -8419,12 +8419,12 @@
         "massa:160g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danone mix frutas bdj | massa:510g": {
       "descricao": "Iog Danone Mix Frutas Bdj 510 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone mix frutas bdj 510 g",
         "iog danone mix frutas bdj 510g",
@@ -8435,12 +8435,12 @@
         "massa:510g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "beb lact engenho gf ameixa | massa:180g": {
       "descricao": "Beb Lact Engenho Gf Ameixa 180 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lact engenho gf 180g ameixa",
         "beb lact engenho gf ameixa 180 g",
@@ -8451,12 +8451,12 @@
         "massa:180g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog nestle morango garrafa | massa:1150g": {
       "descricao": "Iog Nestlé Morango Garrafa 1,15 kg",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog nestle morango garrafa 1 15 kg",
         "iog nestle morango garrafa 1 15kg",
@@ -8467,12 +8467,12 @@
         "massa:1150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "sobremesa verde campo choc | massa:12g | massa:130g": {
       "descricao": "Sobremesa Verde Campo Choc 12 g 130 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "sobremesa verde campo choc 12 g 130 g",
         "sobremesa verde campo choc 12g 130g",
@@ -8484,12 +8484,12 @@
         "massa:130g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danone corp break vita/fruta f tri zero | massa:800g": {
       "descricao": "Iog Danone Corp Break Vita/Fruta F.Tri.Zero 800 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone corp break vita fruta f tri zero 800 g",
         "iog danone corp break vita fruta f tri zero 800g",
@@ -8500,12 +8500,12 @@
         "massa:800g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "beb lact frutigutti acai c/banana bdj | massa:510g": {
       "descricao": "Beb Lact Frutigutti Açaí c/banana Bdj 510 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lact frutigutti acai c banana bdj 510 g",
         "beb lact frutigutti acai c banana bdj 510g",
@@ -8516,12 +8516,12 @@
         "massa:510g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog verde campo whey 21 doce leit | massa:250g": {
       "descricao": "Iog Verde Campo Whey 21 Doce Leit 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog verde campo whey 21 doce leit 250 g",
         "iog verde campo whey 21 doce leit 250g",
@@ -8532,12 +8532,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog verde campo whey 15 morango | massa:250g": {
       "descricao": "Iog Verde Campo Whey 15 Morango 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog verde campo whey 15 morango 250 g",
         "iog verde campo whey 15 morango 250g",
@@ -8548,12 +8548,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "beb lact betania morango | massa:900g": {
       "descricao": "Beb Lact Betania Morango 900 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lact betania morango 900 g",
         "beb lact betania morango 900g",
@@ -8564,12 +8564,12 @@
         "massa:900g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danone gf vit de frutas | massa:170g": {
       "descricao": "Iog Danone Gf Vit De Frutas 170 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone gf 170g vit de frutas",
         "iog danone gf vit de frutas 170 g",
@@ -8580,12 +8580,12 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog betania yobem trip zero pap/linhaca | massa:850g": {
       "descricao": "Iog Betania Yobem Trip Zero Pap/Linhaca 850 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog betania yobem trip zero pap linhaca 850 g",
         "iog betania yobem trip zero pap linhaca 850g",
@@ -8596,12 +8596,12 @@
         "massa:850g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog verde campo whey 15 cookies | massa:250g": {
       "descricao": "Iog Verde Campo Whey 15 Cookies 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog verde campo whey 15 cookies 250 g",
         "iog verde campo whey 15 cookies 250g",
@@ -8612,12 +8612,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danone emb eco vit de frutas | massa:1.25g": {
       "descricao": "Iog Danone Emb Eco Vit De Frutas 1,250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone emb eco vit de frutas 1 250 g",
         "iog danone emb eco vit de frutas 1 250g",
@@ -8628,12 +8628,12 @@
         "massa:1.25g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danone yopro protein acai/banana pouch | massa:160g": {
       "descricao": "Iog Danone Yopro Protein Açaí/Banana Pouch 160 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone yopro protein acai banana pouch 160 g",
         "iog danone yopro protein acai banana pouch 160g",
@@ -8644,12 +8644,12 @@
         "massa:160g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog batavo pense zero morango | massa:1.15g": {
       "descricao": "Iog Batavo Pense Zero Morango 1,150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog batavo pense zero morango 1 150 g",
         "iog batavo pense zero morango 1 150g",
@@ -8660,12 +8660,12 @@
         "massa:1.15g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "beb lact betania bat gut sh ameixa | massa:900g": {
       "descricao": "Beb Lact Betania Bat Gut Sh Ameixa 900 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lact betania bat gut sh ameixa 900 g",
         "beb lact betania bat gut sh ameixa 900g",
@@ -8676,12 +8676,12 @@
         "massa:900g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog mainha light pet natural | massa:900g": {
       "descricao": "Iog Mainha Light Pet Natural 900 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog mainha light pet natural 900 g",
         "iog mainha light pet natural 900g",
@@ -8692,12 +8692,12 @@
         "massa:900g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog nestle batido zero | massa:1150g": {
       "descricao": "Iog Nestlé Batido Zero 1,150 kg",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog nestle batido zero 1 150 kg",
         "iog nestle batido zero 1 150kg",
@@ -8708,12 +8708,12 @@
         "massa:1150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "beb lact engenho gf mamao maca e banana | massa:180g": {
       "descricao": "Beb Lact Engenho Gf Mamão, Maçã e Banana 180 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lact engenho gf 180g mamao maca e banana",
         "beb lact engenho gf mamao maca e banana 180 g",
@@ -8724,12 +8724,12 @@
         "massa:180g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog bom leite integral ameixa | massa:150g": {
       "descricao": "Iog Bom Leite Integral Ameixa 150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog bom leite integral ameixa 150 g",
         "iog bom leite integral ameixa 150g",
@@ -8740,12 +8740,12 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danone kids morango bdj | massa:510g": {
       "descricao": "Iog Danone Kids Morango Bdj 510 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone kids morango bdj 510 g",
         "iog danone kids morango bdj 510g",
@@ -8756,12 +8756,12 @@
         "massa:510g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog activia zero ameixa danone | massa:170g": {
       "descricao": "Iog Activia Zero Ameixa Danone 170 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog activia zero ameixa danone 170 g",
         "iog activia zero ameixa danone 170g",
@@ -8772,12 +8772,12 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danone activia ameixa | massa:150g": {
       "descricao": "Iog Danone Activia Ameixa 150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone activia 150g ameixa",
         "iog danone activia ameixa 150 g",
@@ -8788,12 +8788,12 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog betania familia salada de frutas | massa:1250g": {
       "descricao": "Iog Betania Família Salada De Frutas 1,250 kg",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog betania familia salada de frutas 1 250 kg",
         "iog betania familia salada de frutas 1 250kg",
@@ -8804,12 +8804,12 @@
         "massa:1250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog batavo pense zero mamao | massa:1.15g": {
       "descricao": "Iog Batavo Pense Zero Mamão 1,150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog batavo pense zero mamao 1 150 g",
         "iog batavo pense zero mamao 1 150g",
@@ -8820,12 +8820,12 @@
         "massa:1.15g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "beb lactea bob esponja mor bdj | massa:510g": {
       "descricao": "Beb Láctea Bob Esponja Mor Bdj 510 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lactea bob esponja mor bdj 510 g",
         "beb lactea bob esponja mor bdj 510g",
@@ -8836,12 +8836,12 @@
         "massa:510g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danone activia morango | massa:150g": {
       "descricao": "Iog Danone Activia Morango 150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone activia 150g morango",
         "iog danone activia morango 150 g",
@@ -8852,12 +8852,12 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog desnatado triplo zero morango | massa:850g": {
       "descricao": "Iog.Desnatado Triplo Zero Morango 850 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog desnatado triplo zero morango 850 g",
         "iog desnatado triplo zero morango 850g",
@@ -8868,12 +8868,12 @@
         "massa:850g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "beb lact engenho gf ameixa | massa:900g": {
       "descricao": "Beb Lact Engenho Gf Ameixa 900 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lact engenho gf 900g ameixa",
         "beb lact engenho gf ameixa 900 g",
@@ -8884,12 +8884,12 @@
         "massa:900g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "beb lactea elege mor/amx bdj | massa:510g": {
       "descricao": "Beb Láctea Elege Mor/Amx Bdj 510 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "beb lactea elege mor amx bdj 510 g",
         "beb lactea elege mor amx bdj 510g",
@@ -8900,12 +8900,12 @@
         "massa:510g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog verde campo whey 11 ban/can | massa:140g": {
       "descricao": "Iog Verde Campo Whey 11 Ban/Can 140 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog verde campo whey 11 ban can 140 g",
         "iog verde campo whey 11 ban can 140g",
@@ -8916,12 +8916,12 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog danone morango bdj | massa:510g": {
       "descricao": "Iog Danone Morango Bdj 510 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone morango bdj 510 g",
         "iog danone morango bdj 510g",
@@ -8932,12 +8932,12 @@
         "massa:510g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog liq activia zero morango danone | massa:800g": {
       "descricao": "Iog Liq Activia Zero Morango Danone 800 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog liq activia zero morango danone 800 g",
         "iog liq activia zero morango danone 800g",
@@ -8948,12 +8948,12 @@
         "massa:800g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog liq activia aveia danone | massa:800g": {
       "descricao": "Iog Liq Activia Aveia Danone 800 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog liq activia aveia danone 800 g",
         "iog liq activia aveia danone 800g",
@@ -8964,12 +8964,12 @@
         "massa:800g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog liq activia mor danone | massa:800g": {
       "descricao": "Iog Liq Activia Mor Danone 800 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog liq activia mor danone 800 g",
         "iog liq activia mor danone 800g",
@@ -8980,12 +8980,12 @@
         "massa:800g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog liq activia zero ameixa danone | massa:800g": {
       "descricao": "Iog Liq Activia Zero Ameixa Danone 800 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog liq activia zero ameixa danone 800 g",
         "iog liq activia zero ameixa danone 800g",
@@ -8996,12 +8996,12 @@
         "massa:800g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "iog verde campo whey 21 maracuja | massa:250g": {
       "descricao": "Iog Verde Campo Whey 21 Maracujá 250 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog verde campo whey 21 maracuja 250 g",
         "iog verde campo whey 21 maracuja 250g",
@@ -9012,12 +9012,12 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "gel dental closeup aloe fresh | massa:90g": {
       "descricao": "Gel Dental Closeup Aloe Fresh 90 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "gel dental closeup aloe fresh 90 g",
         "gel dental closeup aloe fresh 90g",
@@ -9028,12 +9028,12 @@
         "massa:90g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "cr dental closeup eucaliptus freeze | massa:90g": {
       "descricao": "Cr Dental Closeup Eucaliptus Freeze 90 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cr dental closeup eucaliptus freeze 90 g",
         "cr dental closeup eucaliptus freeze 90g",
@@ -9044,12 +9044,12 @@
         "massa:90g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "gel dental close up red hot | massa:90g": {
       "descricao": "Gel Dental Close Up Red Hot 90 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "gel dental close up red hot 90 g",
         "gel dental close up red hot 90g",
@@ -9060,12 +9060,12 @@
         "massa:90g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "hamb hot hit x bacon seara | massa:145g": {
       "descricao": "Hamb Hot Hit X-Bacon Seara 145 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "hamb hot hit x bacon seara 145 g",
         "hamb hot hit x bacon seara 145g",
@@ -9076,12 +9076,12 @@
         "massa:145g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "pernil s/osso temperado seara kg": {
       "descricao": "Pernil s/osso Temperado Seara Kg",
       "unidade": "Kg",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "pernil s osso temperado seara kg",
         "pernil s/osso temperado seara kg"
@@ -9089,12 +9089,12 @@
       "descricao_base": "pernil s/osso temperado seara kg",
       "medidas": [],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "folhado banan c/can forno de minas | massa:240g": {
       "descricao": "Folhado Banan c/can Forno De Minas 240 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "folhado banan c can forno de minas 240 g",
         "folhado banan c can forno de minas 240g",
@@ -9105,12 +9105,12 @@
         "massa:240g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "ling toscana frimesa | massa:600g": {
       "descricao": "Ling.Toscana Frimesa 600 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "ling toscana frimesa 600 g",
         "ling toscana frimesa 600g",
@@ -9121,12 +9121,12 @@
         "massa:600g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "ling de costela apim carapreta | massa:300g": {
       "descricao": "Ling De Costela Apim Carapreta 300 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "ling de costela apim carapreta 300 g",
         "ling de costela apim carapreta 300g",
@@ -9137,12 +9137,12 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "yakisoba seara | massa:500g": {
       "descricao": "Yakisoba Seara 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "yakisoba seara 500 g",
         "yakisoba seara 500g",
@@ -9153,12 +9153,12 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "ling bov costela cg maturatta | massa:300g": {
       "descricao": "Ling Bov Costela Cg Maturatta 300 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "ling bov costela cg maturatta 300 g",
         "ling bov costela cg maturatta 300g",
@@ -9169,12 +9169,12 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "bolinho de charque bela coxita | massa:500g": {
       "descricao": "Bolinho De Charque Bela Coxita Pct 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bolinho de charque bela coxita pct 500 g",
         "bolinho de charque bela coxita pct 500g",
@@ -9185,12 +9185,12 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "requeijao crem light davaca | massa:200g": {
       "descricao": "Requeijão Crem Light Davaca 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "requeijao crem light davaca 200 g",
         "requeijao crem light davaca 200g",
@@ -9201,12 +9201,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "marg claybom c/sal | massa:1000g": {
       "descricao": "Marg Claybom c/sal 1 kg",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "marg claybom c sal 1 kg",
         "marg claybom c sal 1kg",
@@ -9217,12 +9217,12 @@
         "massa:1000g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "requeijao vigor cremoso trad | massa:200g": {
       "descricao": "Requeijão Vigor Cremoso Trad 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "requeijao vigor cremoso trad 200 g",
         "requeijao vigor cremoso trad 200g",
@@ -9233,12 +9233,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "requeijao cremoso catupiry trad | massa:200g": {
       "descricao": "Requeijão Cremoso Catupiry Trad 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "requeijao cremoso catupiry trad 200 g",
         "requeijao cremoso catupiry trad 200g",
@@ -9249,12 +9249,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "queijo polenguinho trad | massa:17g": {
       "descricao": "Queijo Polenguinho Trad 17 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "queijo polenguinho trad 17 g",
         "queijo polenguinho trad 17g",
@@ -9265,12 +9265,12 @@
         "massa:17g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "manteiga president s/sal | massa:200g": {
       "descricao": "Manteiga President s/sal 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "manteiga president s sal 200 g",
         "manteiga president s sal 200g",
@@ -9281,12 +9281,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "requeijao tirolez cremoso trd | massa:200g": {
       "descricao": "Requeijão Tirolez Cremoso Trd 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "requeijao tirolez cremoso trd 200 g",
         "requeijao tirolez cremoso trd 200g",
@@ -9297,12 +9297,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "manteiga davaca s/sal | massa:200g": {
       "descricao": "Manteiga Davaca s/sal 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "manteiga davaca s sal 200 g",
         "manteiga davaca s sal 200g",
@@ -9313,12 +9313,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "queijo processado polenguinho zr lac | massa:68g": {
       "descricao": "Queijo Processado Polenguinho Zr Lac 68 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "queijo processado polenguinho zr lac 68 g",
         "queijo processado polenguinho zr lac 68g",
@@ -9329,12 +9329,12 @@
         "massa:68g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "creme de ricota regina | massa:200g": {
       "descricao": "Creme De Ricota Regina 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "creme de ricota regina 200 g",
         "creme de ricota regina 200g",
@@ -9345,12 +9345,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "massa de pastel fam pasticrem | massa:500g": {
       "descricao": "Massa De Pastel Fam. Pasticrem 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "massa de pastel fam pasticrem 500 g",
         "massa de pastel fam pasticrem 500g",
@@ -9361,12 +9361,12 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "requeijao vigor cremoso light | massa:200g": {
       "descricao": "Requeijão Vigor Cremoso Light 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "requeijao vigor cremoso light 200 g",
         "requeijao vigor cremoso light 200g",
@@ -9377,12 +9377,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "queijo process chedar davaca | massa:200g": {
       "descricao": "Queijo Process Chedar Davaca 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "queijo process chedar davaca 200 g",
         "queijo process chedar davaca 200g",
@@ -9393,12 +9393,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     },
     "banha frimesa pacote | massa:1000g": {
       "descricao": "Banha Frimesa Pacote 1 kg",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "banha frimesa pacote 1 kg",
         "banha frimesa pacote 1kg",
@@ -9409,7 +9409,7 @@
         "massa:1000g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:16:59"
+      "atualizado_em": "2026-05-30T09:23:43"
     }
   }
 }
