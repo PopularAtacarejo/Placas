@@ -11014,5 +11014,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/05/2026",
+    "hora": "09:40:41",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb Lact Betania Bat Gut Sh Ameixa 900 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/06/2026",
+        "codigo_barras": "7898403781014",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Mainha Light Pet Natural 900 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/06/2026",
+        "codigo_barras": "7898904736070",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Nestlé Batido Zero 1,150 kg",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/06/2026",
+        "codigo_barras": "7898755200362",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Beb Lact Engenho Gf Mamão, Maçã e Banana 180 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026",
+        "codigo_barras": "0609963685479",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
