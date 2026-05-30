@@ -11234,5 +11234,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/05/2026",
+    "hora": "09:52:40",
+    "placa": 11,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Liq Activia Zero Morango Danone 800 g",
+        "preco": "15,48",
+        "unidade": "Unid.",
+        "validade_oferta": "08/06/2026",
+        "codigo_barras": "7891025124030",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Liq Activia Aveia Danone 800 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/06/2026",
+        "codigo_barras": "7891025123460",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Liq Activia Mor Danone 800 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026",
+        "codigo_barras": "7891025123477",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Liq Activia Zero Ameixa Danone 800 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/06/2026",
+        "codigo_barras": "7891025124023",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
