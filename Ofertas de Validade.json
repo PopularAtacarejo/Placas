@@ -10750,5 +10750,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/05/2026",
+    "hora": "09:18:43",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb Lact Frutigutti Morango Light Grf 850 g",
+        "preco": "9,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/06/2026",
+        "codigo_barras": "7898022210230",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Danone Corpus Morango 540 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/06/2026",
+        "codigo_barras": "7891025120674",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Danoninho Ban/Maçã Gf 100 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/05/2026",
+        "codigo_barras": "7891025107255",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Danone Activia Gf Ameixa 170 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/06/2026",
+        "codigo_barras": "7891025109419",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
