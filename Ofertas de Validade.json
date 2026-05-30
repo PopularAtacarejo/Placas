@@ -11496,5 +11496,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/05/2026",
+    "hora": "10:02:44",
+    "placa": 17,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Queijo Processado Polenguinho Zr Lac 68 g",
+        "preco": "6,48",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026",
+        "codigo_barras": "7891143018921",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Creme De Ricota Regina 200 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026",
+        "codigo_barras": "7896010400311",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Massa De Pastel Fam. Pasticrem 500 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/06/2026",
+        "codigo_barras": "7896109200020",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Requeijão Vigor Cremoso Light 200 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/06/2026",
+        "codigo_barras": "7891999144461",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
