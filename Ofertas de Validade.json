@@ -11364,5 +11364,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/05/2026",
+    "hora": "09:57:31",
+    "placa": 14,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Ling De Costela Apim Carapreta 300 g",
+        "preco": "16,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/06/2026",
+        "codigo_barras": "7908267522842",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Yakisoba Seara 500 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/06/2026",
+        "codigo_barras": "7894904575862",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Ling Bov Costela Cg Maturatta 300 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/06/2026",
+        "codigo_barras": "7896031223845",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bolinho De Charque Bela Coxita Pct 500 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/06/2026",
+        "codigo_barras": "0618231688210",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
