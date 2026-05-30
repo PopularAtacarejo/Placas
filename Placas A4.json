@@ -4302,5 +4302,21 @@
     "produto": "Mamão Papaya",
     "preco": "3,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-30",
+    "horario": "08:51:37",
+    "feito_por": "Jeferson",
+    "produto": "Tomate",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-30",
+    "horario": "08:51:37",
+    "feito_por": "Jeferson",
+    "produto": "Cenoura",
+    "preco": "11,98",
+    "validade_oferta_ate": ""
   }
 ]
