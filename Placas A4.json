@@ -4286,5 +4286,21 @@
     "produto": "Água Mineral Village S/Gás 500ml",
     "preco": "0,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-30",
+    "horario": "08:47:58",
+    "feito_por": "Jeferson",
+    "produto": "Batata Doce Roxa",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-30",
+    "horario": "08:47:58",
+    "feito_por": "Jeferson",
+    "produto": "Mamão Papaya",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
   }
 ]
