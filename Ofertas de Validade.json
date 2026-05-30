@@ -11190,5 +11190,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/05/2026",
+    "hora": "09:50:38",
+    "placa": 10,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb Lact Engenho Gf Ameixa 900 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/06/2026",
+        "codigo_barras": "0609963685462",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Láctea Elege Mor/Amx Bdj 510 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7891097101748",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Verde Campo Whey 11 Ban/Can 140 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/05/2026",
+        "codigo_barras": "7898205925562",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Danone Morango Bdj 510 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/06/2026",
+        "codigo_barras": "7891025121626",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
