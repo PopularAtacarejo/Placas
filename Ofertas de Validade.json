@@ -11452,5 +11452,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/05/2026",
+    "hora": "10:00:45",
+    "placa": 16,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Queijo Polenguinho Trad 17 g",
+        "preco": "1,28",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7891143017887",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Manteiga President s/sal 200 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/06/2026",
+        "codigo_barras": "7891097001345",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Requeijão Tirolez Cremoso Trd 200 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/06/2026",
+        "codigo_barras": "7896030518027",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Manteiga Davaca s/sal 200 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/06/2026",
+        "codigo_barras": "7897318573288",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
