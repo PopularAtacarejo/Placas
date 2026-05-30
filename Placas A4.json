@@ -4270,5 +4270,21 @@
     "produto": "Mix Legumes",
     "preco": "19,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-30",
+    "horario": "08:29:46",
+    "feito_por": "Jeferson",
+    "produto": "Refrigerante Cajuína São Geraldo 2 Litros",
+    "preco": "9,68",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-05-30",
+    "horario": "08:29:46",
+    "feito_por": "Jeferson",
+    "produto": "Água Mineral Village S/Gás 500ml",
+    "preco": "0,98",
+    "validade_oferta_ate": ""
   }
 ]
