@@ -11322,5 +11322,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/05/2026",
+    "hora": "09:55:52",
+    "placa": 13,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Hamb Hot Hit X-Bacon Seara 145 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/06/2026",
+        "codigo_barras": "7894904678341",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pernil s/osso Temperado Seara Kg",
+        "preco": "14,98",
+        "unidade": "Kg",
+        "validade_oferta": "02/06/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Folhado Banan c/can Forno De Minas 240 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/06/2026",
+        "codigo_barras": "7896074600672",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Ling.Toscana Frimesa 600 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/06/2026",
+        "codigo_barras": "7896275982041",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
