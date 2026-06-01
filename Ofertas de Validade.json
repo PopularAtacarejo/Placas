@@ -11581,5 +11581,22 @@
         "validade_oferta": "02/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "01/06/2026",
+    "hora": "10:55:53",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Cream Crack Renata 360 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/08/2026",
+        "codigo_barras": "7896022205164",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
