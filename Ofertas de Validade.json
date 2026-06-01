@@ -11642,5 +11642,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "01/06/2026",
+    "hora": "16:09:16",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cereal Matinal Snow Flakes Frutas 240 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/06/2026",
+        "codigo_barras": "7891000427910",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Café Lor Capsulas Exp. Baunilha c/10 Unid.",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/06/2026",
+        "codigo_barras": "8711000488218",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
