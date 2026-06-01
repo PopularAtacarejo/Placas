@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-05-30T09:23:43",
+  "atualizado_em": "2026-06-01T15:14:13",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -9410,6 +9410,66 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-05-30T09:23:43"
+    },
+    "pao frutas nutrella graos e castanhas 350": {
+      "descricao": "Pão Frutas Nutrella Grãos e Castanhas 350",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "pao frutas nutrella graos e castanhas 350"
+      ],
+      "descricao_base": "pao frutas nutrella graos e castanhas 350",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-01T15:14:13"
+    },
+    "bisnaguinha leite skin | massa:300g": {
+      "descricao": "Bisnaguinha Leite Skin 300 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisnaguinha leite skin 300 g",
+        "bisnaguinha leite skin 300g",
+        "bisnaguinha leite skin | massa:300g"
+      ],
+      "descricao_base": "bisnaguinha leite skin",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-01T15:14:13"
+    },
+    "pao nutrella 100 integral | massa:350g": {
+      "descricao": "Pão Nutrella 100% Integral 350 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "pao nutrella 100 integral 350 g",
+        "pao nutrella 100 integral 350g",
+        "pao nutrella 100 integral | massa:350g"
+      ],
+      "descricao_base": "pao nutrella 100 integral",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-01T15:14:13"
+    },
+    "pao forma plusvita australiano | massa:500g": {
+      "descricao": "Pão Forma Plusvita Australiano 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "pao forma plusvita australiano 500 g",
+        "pao forma plusvita australiano 500g",
+        "pao forma plusvita australiano | massa:500g"
+      ],
+      "descricao_base": "pao forma plusvita australiano",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-01T15:14:13"
     }
   }
 }
