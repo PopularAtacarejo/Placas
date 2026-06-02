@@ -11694,5 +11694,34 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "02/06/2026",
+    "hora": "16:42:41",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Creme Sabor Choc Ao Leite (amor) 140 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Hot Cracker Rech Integ Peito Peru 100 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Skin Família Água e Sal 800 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/06/2026"
+      }
+    ]
   }
 ]
