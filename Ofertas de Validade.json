@@ -11668,5 +11668,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "02/06/2026",
+    "hora": "16:14:49",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Biscoito Maizena Virtarella Ao Leite 350 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7896213006426",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc. Maizena Virtarella Ao Leite 350 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7896213006426",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
