@@ -11723,5 +11723,49 @@
         "validade_oferta": "02/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "03/06/2026",
+    "hora": "11:29:53",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pão Forma Plusvita Australiano 500 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/06/2026",
+        "codigo_barras": "7896002311342",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pão Nutrella 100% Integral 350 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/06/2026",
+        "codigo_barras": "7896002311250",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pão Frutas Nutrella Grãos e Castanhas 350 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/06/2026",
+        "codigo_barras": "7896002311243",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisnaguinha Bauducco 260 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7891962063874",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
