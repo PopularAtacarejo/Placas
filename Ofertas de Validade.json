@@ -11767,5 +11767,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "03/06/2026",
+    "hora": "15:11:18",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bebida Piracanjuba Whey Coco 15 g 1 L",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/06/2026",
+        "codigo_barras": "7898215157892",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb. Piracanjuba Whey Coco 15 g 1 L",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/06/2026",
+        "codigo_barras": "7898215157892",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
