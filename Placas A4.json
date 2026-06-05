@@ -4814,5 +4814,37 @@
     "produto": "Amaciante Sonho Azul Prof. Lv 2L Pg. 1,8L",
     "preco": "12,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-05",
+    "horario": "08:02:13",
+    "feito_por": "Jeferson",
+    "produto": "Macarrão Espaguete Comum 8 Galo 400g",
+    "preco": "2,38",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-05",
+    "horario": "08:02:13",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Amstel Lt 473ml",
+    "preco": "4,58",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-05",
+    "horario": "08:02:13",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Antarctica Original Lata 473ml",
+    "preco": "5,19",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-05",
+    "horario": "08:02:13",
+    "feito_por": "Jeferson",
+    "produto": "Maionese Hellmanns Sachê 200g",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
   }
 ]
