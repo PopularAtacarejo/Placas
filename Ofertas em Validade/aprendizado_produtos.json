@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-06-01T15:14:13",
+  "atualizado_em": "2026-06-05T14:45:58",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -9254,7 +9254,7 @@
     "queijo polenguinho trad | massa:17g": {
       "descricao": "Queijo Polenguinho Trad 17 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "queijo polenguinho trad 17 g",
         "queijo polenguinho trad 17g",
@@ -9265,12 +9265,12 @@
         "massa:17g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-05T14:45:58"
     },
     "manteiga president s/sal | massa:200g": {
       "descricao": "Manteiga President s/sal 200 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "manteiga president s sal 200 g",
         "manteiga president s sal 200g",
@@ -9281,12 +9281,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-05T14:45:58"
     },
     "requeijao tirolez cremoso trd | massa:200g": {
       "descricao": "Requeijão Tirolez Cremoso Trd 200 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "requeijao tirolez cremoso trd 200 g",
         "requeijao tirolez cremoso trd 200g",
@@ -9297,7 +9297,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-05T14:45:58"
     },
     "manteiga davaca s/sal | massa:200g": {
       "descricao": "Manteiga Davaca s/sal 200 g",
@@ -9350,7 +9350,7 @@
     "massa de pastel fam pasticrem | massa:500g": {
       "descricao": "Massa De Pastel Fam. Pasticrem 500 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "massa de pastel fam pasticrem 500 g",
         "massa de pastel fam pasticrem 500g",
@@ -9361,7 +9361,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-05T14:45:58"
     },
     "requeijao vigor cremoso light | massa:200g": {
       "descricao": "Requeijão Vigor Cremoso Light 200 g",
@@ -9382,7 +9382,7 @@
     "queijo process chedar davaca | massa:200g": {
       "descricao": "Queijo Process Chedar Davaca 200 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "queijo process chedar davaca 200 g",
         "queijo process chedar davaca 200g",
@@ -9393,12 +9393,12 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-05T14:45:58"
     },
     "banha frimesa pacote | massa:1000g": {
       "descricao": "Banha Frimesa Pacote 1 kg",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "banha frimesa pacote 1 kg",
         "banha frimesa pacote 1kg",
@@ -9409,7 +9409,7 @@
         "massa:1000g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-05T14:45:58"
     },
     "pao frutas nutrella graos e castanhas 350": {
       "descricao": "Pão Frutas Nutrella Grãos e Castanhas 350",
@@ -9470,6 +9470,98 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-06-01T15:14:13"
+    },
+    "salame italiano dalia | massa:100g": {
+      "descricao": "Salame Italiano Dalia 100 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salame italiano dalia 100 g",
+        "salame italiano dalia 100g",
+        "salame italiano dalia | massa:100g"
+      ],
+      "descricao_base": "salame italiano dalia",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-05T14:45:58"
+    },
+    "salsicha perdigao frango | massa:500g": {
+      "descricao": "Salsicha Perdigao Frango 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salsicha perdigao frango 500 g",
+        "salsicha perdigao frango 500g",
+        "salsicha perdigao frango | massa:500g"
+      ],
+      "descricao_base": "salsicha perdigao frango",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-05T14:45:58"
+    },
+    "massa de pastel luiza aniversario | massa:500g": {
+      "descricao": "Massa De Pastel Luiza Aniversario 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "massa de pastel luiza aniversario 500 g",
+        "massa de pastel luiza aniversario 500g",
+        "massa de pastel luiza aniversario | massa:500g"
+      ],
+      "descricao_base": "massa de pastel luiza aniversario",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-05T14:45:58"
+    },
+    "marg claybom c/sal | massa:500g": {
+      "descricao": "Marg Claybom c/sal 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "marg claybom c sal 500 g",
+        "marg claybom c sal 500g",
+        "marg claybom c/sal | massa:500g"
+      ],
+      "descricao_base": "marg claybom c/sal",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-05T14:45:58"
+    },
+    "linguica tipo calabresa defumada sadia": {
+      "descricao": "Linguiça Tipo Calabresa Defumada Sadia",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "linguica tipo calabresa defumada sadia"
+      ],
+      "descricao_base": "linguica tipo calabresa defumada sadia",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-05T14:45:58"
+    },
+    "creme de ricota polenghi light | massa:150g": {
+      "descricao": "Creme De Ricota Polenghi Light 150 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "creme de ricota polenghi light 150 g",
+        "creme de ricota polenghi light 150g",
+        "creme de ricota polenghi light | massa:150g"
+      ],
+      "descricao_base": "creme de ricota polenghi light",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-05T14:45:58"
     }
   }
 }
