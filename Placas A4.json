@@ -5126,5 +5126,61 @@
     "produto": "MELÃO ESPANHOL KG",
     "preco": "2,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-05",
+    "horario": "11:14:28",
+    "feito_por": "Jeferson",
+    "produto": "LAGARTO",
+    "preco": "32,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-05",
+    "horario": "11:14:28",
+    "feito_por": "Jeferson",
+    "produto": "FRALDINHA",
+    "preco": "34,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-05",
+    "horario": "11:14:28",
+    "feito_por": "Jeferson",
+    "produto": "CARNE MOÍDA DE SEGUNDA",
+    "preco": "19,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-05",
+    "horario": "11:14:28",
+    "feito_por": "Jeferson",
+    "produto": "CHAREU C/OSSO",
+    "preco": "22,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-05",
+    "horario": "11:14:28",
+    "feito_por": "Jeferson",
+    "produto": "ALCATRA",
+    "preco": "40,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-05",
+    "horario": "11:14:28",
+    "feito_por": "Jeferson",
+    "produto": "PERNIL SUÍNO",
+    "preco": "18,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-05",
+    "horario": "11:14:28",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA SUÍNA",
+    "preco": "18,98",
+    "validade_oferta_ate": ""
   }
 ]
