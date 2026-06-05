@@ -11837,5 +11837,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "05/06/2026",
+    "hora": "14:50:15",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Requeijão Tirolez Cremoso Trd 200 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/06/2026",
+        "codigo_barras": "7896030518027",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Massa De Pastel Luiza Aniversario 500 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/06/2026",
+        "codigo_barras": "7898970918059",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Marg Claybom c/sal 500 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026",
+        "codigo_barras": "7891515901059",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Queijo Processado Polenguinho Zr Lac 68",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026",
+        "codigo_barras": "7891143018921",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
