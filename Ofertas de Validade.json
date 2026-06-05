@@ -11881,5 +11881,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "05/06/2026",
+    "hora": "14:52:29",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Massa De Pastel Fam. Pasticrem 500 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/06/2026",
+        "codigo_barras": "7896109200020",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Linguiça Tipo Calabresa Defumada Sadia",
+        "preco": "33,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/06/2026",
+        "codigo_barras": "7891515518424",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Banha Frimesa Pacote 1 kg",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/06/2026",
+        "codigo_barras": "7896275950316",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Creme De Ricota Polenghi Light 150 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/06/2026",
+        "codigo_barras": "7891143017009",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
