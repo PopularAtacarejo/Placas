@@ -11793,5 +11793,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "05/06/2026",
+    "hora": "14:48:05",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Salame Italiano Dalia 100 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/06/2026",
+        "codigo_barras": "7898681794669",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Queijo Polenguinho Trad 17 g",
+        "preco": "0,48",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7891143017887",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salsicha Perdigao Frango 500 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026",
+        "codigo_barras": "7891515742089",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Manteiga President s/sal 200 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/06/2026",
+        "codigo_barras": "7891097001345",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
