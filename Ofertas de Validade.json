@@ -11925,5 +11925,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "05/06/2026",
+    "hora": "14:53:36",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Queijo Process Chedar Davaca 200 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7897318500055",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
