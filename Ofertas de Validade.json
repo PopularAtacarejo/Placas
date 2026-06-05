@@ -11942,5 +11942,27 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "05/06/2026",
+    "hora": "14:57:29",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Amendoim Crocante Lev. Salgado Yoki 120 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Lact Betania Bat Gut Sh Ameixa 900 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/06/2026"
+      }
+    ]
   }
 ]
