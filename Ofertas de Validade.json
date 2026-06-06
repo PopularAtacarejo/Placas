@@ -12008,5 +12008,40 @@
         "validade_oferta": "09/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/06/2026",
+    "hora": "09:56:01",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Requeijão tirolez cremoso trad 200 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Refresc. Frutybom Frut.Citri. e uva 330 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Batavo Pense Zero diversos sabores 1,150 g",
+        "preco": "15,48",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "4",
+        "descricao": "Ling Bov Costela Cg Maturatta 300 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/06/2026"
+      }
+    ]
   }
 ]
