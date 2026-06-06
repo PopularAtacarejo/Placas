@@ -5302,5 +5302,21 @@
     "produto": "Sorv Fika Frio 2l Div. Sabores",
     "preco": "26,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-06",
+    "horario": "09:05:14",
+    "feito_por": "Jeferson",
+    "produto": "Ling Calab Grossa Cogran",
+    "preco": "24,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-06",
+    "horario": "09:05:14",
+    "feito_por": "Jeferson",
+    "produto": "Macaxeira",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
   }
 ]
