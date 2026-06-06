@@ -5326,5 +5326,21 @@
     "produto": "Cerv Skol 473ml C/12 Multipack",
     "preco": "44,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-06",
+    "horario": "09:59:21",
+    "feito_por": "Jeferson",
+    "produto": "Pernil De Carneiro",
+    "preco": "40,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-06",
+    "horario": "09:59:21",
+    "feito_por": "Jeferson",
+    "produto": "Costel De Carneiro",
+    "preco": "39,98",
+    "validade_oferta_ate": ""
   }
 ]
