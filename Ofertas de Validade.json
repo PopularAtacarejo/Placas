@@ -11964,5 +11964,27 @@
         "validade_oferta": "05/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/06/2026",
+    "hora": "07:22:33",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Toboga Vitamassa Amanteigado Div. Sabores 100 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Toboga Vitamassa Amanteigado Diversos 100 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/06/2026"
+      }
+    ]
   }
 ]
