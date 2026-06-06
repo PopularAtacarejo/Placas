@@ -11986,5 +11986,27 @@
         "validade_oferta": "07/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/06/2026",
+    "hora": "09:43:44",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Requeijão Tirolez Cremoso Trad. 200 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Requeijão Tirolez Cremoso Tradicional 200 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/06/2026"
+      }
+    ]
   }
 ]
