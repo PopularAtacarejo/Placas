@@ -12104,5 +12104,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/06/2026",
+    "hora": "17:52:22",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Creme De Leite Gloria 200 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/06/2026",
+        "codigo_barras": "7896183210120",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cr De Leite Gloria 200 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/06/2026",
+        "codigo_barras": "7896183210120",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
