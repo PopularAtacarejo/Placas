@@ -12060,5 +12060,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/06/2026",
+    "hora": "16:24:18",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Danone Morango Bdj 510 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/06/2026",
+        "codigo_barras": "7891025121626",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cerv Brahma Chopp Zero Ln 355 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/06/2026",
+        "codigo_barras": "7891149104956",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Licor Don Leche Doce De Leite Gf 500 ml",
+        "preco": "49,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/06/2026",
+        "codigo_barras": "7898738660237",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Pasta Amemd Dr Peanut Bombom Italiano 250 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "0619205816431",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
