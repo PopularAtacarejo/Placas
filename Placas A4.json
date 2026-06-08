@@ -5390,5 +5390,21 @@
     "produto": "Creme De Leite Gloria 200g",
     "preco": "1,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-08",
+    "horario": "17:00:41",
+    "feito_por": "Jeferson",
+    "produto": "Refrigerante Coca Cola S/Açúcar 2,5L Pet",
+    "preco": "11,79",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-08",
+    "horario": "17:00:41",
+    "feito_por": "Jeferson",
+    "produto": "Refrigerante Coca Cola S/Açúcar 2L Pet",
+    "preco": "10,79",
+    "validade_oferta_ate": ""
   }
 ]
