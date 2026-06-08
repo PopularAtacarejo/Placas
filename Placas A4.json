@@ -5366,5 +5366,21 @@
     "produto": "Margarina Deline Cremosa 3Kg",
     "preco": "32,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-08",
+    "horario": "11:40:18",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Praya Lager Sem Glutem 330ml",
+    "preco": "6,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-08",
+    "horario": "11:40:18",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Amstel Lt 473ml",
+    "preco": "4,88",
+    "validade_oferta_ate": ""
   }
 ]
