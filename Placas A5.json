@@ -7086,5 +7086,37 @@
     "produto": "Creme De Leite Gloria 200g",
     "preco": "0,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-09",
+    "horario": "08:46:27",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Kiarroz Parboilizado 1kg",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-09",
+    "horario": "08:46:27",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Itaipava LT 473ml",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-09",
+    "horario": "08:46:27",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Gringo Branco \"Tipo 2\" 1kg",
+    "preco": "5,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-09",
+    "horario": "08:46:27",
+    "feito_por": "Jeferson",
+    "produto": "Macarrão Galo Comum Espaguete 8 400g",
+    "preco": "2,38",
+    "validade_oferta_ate": ""
   }
 ]
