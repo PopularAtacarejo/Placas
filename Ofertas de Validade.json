@@ -12304,5 +12304,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "10/06/2026",
+    "hora": "10:01:12",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Chambinho Desnatado Morango 850 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/06/2026",
+        "codigo_barras": "7898755200393",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
