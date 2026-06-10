@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-06-05T14:45:58",
+  "atualizado_em": "2026-06-10T09:53:03",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3678,7 +3678,7 @@
     "iog chambinho desnatado morango | massa:850g": {
       "descricao": "Iog Chambinho Desnatado Morango 850 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "iog chambinho desnatado morango 850 g",
         "iog chambinho desnatado morango 850g",
@@ -3689,12 +3689,12 @@
         "massa:850g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:59:44"
+      "atualizado_em": "2026-06-10T09:53:03"
     },
     "iog polilac geleleia de abacaxi | massa:1100g": {
       "descricao": "Iog Polilac Geleleia De Abacaxi 1,1 kg",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "iog polilac geleleia de abacaxi 1 1 kg",
         "iog polilac geleleia de abacaxi 1 1kg",
@@ -3705,7 +3705,7 @@
         "massa:1100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:59:44"
+      "atualizado_em": "2026-06-10T09:53:03"
     },
     "iog batavo morango | massa:1.15g": {
       "descricao": "Iog Batavo Morango 1,150 g",
@@ -4561,12 +4561,13 @@
       "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog beb lact itambe bdj morango | massa:540g": {
-      "descricao": "Iog Beb.Lact Itambe Bdj 540 g Morango",
+      "descricao": "Iog Beb.Lact Itambe Bdj Morango 540 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "iog beb lact itambe bdj 540 g morango",
         "iog beb lact itambe bdj 540g morango",
+        "iog beb lact itambe bdj morango 540 g",
         "iog beb lact itambe bdj morango | massa:540g"
       ],
       "descricao_base": "iog beb lact itambe bdj morango",
@@ -4574,7 +4575,7 @@
         "massa:540g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T10:29:07"
+      "atualizado_em": "2026-06-10T09:53:03"
     },
     "iog verde campo whey 21 acai | massa:250g": {
       "descricao": "Iog Verde Campo Whey 21 Açaí 250 g",
@@ -4593,12 +4594,13 @@
       "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog beb lact itambe bdj mor/coco | massa:540g": {
-      "descricao": "Iog Beb.Lact Itambe Bdj 540 g Mor/Coco",
+      "descricao": "Iog Beb.Lact Itambe Bdj Mor/Coco 540 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "iog beb lact itambe bdj 540 g mor coco",
         "iog beb lact itambe bdj 540g mor coco",
+        "iog beb lact itambe bdj mor coco 540 g",
         "iog beb lact itambe bdj mor/coco | massa:540g"
       ],
       "descricao_base": "iog beb lact itambe bdj mor/coco",
@@ -4606,7 +4608,7 @@
         "massa:540g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T10:29:07"
+      "atualizado_em": "2026-06-10T09:53:03"
     },
     "beb lact betania bat gut sh morango | massa:900g": {
       "descricao": "Beb Lact Betania Bat Gut Sh Morango 900 g",
@@ -4931,7 +4933,7 @@
     "beb lact frutigutti ameixa sh | massa:900g": {
       "descricao": "Beb Lact Frutigutti Ameixa Sh 900 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "beb lact frutigutti ameixa sh 900 g",
         "beb lact frutigutti ameixa sh 900g",
@@ -4942,7 +4944,7 @@
         "massa:900g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T10:29:07"
+      "atualizado_em": "2026-06-10T09:53:03"
     },
     "iog bom leite petit suisse morango | massa:270g": {
       "descricao": "Iog Bom Leite Petit Suisse Morango 270 g",
@@ -5450,9 +5452,9 @@
       "atualizado_em": "2026-05-21T07:45:39"
     },
     "trufa cia do cacau maracuja | massa:23g": {
-      "descricao": "Trufa Cia Do Cacau Maracuja 23 g",
+      "descricao": "Trufa Cia Do Cacau Maracujá 23 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "trufa cia do cacau maracuja 23 g",
         "trufa cia do cacau maracuja 23g",
@@ -5463,7 +5465,7 @@
         "massa:23g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-21T07:45:39"
+      "atualizado_em": "2026-06-10T09:53:03"
     },
     "wafer recheado sonho de valsa | massa:25g": {
       "descricao": "Wafer Recheado Sonho De Valsa 25 g",
@@ -5788,7 +5790,7 @@
     "bisc renata integrale banana/aveia/mel | massa:150g": {
       "descricao": "Bisc Renata Integrale Banana/Aveia/Mel 150 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc renata integrale banana aveia mel 150 g",
         "bisc renata integrale banana aveia mel 150g",
@@ -5799,12 +5801,12 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:24:36"
+      "atualizado_em": "2026-06-10T09:53:03"
     },
     "bisc nesfit laranja e cenoura | massa:160g": {
       "descricao": "Bisc Nesfit Laranja e Cenoura 160 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc nesfit laranja e cenoura 160 g",
         "bisc nesfit laranja e cenoura 160g",
@@ -5815,7 +5817,7 @@
         "massa:160g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:24:36"
+      "atualizado_em": "2026-06-10T09:53:03"
     },
     "bisc marilan cookies cacau/cereais | massa:80g": {
       "descricao": "Bisc Marilan Cookies Cacau/Cereais 80 g",
@@ -5916,7 +5918,7 @@
     "granola tia sonia light | massa:200g": {
       "descricao": "Granola Tia Sonia Light 200 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "granola tia sonia light 200 g",
         "granola tia sonia light 200g",
@@ -5927,7 +5929,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:24:36"
+      "atualizado_em": "2026-06-10T09:53:03"
     },
     "farelo de aveia jasmine sc | massa:200g": {
       "descricao": "Farelo De Aveia Jasmine Sc 200 g",
@@ -6028,7 +6030,7 @@
     "torrada bauducco multigraos | massa:142g": {
       "descricao": "Torrada Bauducco Multigraos 142 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "torrada bauducco multigraos 142 g",
         "torrada bauducco multigraos 142g",
@@ -6039,12 +6041,12 @@
         "massa:142g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:24:36"
+      "atualizado_em": "2026-06-10T09:53:03"
     },
     "bisc nesfit banana/aveia/canela | massa:160g": {
       "descricao": "Bisc Nesfit Banana/Aveia/Canela 160 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc nesfit banana aveia canela 160 g",
         "bisc nesfit banana aveia canela 160g",
@@ -6055,7 +6057,7 @@
         "massa:160g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:24:36"
+      "atualizado_em": "2026-06-10T09:53:03"
     },
     "bisc marilan int lev gran e mel | massa:150g": {
       "descricao": "Bisc Marilan Int Lev Gran e Mel 150 g",
@@ -9562,6 +9564,38 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-06-05T14:45:58"
+    },
+    "beb lact frutigutti frutas c/cereais bdj | massa:510g": {
+      "descricao": "Beb Lact Frutigutti Frutas c/cereais Bdj 510 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "beb lact frutigutti frutas c cereais bdj 510 g",
+        "beb lact frutigutti frutas c cereais bdj 510g",
+        "beb lact frutigutti frutas c/cereais bdj | massa:510g"
+      ],
+      "descricao_base": "beb lact frutigutti frutas c/cereais bdj",
+      "medidas": [
+        "massa:510g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-10T09:53:03"
+    },
+    "beb lact frutigutti ameixa grf | massa:850g": {
+      "descricao": "Beb Lact Frutigutti Ameixa Grf 850 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "beb lact frutigutti ameixa grf 850 g",
+        "beb lact frutigutti ameixa grf 850g",
+        "beb lact frutigutti ameixa grf | massa:850g"
+      ],
+      "descricao_base": "beb lact frutigutti ameixa grf",
+      "medidas": [
+        "massa:850g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-10T09:53:03"
     }
   }
 }
