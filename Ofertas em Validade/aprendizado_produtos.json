@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-06-10T09:53:03",
+  "atualizado_em": "2026-06-10T16:52:41",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -2170,7 +2170,7 @@
     "bisc rosq vitamassa coco | massa:280g": {
       "descricao": "Bisc Rosq Vitamassa Coco 280 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc rosq vitamassa coco 280 g",
         "bisc rosq vitamassa coco 280g",
@@ -2181,7 +2181,7 @@
         "massa:280g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T15:33:29"
+      "atualizado_em": "2026-06-10T16:52:41"
     },
     "bisc skin coquinho doce | massa:400g": {
       "descricao": "Bisc Skin Coquinho Doce 400 g",
@@ -2219,7 +2219,7 @@
     "bisc rosq vitamassa chocolate | massa:280g": {
       "descricao": "Bisc Rosq Vitamassa Chocolate 280 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc rosq vitamassa chocolate 280 g",
         "bisc rosq vitamassa chocolate 280g",
@@ -2230,12 +2230,12 @@
         "massa:280g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-06-10T16:52:41"
     },
     "biscoito arcor triunfo tortini trufa | massa:90g": {
       "descricao": "Biscoito Arcor Triunfo Tortini Trufa 90 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "biscoito arcor triunfo tortini trufa 90 g",
         "biscoito arcor triunfo tortini trufa 90g",
@@ -2246,7 +2246,7 @@
         "massa:90g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T14:46:18"
+      "atualizado_em": "2026-06-10T16:52:41"
     },
     "bisc wafer premium napolitano | massa:80g": {
       "descricao": "Bisc Wafer Premium Napolitano 80 g",
@@ -9596,6 +9596,86 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-06-10T09:53:03"
+    },
+    "refri fanta laranja pet | volume:2000ml": {
+      "descricao": "Refri Fanta Laranja Pet 2 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refri fanta laranja pet 2 l",
+        "refri fanta laranja pet 2l",
+        "refri fanta laranja pet | volume:2000ml"
+      ],
+      "descricao_base": "refri fanta laranja pet",
+      "medidas": [
+        "volume:2000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-10T16:52:41"
+    },
+    "bisc rosq vitamassa leite | massa:280g": {
+      "descricao": "Bisc Rosq Vitamassa Leite 280 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rosq vitamassa leite 280 g",
+        "bisc rosq vitamassa leite 280g",
+        "bisc rosq vitamassa leite | massa:280g"
+      ],
+      "descricao_base": "bisc rosq vitamassa leite",
+      "medidas": [
+        "massa:280g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-10T16:52:41"
+    },
+    "bisc rosq vitamassa morango | massa:280g": {
+      "descricao": "Bisc Rosq Vitamassa Morango 280 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc rosq vitamassa morango 280 g",
+        "bisc rosq vitamassa morango 280g",
+        "bisc rosq vitamassa morango | massa:280g"
+      ],
+      "descricao_base": "bisc rosq vitamassa morango",
+      "medidas": [
+        "massa:280g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-10T16:52:41"
+    },
+    "bisc marilan teens snack rech bauny | massa:37g": {
+      "descricao": "Bisc Marilan Teens Snack Rech Bauny 37 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan teens snack rech bauny 37 g",
+        "bisc marilan teens snack rech bauny 37g",
+        "bisc marilan teens snack rech bauny | massa:37g"
+      ],
+      "descricao_base": "bisc marilan teens snack rech bauny",
+      "medidas": [
+        "massa:37g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-10T16:52:41"
+    },
+    "bisc cr cracker vitarella crocks | massa:350g": {
+      "descricao": "Bisc Cr Cracker Vitarella Crocks 350 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc cr cracker vitarella crocks 350 g",
+        "bisc cr cracker vitarella crocks 350g",
+        "bisc cr cracker vitarella crocks | massa:350g"
+      ],
+      "descricao_base": "bisc cr cracker vitarella crocks",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-10T16:52:41"
     }
   }
 }
