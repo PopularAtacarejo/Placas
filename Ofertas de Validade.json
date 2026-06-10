@@ -12130,5 +12130,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "10/06/2026",
+    "hora": "09:29:56",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Refri Fanta Laranja Pet 2 l",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Trufa Cia Do Cacau Maracujá 23 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/06/2026",
+        "codigo_barras": "7898192252870",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Nesfit Banana/Aveia/Canela 160 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/06/2026",
+        "codigo_barras": "7891000304839",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Granola Tia Sonia Light 200 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/06/2026",
+        "codigo_barras": "7898115750650",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
