@@ -5558,5 +5558,29 @@
     "produto": "Bombom Garoto Sortidos 220g",
     "preco": "12,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-10",
+    "horario": "09:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja MultiPack Skol 473ml C/12Unid.",
+    "preco": "49,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-10",
+    "horario": "09:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Energetico Baly Pet. 2L Div. Sabores",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-10",
+    "horario": "09:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Coquetel Alcoólico Mansão Maromba 1L Div. Sabores",
+    "preco": "18,48",
+    "validade_oferta_ate": ""
   }
 ]
