@@ -12409,5 +12409,38 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "10/06/2026",
+    "hora": "17:07:20",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Chá Preto Maratá 18 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/06/2026",
+        "codigo_barras": "7898286200152",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Chá Gelado Gel Mate Groselha Negra 25 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026",
+        "codigo_barras": "7891098041432",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Maxmallows t Rech t Color Baun c/mor 70 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026"
+      }
+    ]
   }
 ]
