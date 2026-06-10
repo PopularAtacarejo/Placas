@@ -12321,5 +12321,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "10/06/2026",
+    "hora": "16:56:11",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Refri Fanta Laranja Pet 2 l",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026",
+        "codigo_barras": "7894900031515",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rosq Vitamassa Chocolate 280 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/01/2027",
+        "codigo_barras": "7897353903477",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Rosq Vitamassa Coco 280 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/01/2027",
+        "codigo_barras": "7897353903491",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Rosq Vitamassa Leite 280 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/01/2027",
+        "codigo_barras": "7897353903484",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
