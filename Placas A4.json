@@ -5606,5 +5606,13 @@
     "produto": "Banana Prata",
     "preco": "5,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-10",
+    "horario": "14:37:21",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/12 Unid.",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
   }
 ]
