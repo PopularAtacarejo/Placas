@@ -12365,5 +12365,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "10/06/2026",
+    "hora": "16:58:57",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rosq Vitamassa Morango 280 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/01/2027",
+        "codigo_barras": "7897353903507",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Marilan Teens Snack Rech Bauny 37 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/07/2026",
+        "codigo_barras": "7896003739893",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Cr Cracker Vitarella Crocks 350 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "21/06/2026",
+        "codigo_barras": "7896213006327",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Biscoito Arcor Triunfo Tortini Trufa 90 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/06/2026",
+        "codigo_barras": "7896058257670",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
