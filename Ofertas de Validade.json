@@ -12216,5 +12216,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "10/06/2026",
+    "hora": "09:57:41",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Nesfit Laranja e Cenoura 160 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/06/2026",
+        "codigo_barras": "7891000304754",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Torrada Bauducco Multigraos 142 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/06/2026",
+        "codigo_barras": "7891962053202",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Beb Lact Frutigutti Frutas c/cereais Bdj 510 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/06/2026",
+        "codigo_barras": "7898022211312",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Beb Lact Frutigutti Ameixa Grf 850 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/06/2026",
+        "codigo_barras": "7898022210087",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
