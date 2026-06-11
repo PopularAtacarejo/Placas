@@ -12459,5 +12459,34 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "11/06/2026",
+    "hora": "15:30:05",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Conf Stick Mentos Frutas Vermelhas 37,5 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Conf. Stick Mentos Frutas Verm. 37,5 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Con.f Stick Mentos Frutas Vermelhas 37,5 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026"
+      }
+    ]
   }
 ]
