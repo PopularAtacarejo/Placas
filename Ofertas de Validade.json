@@ -12442,5 +12442,22 @@
         "validade_oferta": "13/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "11/06/2026",
+    "hora": "14:35:06",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb. Alim. c/amêndoa e Coco 1 L",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/06/2026",
+        "codigo_barras": "7898215157694",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
