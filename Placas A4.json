@@ -5854,5 +5854,21 @@
     "produto": "CHÃ DE DENTRO",
     "preco": "37,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-12",
+    "horario": "09:23:26",
+    "feito_por": "Jeferson",
+    "produto": "Energético Baly Div. Sabores 1L",
+    "preco": "10,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-12",
+    "horario": "09:23:26",
+    "feito_por": "Jeferson",
+    "produto": "Bisc. Doce Bicharada 300g",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
   }
 ]
