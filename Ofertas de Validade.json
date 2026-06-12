@@ -12514,5 +12514,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "12/06/2026",
+    "hora": "15:06:56",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Prot. Solar Nivea Sun PH FPS 50 400 ml",
+        "preco": "59,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/08/2026",
+        "codigo_barras": "4005808858217",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "FRalda Geriatrica Plenitud P/M/C 16 Unid.",
+        "preco": "54,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/09/2026",
+        "codigo_barras": "7896007547203",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
