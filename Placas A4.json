@@ -5990,5 +5990,13 @@
     "produto": "Maçã Nacional",
     "preco": "15,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-12",
+    "horario": "11:49:11",
+    "feito_por": "Jeferson",
+    "produto": "Banana Prata",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
   }
 ]
