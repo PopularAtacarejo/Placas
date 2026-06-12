@@ -7926,5 +7926,37 @@
     "produto": "Tangerina Importada",
     "preco": "18,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-12",
+    "horario": "16:57:36",
+    "feito_por": "Jeferson",
+    "produto": "Chuchu",
+    "preco": "3,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-12",
+    "horario": "16:57:36",
+    "feito_por": "Jeferson",
+    "produto": "Mamão Formosa",
+    "preco": "4,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-12",
+    "horario": "16:57:36",
+    "feito_por": "Jeferson",
+    "produto": "Mamão Papaya",
+    "preco": "7,58",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-12",
+    "horario": "16:57:36",
+    "feito_por": "Jeferson",
+    "produto": "Alho",
+    "preco": "43,98",
+    "validade_oferta_ate": ""
   }
 ]
