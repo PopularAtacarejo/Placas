@@ -12488,5 +12488,31 @@
         "validade_oferta": "30/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "12/06/2026",
+    "hora": "10:03:05",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bolinho Ana Maria Triplo Choc. 70 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026",
+        "codigo_barras": "7896002311830",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bic. Reach. Pilar Chocolate 120 g",
+        "preco": "1,68",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026",
+        "codigo_barras": "7896005030424",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
