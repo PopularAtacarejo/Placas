@@ -6014,5 +6014,21 @@
     "produto": "Abacaxi",
     "preco": "6,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-12",
+    "horario": "15:52:55",
+    "feito_por": "Jeferson",
+    "produto": "Costela De Carneiro",
+    "preco": "44,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-12",
+    "horario": "15:52:55",
+    "feito_por": "Jeferson",
+    "produto": "Pernil De Carneiro",
+    "preco": "44,98",
+    "validade_oferta_ate": ""
   }
 ]
