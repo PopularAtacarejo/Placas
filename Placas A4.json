@@ -5998,5 +5998,21 @@
     "produto": "Banana Prata",
     "preco": "5,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-12",
+    "horario": "15:16:43",
+    "feito_por": "Jeferson",
+    "produto": "Tangerina",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-12",
+    "horario": "15:16:43",
+    "feito_por": "Jeferson",
+    "produto": "Abacaxi",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
   }
 ]
