@@ -12540,5 +12540,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/06/2026",
+    "hora": "10:07:01",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Sab. Int. Dermafeme Ac Hialuronico Fr 10 ml",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026",
+        "codigo_barras": "7897947617773",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
