@@ -6086,5 +6086,13 @@
     "produto": "Mamão papaya",
     "preco": "2,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "16:32:01",
+    "feito_por": "Jeferson",
+    "produto": "Abacate",
+    "preco": "798",
+    "validade_oferta_ate": ""
   }
 ]
