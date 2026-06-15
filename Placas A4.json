@@ -6094,5 +6094,29 @@
     "produto": "Abacate",
     "preco": "798",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "16:43:59",
+    "feito_por": "Jeferson",
+    "produto": "Abacate",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "16:43:59",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/12Unid.",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "16:43:59",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/30Unid.",
+    "preco": "26,98",
+    "validade_oferta_ate": ""
   }
 ]
