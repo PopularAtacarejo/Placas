@@ -7958,5 +7958,77 @@
     "produto": "Alho",
     "preco": "43,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-13",
+    "horario": "09:15:27",
+    "feito_por": "Jeferson",
+    "produto": "Linguiça Tipo Calabresa Defumada Sadia 1Kg",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-13",
+    "horario": "09:29:44",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Gringo Branco Tipo 2 1Kg",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-13",
+    "horario": "11:00:24",
+    "feito_por": "Jeferson",
+    "produto": "Refrigerante Coca Cola Pet. 2,5L",
+    "preco": "10,99",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "14:56:14",
+    "feito_por": "Jeferson",
+    "produto": "Lenço Toalha Umed Cotton Hidr Inten 50 und",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "14:59:36",
+    "feito_por": "Jeferson",
+    "produto": "Amac Comfort Conc Azul Intense 500ml",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "14:59:36",
+    "feito_por": "Jeferson",
+    "produto": "Azeite Oliva Coimbra t Unico 250ml",
+    "preco": "14,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "14:59:36",
+    "feito_por": "Jeferson",
+    "produto": "Azeite Oliva Coimbra t Unico 500ml",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "14:59:36",
+    "feito_por": "Jeferson",
+    "produto": "Azeite Oliva Ext Virgem Coimbra 250ml",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "14:59:36",
+    "feito_por": "Jeferson",
+    "produto": "Azeite Oliva Ext Virgem Coimbra 500ml",
+    "preco": "33,98",
+    "validade_oferta_ate": ""
   }
 ]
