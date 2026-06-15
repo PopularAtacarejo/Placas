@@ -12579,5 +12579,22 @@
         "validade_oferta": "17/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/06/2026",
+    "hora": "15:09:34",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Salg Yokitos Queijo Tubinho 45 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/06/2026",
+        "codigo_barras": "7891095023271",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
