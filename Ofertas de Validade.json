@@ -12557,5 +12557,27 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/06/2026",
+    "hora": "14:18:14",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc. Neugebauer 1891 Dark 90 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Schweppes Tônica Lt. 350 Ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/06/2026"
+      }
+    ]
   }
 ]
