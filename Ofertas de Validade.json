@@ -13252,5 +13252,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "18:08:33",
+    "placa": 12,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb Lact Uht Nestlé Nescafé Smoovlatte 270 ml",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/07/2026",
+        "codigo_barras": "7891000110829",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cobertura Selecta Morango 300 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7896411800222",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cap Café 3 Corações Gourmet Mogiana 80 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7896005808559",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Uht Molico Desn Zero Lactose 1 l",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/07/2026",
+        "codigo_barras": "7898215157458",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
