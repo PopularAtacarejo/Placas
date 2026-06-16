@@ -13384,5 +13384,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "18:13:35",
+    "placa": 15,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Pó Piracanjuba Int. Lt 380 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026",
+        "codigo_barras": "7898215158448",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Gelatina Sol Cereja 20 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026",
+        "codigo_barras": "7896005210628",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Achoc Frimesa Uht Tp 1 l",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026",
+        "codigo_barras": "7896275970055",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mist P/Bolo Dona Benta Aipim 450 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026",
+        "codigo_barras": "7896005280935",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
