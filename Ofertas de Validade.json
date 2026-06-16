@@ -13428,5 +13428,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "18:15:19",
+    "placa": 16,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mist Cr De Leite Mococa 200 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026",
+        "codigo_barras": "7891030300306",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Lact Hr Da Merenda Banana 200 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/07/2026",
+        "codigo_barras": "7898064011956",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Café Capp 3 Cor Cookies N.Cream Pt 200 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/07/2026",
+        "codigo_barras": "7896045110643",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cap Café 3 Corações Espresso Forza 8 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/07/2026",
+        "codigo_barras": "7896045101733",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
