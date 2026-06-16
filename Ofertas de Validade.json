@@ -13120,5 +13120,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "18:03:34",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Chá Leão Gel Preto/Frutas Vermelhas 25 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/07/2026",
+        "codigo_barras": "7891098041395",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Café Moido Pilão Tradic 250 g",
+        "preco": "15,48",
+        "unidade": "Unid.",
+        "validade_oferta": "02/07/2026",
+        "codigo_barras": "7896089011982",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Café c/leite Maratá Sh 200 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/07/2026",
+        "codigo_barras": "7898286203146",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mingau Maratá Fortlon Arroz Aveia 180 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/07/2026",
+        "codigo_barras": "7898617581240",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
