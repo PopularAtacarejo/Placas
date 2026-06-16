@@ -12640,5 +12640,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "08:12:46",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Lava Roupa Coquel Pó Vegano 800 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/06/2026",
+        "codigo_barras": "7896040707473",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Lustra Moveis Poliflor Lavanda 200 ml",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/06/2026",
+        "codigo_barras": "7891035502200",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pão Forma Plusvita Australiano 500 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/06/2026",
+        "codigo_barras": "7896002311342",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Pão Forma Plusvita s/açúcar 350 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/06/2026",
+        "codigo_barras": "7896002309172",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
