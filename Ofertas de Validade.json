@@ -13472,5 +13472,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "18:16:56",
+    "placa": 17,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Em Pó Desnatado Inst Imp Finissima 300 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7898920918511",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mist P/Bolo Apti Baunilha 400 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7896327511335",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mist P/Bolo Apti Coco 400 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7896327511328",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mist P/Bolo Dr.Oetker Brigadeiro 300 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7891048061824",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
