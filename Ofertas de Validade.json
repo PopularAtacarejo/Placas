@@ -13296,5 +13296,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "18:10:20",
+    "placa": 13,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Capsula Café 3 Corações Star Wars Int 8 80 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/07/2026",
+        "codigo_barras": "7896045112661",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Toddy Original 750 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/07/2026",
+        "codigo_barras": "7892840819170",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Doce De Leite Engenho 270 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/07/2026",
+        "codigo_barras": "0618341322813",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Em Pó Betania Inst. 750 g",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/07/2026",
+        "codigo_barras": "7898064011697",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
