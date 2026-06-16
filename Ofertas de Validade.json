@@ -12684,5 +12684,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "08:13:37",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pão Nutrella 100% Integral 350 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/06/2026",
+        "codigo_barras": "7896002311250",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bolinho De Bacalhau Bela Coxita Pct 500 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/06/2026",
+        "codigo_barras": "0618231687893",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mac Echeese Com Bacon Seara 300 g",
+        "preco": "6,48",
+        "unidade": "Unid.",
+        "validade_oferta": "25/06/2026",
+        "codigo_barras": "7894904243969",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Ling Def. Calab Sadia Kg",
+        "preco": "24,98",
+        "unidade": "Kg",
+        "validade_oferta": "24/06/2026"
+      }
+    ]
   }
 ]
