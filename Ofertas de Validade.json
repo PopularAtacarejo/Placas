@@ -12726,5 +12726,47 @@
         "validade_oferta": "24/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "08:15:17",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mort Frango Sadia Kg",
+        "preco": "12,98",
+        "unidade": "Kg",
+        "validade_oferta": "27/06/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mort Sadia Frango Mini 400 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/06/2026",
+        "codigo_barras": "7891515432089",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mortadela De Frango Perdigao 400 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/06/2026",
+        "codigo_barras": "7891515429966",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Pão De Alho Santa Massa Trad 400 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/06/2026",
+        "codigo_barras": "7898067340404",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
