@@ -13076,5 +13076,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "18:01:49",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Ped Tasty Bites Carne 80 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/08/2026",
+        "codigo_barras": "7896029046111",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Racao Kitekat Carne Adulto Sc 70 g",
+        "preco": "2,15",
+        "unidade": "Unid.",
+        "validade_oferta": "24/08/2026",
+        "codigo_barras": "7896029018057",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Neston Nestlé 3 Cereais Sc 600 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/07/2026",
+        "codigo_barras": "7891000288474",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Neston 3 Cereais Sh 210 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/07/2026",
+        "codigo_barras": "7891000098950",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
