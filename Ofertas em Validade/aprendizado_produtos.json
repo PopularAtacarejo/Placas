@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-06-16T08:10:58",
+  "atualizado_em": "2026-06-16T17:41:10",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1769,7 +1769,7 @@
     "mac miojo nissin ufo yakissoba legumes | massa:97g": {
       "descricao": "Mac Miojo Nissin Ufo Yakissoba Legumes 97 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "mac miojo nissin ufo yakissoba legumes 97 g",
         "mac miojo nissin ufo yakissoba legumes 97g",
@@ -1780,7 +1780,7 @@
         "massa:97g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T14:52:36"
+      "atualizado_em": "2026-06-16T17:41:10"
     },
     "cup noodle bolonhesa nissin | massa:72g": {
       "descricao": "Cup Noodle Bolonhesa Nissin 72 g",
@@ -6142,7 +6142,7 @@
     "mac inst lamen treloso carne suav | massa:75g": {
       "descricao": "Mac Inst Lamen Treloso Carne Suav 75 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "mac inst lamen treloso carne suav 75 g",
         "mac inst lamen treloso carne suav 75g",
@@ -6153,12 +6153,12 @@
         "massa:75g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:09:06"
+      "atualizado_em": "2026-06-16T17:41:10"
     },
     "caldo arisco galinha caipira | massa:114g": {
       "descricao": "Caldo Arisco Galinha Caipira 114 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "caldo arisco galinha caipira 114 g",
         "caldo arisco galinha caipira 114g",
@@ -6169,7 +6169,7 @@
         "massa:114g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:09:06"
+      "atualizado_em": "2026-06-16T17:41:10"
     },
     "sopao maggi galinha c/leg | massa:200g": {
       "descricao": "Sopao Maggi Galinha c/leg 200 g",
@@ -6480,7 +6480,7 @@
     "caldo knorr bacon | massa:57g": {
       "descricao": "Caldo Knorr Bacon 57 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "caldo knorr bacon 57 g",
         "caldo knorr bacon 57g",
@@ -6491,7 +6491,7 @@
         "massa:57g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:09:06"
+      "atualizado_em": "2026-06-16T17:41:10"
     },
     "caldo knorr carne | massa:57g": {
       "descricao": "Caldo Knorr Carne 57 g",
@@ -6545,7 +6545,7 @@
     "cafe capuccino marata chocolate sh | massa:200g": {
       "descricao": "Café Capuccino Maratá Chocolate Sh 200 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "cafe capuccino marata chocolate sh 200 g",
         "cafe capuccino marata chocolate sh 200g",
@@ -6556,7 +6556,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-06-16T17:41:10"
     },
     "achoc em po chocolatto sc | massa:900g": {
       "descricao": "Achoc Em Pó Chocolatto Sc 900 g",
@@ -6593,7 +6593,7 @@
     "neston nestle 3 cereais sc | massa:600g": {
       "descricao": "Neston Nestlé 3 Cereais Sc 600 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "neston nestle 3 cereais sc 600 g",
         "neston nestle 3 cereais sc 600g",
@@ -6604,7 +6604,7 @@
         "massa:600g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-06-16T17:41:10"
     },
     "mucilon arroz e aveia nestle lt | massa:400g": {
       "descricao": "Mucilon Arroz e Aveia Nestlé Lt 400 g",
@@ -6865,7 +6865,7 @@
     "mist p/bolo apti coco | massa:400g": {
       "descricao": "Mist P/Bolo Apti Coco 400 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "mist p bolo apti coco 400 g",
         "mist p bolo apti coco 400g",
@@ -6876,7 +6876,7 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-06-16T17:41:10"
     },
     "cha dr oetker hortela | massa:10g": {
       "descricao": "Chá Dr.Oetker Hortela 10 g",
@@ -7195,7 +7195,7 @@
     "pipoca popcorn yoki temperada | massa:100g": {
       "descricao": "Pipoca Popcorn Yoki Temperada 100 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "pipoca popcorn yoki temperada 100 g",
         "pipoca popcorn yoki temperada 100g",
@@ -7206,7 +7206,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-29T17:45:38"
+      "atualizado_em": "2026-06-16T17:41:10"
     },
     "farofa de mandioca yoki bacon | massa:200g": {
       "descricao": "Farofa De Mandioca Yoki Bacon 200 g",
@@ -9788,6 +9788,1075 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-06-16T08:10:58"
+    },
+    "caldo maggi carne menos sodio | massa:114g": {
+      "descricao": "Caldo Maggi Carne Menos Sódio 114 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "caldo maggi carne menos sodio 114 g",
+        "caldo maggi carne menos sodio 114g",
+        "caldo maggi carne menos sodio | massa:114g"
+      ],
+      "descricao_base": "caldo maggi carne menos sodio",
+      "medidas": [
+        "massa:114g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "molho liza salada limao pet | volume:234ml": {
+      "descricao": "Molho Liza Salada Limão Pet 234 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "molho liza salada limao pet 234 ml",
+        "molho liza salada limao pet 234ml",
+        "molho liza salada limao pet | volume:234ml"
+      ],
+      "descricao_base": "molho liza salada limao pet",
+      "medidas": [
+        "volume:234ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "vinagre de vinho zaeli | volume:500ml": {
+      "descricao": "Vinagre De Vinho Zaeli 500 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "vinagre de vinho zaeli 500 ml",
+        "vinagre de vinho zaeli 500ml",
+        "vinagre de vinho zaeli | volume:500ml"
+      ],
+      "descricao_base": "vinagre de vinho zaeli",
+      "medidas": [
+        "volume:500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "tempero cond marata | volume:490ml": {
+      "descricao": "Tempero Cond Maratá 490 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "tempero cond marata 490 ml",
+        "tempero cond marata 490ml",
+        "tempero cond marata | volume:490ml"
+      ],
+      "descricao_base": "tempero cond marata",
+      "medidas": [
+        "volume:490ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "torresmo suino santo torresmo | massa:250g": {
+      "descricao": "Torresmo Suíno Santo Torresmo 250 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "torresmo suino santo torresmo 250 g",
+        "torresmo suino santo torresmo 250g",
+        "torresmo suino santo torresmo | massa:250g"
+      ],
+      "descricao_base": "torresmo suino santo torresmo",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "azeitona rivoli c/caroco vidro | massa:500g": {
+      "descricao": "Azeitona Rivoli c/caroco Vidro 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "azeitona rivoli c caroco vidro 500 g",
+        "azeitona rivoli c caroco vidro 500g",
+        "azeitona rivoli c/caroco vidro | massa:500g"
+      ],
+      "descricao_base": "azeitona rivoli c/caroco vidro",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "catchup hellmanns trad | massa:380g": {
+      "descricao": "Catchup Hellmanns Trad 380 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "catchup hellmanns trad 380 g",
+        "catchup hellmanns trad 380g",
+        "catchup hellmanns trad | massa:380g"
+      ],
+      "descricao_base": "catchup hellmanns trad",
+      "medidas": [
+        "massa:380g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "ext tomate predi corinthias nv cp | massa:270g": {
+      "descricao": "Ext Tomate Predi Corinthias Nv Cp 270 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "ext tomate predi corinthias nv cp 270 g",
+        "ext tomate predi corinthias nv cp 270g",
+        "ext tomate predi corinthias nv cp | massa:270g"
+      ],
+      "descricao_base": "ext tomate predi corinthias nv cp",
+      "medidas": [
+        "massa:270g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "extrato tomate predilecta cp palmeiras | massa:260g": {
+      "descricao": "Extrato Tomate Predilecta Cp Palmeiras 260 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "extrato tomate predilecta cp palmeiras 260 g",
+        "extrato tomate predilecta cp palmeiras 260g",
+        "extrato tomate predilecta cp palmeiras | massa:260g"
+      ],
+      "descricao_base": "extrato tomate predilecta cp palmeiras",
+      "medidas": [
+        "massa:260g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "molho kenko p/salada rose | volume:236ml": {
+      "descricao": "Molho Kenko P/Salada Rose 236 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "molho kenko p salada rose 236 ml",
+        "molho kenko p salada rose 236ml",
+        "molho kenko p/salada rose | volume:236ml"
+      ],
+      "descricao_base": "molho kenko p/salada rose",
+      "medidas": [
+        "volume:236ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "molho de alho kenko | volume:150ml": {
+      "descricao": "Molho De Alho Kenko 150 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "molho de alho kenko 150 ml",
+        "molho de alho kenko 150ml",
+        "molho de alho kenko | volume:150ml"
+      ],
+      "descricao_base": "molho de alho kenko",
+      "medidas": [
+        "volume:150ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "canela kitano em po | massa:8g": {
+      "descricao": "Canela Kitano Em Pó 8 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "canela kitano em po 8 g",
+        "canela kitano em po 8g",
+        "canela kitano em po | massa:8g"
+      ],
+      "descricao_base": "canela kitano em po",
+      "medidas": [
+        "massa:8g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "caldo knorr carne | massa:114g": {
+      "descricao": "Caldo Knorr Carne 114 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "caldo knorr carne 114 g",
+        "caldo knorr carne 114g",
+        "caldo knorr carne | massa:114g"
+      ],
+      "descricao_base": "caldo knorr carne",
+      "medidas": [
+        "massa:114g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "caldo arisco galinha caipira | massa:19g": {
+      "descricao": "Caldo Arisco Galinha Caipira 19 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "caldo arisco galinha caipira 19 g",
+        "caldo arisco galinha caipira 19g",
+        "caldo arisco galinha caipira | massa:19g"
+      ],
+      "descricao_base": "caldo arisco galinha caipira",
+      "medidas": [
+        "massa:19g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "caldo arisco carne | massa:19g": {
+      "descricao": "Caldo Arisco Carne 19 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "caldo arisco carne 19 g",
+        "caldo arisco carne 19g",
+        "caldo arisco carne | massa:19g"
+      ],
+      "descricao_base": "caldo arisco carne",
+      "medidas": [
+        "massa:19g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "azeite de oliva ext v sv nucete | volume:500ml": {
+      "descricao": "Azeite De Oliva Ext. V. Sv. Nucete 500 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "azeite de oliva ext v sv nucete 500 ml",
+        "azeite de oliva ext v sv nucete 500ml",
+        "azeite de oliva ext v sv nucete | volume:500ml"
+      ],
+      "descricao_base": "azeite de oliva ext v sv nucete",
+      "medidas": [
+        "volume:500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "ervilha knorr | massa:170g": {
+      "descricao": "Ervilha Knorr 170 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "ervilha knorr 170 g",
+        "ervilha knorr 170g",
+        "ervilha knorr | massa:170g"
+      ],
+      "descricao_base": "ervilha knorr",
+      "medidas": [
+        "massa:170g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "molho de tomate zero fugini sc | massa:300g": {
+      "descricao": "Molho De Tomate Zero Fugini Sc 300 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "molho de tomate zero fugini sc 300 g",
+        "molho de tomate zero fugini sc 300g",
+        "molho de tomate zero fugini sc | massa:300g"
+      ],
+      "descricao_base": "molho de tomate zero fugini sc",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "racao trit dende g verde | massa:500g": {
+      "descricao": "Racao Trit. Dende g Verde 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "racao trit dende g verde 500 g",
+        "racao trit dende g verde 500g",
+        "racao trit dende g verde | massa:500g"
+      ],
+      "descricao_base": "racao trit dende g verde",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "ped tasty bites leite | massa:80g": {
+      "descricao": "Ped Tasty Bites Leite 80 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "ped tasty bites leite 80 g",
+        "ped tasty bites leite 80g",
+        "ped tasty bites leite | massa:80g"
+      ],
+      "descricao_base": "ped tasty bites leite",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "racao kitekat peixe adulto sc | massa:70g": {
+      "descricao": "Racao Kitekat Peixe Adulto Sc 70 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "racao kitekat peixe adulto sc 70 g",
+        "racao kitekat peixe adulto sc 70g",
+        "racao kitekat peixe adulto sc | massa:70g"
+      ],
+      "descricao_base": "racao kitekat peixe adulto sc",
+      "medidas": [
+        "massa:70g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "colonia procao femea | volume:120ml": {
+      "descricao": "Colonia Procao Femea 120 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "colonia procao femea 120 ml",
+        "colonia procao femea 120ml",
+        "colonia procao femea | volume:120ml"
+      ],
+      "descricao_base": "colonia procao femea",
+      "medidas": [
+        "volume:120ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "ped biscrok ad r peq maca | massa:500g": {
+      "descricao": "Ped.Biscrok Ad r Peq Maçã 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "ped biscrok ad r peq maca 500 g",
+        "ped biscrok ad r peq maca 500g",
+        "ped biscrok ad r peq maca | massa:500g"
+      ],
+      "descricao_base": "ped biscrok ad r peq maca",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "ped tasty bites carne | massa:80g": {
+      "descricao": "Ped Tasty Bites Carne 80 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "ped tasty bites carne 80 g",
+        "ped tasty bites carne 80g",
+        "ped tasty bites carne | massa:80g"
+      ],
+      "descricao_base": "ped tasty bites carne",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "racao kitekat carne adulto sc | massa:70g": {
+      "descricao": "Racao Kitekat Carne Adulto Sc 70 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "racao kitekat carne adulto sc 70 g",
+        "racao kitekat carne adulto sc 70g",
+        "racao kitekat carne adulto sc | massa:70g"
+      ],
+      "descricao_base": "racao kitekat carne adulto sc",
+      "medidas": [
+        "massa:70g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "neston 3 cereais sh | massa:210g": {
+      "descricao": "Neston 3 Cereais Sh 210 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "neston 3 cereais sh 210 g",
+        "neston 3 cereais sh 210g",
+        "neston 3 cereais sh | massa:210g"
+      ],
+      "descricao_base": "neston 3 cereais sh",
+      "medidas": [
+        "massa:210g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cha leao gel preto/frutas vermelhas | massa:25g": {
+      "descricao": "Chá Leão Gel Preto/Frutas Vermelhas 25 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cha leao gel preto frutas vermelhas 25 g",
+        "cha leao gel preto frutas vermelhas 25g",
+        "cha leao gel preto/frutas vermelhas | massa:25g"
+      ],
+      "descricao_base": "cha leao gel preto/frutas vermelhas",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cafe moido pilao tradic | massa:250g": {
+      "descricao": "Café Moido Pilão Tradic 250 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cafe moido pilao tradic 250 g",
+        "cafe moido pilao tradic 250g",
+        "cafe moido pilao tradic | massa:250g"
+      ],
+      "descricao_base": "cafe moido pilao tradic",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cafe c/leite marata sh | massa:200g": {
+      "descricao": "Café c/leite Maratá Sh 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cafe c leite marata sh 200 g",
+        "cafe c leite marata sh 200g",
+        "cafe c/leite marata sh | massa:200g"
+      ],
+      "descricao_base": "cafe c/leite marata sh",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "mingau marata fortlon arroz aveia | massa:180g": {
+      "descricao": "Mingau Maratá Fortlon Arroz Aveia 180 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mingau marata fortlon arroz aveia 180 g",
+        "mingau marata fortlon arroz aveia 180g",
+        "mingau marata fortlon arroz aveia | massa:180g"
+      ],
+      "descricao_base": "mingau marata fortlon arroz aveia",
+      "medidas": [
+        "massa:180g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "leite ninho uht tp zl integral | volume:1000ml": {
+      "descricao": "Leite Ninho Uht Tp Zl Integral 1 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "leite ninho uht tp zl integral 1 l",
+        "leite ninho uht tp zl integral 1l",
+        "leite ninho uht tp zl integral | volume:1000ml"
+      ],
+      "descricao_base": "leite ninho uht tp zl integral",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "capsula cafe c/leite tres | massa:9g": {
+      "descricao": "Capsula Café c/leite Três 9 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "capsula cafe c leite tres 9 g",
+        "capsula cafe c leite tres 9g",
+        "capsula cafe c/leite tres | massa:9g"
+      ],
+      "descricao_base": "capsula cafe c/leite tres",
+      "medidas": [
+        "massa:9g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cereal sucrilhos original kelloggs | massa:690g": {
+      "descricao": "Cereal Sucrilhos Original Kelloggs 690 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cereal sucrilhos original 690g kelloggs",
+        "cereal sucrilhos original kelloggs 690 g",
+        "cereal sucrilhos original kelloggs | massa:690g"
+      ],
+      "descricao_base": "cereal sucrilhos original kelloggs",
+      "medidas": [
+        "massa:690g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "mist p/bolo dona benta fuba | massa:450g": {
+      "descricao": "Mist P/Bolo Dona Benta Fubá 450 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo dona benta fuba 450 g",
+        "mist p bolo dona benta fuba 450g",
+        "mist p/bolo dona benta fuba | massa:450g"
+      ],
+      "descricao_base": "mist p/bolo dona benta fuba",
+      "medidas": [
+        "massa:450g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cr de avela c/cacau bom principio pt | massa:350g": {
+      "descricao": "Cr De Avelã c/cacau Bom Principio Pt 350 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cr de avela c cacau bom principio pt 350 g",
+        "cr de avela c cacau bom principio pt 350g",
+        "cr de avela c/cacau bom principio pt | massa:350g"
+      ],
+      "descricao_base": "cr de avela c/cacau bom principio pt",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "coco ralado tambau | massa:50g": {
+      "descricao": "Coco Ralado Tambau 50 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "coco ralado tambau 50 g",
+        "coco ralado tambau 50g",
+        "coco ralado tambau | massa:50g"
+      ],
+      "descricao_base": "coco ralado tambau",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "leite po gloria int/inst | massa:360g": {
+      "descricao": "Leite Pó Gloria Int/Inst. 360 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "leite po gloria int inst 360 g",
+        "leite po gloria int inst 360g",
+        "leite po gloria int/inst | massa:360g"
+      ],
+      "descricao_base": "leite po gloria int/inst",
+      "medidas": [
+        "massa:360g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cr de leite gloria | massa:200g": {
+      "descricao": "Cr De Leite Gloria 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cr de leite gloria 200 g",
+        "cr de leite gloria 200g",
+        "cr de leite gloria | massa:200g"
+      ],
+      "descricao_base": "cr de leite gloria",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "beb lact uht nestle nescafe smoovlatte | volume:270ml": {
+      "descricao": "Beb Lact Uht Nestlé Nescafé Smoovlatte 270 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "beb lact uht nestle nescafe smoovlatte 270 ml",
+        "beb lact uht nestle nescafe smoovlatte 270ml",
+        "beb lact uht nestle nescafe smoovlatte | volume:270ml"
+      ],
+      "descricao_base": "beb lact uht nestle nescafe smoovlatte",
+      "medidas": [
+        "volume:270ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cobertura selecta morango | massa:300g": {
+      "descricao": "Cobertura Selecta Morango 300 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cobertura selecta morango 300 g",
+        "cobertura selecta morango 300g",
+        "cobertura selecta morango | massa:300g"
+      ],
+      "descricao_base": "cobertura selecta morango",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cap cafe 3 coracoes gourmet mogiana | massa:80g": {
+      "descricao": "Cap Café 3 Corações Gourmet Mogiana 80 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cap cafe 3 coracoes gourmet mogiana 80 g",
+        "cap cafe 3 coracoes gourmet mogiana 80g",
+        "cap cafe 3 coracoes gourmet mogiana | massa:80g"
+      ],
+      "descricao_base": "cap cafe 3 coracoes gourmet mogiana",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "leite uht molico desn zero lactose | volume:1000ml": {
+      "descricao": "Leite Uht Molico Desn Zero Lactose 1 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "leite uht molico desn zero lactose 1 l",
+        "leite uht molico desn zero lactose 1l",
+        "leite uht molico desn zero lactose | volume:1000ml"
+      ],
+      "descricao_base": "leite uht molico desn zero lactose",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "capsula cafe 3 coracoes star wars int 8 | massa:80g": {
+      "descricao": "Capsula Café 3 Corações Star Wars Int 8 80 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "capsula cafe 3 coracoes star wars int 8 80 g",
+        "capsula cafe 3 coracoes star wars int 8 80g",
+        "capsula cafe 3 coracoes star wars int 8 | massa:80g"
+      ],
+      "descricao_base": "capsula cafe 3 coracoes star wars int 8",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "toddy original | massa:750g": {
+      "descricao": "Toddy Original 750 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "toddy original 750 g",
+        "toddy original 750g",
+        "toddy original | massa:750g"
+      ],
+      "descricao_base": "toddy original",
+      "medidas": [
+        "massa:750g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "doce de leite engenho | massa:270g": {
+      "descricao": "Doce De Leite Engenho 270 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "doce de leite engenho 270 g",
+        "doce de leite engenho 270g",
+        "doce de leite engenho | massa:270g"
+      ],
+      "descricao_base": "doce de leite engenho",
+      "medidas": [
+        "massa:270g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "leite em po betania inst | massa:750g": {
+      "descricao": "Leite Em Pó Betania Inst. 750 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "leite em po betania inst 750 g",
+        "leite em po betania inst 750g",
+        "leite em po betania inst | massa:750g"
+      ],
+      "descricao_base": "leite em po betania inst",
+      "medidas": [
+        "massa:750g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "gelatina sol framboesa | massa:20g": {
+      "descricao": "Gelatina Sol Framboesa 20 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "gelatina sol framboesa 20 g",
+        "gelatina sol framboesa 20g",
+        "gelatina sol framboesa | massa:20g"
+      ],
+      "descricao_base": "gelatina sol framboesa",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cob p/sorvete dr oetker caramelo | massa:190g": {
+      "descricao": "Cob P/Sorvete Dr.Oetker Caramelo 190 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cob p sorvete dr oetker caramelo 190 g",
+        "cob p sorvete dr oetker caramelo 190g",
+        "cob p/sorvete dr oetker caramelo | massa:190g"
+      ],
+      "descricao_base": "cob p/sorvete dr oetker caramelo",
+      "medidas": [
+        "massa:190g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cafe l or capsulas exp caramelo | contagem:10un": {
+      "descricao": "Café L'or Capsulas Exp.Caramelo c/10 un",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cafe l or capsulas exp caramelo c 10 un",
+        "cafe l or capsulas exp caramelo c 10un",
+        "cafe l or capsulas exp caramelo | contagem:10un"
+      ],
+      "descricao_base": "cafe l or capsulas exp caramelo",
+      "medidas": [
+        "contagem:10un"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "creme de arroz coringa | massa:200g": {
+      "descricao": "Creme De Arroz Coringa 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "creme de arroz coringa 200 g",
+        "creme de arroz coringa 200g",
+        "creme de arroz coringa | massa:200g"
+      ],
+      "descricao_base": "creme de arroz coringa",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "leite po piracanjuba int lt | massa:380g": {
+      "descricao": "Leite Pó Piracanjuba Int. Lt 380 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "leite po piracanjuba int lt 380 g",
+        "leite po piracanjuba int lt | massa:380g",
+        "leite po piracanjuba int lt380g"
+      ],
+      "descricao_base": "leite po piracanjuba int lt",
+      "medidas": [
+        "massa:380g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "gelatina sol cereja | massa:20g": {
+      "descricao": "Gelatina Sol Cereja 20 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "gelatina sol cereja 20 g",
+        "gelatina sol cereja 20g",
+        "gelatina sol cereja | massa:20g"
+      ],
+      "descricao_base": "gelatina sol cereja",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "achoc frimesa uht tp | volume:1000ml": {
+      "descricao": "Achoc Frimesa Uht Tp 1 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "achoc frimesa uht tp 1 l",
+        "achoc frimesa uht tp 1l",
+        "achoc frimesa uht tp | volume:1000ml"
+      ],
+      "descricao_base": "achoc frimesa uht tp",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "mist p/bolo dona benta aipim | massa:450g": {
+      "descricao": "Mist P/Bolo Dona Benta Aipim 450 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo dona benta aipim 450 g",
+        "mist p bolo dona benta aipim 450g",
+        "mist p/bolo dona benta aipim | massa:450g"
+      ],
+      "descricao_base": "mist p/bolo dona benta aipim",
+      "medidas": [
+        "massa:450g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "mist cr de leite mococa | massa:200g": {
+      "descricao": "Mist Cr De Leite Mococa 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mist cr de leite mococa 200 g",
+        "mist cr de leite mococa 200g",
+        "mist cr de leite mococa | massa:200g"
+      ],
+      "descricao_base": "mist cr de leite mococa",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "beb lact hr da merenda banana | volume:200ml": {
+      "descricao": "Beb Lact Hr Da Merenda Banana 200 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "beb lact hr da merenda 200ml banana",
+        "beb lact hr da merenda banana 200 ml",
+        "beb lact hr da merenda banana | volume:200ml"
+      ],
+      "descricao_base": "beb lact hr da merenda banana",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cafe capp 3 cor cookies n cream pt | massa:200g": {
+      "descricao": "Café Capp 3 Cor Cookies N.Cream Pt 200 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cafe capp 3 cor cookies n cream pt 200 g",
+        "cafe capp 3 cor cookies n cream pt 200g",
+        "cafe capp 3 cor cookies n cream pt | massa:200g"
+      ],
+      "descricao_base": "cafe capp 3 cor cookies n cream pt",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cap cafe 3 coracoes espresso forza | massa:8g": {
+      "descricao": "Cap Café 3 Corações Espresso Forza 8 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cap cafe 3 coracoes espresso forza 8 g",
+        "cap cafe 3 coracoes espresso forza 8g",
+        "cap cafe 3 coracoes espresso forza | massa:8g"
+      ],
+      "descricao_base": "cap cafe 3 coracoes espresso forza",
+      "medidas": [
+        "massa:8g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "leite em po desnatado inst imp finissima | massa:300g": {
+      "descricao": "Leite Em Pó Desnatado Inst Imp Finissima 300 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "leite em po desnatado inst imp finissima 300 g",
+        "leite em po desnatado inst imp finissima 300g",
+        "leite em po desnatado inst imp finissima | massa:300g"
+      ],
+      "descricao_base": "leite em po desnatado inst imp finissima",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "mist p/bolo apti baunilha | massa:400g": {
+      "descricao": "Mist P/Bolo Apti Baunilha 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo apti baunilha 400 g",
+        "mist p bolo apti baunilha 400g",
+        "mist p/bolo apti baunilha | massa:400g"
+      ],
+      "descricao_base": "mist p/bolo apti baunilha",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "mist p/bolo dr oetker brigadeiro | massa:300g": {
+      "descricao": "Mist P/Bolo Dr.Oetker Brigadeiro 300 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo dr oetker brigadeiro 300 g",
+        "mist p bolo dr oetker brigadeiro 300g",
+        "mist p/bolo dr oetker brigadeiro | massa:300g"
+      ],
+      "descricao_base": "mist p/bolo dr oetker brigadeiro",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "bananada tambau | massa:500g": {
+      "descricao": "Bananada Tambau 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bananada tambau 500 g",
+        "bananada tambau 500g",
+        "bananada tambau | massa:500g"
+      ],
+      "descricao_base": "bananada tambau",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cha leao mate orig gran | massa:100g": {
+      "descricao": "Chá Leão Mate Orig Gran 100 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cha leao mate orig gran 100 g",
+        "cha leao mate orig gran 100g",
+        "cha leao mate orig gran | massa:100g"
+      ],
+      "descricao_base": "cha leao mate orig gran",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "cafe lor torras ultimo | massa:250g": {
+      "descricao": "Café Lor Torras Ultimo 250 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cafe lor torras ultimo 250 g",
+        "cafe lor torras ultimo 250g",
+        "cafe lor torras ultimo | massa:250g"
+      ],
+      "descricao_base": "cafe lor torras ultimo",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "limp vidro mr musculo trad c/aplicador": {
+      "descricao": "Limp Vidro Mr.Musculo Trad c/aplicador",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "limp vidro mr musculo trad c aplicador",
+        "limp vidro mr musculo trad c/aplicador"
+      ],
+      "descricao_base": "limp vidro mr musculo trad c/aplicador",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "difusor glade lembranca inf | volume:100ml": {
+      "descricao": "Difusor Glade Lembranca Inf 100 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "difusor glade lembranca inf 100 ml",
+        "difusor glade lembranca inf 100ml",
+        "difusor glade lembranca inf | volume:100ml"
+      ],
+      "descricao_base": "difusor glade lembranca inf",
+      "medidas": [
+        "volume:100ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
+    },
+    "milho pipoca yoki | massa:400g": {
+      "descricao": "Milho Pipoca Yoki 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "milho pipoca yoki 400 g",
+        "milho pipoca yoki 400g",
+        "milho pipoca yoki | massa:400g"
+      ],
+      "descricao_base": "milho pipoca yoki",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T17:41:10"
     }
   }
 }
