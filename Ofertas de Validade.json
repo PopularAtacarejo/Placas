@@ -13560,5 +13560,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "18:20:24",
+    "placa": 19,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Limp Vidro Mr.Musculo Trad c/aplicador",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7894650002230",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Difusor Glade Lembranca Inf 100 ml",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7894650940143",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pipoca Popcorn Yoki Temperada 100 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/07/2026",
+        "codigo_barras": "7891095006274",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Milho Pipoca Yoki 400 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/07/2026",
+        "codigo_barras": "7891095911356",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
