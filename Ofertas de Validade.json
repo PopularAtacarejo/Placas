@@ -12768,5 +12768,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "17:50:21",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Caldo Maggi Carne Menos Sódio 114 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/07/2026",
+        "codigo_barras": "7891000253526",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Molho Liza Salada Limão Pet 234 ml",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "02/07/2026",
+        "codigo_barras": "7896036093467",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mac Inst Lamen Treloso Carne Suav 75 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/07/2026",
+        "codigo_barras": "7896213006839",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Vinagre De Vinho Zaeli 500 ml",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/07/2026",
+        "codigo_barras": "7896183903503",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
