@@ -13208,5 +13208,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "18:06:47",
+    "placa": 11,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cr De Avelã c/cacau Bom Principio Pt 350 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/07/2026",
+        "codigo_barras": "7897500605865",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Coco Ralado Tambau 50 g",
+        "preco": "2,38",
+        "unidade": "Unid.",
+        "validade_oferta": "10/07/2026",
+        "codigo_barras": "7896945402268",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Pó Gloria Int/Inst. 360 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/07/2026",
+        "codigo_barras": "7896183210038",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cr De Leite Gloria 200 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/07/2026",
+        "codigo_barras": "7896183210120",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
