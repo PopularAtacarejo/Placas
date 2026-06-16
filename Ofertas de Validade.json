@@ -13032,5 +13032,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "18:00:06",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Ped Tasty Bites Leite 80 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/07/2026",
+        "codigo_barras": "7896029046135",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Racao Kitekat Peixe Adulto Sc 70 g",
+        "preco": "2,15",
+        "unidade": "Unid.",
+        "validade_oferta": "22/07/2026",
+        "codigo_barras": "7896029018101",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Colonia Procao Femea 120 ml",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7897520009315",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Ped.Biscrok Ad r Peq Maçã 500 g",
+        "preco": "18,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7896029047415",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
