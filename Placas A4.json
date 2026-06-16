@@ -6118,5 +6118,29 @@
     "produto": "Ovos Caipira Coopag Bandeja C/30Unid.",
     "preco": "26,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-16",
+    "horario": "08:33:46",
+    "feito_por": "Jeferson",
+    "produto": "Refrigerante Coca Cola Pet 2L",
+    "preco": "10,99",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-16",
+    "horario": "08:33:46",
+    "feito_por": "Jeferson",
+    "produto": "Energético Baly Energy Tadala Pet 2L",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-16",
+    "horario": "08:33:46",
+    "feito_por": "Jeferson",
+    "produto": "Energético Baly Energy Melancia Pet 1L",
+    "preco": "10,28",
+    "validade_oferta_ate": ""
   }
 ]
