@@ -12988,5 +12988,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "17:58:13",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Azeite De Oliva Ext. V. Sv. Nucete 500 ml",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7792070055228",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Ervilha Knorr 170 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7891150058897",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Molho De Tomate Zero Fugini Sc 300 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7897517206741",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Racao Trit. Dende g Verde 500 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7897443400114",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
