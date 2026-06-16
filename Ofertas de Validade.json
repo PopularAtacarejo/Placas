@@ -13516,5 +13516,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "16/06/2026",
+    "hora": "18:18:38",
+    "placa": 18,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bananada Tambau 500 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7896945403296",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Chá Leão Mate Orig Gran 100 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7891098000026",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Café Capuccino Maratá Chocolate Sh 200 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7898286203177",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Café Lor Torras Ultimo 250 g",
+        "preco": "24,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7896089060195",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
