@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-06-10T16:52:41",
+  "atualizado_em": "2026-06-16T08:10:58",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -7051,7 +7051,7 @@
     "lustra moveis poliflor lavanda | volume:200ml": {
       "descricao": "Lustra Moveis Poliflor Lavanda 200 ml",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "lustra moveis poliflor lavanda 200 ml",
         "lustra moveis poliflor lavanda 200ml",
@@ -7062,12 +7062,12 @@
         "volume:200ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:26:27"
+      "atualizado_em": "2026-06-16T08:10:58"
     },
     "lava roupa coquel po vegano | massa:800g": {
       "descricao": "Lava Roupa Coquel Pó Vegano 800 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "lava roupa coquel po vegano 800 g",
         "lava roupa coquel po vegano 800g",
@@ -7078,12 +7078,12 @@
         "massa:800g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:26:27"
+      "atualizado_em": "2026-06-16T08:10:58"
     },
     "inset sbo eletrico pastilha | contagem:1un": {
       "descricao": "Inset Sbo Eletrico Pastilha 1 un",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "inset sbo eletrico pastilha 1 un",
         "inset sbo eletrico pastilha 1un",
@@ -7094,7 +7094,7 @@
         "contagem:1un"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:26:27"
+      "atualizado_em": "2026-06-16T08:10:58"
     },
     "lutras moveis poliflor perf suave | volume:200ml": {
       "descricao": "Lutras Moveis Poliflor Perf Suave 200 ml",
@@ -7179,7 +7179,7 @@
     "difusor secar black bamboo | volume:100ml": {
       "descricao": "Difusor Secar Black Bamboo 100 ml",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "difusor secar black bamboo 100 ml",
         "difusor secar black bamboo 100ml",
@@ -7190,7 +7190,7 @@
         "volume:100ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:26:27"
+      "atualizado_em": "2026-06-16T08:10:58"
     },
     "pipoca popcorn yoki temperada | massa:100g": {
       "descricao": "Pipoca Popcorn Yoki Temperada 100 g",
@@ -9444,7 +9444,7 @@
     "pao nutrella 100 integral | massa:350g": {
       "descricao": "Pão Nutrella 100% Integral 350 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "pao nutrella 100 integral 350 g",
         "pao nutrella 100 integral 350g",
@@ -9455,12 +9455,12 @@
         "massa:350g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-01T15:14:13"
+      "atualizado_em": "2026-06-16T08:10:58"
     },
     "pao forma plusvita australiano | massa:500g": {
       "descricao": "Pão Forma Plusvita Australiano 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "pao forma plusvita australiano 500 g",
         "pao forma plusvita australiano 500g",
@@ -9471,7 +9471,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-01T15:14:13"
+      "atualizado_em": "2026-06-16T08:10:58"
     },
     "salame italiano dalia | massa:100g": {
       "descricao": "Salame Italiano Dalia 100 g",
@@ -9676,6 +9676,118 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-06-10T16:52:41"
+    },
+    "evita mofo inspira s/perfume | massa:180g": {
+      "descricao": "Evita Mofo Inspira s/perfume 180 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "evita mofo inspira s perfume 180 g",
+        "evita mofo inspira s perfume 180g",
+        "evita mofo inspira s/perfume | massa:180g"
+      ],
+      "descricao_base": "evita mofo inspira s/perfume",
+      "medidas": [
+        "massa:180g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T08:10:58"
+    },
+    "pao forma plusvita s/acucar | massa:350g": {
+      "descricao": "Pão Forma Plusvita s/açúcar 350 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "pao forma plusvita s acucar 350 g",
+        "pao forma plusvita s acucar 350g",
+        "pao forma plusvita s/acucar | massa:350g"
+      ],
+      "descricao_base": "pao forma plusvita s/acucar",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T08:10:58"
+    },
+    "bolinho de bacalhau bela coxita | massa:500g": {
+      "descricao": "Bolinho De Bacalhau Bela Coxita Pct 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bolinho de bacalhau bela coxita pct 500 g",
+        "bolinho de bacalhau bela coxita pct 500g",
+        "bolinho de bacalhau bela coxita | massa:500g"
+      ],
+      "descricao_base": "bolinho de bacalhau bela coxita",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T08:10:58"
+    },
+    "mac echeese com bacon seara | massa:300g": {
+      "descricao": "Mac Echeese Com Bacon Seara 300 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mac echeese com bacon seara 300 g",
+        "mac echeese com bacon seara 300g",
+        "mac echeese com bacon seara | massa:300g"
+      ],
+      "descricao_base": "mac echeese com bacon seara",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T08:10:58"
+    },
+    "mort sadia frango mini | massa:400g": {
+      "descricao": "Mort Sadia Frango Mini 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mort sadia frango mini 400 g",
+        "mort sadia frango mini 400g",
+        "mort sadia frango mini | massa:400g"
+      ],
+      "descricao_base": "mort sadia frango mini",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T08:10:58"
+    },
+    "mortadela de frango perdigao | massa:400g": {
+      "descricao": "Mortadela De Frango Perdigao 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mortadela de frango perdigao 400 g",
+        "mortadela de frango perdigao 400g",
+        "mortadela de frango perdigao | massa:400g"
+      ],
+      "descricao_base": "mortadela de frango perdigao",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T08:10:58"
+    },
+    "pao de alho santa massa trad | massa:400g": {
+      "descricao": "Pão De Alho Santa Massa Trad 400 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "pao de alho santa massa trad 400 g",
+        "pao de alho santa massa trad 400g",
+        "pao de alho santa massa trad | massa:400g"
+      ],
+      "descricao_base": "pao de alho santa massa trad",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-16T08:10:58"
     }
   }
 }
