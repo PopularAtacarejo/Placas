@@ -8030,5 +8030,77 @@
     "produto": "Azeite Oliva Ext Virgem Coimbra 500ml",
     "preco": "33,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "15:05:20",
+    "feito_por": "Jeferson",
+    "produto": "Ovo Luna Grande Filmado C/30 Unid.",
+    "preco": "18,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "16:30:03",
+    "feito_por": "Jeferson",
+    "produto": "Mamão papaya",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "16:32:01",
+    "feito_por": "Jeferson",
+    "produto": "Abacate",
+    "preco": "798",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "16:43:59",
+    "feito_por": "Jeferson",
+    "produto": "Abacate",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "16:43:59",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/12Unid.",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-15",
+    "horario": "16:43:59",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/30Unid.",
+    "preco": "26,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-16",
+    "horario": "08:33:46",
+    "feito_por": "Jeferson",
+    "produto": "Refrigerante Coca Cola Pet 2L",
+    "preco": "10,99",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-16",
+    "horario": "08:33:46",
+    "feito_por": "Jeferson",
+    "produto": "Energético Baly Energy Tadala Pet 2L",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-16",
+    "horario": "08:33:46",
+    "feito_por": "Jeferson",
+    "produto": "Energético Baly Energy Melancia Pet 1L",
+    "preco": "10,28",
+    "validade_oferta_ate": ""
   }
 ]
