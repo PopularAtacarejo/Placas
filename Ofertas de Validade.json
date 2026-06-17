@@ -14079,5 +14079,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "14:55:30",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Barra Probiotica Wheybar Torta De Maçã 38 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/07/2026",
+        "codigo_barras": "7899941203181",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra Probiotica Wheybar Morango 38 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/07/2026",
+        "codigo_barras": "7899941202689",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
