@@ -14659,5 +14659,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:17:02",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "09/07/2026",
+        "codigo_barras": "7896016435331",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Afa Wafer Maroto Abacaxi 26 g",
+        "preco": "0,68",
+        "unidade": "Unid.",
+        "validade_oferta": "11/07/2026",
+        "codigo_barras": "7896016445446",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bolinho Ana Maria Chocolate 70 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/07/2026",
+        "codigo_barras": "7896002362436",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bolinho Ana Maria Trad Baunilha 70 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/07/2026",
+        "codigo_barras": "7896002362412",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
