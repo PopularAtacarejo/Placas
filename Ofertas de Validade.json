@@ -14325,5 +14325,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:05:13",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Barra Hersheys Cranberry 60% Cacau 85 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7899970400964",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Hersherys Special Dark 47% Original 80 gr",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7899970403453",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc Lacta Intense Nuts 40% Amend Framboe 85 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/07/2026",
+        "codigo_barras": "7622210570598",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Chicle Arcor Plutonita Mord. Zumbi 180 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/07/2026",
+        "codigo_barras": "7891118026265",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
