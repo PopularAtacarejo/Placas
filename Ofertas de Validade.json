@@ -14035,5 +14035,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "14:54:22",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choco Wheyfer 6 gprot Chocolate 25 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "0736532199614",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra De Cereal Naturale Castanhas c/ave 25 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/07/2026",
+        "codigo_barras": "7898055420316",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra Spl Max Titanium P.Prot.Napol 90 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7899941202351",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Barra Spl Max Titanium P.Prot. Avelã e Coco 90 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7899941203433",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
