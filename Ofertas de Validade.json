@@ -14105,5 +14105,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:01:19",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Amendoim Crocante Lev. Salgado Yoki 120 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/07/2026",
+        "codigo_barras": "7891095911813",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Amendoim s/pele Maratá 50 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/07/2026",
+        "codigo_barras": "7898617580915",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Castanha De Caju Maratá 50 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/07/2026",
+        "codigo_barras": "7898617580939",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Amendoin Japonês Dori 150 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/07/2026",
+        "codigo_barras": "7896058599626",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
