@@ -13683,5 +13683,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "14:37:32",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Ener Red Bull Frutas Tropicais 473 ml",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/07/2026",
+        "codigo_barras": "9002490280604",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Suco De Uva Tinto Integral Amare Vd 1,5 lt",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7898638061622",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Suco Pindorama Conc Acerola Pet 500 ml",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/07/2026",
+        "codigo_barras": "7896215300089",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Suco Del Valle Limonada Tropical Lt 290 ml",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/07/2026",
+        "codigo_barras": "7894900664027",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
