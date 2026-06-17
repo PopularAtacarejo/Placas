@@ -14861,5 +14861,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "16:08:09",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cerv Lokal Lt 473 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/07/2026",
+        "codigo_barras": "7898377660223",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cerv Antarctica Subzero Lt 473 ml",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/07/2026",
+        "codigo_barras": "7891991010153",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cerv Eisenbahn Pilsen Unfiltered Ln 355 ml",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/07/2026",
+        "codigo_barras": "7898367984346",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cerv Eisenbahn Pale Ale Ln 355 ml",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/07/2026",
+        "codigo_barras": "7898367980034",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
