@@ -14817,5 +14817,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "16:06:47",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pitu Batidinha Coco Cremoso 250 ml",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7896607100136",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cerv Budweiser Zero Ln 330 ml",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7891991298421",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cerv Itaipava Lt Un 350 ml",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/07/2026",
+        "codigo_barras": "7897395020101",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cerv Cabare Puro Malte Lt Un 350 ml",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/07/2026",
+        "codigo_barras": "7897395001247",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
