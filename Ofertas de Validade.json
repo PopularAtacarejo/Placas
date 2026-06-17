@@ -14395,5 +14395,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:12:14",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Mabel Amant Coco 300 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7896071030090",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Wafer Toddy Choc c/mor 94 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/07/2026",
+        "codigo_barras": "7896071025416",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Wafer Toddy Chocolate 94 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7896071025386",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Rech Piraque Morango 76 g",
+        "preco": "2,68",
+        "unidade": "Unid.",
+        "validade_oferta": "03/07/2026",
+        "codigo_barras": "7896024761293",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
