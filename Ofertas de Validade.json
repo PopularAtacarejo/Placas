@@ -13947,5 +13947,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "14:50:57",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Barra Nutrit Whey Grego Mor c/chant 40 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7898599212743",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra Whey Grego Bar Mous/Marac Nutr 40 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7898599212729",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra Suplemento Yopro Chocolate Nutrata 55 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7898599217694",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Barra Nuts e Abacaxi B.Brasil 25 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/07/2026",
+        "codigo_barras": "7896798603478",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
