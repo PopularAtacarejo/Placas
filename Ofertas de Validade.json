@@ -13903,5 +13903,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "14:49:13",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pasta De Castanha Atdc Choconuts 120 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7898955705735",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra Protein Max Milk Caramel 41 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/07/2026",
+        "codigo_barras": "7899941201675",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra Protein Max Morango Sensation 41 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026",
+        "codigo_barras": "7899941202177",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Barra Top Whey Amendoim 41 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/07/2026",
+        "codigo_barras": "7899941202771",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
