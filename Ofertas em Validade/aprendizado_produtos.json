@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-06-17T14:35:37",
+  "atualizado_em": "2026-06-17T14:42:31",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -11065,6 +11065,470 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-06-17T14:35:37"
+    },
+    "torrada vitarella integral | massa:142g": {
+      "descricao": "Torrada Vitarella Integral 142 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "torrada vitarella integral 142 g",
+        "torrada vitarella integral 142g",
+        "torrada vitarella integral | massa:142g"
+      ],
+      "descricao_base": "torrada vitarella integral",
+      "medidas": [
+        "massa:142g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "biscoito polvilho queijo vale d ouro | massa:100g": {
+      "descricao": "Biscoito Polvilho Queijo Vale D'ouro 100 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "biscoito polvilho queijo vale d ouro 100 g",
+        "biscoito polvilho queijo vale d ouro 100g",
+        "biscoito polvilho queijo vale d ouro | massa:100g"
+      ],
+      "descricao_base": "biscoito polvilho queijo vale d ouro",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "bisc nesfit morango e cereais | massa:160g": {
+      "descricao": "Bisc Nesfit Morango E Cereais 160 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc nesfit morango e cereais 160 g",
+        "bisc nesfit morango e cereais 160g",
+        "bisc nesfit morango e cereais | massa:160g"
+      ],
+      "descricao_base": "bisc nesfit morango e cereais",
+      "medidas": [
+        "massa:160g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "bisc lowcucar rech morango | massa:120g": {
+      "descricao": "Bisc Lowcucar Rech Morango 120 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bisc lowcucar rech morango 120 g",
+        "bisc lowcucar rech morango 120g",
+        "bisc lowcucar rech morango | massa:120g"
+      ],
+      "descricao_base": "bisc lowcucar rech morango",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "bolinho suavipan zero baun c/choc | massa:40g": {
+      "descricao": "Bolinho Suavipan Zero Baun c/choc 40 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bolinho suavipan zero baun c choc 40 g",
+        "bolinho suavipan zero baun c choc 40g",
+        "bolinho suavipan zero baun c/choc | massa:40g"
+      ],
+      "descricao_base": "bolinho suavipan zero baun c/choc",
+      "medidas": [
+        "massa:40g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "ambroxmel spr fr sbr mel/euc | volume:30ml": {
+      "descricao": "Ambroxmel Spr Fr Sbr Mel/Euc 30 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "ambroxmel spr fr sbr mel euc 30 ml",
+        "ambroxmel spr fr sbr mel euc 30ml",
+        "ambroxmel spr fr sbr mel/euc | volume:30ml"
+      ],
+      "descricao_base": "ambroxmel spr fr sbr mel/euc",
+      "medidas": [
+        "volume:30ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "mel karo pet | massa:350g": {
+      "descricao": "Mel Karo Pet 350 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "mel karo pet 350 g",
+        "mel karo pet 350g",
+        "mel karo pet | massa:350g"
+      ],
+      "descricao_base": "mel karo pet",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "granola prime | massa:1000g": {
+      "descricao": "Granola Prime 1 kg",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "granola prime 1 kg",
+        "granola prime 1kg",
+        "granola prime | massa:1000g"
+      ],
+      "descricao_base": "granola prime",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "granola biosoft completa | massa:230g": {
+      "descricao": "Granola Biosoft Completa 230 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "granola biosoft completa 230 g",
+        "granola biosoft completa 230g",
+        "granola biosoft completa | massa:230g"
+      ],
+      "descricao_base": "granola biosoft completa",
+      "medidas": [
+        "massa:230g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "granola biosoft diet | massa:230g": {
+      "descricao": "Granola Biosoft Diet 230 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "granola biosoft diet 230 g",
+        "granola biosoft diet 230g",
+        "granola biosoft diet | massa:230g"
+      ],
+      "descricao_base": "granola biosoft diet",
+      "medidas": [
+        "massa:230g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "supl max titanium max whey pro moran | massa:1000g": {
+      "descricao": "Supl Max Titanium Max Whey Pro Moran 1 kg",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "supl max titanium max whey pro moran 1 kg",
+        "supl max titanium max whey pro moran 1kg",
+        "supl max titanium max whey pro moran | massa:1000g"
+      ],
+      "descricao_base": "supl max titanium max whey pro moran",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "pasta de castanha atdc choconuts | massa:120g": {
+      "descricao": "Pasta De Castanha Atdc Choconuts 120 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "pasta de castanha atdc choconuts 120 g",
+        "pasta de castanha atdc choconuts 120g",
+        "pasta de castanha atdc choconuts | massa:120g"
+      ],
+      "descricao_base": "pasta de castanha atdc choconuts",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra protein max milk caramel | massa:41g": {
+      "descricao": "Barra Protein Max Milk Caramel 41 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra protein max milk caramel 41 g",
+        "barra protein max milk caramel 41g",
+        "barra protein max milk caramel | massa:41g"
+      ],
+      "descricao_base": "barra protein max milk caramel",
+      "medidas": [
+        "massa:41g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra protein max morango sensation | massa:41g": {
+      "descricao": "Barra Protein Max Morango Sensation 41 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra protein max morango sensation 41 g",
+        "barra protein max morango sensation 41g",
+        "barra protein max morango sensation | massa:41g"
+      ],
+      "descricao_base": "barra protein max morango sensation",
+      "medidas": [
+        "massa:41g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra top whey amendoim | massa:41g": {
+      "descricao": "Barra Top Whey Amendoim 41 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra top whey amendoim 41 g",
+        "barra top whey amendoim 41g",
+        "barra top whey amendoim | massa:41g"
+      ],
+      "descricao_base": "barra top whey amendoim",
+      "medidas": [
+        "massa:41g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra nutrit whey grego mor c/chant | massa:40g": {
+      "descricao": "Barra Nutrit Whey Grego Mor c/chant 40 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra nutrit whey grego mor c chant 40 g",
+        "barra nutrit whey grego mor c chant 40g",
+        "barra nutrit whey grego mor c/chant | massa:40g"
+      ],
+      "descricao_base": "barra nutrit whey grego mor c/chant",
+      "medidas": [
+        "massa:40g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra whey grego bar mous/marac nutr | massa:40g": {
+      "descricao": "Barra Whey Grego Bar Mous/Marac Nutr 40 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra whey grego bar mous marac nutr 40 g",
+        "barra whey grego bar mous marac nutr 40g",
+        "barra whey grego bar mous/marac nutr | massa:40g"
+      ],
+      "descricao_base": "barra whey grego bar mous/marac nutr",
+      "medidas": [
+        "massa:40g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra suplemento yopro chocolate nutrata | massa:55g": {
+      "descricao": "Barra Suplemento Yopro Chocolate Nutrata 55 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra suplemento yopro chocolate nutrata 55 g",
+        "barra suplemento yopro chocolate nutrata 55g",
+        "barra suplemento yopro chocolate nutrata | massa:55g"
+      ],
+      "descricao_base": "barra suplemento yopro chocolate nutrata",
+      "medidas": [
+        "massa:55g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra nuts e abacaxi b brasil | massa:25g": {
+      "descricao": "Barra Nuts e Abacaxi B.Brasil 25 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra nuts e abacaxi b brasil 25 g",
+        "barra nuts e abacaxi b brasil 25g",
+        "barra nuts e abacaxi b brasil | massa:25g"
+      ],
+      "descricao_base": "barra nuts e abacaxi b brasil",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra de banana choc ao leite supino | massa:24g": {
+      "descricao": "Barra De Banana Choc Ao Leite Supino 24 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra de banana choc ao leite supino 24 g",
+        "barra de banana choc ao leite supino 24g",
+        "barra de banana choc ao leite supino | massa:24g"
+      ],
+      "descricao_base": "barra de banana choc ao leite supino",
+      "medidas": [
+        "massa:24g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "supino orig ban choc bran | massa:24g": {
+      "descricao": "Supino Orig Ban Choc Bran 24 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "supino orig ban choc bran 24 g",
+        "supino orig ban choc bran 24g",
+        "supino orig ban choc bran | massa:24g"
+      ],
+      "descricao_base": "supino orig ban choc bran",
+      "medidas": [
+        "massa:24g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra cereal supino banana e morango | massa:24g": {
+      "descricao": "Barra Cereal Supino Banana e Morango 24 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra cereal supino banana e morango 24 g",
+        "barra cereal supino banana e morango 24g",
+        "barra cereal supino banana e morango | massa:24g"
+      ],
+      "descricao_base": "barra cereal supino banana e morango",
+      "medidas": [
+        "massa:24g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra cereal supino banana/acai | massa:24g": {
+      "descricao": "Barra Cereal Supino Banana/Açaí 24 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra cereal supino banana acai 24 g",
+        "barra cereal supino banana acai 24g",
+        "barra cereal supino banana/acai | massa:24g"
+      ],
+      "descricao_base": "barra cereal supino banana/acai",
+      "medidas": [
+        "massa:24g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "choco wheyfer 6 gprot chocolate | massa:25g": {
+      "descricao": "Choco Wheyfer 6 gprot Chocolate 25 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choco wheyfer 6 gprot chocolate 25 g",
+        "choco wheyfer 6 gprot chocolate | massa:25g",
+        "choco wheyfer 6gprot chocolate 25g"
+      ],
+      "descricao_base": "choco wheyfer 6 gprot chocolate",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra de cereal naturale castanhas c/ave | massa:25g": {
+      "descricao": "Barra De Cereal Naturale Castanhas c/ave 25 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra de cereal naturale castanhas c ave 25 g",
+        "barra de cereal naturale castanhas c ave 25g",
+        "barra de cereal naturale castanhas c/ave | massa:25g"
+      ],
+      "descricao_base": "barra de cereal naturale castanhas c/ave",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra spl max titanium p prot napol | massa:90g": {
+      "descricao": "Barra Spl Max Titanium P.Prot.Napol 90 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra spl max titanium p prot napol 90 g",
+        "barra spl max titanium p prot napol 90g",
+        "barra spl max titanium p prot napol | massa:90g"
+      ],
+      "descricao_base": "barra spl max titanium p prot napol",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra spl max titanium p prot avela e coco | massa:90g": {
+      "descricao": "Barra Spl Max Titanium P.Prot. Avelã e Coco 90 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra spl max titanium p prot avela e coco 90 g",
+        "barra spl max titanium p prot avela e coco 90g",
+        "barra spl max titanium p prot avela e coco | massa:90g"
+      ],
+      "descricao_base": "barra spl max titanium p prot avela e coco",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra probiotica wheybar torta de maca | massa:38g": {
+      "descricao": "Barra Probiotica Wheybar Torta De Maçã 38 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra probiotica wheybar torta de maca 38 g",
+        "barra probiotica wheybar torta de maca 38g",
+        "barra probiotica wheybar torta de maca | massa:38g"
+      ],
+      "descricao_base": "barra probiotica wheybar torta de maca",
+      "medidas": [
+        "massa:38g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "barra probiotica wheybar morango | massa:38g": {
+      "descricao": "Barra Probiotica Wheybar Morango 38 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra probiotica wheybar morango 38 g",
+        "barra probiotica wheybar morango 38g",
+        "barra probiotica wheybar morango | massa:38g"
+      ],
+      "descricao_base": "barra probiotica wheybar morango",
+      "medidas": [
+        "massa:38g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:42:31"
     }
   }
 }
