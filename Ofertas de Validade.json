@@ -13604,5 +13604,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "14:19:20",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Ferm Chamyto Trad 80 g",
+        "preco": "1,28",
+        "unidade": "Unid.",
+        "validade_oferta": "19/06/2026",
+        "codigo_barras": "7891000379547",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Batavo Morango Probio 2 1150 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/06/2026",
+        "codigo_barras": "7891097107016",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sobremesa Itambe Pudim 100 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/06/2026",
+        "codigo_barras": "7896051168584",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Itambe Polpa Cereais 510 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/06/2026",
+        "codigo_barras": "7896051164135",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
