@@ -14791,5 +14791,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:36:20",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Café Moído Pilão Tradicional 250 g",
+        "preco": "14,48",
+        "unidade": "Unid.",
+        "validade_oferta": "02/07/2026",
+        "codigo_barras": "7896004007373",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Café Moído Pilão Trad. 250 g",
+        "preco": "14,48",
+        "unidade": "Unid.",
+        "validade_oferta": "02/07/2026",
+        "codigo_barras": "7896004007373",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
