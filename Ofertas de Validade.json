@@ -13648,5 +13648,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "14:20:04",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Grego Adoc Int Tradicional Beta 540 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/06/2026",
+        "codigo_barras": "7898403782448",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Lact Uht Nestlé Nescafé Smoovlatte 270 ml",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/07/2026",
+        "codigo_barras": "7891000110829",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Beb Lact Hr Da Merenda Banana 200 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/07/2026",
+        "codigo_barras": "7898064011956",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
