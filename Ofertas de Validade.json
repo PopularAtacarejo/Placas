@@ -14193,5 +14193,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:02:51",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cebolitos Elma Chips Clássicos 35 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/07/2026",
+        "codigo_barras": "7892840825126",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cheetos Crunchy Cheddar 78 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/07/2026",
+        "codigo_barras": "7892840825034",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Lays Rustica Salt Vinegar 62 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/07/2026",
+        "codigo_barras": "7892840825164",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc Barra Hersheys 60% Cacau Café Amarg 85 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7899970400988",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
