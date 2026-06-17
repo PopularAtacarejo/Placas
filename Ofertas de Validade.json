@@ -14703,5 +14703,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:17:50",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bolinho Ana Maria Gotas Choc 70 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/07/2026",
+        "codigo_barras": "7896002363259",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Maria Vitarella Chocolate 350 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/07/2026",
+        "codigo_barras": "7896213006372",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Maizena Vitarella Ao Leite 350 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/07/2026",
+        "codigo_barras": "7896213006426",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Maizena Chocolate Pilar 307 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/07/2026",
+        "codigo_barras": "7896005030585",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
