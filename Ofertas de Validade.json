@@ -14439,5 +14439,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:13:01",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rech Piraque Pretty 76 g",
+        "preco": "2,68",
+        "unidade": "Unid.",
+        "validade_oferta": "06/07/2026",
+        "codigo_barras": "7896024761323",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Biscoito Arcor Triunfo Tortini Chocolate 90 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/07/2026",
+        "codigo_barras": "7896058257656",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Wafer Tortuguita Chocolate 85 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/07/2026",
+        "codigo_barras": "7896058258103",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Toboga Vitamassa Amanteigado Leite 100 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/07/2026",
+        "codigo_barras": "7897353900810",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
