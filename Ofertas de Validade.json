@@ -14149,5 +14149,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:02:05",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Amendoim Japonês Yoki 120 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/07/2026",
+        "codigo_barras": "7891095911783",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Salg Elma Chips Fandangos Queijo 35 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "06/07/2026",
+        "codigo_barras": "7892840822866",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salg Elma Chips Fandangos Presunto 35 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7892840822859",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Doritos Ketchup Elma Chips 37 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/07/2026",
+        "codigo_barras": "7892840823610",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
