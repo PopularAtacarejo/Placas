@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-06-16T17:48:35",
+  "atualizado_em": "2026-06-17T14:18:00",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -10400,7 +10400,7 @@
     "beb lact uht nestle nescafe smoovlatte | volume:270ml": {
       "descricao": "Beb Lact Uht Nestlé Nescafé Smoovlatte 270 ml",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "beb lact uht nestle nescafe smoovlatte 270 ml",
         "beb lact uht nestle nescafe smoovlatte 270ml",
@@ -10411,7 +10411,7 @@
         "volume:270ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T17:48:35"
+      "atualizado_em": "2026-06-17T14:18:00"
     },
     "cobertura selecta morango | massa:300g": {
       "descricao": "Cobertura Selecta Morango 300 g",
@@ -10672,7 +10672,7 @@
     "beb lact hr da merenda banana | volume:200ml": {
       "descricao": "Beb Lact Hr Da Merenda Banana 200 ml",
       "unidade": "Unid.",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "beb lact hr da merenda 200ml banana",
         "beb lact hr da merenda banana 200 ml",
@@ -10683,7 +10683,7 @@
         "volume:200ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T17:48:35"
+      "atualizado_em": "2026-06-17T14:18:00"
     },
     "cafe capp 3 cor cookies n cream pt | massa:200g": {
       "descricao": "Café Capp 3 Cor Cookies N.Cream Pt 200 g",
@@ -10857,6 +10857,86 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-06-16T17:48:35"
+    },
+    "leite ferm chamyto trad | massa:80g": {
+      "descricao": "Leite Ferm Chamyto Trad 80 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "leite ferm chamyto trad 80 g",
+        "leite ferm chamyto trad 80g",
+        "leite ferm chamyto trad | massa:80g"
+      ],
+      "descricao_base": "leite ferm chamyto trad",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:18:00"
+    },
+    "iog batavo morango probio 2 | massa:1150g": {
+      "descricao": "Iog Batavo Morango Probio 2 1150 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "iog batavo morango probio 2 1150 g",
+        "iog batavo morango probio 2 | massa:1150g",
+        "iog batavo morango probio2 1150g"
+      ],
+      "descricao_base": "iog batavo morango probio 2",
+      "medidas": [
+        "massa:1150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:18:00"
+    },
+    "sobremesa itambe pudim | massa:100g": {
+      "descricao": "Sobremesa Itambe Pudim 100 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "sobremesa itambe pudim 100 g",
+        "sobremesa itambe pudim 100g",
+        "sobremesa itambe pudim | massa:100g"
+      ],
+      "descricao_base": "sobremesa itambe pudim",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:18:00"
+    },
+    "iog itambe polpa cereais | massa:510g": {
+      "descricao": "Iog Itambe Polpa Cereais 510 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "iog itambe polpa cereais 510 g",
+        "iog itambe polpa cereais 510g",
+        "iog itambe polpa cereais | massa:510g"
+      ],
+      "descricao_base": "iog itambe polpa cereais",
+      "medidas": [
+        "massa:510g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:18:00"
+    },
+    "iog grego adoc int tradicional beta | massa:540g": {
+      "descricao": "Iog Grego Adoc Int Tradicional Beta 540 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "iog grego adoc int tradicional beta 540 g",
+        "iog grego adoc int tradicional beta 540g",
+        "iog grego adoc int tradicional beta | massa:540g"
+      ],
+      "descricao_base": "iog grego adoc int tradicional beta",
+      "medidas": [
+        "massa:540g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:18:00"
     }
   }
 }
