@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-06-17T14:42:31",
+  "atualizado_em": "2026-06-17T15:00:23",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -11529,6 +11529,422 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-06-17T14:42:31"
+    },
+    "amendoim crocante lev salgado yoki | massa:120g": {
+      "descricao": "Amendoim Crocante Lev. Salgado Yoki 120 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "amendoim crocante lev salgado yoki 120 g",
+        "amendoim crocante lev salgado yoki 120g",
+        "amendoim crocante lev salgado yoki | massa:120g"
+      ],
+      "descricao_base": "amendoim crocante lev salgado yoki",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "amendoim s/pele marata | massa:50g": {
+      "descricao": "Amendoim s/pele Maratá 50 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "amendoim s pele marata 50 g",
+        "amendoim s pele marata 50g",
+        "amendoim s/pele marata | massa:50g"
+      ],
+      "descricao_base": "amendoim s/pele marata",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "castanha de caju marata | massa:50g": {
+      "descricao": "Castanha De Caju Maratá 50 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "castanha de caju marata 50 g",
+        "castanha de caju marata 50g",
+        "castanha de caju marata | massa:50g"
+      ],
+      "descricao_base": "castanha de caju marata",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "amendoin japones dori | massa:150g": {
+      "descricao": "Amendoin Japonês Dori 150 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "amendoin japones dori 150 g",
+        "amendoin japones dori 150g",
+        "amendoin japones dori | massa:150g"
+      ],
+      "descricao_base": "amendoin japones dori",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "amendoim japones yoki | massa:120g": {
+      "descricao": "Amendoim Japonês Yoki 120 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "amendoim japones yoki 120 g",
+        "amendoim japones yoki 120g",
+        "amendoim japones yoki | massa:120g"
+      ],
+      "descricao_base": "amendoim japones yoki",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "salg elma chips fandangos queijo | massa:35g": {
+      "descricao": "Salg Elma Chips Fandangos Queijo 35 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salg elma chips fandangos queijo 35 g",
+        "salg elma chips fandangos queijo 35g",
+        "salg elma chips fandangos queijo | massa:35g"
+      ],
+      "descricao_base": "salg elma chips fandangos queijo",
+      "medidas": [
+        "massa:35g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "salg elma chips fandangos presunto | massa:35g": {
+      "descricao": "Salg Elma Chips Fandangos Presunto 35 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salg elma chips fandangos presunto 35 g",
+        "salg elma chips fandangos presunto 35g",
+        "salg elma chips fandangos presunto | massa:35g"
+      ],
+      "descricao_base": "salg elma chips fandangos presunto",
+      "medidas": [
+        "massa:35g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "doritos ketchup elma chips | massa:37g": {
+      "descricao": "Doritos Ketchup Elma Chips 37 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "doritos ketchup elma chips 37 g",
+        "doritos ketchup elma chips 37g",
+        "doritos ketchup elma chips | massa:37g"
+      ],
+      "descricao_base": "doritos ketchup elma chips",
+      "medidas": [
+        "massa:37g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "cebolitos elma chips classicos | massa:35g": {
+      "descricao": "Cebolitos Elma Chips Clássicos 35 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cebolitos elma chips classicos 35 g",
+        "cebolitos elma chips classicos 35g",
+        "cebolitos elma chips classicos | massa:35g"
+      ],
+      "descricao_base": "cebolitos elma chips classicos",
+      "medidas": [
+        "massa:35g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "cheetos crunchy cheddar | massa:78g": {
+      "descricao": "Cheetos Crunchy Cheddar 78 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cheetos crunchy cheddar 78 g",
+        "cheetos crunchy cheddar 78g",
+        "cheetos crunchy cheddar | massa:78g"
+      ],
+      "descricao_base": "cheetos crunchy cheddar",
+      "medidas": [
+        "massa:78g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "lays rustica salt vinegar | massa:62g": {
+      "descricao": "Lays Rustica Salt Vinegar 62 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "lays rustica salt vinegar 62 g",
+        "lays rustica salt vinegar 62g",
+        "lays rustica salt vinegar | massa:62g"
+      ],
+      "descricao_base": "lays rustica salt vinegar",
+      "medidas": [
+        "massa:62g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "choc barra hersheys 60 cacau cafe amarg | massa:85g": {
+      "descricao": "Choc Barra Hersheys 60% Cacau Café Amarg 85 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc barra hersheys 60 cacau cafe amarg 85 g",
+        "choc barra hersheys 60 cacau cafe amarg 85g",
+        "choc barra hersheys 60 cacau cafe amarg | massa:85g"
+      ],
+      "descricao_base": "choc barra hersheys 60 cacau cafe amarg",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "barra choc garoto caju passas | massa:80g": {
+      "descricao": "Barra Choc Garoto Caju Passas 80 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra choc garoto caju passas 80 g",
+        "barra choc garoto caju passas 80g",
+        "barra choc garoto caju passas | massa:80g"
+      ],
+      "descricao_base": "barra choc garoto caju passas",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "barra choc garoto castanha caju | massa:80g": {
+      "descricao": "Barra Choc Garoto Castanha Caju 80 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "barra choc garoto castanha caju 80 g",
+        "barra choc garoto castanha caju 80g",
+        "barra choc garoto castanha caju | massa:80g"
+      ],
+      "descricao_base": "barra choc garoto castanha caju",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "bombom raffaello t 9 | massa:90g": {
+      "descricao": "Bombom Raffaello T-9 90 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bombom raffaello t 9 90 g",
+        "bombom raffaello t 9 90g",
+        "bombom raffaello t 9 | massa:90g"
+      ],
+      "descricao_base": "bombom raffaello t 9",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "bombom ferrero rocher t 8 | massa:100g": {
+      "descricao": "Bombom Ferrero Rocher T 8 100 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bombom ferrero rocher t 8 100 g",
+        "bombom ferrero rocher t 8 | massa:100g",
+        "bombom ferrero rocher t8 100g"
+      ],
+      "descricao_base": "bombom ferrero rocher t 8",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "balas mast hortela pindorama | massa:300g": {
+      "descricao": "Balas Mast. Hortela Pindorama 300 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "balas mast hortela pindorama 300 g",
+        "balas mast hortela pindorama 300g",
+        "balas mast hortela pindorama | massa:300g"
+      ],
+      "descricao_base": "balas mast hortela pindorama",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "bombom arcor sortidos | massa:146g": {
+      "descricao": "Bombom Arcor Sortidos 146 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "bombom arcor sortidos 146 g",
+        "bombom arcor sortidos 146g",
+        "bombom arcor sortidos | massa:146g"
+      ],
+      "descricao_base": "bombom arcor sortidos",
+      "medidas": [
+        "massa:146g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "ioio mix choco hersheys | massa:41.9g": {
+      "descricao": "Ioio Mix Choco Hersheys 41,9 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "ioio mix choco hersheys 41 9 g",
+        "ioio mix choco hersheys 41 9g",
+        "ioio mix choco hersheys | massa:41.9g"
+      ],
+      "descricao_base": "ioio mix choco hersheys",
+      "medidas": [
+        "massa:41.9g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "choc barra cafe hersheys expresso | massa:85g": {
+      "descricao": "Choc Barra Café Hersheys Expresso 85 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc barra cafe hersheys expresso 85 g",
+        "choc barra cafe hersheys expresso 85g",
+        "choc barra cafe hersheys expresso | massa:85g"
+      ],
+      "descricao_base": "choc barra cafe hersheys expresso",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "choc barra hersheys cranberry 60 cacau | massa:85g": {
+      "descricao": "Choc Barra Hersheys Cranberry 60% Cacau 85 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc barra hersheys cranberry 60 cacau 85 g",
+        "choc barra hersheys cranberry 60 cacau 85g",
+        "choc barra hersheys cranberry 60 cacau | massa:85g"
+      ],
+      "descricao_base": "choc barra hersheys cranberry 60 cacau",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "choc hersherys special dark 47 original | massa:80g": {
+      "descricao": "Choc Hersherys Special Dark 47% Original 80 gr",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc hersherys special dark 47 original 80 gr",
+        "choc hersherys special dark 47 original 80gr",
+        "choc hersherys special dark 47 original | massa:80g"
+      ],
+      "descricao_base": "choc hersherys special dark 47 original",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "choc lacta intense nuts 40 amend framboe | massa:85g": {
+      "descricao": "Choc Lacta Intense Nuts 40% Amend Framboe 85 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "choc lacta intense nuts 40 amend framboe 85 g",
+        "choc lacta intense nuts 40 amend framboe 85g",
+        "choc lacta intense nuts 40 amend framboe | massa:85g"
+      ],
+      "descricao_base": "choc lacta intense nuts 40 amend framboe",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "chicle arcor plutonita mord zumbi | massa:180g": {
+      "descricao": "Chicle Arcor Plutonita Mord. Zumbi 180 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "chicle arcor plutonita mord zumbi 180 g",
+        "chicle arcor plutonita mord zumbi 180g",
+        "chicle arcor plutonita mord zumbi | massa:180g"
+      ],
+      "descricao_base": "chicle arcor plutonita mord zumbi",
+      "medidas": [
+        "massa:180g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "cheetos bola queijo suico | massa:33g": {
+      "descricao": "Cheetos Bola Queijo Suíço 33 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cheetos bola queijo suico 33 g",
+        "cheetos bola queijo suico 33g",
+        "cheetos bola queijo suico | massa:33g"
+      ],
+      "descricao_base": "cheetos bola queijo suico",
+      "medidas": [
+        "massa:33g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
+    },
+    "salg doritos pizza | massa:48g": {
+      "descricao": "Salg Doritos Pizza 48 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "salg doritos pizza 48 g",
+        "salg doritos pizza 48g",
+        "salg doritos pizza | massa:48g"
+      ],
+      "descricao_base": "salg doritos pizza",
+      "medidas": [
+        "massa:48g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T15:00:23"
     }
   }
 }
