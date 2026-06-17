@@ -14237,5 +14237,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:03:39",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Barra Choc Garoto Caju Passas 80 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/07/2026",
+        "codigo_barras": "7891008124828",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra Choc Garoto Castanha Caju 80 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/07/2026",
+        "codigo_barras": "7891008124170",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bombom Raffaello T-9 90 g",
+        "preco": "18,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/07/2026",
+        "codigo_barras": "8000500232057",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bombom Ferrero Rocher T 8 100 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/07/2026",
+        "codigo_barras": "7861002900117",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
