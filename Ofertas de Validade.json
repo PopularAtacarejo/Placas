@@ -13771,5 +13771,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "14:44:19",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Torrada Vitarella Integral 142 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/07/2026",
+        "codigo_barras": "7896213004750",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Biscoito Polvilho Queijo Vale D'ouro 100 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/07/2026",
+        "codigo_barras": "7896236300099",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Nesfit Morango E Cereais 160 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026",
+        "codigo_barras": "7891000304594",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Lowcucar Rech Morango 120 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/07/2026",
+        "codigo_barras": "7896292000124",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
