@@ -14281,5 +14281,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:04:22",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Balas Mast. Hortela Pindorama 300 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026",
+        "codigo_barras": "7896215301123",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bombom Arcor Sortidos 146 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7898142863774",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Ioio Mix Choco Hersheys 41,9 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7899970402463",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Choc Barra Café Hersheys Expresso 85 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7899970402401",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
