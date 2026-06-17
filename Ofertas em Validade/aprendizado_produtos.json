@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-06-17T14:18:00",
+  "atualizado_em": "2026-06-17T14:35:37",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -10937,6 +10937,134 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-06-17T14:18:00"
+    },
+    "ener red bull frutas tropicais | volume:473ml": {
+      "descricao": "Ener Red Bull Frutas Tropicais 473 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "ener red bull frutas tropicais 473 ml",
+        "ener red bull frutas tropicais 473ml",
+        "ener red bull frutas tropicais | volume:473ml"
+      ],
+      "descricao_base": "ener red bull frutas tropicais",
+      "medidas": [
+        "volume:473ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:35:37"
+    },
+    "suco de uva tinto integral amare vd | volume:1500ml": {
+      "descricao": "Suco De Uva Tinto Integral Amare Vd 1,5 lt",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "suco de uva tinto integral amare vd 1 5 lt",
+        "suco de uva tinto integral amare vd 1 5lt",
+        "suco de uva tinto integral amare vd | volume:1500ml"
+      ],
+      "descricao_base": "suco de uva tinto integral amare vd",
+      "medidas": [
+        "volume:1500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:35:37"
+    },
+    "suco pindorama conc acerola pet | volume:500ml": {
+      "descricao": "Suco Pindorama Conc Acerola Pet 500 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "suco pindorama conc acerola pet 500 ml",
+        "suco pindorama conc acerola pet 500ml",
+        "suco pindorama conc acerola pet | volume:500ml"
+      ],
+      "descricao_base": "suco pindorama conc acerola pet",
+      "medidas": [
+        "volume:500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:35:37"
+    },
+    "suco del valle limonada tropical lt | volume:290ml": {
+      "descricao": "Suco Del Valle Limonada Tropical Lt 290 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "suco del valle limonada tropical lt 290 ml",
+        "suco del valle limonada tropical lt 290ml",
+        "suco del valle limonada tropical lt | volume:290ml"
+      ],
+      "descricao_base": "suco del valle limonada tropical lt",
+      "medidas": [
+        "volume:290ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:35:37"
+    },
+    "agua de coco qualicoco tp | volume:1000ml": {
+      "descricao": "Água De Coco Qualicoco Tp 1 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "agua de coco qualicoco tp 1 l",
+        "agua de coco qualicoco tp 1l",
+        "agua de coco qualicoco tp | volume:1000ml"
+      ],
+      "descricao_base": "agua de coco qualicoco tp",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:35:37"
+    },
+    "refri guarana antarctica zero | volume:2500ml": {
+      "descricao": "Refri Guarana Antarctica Zero 2,5 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refri guarana antarctica zero 2 5 l",
+        "refri guarana antarctica zero 2 5l",
+        "refri guarana antarctica zero | volume:2500ml"
+      ],
+      "descricao_base": "refri guarana antarctica zero",
+      "medidas": [
+        "volume:2500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:35:37"
+    },
+    "refri guarana pop pet zero acucar | volume:200ml": {
+      "descricao": "Refri Guarana Pop Pet Zero Açúcar 200 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refri guarana pop pet zero acucar 200 ml",
+        "refri guarana pop pet zero acucar 200ml",
+        "refri guarana pop pet zero acucar | volume:200ml"
+      ],
+      "descricao_base": "refri guarana pop pet zero acucar",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:35:37"
+    },
+    "refri pet guarana kuat | volume:1500ml": {
+      "descricao": "Refri Pet Guarana Kuat 1,5 l",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "refri pet guarana kuat 1 5 l",
+        "refri pet guarana kuat 1 5l",
+        "refri pet guarana kuat | volume:1500ml"
+      ],
+      "descricao_base": "refri pet guarana kuat",
+      "medidas": [
+        "volume:1500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T14:35:37"
     }
   }
 }
