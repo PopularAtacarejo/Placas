@@ -14369,5 +14369,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:05:42",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cheetos Bola Queijo Suíço 33 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/07/2026",
+        "codigo_barras": "7892840824976",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Salg Doritos Pizza 48 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/07/2026",
+        "codigo_barras": "7892840820053",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
