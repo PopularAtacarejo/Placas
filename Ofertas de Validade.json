@@ -13727,5 +13727,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "14:39:12",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Água De Coco Qualicoco Tp 1 l",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/07/2026",
+        "codigo_barras": "7896552907484",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Refri Guarana Antarctica Zero 2,5 l",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/07/2026",
+        "codigo_barras": "7891149103157",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Refri Guarana Pop Pet Zero Açúcar 200 ml",
+        "preco": "1,28",
+        "unidade": "Unid.",
+        "validade_oferta": "23/07/2026",
+        "codigo_barras": "7898029654785",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Refri Pet Guarana Kuat 1,5 l",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/07/2026",
+        "codigo_barras": "7894900911756",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
