@@ -13815,5 +13815,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "14:45:54",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bolinho Suavipan Zero Baun c/choc 40 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/07/2026",
+        "codigo_barras": "7898115900178",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Doce Leite Piracanjuba Zero Lact Pote 350",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/07/2026",
+        "codigo_barras": "7898215150480",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Ambroxmel Spr Fr Sbr Mel/Euc 30 ml",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7899785200612",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mel Karo Pet 350 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/07/2026",
+        "codigo_barras": "7894000021249",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
