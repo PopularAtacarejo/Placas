@@ -14571,5 +14571,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:15:30",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Wafer Negresco 110 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/07/2026",
+        "codigo_barras": "7891000077962",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Waffer Vitarella Laranja 80 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/07/2026",
+        "codigo_barras": "7896213006082",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Cookies Vitarella Chocolate 80 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/07/2026",
+        "codigo_barras": "7896213005719",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Treloso Amant Coco 330 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/07/2026",
+        "codigo_barras": "7896213004897",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
