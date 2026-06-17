@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-06-17T15:11:21",
+  "atualizado_em": "2026-06-17T16:05:19",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -12346,6 +12346,134 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-06-17T15:11:21"
+    },
+    "pitu batidinha coco cremoso | volume:250ml": {
+      "descricao": "Pitu Batidinha Coco Cremoso 250 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "pitu batidinha coco cremoso 250 ml",
+        "pitu batidinha coco cremoso 250ml",
+        "pitu batidinha coco cremoso | volume:250ml"
+      ],
+      "descricao_base": "pitu batidinha coco cremoso",
+      "medidas": [
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T16:05:19"
+    },
+    "cerv budweiser zero ln | volume:330ml": {
+      "descricao": "Cerv Budweiser Zero Ln 330 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cerv budweiser zero ln 330 ml",
+        "cerv budweiser zero ln 330ml",
+        "cerv budweiser zero ln | volume:330ml"
+      ],
+      "descricao_base": "cerv budweiser zero ln",
+      "medidas": [
+        "volume:330ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T16:05:19"
+    },
+    "cerv itaipava lt un | volume:350ml": {
+      "descricao": "Cerv Itaipava Lt Un 350 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cerv itaipava lt un 350 ml",
+        "cerv itaipava lt un 350ml",
+        "cerv itaipava lt un | volume:350ml"
+      ],
+      "descricao_base": "cerv itaipava lt un",
+      "medidas": [
+        "volume:350ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T16:05:19"
+    },
+    "cerv cabare puro malte lt un | volume:350ml": {
+      "descricao": "Cerv Cabare Puro Malte Lt Un 350 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cerv cabare puro malte lt un 350 ml",
+        "cerv cabare puro malte lt un 350ml",
+        "cerv cabare puro malte lt un | volume:350ml"
+      ],
+      "descricao_base": "cerv cabare puro malte lt un",
+      "medidas": [
+        "volume:350ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T16:05:19"
+    },
+    "cerv lokal lt | volume:473ml": {
+      "descricao": "Cerv Lokal Lt 473 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cerv lokal lt 473 ml",
+        "cerv lokal lt 473ml",
+        "cerv lokal lt | volume:473ml"
+      ],
+      "descricao_base": "cerv lokal lt",
+      "medidas": [
+        "volume:473ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T16:05:19"
+    },
+    "cerv antarctica subzero lt | volume:473ml": {
+      "descricao": "Cerv Antarctica Subzero Lt 473 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cerv antarctica subzero lt 473 ml",
+        "cerv antarctica subzero lt 473ml",
+        "cerv antarctica subzero lt | volume:473ml"
+      ],
+      "descricao_base": "cerv antarctica subzero lt",
+      "medidas": [
+        "volume:473ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T16:05:19"
+    },
+    "cerv eisenbahn pilsen unfiltered ln | volume:355ml": {
+      "descricao": "Cerv Eisenbahn Pilsen Unfiltered Ln 355 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cerv eisenbahn pilsen unfiltered ln 355 ml",
+        "cerv eisenbahn pilsen unfiltered ln 355ml",
+        "cerv eisenbahn pilsen unfiltered ln | volume:355ml"
+      ],
+      "descricao_base": "cerv eisenbahn pilsen unfiltered ln",
+      "medidas": [
+        "volume:355ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T16:05:19"
+    },
+    "cerv eisenbahn pale ale ln | volume:355ml": {
+      "descricao": "Cerv Eisenbahn Pale Ale Ln 355 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cerv eisenbahn pale ale ln 355 ml",
+        "cerv eisenbahn pale ale ln 355ml",
+        "cerv eisenbahn pale ale ln | volume:355ml"
+      ],
+      "descricao_base": "cerv eisenbahn pale ale ln",
+      "medidas": [
+        "volume:355ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-17T16:05:19"
     }
   }
 }
