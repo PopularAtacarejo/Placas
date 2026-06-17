@@ -14747,5 +14747,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/06/2026",
+    "hora": "15:18:37",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Vitarella Delicita Doce Crist 414 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/07/2026",
+        "codigo_barras": "7896213005771",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Maizena Marilan Fl 300 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7896003739589",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Rosq Vitamassa Leite 280 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/07/2026",
+        "codigo_barras": "7897353903484",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Parati Hot Cracker Queijo 100 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7896004010557",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
