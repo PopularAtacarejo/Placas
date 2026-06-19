@@ -6710,5 +6710,29 @@
     "produto": "Abacaxi",
     "preco": "6,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-19",
+    "horario": "10:48:14",
+    "feito_por": "Jeferson",
+    "produto": "Ridr R1 Brasil Dedo Ad Bv255 Div. Tamanhos",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-19",
+    "horario": "10:48:14",
+    "feito_por": "Jeferson",
+    "produto": "Sand. Ipanema Classica Div. Tamanhos",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-19",
+    "horario": "10:48:14",
+    "feito_por": "Jeferson",
+    "produto": "Refrigerante Coca Cola S/Açúcar Pet 2L",
+    "preco": "10,29",
+    "validade_oferta_ate": ""
   }
 ]
