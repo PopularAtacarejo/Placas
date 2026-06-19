@@ -8598,5 +8598,21 @@
     "produto": "Linguiça Toscana Frimesa Kg",
     "preco": "21,98",
     "validade_oferta_ate": "21/06/2026"
+  },
+  {
+    "data": "2026-06-18",
+    "horario": "17:46:25",
+    "feito_por": "Jeferson",
+    "produto": "Amac. Confort. Conc. Azul Intense 500ml",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-19",
+    "horario": "08:07:04",
+    "feito_por": "Jeferson",
+    "produto": "Flocão Popular 500g",
+    "preco": "1,59",
+    "validade_oferta_ate": ""
   }
 ]
