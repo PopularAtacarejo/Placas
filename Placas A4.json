@@ -6662,5 +6662,53 @@
     "produto": "Mort Frango Sadia",
     "preco": "7,98",
     "validade_oferta_ate": "23/06/2026"
+  },
+  {
+    "data": "2026-06-19",
+    "horario": "08:37:53",
+    "feito_por": "Jeferson",
+    "produto": "Tangerina",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-19",
+    "horario": "08:37:53",
+    "feito_por": "Jeferson",
+    "produto": "Laranja Pera",
+    "preco": "2,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-19",
+    "horario": "08:37:53",
+    "feito_por": "Jeferson",
+    "produto": "Cebola Branca",
+    "preco": "7,68",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-19",
+    "horario": "08:37:53",
+    "feito_por": "Jeferson",
+    "produto": "Tomate",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-19",
+    "horario": "08:37:53",
+    "feito_por": "Jeferson",
+    "produto": "Abacate",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-19",
+    "horario": "08:37:53",
+    "feito_por": "Jeferson",
+    "produto": "Abacaxi",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
   }
 ]
