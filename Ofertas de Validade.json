@@ -15037,5 +15037,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/06/2026",
+    "hora": "08:28:39",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Sh Siage Eudora Caut/Fio 250 ml",
+        "preco": "34,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7891033534289",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Sh Elseve Hidra Hialuronico 200 ml",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7899706187343",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cond Elseve Hidra Hialuronico 200 ml",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7899706187404",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
