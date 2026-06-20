@@ -14949,5 +14949,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/06/2026",
+    "hora": "08:26:48",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Super Masc Brilho Espelhado Haskell 240 ml",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7898610377000",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Sh Siage Eudora Matiz Loiro Expert 250 ml",
+        "preco": "33,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7891033534715",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sh Siage Eudora Pro Cronology 250 ml",
+        "preco": "34,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7891033530946",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cr Alis Salon Line Totalliss Reg 500 g",
+        "preco": "39,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7898524341760",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
