@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-06-17T16:05:19",
+  "atualizado_em": "2026-06-20T08:22:32",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -12474,6 +12474,237 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-06-17T16:05:19"
+    },
+    "toalha umed huggies suave refr | contagem:48un": {
+      "descricao": "Toalha Umed Huggies Suave Refr c/48 un",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "toalha umed huggies suave refr c 48 un",
+        "toalha umed huggies suave refr c 48un",
+        "toalha umed huggies suave refr | contagem:48un"
+      ],
+      "descricao_base": "toalha umed huggies suave refr",
+      "medidas": [
+        "contagem:48un"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "talco johnson baby | massa:100g": {
+      "descricao": "Talco Johnson Baby 100 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "talco johnson baby 100 g",
+        "talco johnson baby 100g",
+        "talco johnson baby | massa:100g"
+      ],
+      "descricao_base": "talco johnson baby",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "sh inf johnson baby gold refil | volume:180ml": {
+      "descricao": "Sh Inf Johnson Baby Gold Refil 180 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "sh inf johnson baby gold refil 180 ml",
+        "sh inf johnson baby gold refil 180ml",
+        "sh inf johnson baby gold refil | volume:180ml"
+      ],
+      "descricao_base": "sh inf johnson baby gold refil",
+      "medidas": [
+        "volume:180ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "cond elseve pure hialuronico | volume:200ml": {
+      "descricao": "Cond Elseve Pure Hialuronico 200 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cond elseve pure hialuronico 200 ml",
+        "cond elseve pure hialuronico 200ml",
+        "cond elseve pure hialuronico | volume:200ml"
+      ],
+      "descricao_base": "cond elseve pure hialuronico",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "super masc brilho espelhado haskell | volume:240ml": {
+      "descricao": "Super Masc Brilho Espelhado Haskell 240 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "super masc brilho espelhado haskell 240 ml",
+        "super masc brilho espelhado haskell 240ml",
+        "super masc brilho espelhado haskell | volume:240ml"
+      ],
+      "descricao_base": "super masc brilho espelhado haskell",
+      "medidas": [
+        "volume:240ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "sh siage eudora matiz loiro expert | volume:250ml": {
+      "descricao": "Sh Siage Eudora Matiz Loiro Expert 250 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "sh siage eudora matiz loiro expert 250 ml",
+        "sh siage eudora matiz loiro expert 250ml",
+        "sh siage eudora matiz loiro expert | volume:250ml"
+      ],
+      "descricao_base": "sh siage eudora matiz loiro expert",
+      "medidas": [
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "sh siage eudora pro cronology | volume:250ml": {
+      "descricao": "Sh Siage Eudora Pro Cronology 250 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "sh siage eudora pro cronology 250 ml",
+        "sh siage eudora pro cronology 250ml",
+        "sh siage eudora pro cronology | volume:250ml"
+      ],
+      "descricao_base": "sh siage eudora pro cronology",
+      "medidas": [
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "cr alis salon line totalliss reg | massa:500g": {
+      "descricao": "Cr Alis Salon Line Totalliss Reg 500 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cr alis salon line totalliss reg 500 g",
+        "cr alis salon line totalliss reg 500g",
+        "cr alis salon line totalliss reg | massa:500g"
+      ],
+      "descricao_base": "cr alis salon line totalliss reg",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "fralda desc t da monica prem econ g c/32": {
+      "descricao": "Fralda Desc.T.Da Monica Prem.Econ.G c/32",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "fralda desc t da monica prem econ g c 32",
+        "fralda desc t da monica prem econ g c/32"
+      ],
+      "descricao_base": "fralda desc t da monica prem econ g c/32",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "fralda desc t da monica prem econ xg c/26": {
+      "descricao": "Fralda Desc.T.Da Monica Prem.Econ.Xg c/26",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "fralda desc t da monica prem econ xg c 26",
+        "fralda desc t da monica prem econ xg c/26"
+      ],
+      "descricao_base": "fralda desc t da monica prem econ xg c/26",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "fralda desc t da monica prem econ xxg c/22": {
+      "descricao": "Fralda Desc.T.Da Monica Prem.Econ.Xxg c/22",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "fralda desc t da monica prem econ xxg c 22",
+        "fralda desc t da monica prem econ xxg c/22"
+      ],
+      "descricao_base": "fralda desc t da monica prem econ xxg c/22",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "cr trat dabelle reconst resgata | massa:140g": {
+      "descricao": "Cr.Trat.Dabelle Reconst.Resgata 140 g",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cr trat dabelle reconst resgata 140 g",
+        "cr trat dabelle reconst resgata 140g",
+        "cr trat dabelle reconst resgata | massa:140g"
+      ],
+      "descricao_base": "cr trat dabelle reconst resgata",
+      "medidas": [
+        "massa:140g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "sh siage eudora caut/fio | volume:250ml": {
+      "descricao": "Sh Siage Eudora Caut/Fio 250 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "sh siage eudora caut fio 250 ml",
+        "sh siage eudora caut fio 250ml",
+        "sh siage eudora caut/fio | volume:250ml"
+      ],
+      "descricao_base": "sh siage eudora caut/fio",
+      "medidas": [
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "sh elseve hidra hialuronico | volume:200ml": {
+      "descricao": "Sh Elseve Hidra Hialuronico 200 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "sh elseve hidra hialuronico 200 ml",
+        "sh elseve hidra hialuronico 200ml",
+        "sh elseve hidra hialuronico | volume:200ml"
+      ],
+      "descricao_base": "sh elseve hidra hialuronico",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
+    },
+    "cond elseve hidra hialuronico | volume:200ml": {
+      "descricao": "Cond Elseve Hidra Hialuronico 200 ml",
+      "unidade": "Unid.",
+      "hits": 1,
+      "aliases": [
+        "cond elseve hidra hialuronico 200 ml",
+        "cond elseve hidra hialuronico 200ml",
+        "cond elseve hidra hialuronico | volume:200ml"
+      ],
+      "descricao_base": "cond elseve hidra hialuronico",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-20T08:22:32"
     }
   }
 }
