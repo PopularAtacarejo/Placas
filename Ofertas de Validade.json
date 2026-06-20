@@ -15072,5 +15072,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/06/2026",
+    "hora": "09:14:15",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Fralda Desc.T.Da Monica Prem.Econ.G c/32",
+        "preco": "34,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7896012880999",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Fralda Desc.T.Da Monica Prem.Econ.Xg c/26",
+        "preco": "34,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7896012881002",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Fralda Desc.T.Da Monica Prem.Econ.Xxg c/22",
+        "preco": "34,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7896012881019",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cr.Trat.Dabelle Reconst.Resgata 140 g",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7908448002965",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
