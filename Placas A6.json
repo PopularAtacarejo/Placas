@@ -9606,5 +9606,21 @@
     "produto": "Óleo de Soja Soya 900ml",
     "preco": "8,68",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-20",
+    "horario": "09:46:19",
+    "feito_por": "Jeferson",
+    "produto": "Bisc. Doce Bicharada 300g",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-20",
+    "horario": "09:46:19",
+    "feito_por": "Jeferson",
+    "produto": "Azeite de Oliva Extra Virgem Sv. Nectar 500ml",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
   }
 ]
