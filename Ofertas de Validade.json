@@ -14905,5 +14905,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/06/2026",
+    "hora": "08:24:41",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Toalha Umed Huggies Suave Refr c/48 un",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/07/2026",
+        "codigo_barras": "7896018703636",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Talco Johnson Baby 100 g",
+        "preco": "21,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7702031244646",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sh Inf Johnson Baby Gold Refil 180 ml",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7891010256487",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cond Elseve Pure Hialuronico 200 ml",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7899706244084",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
