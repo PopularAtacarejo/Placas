@@ -15189,5 +15189,49 @@
         "validade_oferta": "25/06/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/06/2026",
+    "hora": "17:52:57",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pão Nutrella 100% Integral 350 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/06/2026",
+        "codigo_barras": "7896002311250",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pão Forma Plusvita s/açúcar 350 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/06/2026",
+        "codigo_barras": "7896002309172",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Fralda Geriatrica Plenitud Prot P/M c/8",
+        "preco": "24,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7896007547128",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cr Dental Colgate Naturals Reforced 90 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "6920354822193",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
