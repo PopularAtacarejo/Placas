@@ -6806,5 +6806,29 @@
     "produto": "Banana Prata",
     "preco": "4,48",
     "validade_oferta_ate": "22/06/2026"
+  },
+  {
+    "data": "2026-06-22",
+    "horario": "15:37:04",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Capricho Shortinho HiperM. C/58,G. C/50, Xg. C/42, Xxg. C/36",
+    "preco": "63,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-22",
+    "horario": "15:37:04",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Calca Mamypoko D&n Jbom C/34, g C/30, Xg C/26, Xxg C/22",
+    "preco": "50,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-22",
+    "horario": "15:37:04",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Desc Babysec Shortinho Mega m 30um c/30, g c/24u, Xg c/22, Xxg c/20, Xxxg 16u",
+    "preco": "32,48",
+    "validade_oferta_ate": ""
   }
 ]
