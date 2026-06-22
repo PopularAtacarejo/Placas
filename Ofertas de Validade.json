@@ -15277,5 +15277,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/06/2026",
+    "hora": "17:56:20",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Óleo Para Barba King.C. Gillette 30 ml",
+        "preco": "44,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7500435216241",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cr Dental Colgate Naturals Carv Atv 140 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7509546660073",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Shampoo Para Barba King.C. Gillette 241 ml",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7500435222037",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cr Dental Colgate Lumi White Carv Ativ 70 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7509546651040",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
