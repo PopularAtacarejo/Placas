@@ -15116,5 +15116,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/06/2026",
+    "hora": "15:23:10",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Barra Top Whey Amendoim 41 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/07/2026",
+        "codigo_barras": "7899941202771",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra Top Whey de Amendoim 41 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/07/2026",
+        "codigo_barras": "7899941202771",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra Spl Max Titanium P.Prot.Napol 90 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7899941202351",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Barra Spl Max Titanium P.Prot. Avelã e Coco 90 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7899941203433",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
