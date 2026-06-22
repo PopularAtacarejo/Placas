@@ -15233,5 +15233,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/06/2026",
+    "hora": "17:54:32",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cr Maos Epile Hidratante 4 em 1 50 g",
+        "preco": "18,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "7896214003196",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cr Dental Colgate Luminous Carvão Ativo 140 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "7509546665306",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Anti-Sept Bucal Menta Zero Alc Oral-B 500 ml",
+        "preco": "16,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "7500435183499",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cr Dental Colgate Natural Carvão Ativo 90 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "6920354824395",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
