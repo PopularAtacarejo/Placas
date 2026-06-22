@@ -8750,5 +8750,77 @@
     "produto": "Bisc. Doce Bicharada 300g",
     "preco": "5,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-20",
+    "horario": "11:37:17",
+    "feito_por": "Jeferson",
+    "produto": "Uva Vitoria",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-22",
+    "horario": "12:00:24",
+    "feito_por": "Jeferson",
+    "produto": "Ovo Luna Grande Filmado C/30 Unid.",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-22",
+    "horario": "14:28:25",
+    "feito_por": "Jeferson",
+    "produto": "Banana Prata",
+    "preco": "4,48",
+    "validade_oferta_ate": "22/06/2026"
+  },
+  {
+    "data": "2026-06-22",
+    "horario": "15:37:04",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Capricho Shortinho HiperM. C/58,G. C/50, Xg. C/42, Xxg. C/36",
+    "preco": "63,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-22",
+    "horario": "15:37:04",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Calca Mamypoko D&n Jbom C/34, g C/30, Xg C/26, Xxg C/22",
+    "preco": "50,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-22",
+    "horario": "15:37:04",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Desc Babysec Shortinho Mega m 30um c/30, g c/24u, Xg c/22, Xxg c/20, Xxxg 16u",
+    "preco": "32,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-22",
+    "horario": "15:37:04",
+    "feito_por": "Jeferson",
+    "produto": "Sh Johnson 200ml diversos",
+    "preco": "14,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-22",
+    "horario": "15:37:04",
+    "feito_por": "Jeferson",
+    "produto": "Cond Inf. Johnson 200ml diversos",
+    "preco": "18,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-22",
+    "horario": "15:37:04",
+    "feito_por": "Jeferson",
+    "produto": "Oleo Inf.Cottonbaby Snoopy Pod.Melanina e hr de ninar",
+    "preco": "25,98",
+    "validade_oferta_ate": ""
   }
 ]
