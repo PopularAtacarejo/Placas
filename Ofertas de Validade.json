@@ -15160,5 +15160,34 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/06/2026",
+    "hora": "15:27:39",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc. Popular Sete Capas Pão Doce 270 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Biscoito Popular Sete Capas Pão Doce 270 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Treloso Rech Brigadeiro 4 pts 480 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/06/2026"
+      }
+    ]
   }
 ]
