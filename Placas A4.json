@@ -7254,5 +7254,13 @@
     "produto": "Presunto Cozido Cogran Fat",
     "preco": "24,98",
     "validade_oferta_ate": "24/06/2026"
+  },
+  {
+    "data": "2026-06-23",
+    "horario": "08:55:53",
+    "feito_por": "Jeferson",
+    "produto": "Mortadela Mista Sadia",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
   }
 ]
