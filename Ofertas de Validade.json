@@ -15422,5 +15422,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "23/06/2026",
+    "hora": "15:48:34",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Preenchedor De Barba King.C. Gillette 50 ml",
+        "preco": "44,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7500435216265",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Abs.Longo Poise Esc.Urina Moder.8 un",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/09/2026",
+        "codigo_barras": "7896007553310",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
