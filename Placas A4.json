@@ -7262,5 +7262,21 @@
     "produto": "Mortadela Mista Sadia",
     "preco": "4,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-23",
+    "horario": "11:17:50",
+    "feito_por": "Jeferson",
+    "produto": "Milho Verde Unid.",
+    "preco": "0,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-23",
+    "horario": "11:17:50",
+    "feito_por": "Jeferson",
+    "produto": "Flocão de Milho Popular",
+    "preco": "1,48",
+    "validade_oferta_ate": ""
   }
 ]
