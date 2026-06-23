@@ -7374,5 +7374,21 @@
     "produto": "Kiwi Kg",
     "preco": "22,98",
     "validade_oferta_ate": "25/06/2026"
+  },
+  {
+    "data": "2026-06-23",
+    "horario": "15:33:59",
+    "feito_por": "Jeferson",
+    "produto": "Refri Cola Pop Pet Zero Acucar 2l",
+    "preco": "2,98",
+    "validade_oferta_ate": "25/06/2026"
+  },
+  {
+    "data": "2026-06-23",
+    "horario": "15:33:59",
+    "feito_por": "Jeferson",
+    "produto": "Água H2oh Limão C/Gás 1,5L",
+    "preco": "4,98",
+    "validade_oferta_ate": "25/06/2026"
   }
 ]
