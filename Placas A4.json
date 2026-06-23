@@ -7238,5 +7238,21 @@
     "produto": "Ling Churrasco Perdigao Mista Kg",
     "preco": "23,98",
     "validade_oferta_ate": "24/06/2026"
+  },
+  {
+    "data": "2026-06-23",
+    "horario": "08:36:58",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Mussarela Novo Horizonte Fat .",
+    "preco": "39,98",
+    "validade_oferta_ate": "24/06/2026"
+  },
+  {
+    "data": "2026-06-23",
+    "horario": "08:36:58",
+    "feito_por": "Jeferson",
+    "produto": "Presunto Cozido Cogran Fat",
+    "preco": "24,98",
+    "validade_oferta_ate": "24/06/2026"
   }
 ]
