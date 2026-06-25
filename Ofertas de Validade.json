@@ -15448,5 +15448,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/06/2026",
+    "hora": "10:35:32",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Cookies Vitarella Chocolate 80 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/07/2026",
+        "codigo_barras": "7896213005719",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
