@@ -10478,5 +10478,573 @@
     "produto": "Morango Congelado Delta 1,02kg",
     "preco": "14,48",
     "validade_oferta_ate": "25/06/2026"
+  },
+  {
+    "data": "2026-06-23",
+    "horario": "15:33:59",
+    "feito_por": "Jeferson",
+    "produto": "Refri Cola Pop Pet Zero Acucar 2l",
+    "preco": "2,98",
+    "validade_oferta_ate": "25/06/2026"
+  },
+  {
+    "data": "2026-06-23",
+    "horario": "15:33:59",
+    "feito_por": "Jeferson",
+    "produto": "Água H2oh Limão C/Gás 1,5L",
+    "preco": "4,98",
+    "validade_oferta_ate": "25/06/2026"
+  },
+  {
+    "data": "2026-06-23",
+    "horario": "16:30:07",
+    "feito_por": "Jeferson",
+    "produto": "Pão de Alho Santa Massa Trad. 400g",
+    "preco": "10,98",
+    "validade_oferta_ate": "29/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "CEBOLA BRANCA KG",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Couve Flor",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "MAMÃO PAPAYA KG",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Melão Cantaloupe Cepi",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Uva Vermelha Pick e Nicky 500g",
+    "preco": "18,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "TOMATE KG",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Alho Descascado",
+    "preco": "45,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Mamão Formosa Kg",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "BATATINHA KG",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Tangerina Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Alface Crespa Hidropônico",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Abacaxi Un",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Abobrinha",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Goiaba Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Manga Tommy Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Alho",
+    "preco": "45,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Laranja Pera Kg",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Melão Redinha Rei Kg",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Manga Rosa",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Limão Siciliano",
+    "preco": "18,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Melancia Magali",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "Acelga",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "08:45:27",
+    "feito_por": "Jeferson",
+    "produto": "TANGERINA IMPORTADA KG",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "10:45:26",
+    "feito_por": "Jeferson",
+    "produto": "Mortadela Sadia Frango 400g",
+    "preco": "1,98",
+    "validade_oferta_ate": "26/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "11:44:53",
+    "feito_por": "Jeferson",
+    "produto": "Pinha",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "11:44:53",
+    "feito_por": "Jeferson",
+    "produto": "Uva Vitoria",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Mac Espg Comum 8 Galo 400g",
+    "preco": "1,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Imperio P.malte Lt 473ml",
+    "preco": "3,48",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Budweiser Lata 350ml",
+    "preco": "3,69",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Energ Red Bull 250ml Div. Sabores",
+    "preco": "8,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Refri Coca Cola Pet 2,5l",
+    "preco": "10,48",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Suco De Uva Integral Oq 1l",
+    "preco": "15,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Mussarela Capelinha Fat Kg",
+    "preco": "44,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Presunt Seara Coz Magro Fat Kg",
+    "preco": "34,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Pão De Queijo 800g Maricota coquetel ou trad",
+    "preco": "14,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Coalho Gabriel Kg",
+    "preco": "44,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Batata Pré-Frita Clássicas Fininhas Mc Cain 1,05kg",
+    "preco": "24,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Hamb. Brasa Burg 56g Picanha ou Mista",
+    "preco": "1,18",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Filé De Peito Frango Lar Bdj 1kg",
+    "preco": "21,48",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Peixe Filé Tilápia Marfree 800g",
+    "preco": "44,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Sorv Fika Frio 2l Div. Sabores",
+    "preco": "26,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Ipanema Clássica",
+    "preco": "9,48",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Desod Aer Monange 150ml Div. Sabores",
+    "preco": "7,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Capricho Shortinho Mega M C/34, G C/30, XG C/26, XXG C/22",
+    "preco": "43,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Desc. Cremer Magic Care C/34 M.",
+    "preco": "26,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Café Maratá Almofada 250g",
+    "preco": "12,48",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Dueto Fugini Sachê 170g",
+    "preco": "3,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Leite Cond Piracanjuba 395g",
+    "preco": "6,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Creme de Leite Piracanjuba 200g",
+    "preco": "2,88",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Feijão Campos Verdes Carioca T 1 1kg",
+    "preco": "8,48",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Mist. P/Bolo Fleischmann 390g Div. Sabores",
+    "preco": "8,78",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Leite Pó Int ou Integral Camponesa 1kg",
+    "preco": "37,48",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Maionese Hellmanns Sh 200g",
+    "preco": "4,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Bisc. Cr. Cracker Petyan Trad. 350g",
+    "preco": "3,48",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Doce Bicharada 300g",
+    "preco": "6,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Wafer Toddy 94g Div. Sabores",
+    "preco": "1,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Whisky Old Parr 1L",
+    "preco": "139,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Salsicha Seara Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Beb Lactea Parmalat Wheyfit 250ml Div. Sabores",
+    "preco": "5,48",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Beb Lact Betânia Bat Gut Sh 900g Div. Sabores",
+    "preco": "6,48",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Sabao Pó Sonho 400g (DIVERSAS FRAGÂNCIAS)",
+    "preco": "2,78",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Deterg Minuano 500ml (DIVERSAS FRAGÂNCIAS)",
+    "preco": "2,48",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Amac Sonho 2L",
+    "preco": "13,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Multiuso Casa&Limp. 500ml (DIVERSAS FRAGRÂNCIAS)",
+    "preco": "9,98",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Água Sanitária Dragão 1L",
+    "preco": "2,48",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Sabonete Lux Botanicals 85g Div. Sabores",
+    "preco": "1,99",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Abs Sempre Livre Adapt Suave C/A C/16 UNID.",
+    "preco": "8,48",
+    "validade_oferta_ate": "30/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "15:30:18",
+    "feito_por": "Jeferson",
+    "produto": "Tint Cor&Ton Div. Cores",
+    "preco": "14,98",
+    "validade_oferta_ate": "30/06/2026"
   }
 ]
