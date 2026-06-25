@@ -7582,5 +7582,13 @@
     "produto": "TANGERINA IMPORTADA KG",
     "preco": "15,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "10:45:26",
+    "feito_por": "Jeferson",
+    "produto": "Mortadela Sadia Frango 400g",
+    "preco": "1,98",
+    "validade_oferta_ate": "26/06/2026"
   }
 ]
