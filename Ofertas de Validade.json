@@ -15465,5 +15465,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/06/2026",
+    "hora": "15:52:03",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Abs.Longo Poise Esc.Urina Moder.8 Unidades",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/09/2026",
+        "codigo_barras": "7896007553310",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Abs.Longo Poise Esc.Urina Moder.8 und",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/09/2026",
+        "codigo_barras": "7896007553310",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Abs.Longo Poise Esc.Urina Moder.8 un",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/09/2026",
+        "codigo_barras": "7896007553310",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
