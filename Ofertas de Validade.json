@@ -15500,5 +15500,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/06/2026",
+    "hora": "16:40:24",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Em Pó Desnatado Inst. Imp Finissima 300 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7898920918511",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
