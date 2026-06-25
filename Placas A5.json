@@ -9670,5 +9670,21 @@
     "produto": "Alface Lisa",
     "preco": "3,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "10:45:26",
+    "feito_por": "Jeferson",
+    "produto": "Mortadela Sadia Frango 400g",
+    "preco": "1,98",
+    "validade_oferta_ate": "26/06/2026"
+  },
+  {
+    "data": "2026-06-25",
+    "horario": "10:58:09",
+    "feito_por": "Jeferson",
+    "produto": "Beb. Whey Piracanjuba 250ml Div.Sabores",
+    "preco": "7,98",
+    "validade_oferta_ate": "26/06/2026"
   }
 ]
