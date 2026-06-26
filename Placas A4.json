@@ -7950,5 +7950,21 @@
     "produto": "Coração de Boi",
     "preco": "13,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-26",
+    "horario": "14:46:39",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Antarctica Original Lt 473ml",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-26",
+    "horario": "14:46:39",
+    "feito_por": "Jeferson",
+    "produto": "Carvão Vegetal Special 2,2Kg",
+    "preco": "16,78",
+    "validade_oferta_ate": ""
   }
 ]
