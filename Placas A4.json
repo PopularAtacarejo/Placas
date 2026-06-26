@@ -7910,5 +7910,45 @@
     "produto": "Chuchu",
     "preco": "3,28",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-26",
+    "horario": "10:41:44",
+    "feito_por": "Jeferson",
+    "produto": "Melancia",
+    "preco": "1,98",
+    "validade_oferta_ate": "28/06/2026"
+  },
+  {
+    "data": "2026-06-26",
+    "horario": "10:41:44",
+    "feito_por": "Jeferson",
+    "produto": "Melao Espanhol",
+    "preco": "2,98",
+    "validade_oferta_ate": "28/06/2026"
+  },
+  {
+    "data": "2026-06-26",
+    "horario": "10:41:44",
+    "feito_por": "Jeferson",
+    "produto": "Tripa Bovina",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-26",
+    "horario": "10:41:44",
+    "feito_por": "Jeferson",
+    "produto": "Bucho Bovino",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-26",
+    "horario": "10:41:44",
+    "feito_por": "Jeferson",
+    "produto": "Coração de Boi",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
   }
 ]
