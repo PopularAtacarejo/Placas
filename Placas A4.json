@@ -7886,5 +7886,29 @@
     "produto": "Linguica Toscana Frimesa Kg",
     "preco": "21,98",
     "validade_oferta_ate": "28/06/2026"
+  },
+  {
+    "data": "2026-06-26",
+    "horario": "08:58:32",
+    "feito_por": "Jeferson",
+    "produto": "Maçã Nacional",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-26",
+    "horario": "08:58:32",
+    "feito_por": "Jeferson",
+    "produto": "Cenoura",
+    "preco": "11,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-26",
+    "horario": "08:58:32",
+    "feito_por": "Jeferson",
+    "produto": "Chuchu",
+    "preco": "3,28",
+    "validade_oferta_ate": ""
   }
 ]
