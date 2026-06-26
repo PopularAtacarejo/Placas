@@ -15543,5 +15543,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "26/06/2026",
+    "hora": "11:06:59",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Prot. Solar Nivea Sun PH FPS 50 400 ml",
+        "preco": "49,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "4005808858217",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Protetor. Solar Nivea Sun PH FPS 50 400 ml",
+        "preco": "49,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "4005808858217",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
