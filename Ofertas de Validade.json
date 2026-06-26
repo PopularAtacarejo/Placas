@@ -15517,5 +15517,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "26/06/2026",
+    "hora": "09:37:48",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite em Pó Betânia Instantâneo ou Integral 750 g",
+        "preco": "28,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7898064011697",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Leite Em Pó Betania Inst. ou Int. 750 g",
+        "preco": "28,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7898064011697",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
