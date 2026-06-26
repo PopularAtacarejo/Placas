@@ -15569,5 +15569,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "26/06/2026",
+    "hora": "17:10:27",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Lacta Intense Nuts 40% Amend Framboe 85 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/07/2026",
+        "codigo_barras": "7622210570598",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
