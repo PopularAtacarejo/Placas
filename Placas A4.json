@@ -7966,5 +7966,21 @@
     "produto": "Carvão Vegetal Special 2,2Kg",
     "preco": "16,78",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-26",
+    "horario": "15:29:46",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/30 Unid.",
+    "preco": "26,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-26",
+    "horario": "15:29:46",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/12 Unid.",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
   }
 ]
