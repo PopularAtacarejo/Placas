@@ -15586,5 +15586,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/06/2026",
+    "hora": "11:21:08",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Granola Prime 1 Kg",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/07/2026",
+        "codigo_barras": "7898690660597",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
