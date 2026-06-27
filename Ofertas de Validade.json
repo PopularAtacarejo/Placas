@@ -15603,5 +15603,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/06/2026",
+    "hora": "11:29:31",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Salg. Elma Chips Fandangos Bacon 35 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "29/06/2026",
+        "codigo_barras": "7892840822835",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
