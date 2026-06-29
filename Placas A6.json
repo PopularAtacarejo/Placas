@@ -11414,5 +11414,37 @@
     "produto": "Catchup Hellmanns Picante 380g",
     "preco": "18,38",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-27",
+    "horario": "10:03:03",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Desc.Cremer Magic Care C/34 M4, g C/30, xg C/24, xxg C/22",
+    "preco": "26,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-29",
+    "horario": "09:18:40",
+    "feito_por": "Jeferson",
+    "produto": "Ovo Luna Grande Fimado C/30Unid",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-29",
+    "horario": "10:24:24",
+    "feito_por": "Jeferson",
+    "produto": "Abs. Mili Mulher Noturno Ultra C/Abas C/8Unidade",
+    "preco": "5,98",
+    "validade_oferta_ate": "31/08/2026"
+  },
+  {
+    "data": "2026-06-29",
+    "horario": "10:24:24",
+    "feito_por": "Jeferson",
+    "produto": "Abs. Mili Mulher Noturno Ultra C/Abas C/16Unidade",
+    "preco": "9,98",
+    "validade_oferta_ate": "31/08/2026"
   }
 ]
