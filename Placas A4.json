@@ -8038,5 +8038,37 @@
     "produto": "Ovo Luna Grande Fimado C/30Unid",
     "preco": "16,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-29",
+    "horario": "12:36:42",
+    "feito_por": "Jeferson",
+    "produto": "Água Mineral Monte Carlo 1,5lt",
+    "preco": "2,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-29",
+    "horario": "12:36:42",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Pepsi Black Pet 1lt",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-29",
+    "horario": "12:36:42",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Guarana Antarctica Pet 1L",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-29",
+    "horario": "12:36:42",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Guarana Antarctica Pet 2L",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
   }
 ]
