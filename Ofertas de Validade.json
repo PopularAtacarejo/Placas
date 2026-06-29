@@ -15620,5 +15620,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/06/2026",
+    "hora": "09:00:11",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Sh. Inf. Johnson Baby Gold Refil 180 ml",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7891010256487",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc. Marilan Int. Lev. Cacau e Cere 150 g",
+        "preco": "4,88",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7896003706857",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
