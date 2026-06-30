@@ -15969,5 +15969,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/06/2026",
+    "hora": "14:44:56",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Creme De Ricota Galbani 200 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/07/2026",
+        "codigo_barras": "7891097105975",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mort Defumada Ouro Fatiada 200 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7891515434311",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Requeijão Nestlé Tradicional 200 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7891000084649",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Requeijão Poços De Caldas Cheddar 200 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7891097104800",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
