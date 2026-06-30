@@ -15646,5 +15646,20 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/06/2026",
+    "hora": "09:52:25",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc d Licia Diversos Sabores 135 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/07/2026"
+      }
+    ]
   }
 ]
