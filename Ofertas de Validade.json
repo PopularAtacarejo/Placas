@@ -16187,5 +16187,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/06/2026",
+    "hora": "15:44:44",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb Láctea Elege Morango Bdj 510 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/07/2026",
+        "codigo_barras": "7891097088346",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Polpa Betania Ameixa/Morango 540 g",
+        "preco": "6,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/07/2026",
+        "codigo_barras": "7898403780970",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Activia Zero Ameixa Danone 170 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/07/2026",
+        "codigo_barras": "7891025117131",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Beb Láctea Bob Esponja Mor Bdj 510 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/07/2026",
+        "codigo_barras": "7891097101465",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
