@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-06-30T14:28:21",
+  "atualizado_em": "2026-06-30T15:39:33",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3587,7 +3587,8 @@
     "leite ferm itambe kids laranja | massa:80g": {
       "descricao": "Leite Ferm Itambe Kids Laranja 80 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7896051126072",
+      "hits": 3,
       "aliases": [
         "leite ferm itambe kids laranja 80 g",
         "leite ferm itambe kids laranja 80g",
@@ -3598,7 +3599,7 @@
         "massa:80g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:59:44"
+      "atualizado_em": "2026-06-30T15:39:33"
     },
     "iog actimel morango+lc danone | massa:100g": {
       "descricao": "Iog Actimel Morango+lc Danone 100 g",
@@ -8412,7 +8413,8 @@
     "iog danone activia gf ameixa | massa:170g": {
       "descricao": "Iog Danone Activia Gf Ameixa 170 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891025109419",
+      "hits": 3,
       "aliases": [
         "iog danone activia gf 170g ameixa",
         "iog danone activia gf ameixa 170 g",
@@ -8423,7 +8425,7 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-30T15:39:33"
     },
     "iog danone yopro natural | massa:160g": {
       "descricao": "Iog Danone Yopro Natural 160 g",
@@ -8444,7 +8446,8 @@
     "iog danone mix frutas bdj | massa:510g": {
       "descricao": "Iog Danone Mix Frutas Bdj 510 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891025121633",
+      "hits": 3,
       "aliases": [
         "iog danone mix frutas bdj 510 g",
         "iog danone mix frutas bdj 510g",
@@ -8455,7 +8458,7 @@
         "massa:510g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-30T15:39:33"
     },
     "beb lact engenho gf ameixa | massa:180g": {
       "descricao": "Beb Lact Engenho Gf Ameixa 180 g",
@@ -8717,7 +8720,8 @@
     "iog nestle batido zero | massa:1150g": {
       "descricao": "Iog Nestlé Batido Zero 1,150 kg",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7898755200362",
+      "hits": 3,
       "aliases": [
         "iog nestle batido zero 1 150 kg",
         "iog nestle batido zero 1 150kg",
@@ -8728,7 +8732,7 @@
         "massa:1150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-30T15:39:33"
     },
     "beb lact engenho gf mamao maca e banana | massa:180g": {
       "descricao": "Beb Lact Engenho Gf Mamão, Maçã e Banana 180 g",
@@ -8781,7 +8785,8 @@
     "iog activia zero ameixa danone | massa:170g": {
       "descricao": "Iog Activia Zero Ameixa Danone 170 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891025117131",
+      "hits": 3,
       "aliases": [
         "iog activia zero ameixa danone 170 g",
         "iog activia zero ameixa danone 170g",
@@ -8792,7 +8797,7 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-30T15:39:33"
     },
     "iog danone activia ameixa | massa:150g": {
       "descricao": "Iog Danone Activia Ameixa 150 g",
@@ -8845,7 +8850,8 @@
     "beb lactea bob esponja mor bdj | massa:510g": {
       "descricao": "Beb Láctea Bob Esponja Mor Bdj 510 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891097101465",
+      "hits": 3,
       "aliases": [
         "beb lactea bob esponja mor bdj 510 g",
         "beb lactea bob esponja mor bdj 510g",
@@ -8856,12 +8862,13 @@
         "massa:510g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-30T15:39:33"
     },
     "iog danone activia morango | massa:150g": {
       "descricao": "Iog Danone Activia Morango 150 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891025102656",
+      "hits": 3,
       "aliases": [
         "iog danone activia 150g morango",
         "iog danone activia morango 150 g",
@@ -8872,7 +8879,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-30T15:39:33"
     },
     "iog desnatado triplo zero morango | massa:850g": {
       "descricao": "Iog.Desnatado Triplo Zero Morango 850 g",
@@ -8909,7 +8916,8 @@
     "beb lactea elege mor/amx bdj | massa:510g": {
       "descricao": "Beb Láctea Elege Mor/Amx Bdj 510 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891097101748",
+      "hits": 3,
       "aliases": [
         "beb lactea elege mor amx bdj 510 g",
         "beb lactea elege mor amx bdj 510g",
@@ -8920,7 +8928,7 @@
         "massa:510g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-30T15:39:33"
     },
     "iog verde campo whey 11 ban/can | massa:140g": {
       "descricao": "Iog Verde Campo Whey 11 Ban/Can 140 g",
@@ -13368,6 +13376,210 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "iog pense zero mor bdj | massa:510g": {
+      "descricao": "Iog Pense Zero Mor Bdj 510 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097107153",
+      "hits": 1,
+      "aliases": [
+        "iog pense zero mor bdj 510 g",
+        "iog pense zero mor bdj 510g",
+        "iog pense zero mor bdj | massa:510g"
+      ],
+      "descricao_base": "iog pense zero mor bdj",
+      "medidas": [
+        "massa:510g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T15:39:33"
+    },
+    "beb lact bom leite bdj acai/banana | massa:540g": {
+      "descricao": "Beb Lact Bom Leite Bdj Açaí/Banana 540 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898118392079",
+      "hits": 1,
+      "aliases": [
+        "beb lact bom leite bdj 540g acai banana",
+        "beb lact bom leite bdj acai banana 540 g",
+        "beb lact bom leite bdj acai/banana | massa:540g"
+      ],
+      "descricao_base": "beb lact bom leite bdj acai/banana",
+      "medidas": [
+        "massa:540g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T15:39:33"
+    },
+    "iog batavo grego pense zero trad | massa:100g": {
+      "descricao": "Iog Batavo Grego Pense Zero Trad 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097000720",
+      "hits": 1,
+      "aliases": [
+        "iog batavo grego pense zero trad 100 g",
+        "iog batavo grego pense zero trad 100g",
+        "iog batavo grego pense zero trad | massa:100g"
+      ],
+      "descricao_base": "iog batavo grego pense zero trad",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T15:39:33"
+    },
+    "iog nestle bicamada frts vermelhas | massa:150g": {
+      "descricao": "Iog Nestlé Bicamada Frts Vermelhas 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000390078",
+      "hits": 1,
+      "aliases": [
+        "iog nestle bicamada frts vermelhas 150 g",
+        "iog nestle bicamada frts vermelhas 150g",
+        "iog nestle bicamada frts vermelhas | massa:150g"
+      ],
+      "descricao_base": "iog nestle bicamada frts vermelhas",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T15:39:33"
+    },
+    "leite ferm elege bob esponja mor | massa:80g": {
+      "descricao": "Leite Ferm Elege Bob Esponja Mor 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097087431",
+      "hits": 1,
+      "aliases": [
+        "leite ferm elege bob esponja mor 80 g",
+        "leite ferm elege bob esponja mor 80g",
+        "leite ferm elege bob esponja mor | massa:80g"
+      ],
+      "descricao_base": "leite ferm elege bob esponja mor",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T15:39:33"
+    },
+    "iog pedacos de coco pense zr | massa:100g": {
+      "descricao": "Iog Pedaços De Coco Pense Zr 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097107023",
+      "hits": 1,
+      "aliases": [
+        "iog pedacos de coco pense zr 100 g",
+        "iog pedacos de coco pense zr 100g",
+        "iog pedacos de coco pense zr | massa:100g"
+      ],
+      "descricao_base": "iog pedacos de coco pense zr",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T15:39:33"
+    },
+    "iog betania yobem trip zero pap/lin | massa:850g": {
+      "descricao": "Iog Betania Yobem Trip Zero Pap/Lin 850 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898403782103",
+      "hits": 1,
+      "aliases": [
+        "iog betania yobem trip zero 850g pap lin",
+        "iog betania yobem trip zero pap lin 850 g",
+        "iog betania yobem trip zero pap/lin | massa:850g"
+      ],
+      "descricao_base": "iog betania yobem trip zero pap/lin",
+      "medidas": [
+        "massa:850g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T15:39:33"
+    },
+    "beb lactea elege morango bdj | massa:510g": {
+      "descricao": "Beb Láctea Elege Morango Bdj 510 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097088346",
+      "hits": 1,
+      "aliases": [
+        "beb lactea elege morango bdj 510 g",
+        "beb lactea elege morango bdj 510g",
+        "beb lactea elege morango bdj | massa:510g"
+      ],
+      "descricao_base": "beb lactea elege morango bdj",
+      "medidas": [
+        "massa:510g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T15:39:33"
+    },
+    "iog polpa betania ameixa/morango | massa:540g": {
+      "descricao": "Iog Polpa Betania Ameixa/Morango 540 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898403780970",
+      "hits": 1,
+      "aliases": [
+        "iog polpa betania 540g ameixa morango",
+        "iog polpa betania ameixa morango 540 g",
+        "iog polpa betania ameixa/morango | massa:540g"
+      ],
+      "descricao_base": "iog polpa betania ameixa/morango",
+      "medidas": [
+        "massa:540g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T15:39:33"
+    },
+    "iog batavo grego pt morango | massa:100g": {
+      "descricao": "Iog Batavo Grego Pt Morango 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097000256",
+      "hits": 1,
+      "aliases": [
+        "iog batavo grego pt morango 100 g",
+        "iog batavo grego pt morango 100g",
+        "iog batavo grego pt morango | massa:100g"
+      ],
+      "descricao_base": "iog batavo grego pt morango",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T15:39:33"
+    },
+    "beb lact frutigutti ameixa grf | massa:170g": {
+      "descricao": "Beb Lact Frutigutti Ameixa Grf 170 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898022210100",
+      "hits": 1,
+      "aliases": [
+        "beb lact frutigutti ameixa grf 170 g",
+        "beb lact frutigutti ameixa grf 170g",
+        "beb lact frutigutti ameixa grf | massa:170g"
+      ],
+      "descricao_base": "beb lact frutigutti ameixa grf",
+      "medidas": [
+        "massa:170g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T15:39:33"
+    },
+    "beb lact frutigutti ameixa light grf | massa:170g": {
+      "descricao": "Beb Lact Frutigutti Ameixa Light Grf 170 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898022210995",
+      "hits": 1,
+      "aliases": [
+        "beb lact frutigutti ameixa light grf 170 g",
+        "beb lact frutigutti ameixa light grf 170g",
+        "beb lact frutigutti ameixa light grf | massa:170g"
+      ],
+      "descricao_base": "beb lact frutigutti ameixa light grf",
+      "medidas": [
+        "massa:170g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T15:39:33"
     }
   }
 }
