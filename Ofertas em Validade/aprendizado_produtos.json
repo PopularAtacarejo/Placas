@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-06-23T11:27:38",
+  "atualizado_em": "2026-06-30T14:28:21",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3250,7 +3250,8 @@
     "requeijao frimesa crem light | massa:200g": {
       "descricao": "Requeijão Frimesa Crem Light 200 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7896275960209",
+      "hits": 3,
       "aliases": [
         "requeijao frimesa crem light 200 g",
         "requeijao frimesa crem light 200g",
@@ -3261,7 +3262,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-06-30T14:28:21"
     },
     "queijo cheddar frimesa fatiado | massa:150g": {
       "descricao": "Queijo Cheddar Frimesa Fatiado 150 g",
@@ -3282,7 +3283,8 @@
     "requeijao pocos de caldas cheddar | massa:200g": {
       "descricao": "Requeijão Poços De Caldas Cheddar 200 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891097104800",
+      "hits": 3,
       "aliases": [
         "requeijao pocos de caldas cheddar 200 g",
         "requeijao pocos de caldas cheddar 200g",
@@ -3293,7 +3295,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-06-30T14:28:21"
     },
     "queijo processado polenguinho orig | massa:68g": {
       "descricao": "Queijo Processado Polenguinho Orig 68 g",
@@ -3330,7 +3332,8 @@
     "massa de pastel pasticrem t aniv | massa:500g": {
       "descricao": "Massa De Pastel Pasticrem T. Aniv 500 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "codigo_barras": "7896109200044",
+      "hits": 4,
       "aliases": [
         "massa de pastel pasticrem t aniv 500 g",
         "massa de pastel pasticrem t aniv 500g",
@@ -3341,7 +3344,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-12T10:05:15"
+      "atualizado_em": "2026-06-30T14:28:21"
     },
     "manteiga tirolez com sal pt | massa:200g": {
       "descricao": "Manteiga Tirolez Com Sal Pt 200 g",
@@ -3378,7 +3381,8 @@
     "creme de ricota galbani | massa:200g": {
       "descricao": "Creme De Ricota Galbani 200 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891097105975",
+      "hits": 3,
       "aliases": [
         "creme de ricota galbani 200 g",
         "creme de ricota galbani 200g",
@@ -3389,7 +3393,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-06-30T14:28:21"
     },
     "chantilly president | massa:250g": {
       "descricao": "Chantilly President 250 g",
@@ -3426,7 +3430,8 @@
     "salamitos aurora | massa:100g": {
       "descricao": "Salamitos Aurora 100 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "codigo_barras": "7891164006204",
+      "hits": 4,
       "aliases": [
         "salamitos aurora 100 g",
         "salamitos aurora 100g",
@@ -3437,7 +3442,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-12T10:05:15"
+      "atualizado_em": "2026-06-30T14:28:21"
     },
     "salame tp italiano defum ceratti | massa:100g": {
       "descricao": "Salame Tp Italiano Defum Ceratti 100 g",
@@ -4407,7 +4412,8 @@
     "salsicha de frango sadia | massa:500g": {
       "descricao": "Salsicha De Frango Sadia 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7893000719279",
+      "hits": 2,
       "aliases": [
         "salsicha de frango sadia 500 g",
         "salsicha de frango sadia 500g",
@@ -4418,7 +4424,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-12T10:05:15"
+      "atualizado_em": "2026-06-30T14:28:21"
     },
     "salsicha de peru sadia light | massa:500g": {
       "descricao": "Salsicha De Peru Sadia Light 500 g",
@@ -5619,21 +5625,23 @@
       "atualizado_em": "2026-06-17T15:11:21"
     },
     "bisc vitarella maria tradicional | massa:350g": {
-      "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
+      "descricao": "Bisc Vitarella Maria Tradicional 350 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896213006358",
+      "hits": 2,
       "aliases": [
         "bisc cr cracker vitarella tostadinha 350 g",
         "bisc cr cracker vitarella tostadinha | massa:350g",
+        "bisc vitarella maria tradicional 350 g",
         "bisc vitarella maria tradicional 350g",
         "bisc vitarella maria tradicional | massa:350g"
       ],
-      "descricao_base": "bisc cr cracker vitarella tostadinha",
+      "descricao_base": "bisc vitarella maria tradicional",
       "medidas": [
         "massa:350g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-14T07:55:04"
+      "atualizado_em": "2026-06-30T14:28:21"
     },
     "barra choc barra talento meio amargo | massa:85g": {
       "descricao": "Barra Choc Barra Talento Meio Amargo 85 g",
@@ -9314,7 +9322,8 @@
     "manteiga davaca s/sal | massa:200g": {
       "descricao": "Manteiga Davaca s/sal 200 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7897318573288",
+      "hits": 3,
       "aliases": [
         "manteiga davaca s sal 200 g",
         "manteiga davaca s sal 200g",
@@ -9325,7 +9334,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-06-30T14:28:21"
     },
     "queijo processado polenguinho zr lac | massa:68g": {
       "descricao": "Queijo Processado Polenguinho Zr Lac 68 g",
@@ -9362,7 +9371,8 @@
     "massa de pastel fam pasticrem | massa:500g": {
       "descricao": "Massa De Pastel Fam. Pasticrem 500 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "codigo_barras": "7896109200020",
+      "hits": 4,
       "aliases": [
         "massa de pastel fam pasticrem 500 g",
         "massa de pastel fam pasticrem 500g",
@@ -9373,7 +9383,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-05T14:45:58"
+      "atualizado_em": "2026-06-30T14:28:21"
     },
     "requeijao vigor cremoso light | massa:200g": {
       "descricao": "Requeijão Vigor Cremoso Light 200 g",
@@ -9518,7 +9528,8 @@
     "massa de pastel luiza aniversario | massa:500g": {
       "descricao": "Massa De Pastel Luiza Aniversario 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7898970918059",
+      "hits": 2,
       "aliases": [
         "massa de pastel luiza aniversario 500 g",
         "massa de pastel luiza aniversario 500g",
@@ -9529,7 +9540,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-05T14:45:58"
+      "atualizado_em": "2026-06-30T14:28:21"
     },
     "marg claybom c/sal | massa:500g": {
       "descricao": "Marg Claybom c/sal 500 g",
@@ -12864,6 +12875,499 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-06-23T11:27:38"
+    },
+    "pate de presunto sadia | massa:100g": {
+      "descricao": "Patê De Presunto Sadia 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7893000004757",
+      "hits": 1,
+      "aliases": [
+        "pate de presunto sadia 100 g",
+        "pate de presunto sadia 100g",
+        "pate de presunto sadia | massa:100g"
+      ],
+      "descricao_base": "pate de presunto sadia",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "pao forma bauducco multigraos | massa:390g": {
+      "descricao": "Pão Forma Bauducco Multigrãos 390 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891962067278",
+      "hits": 1,
+      "aliases": [
+        "pao forma bauducco multigraos 390 g",
+        "pao forma bauducco multigraos 390g",
+        "pao forma bauducco multigraos | massa:390g"
+      ],
+      "descricao_base": "pao forma bauducco multigraos",
+      "medidas": [
+        "massa:390g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "pao tradicao integral | massa:400g": {
+      "descricao": "Pão Tradição Integral 400 gr",
+      "unidade": "Unid.",
+      "codigo_barras": "7896002311427",
+      "hits": 1,
+      "aliases": [
+        "pao tradicao integral 400 gr",
+        "pao tradicao integral 400gr",
+        "pao tradicao integral | massa:400g"
+      ],
+      "descricao_base": "pao tradicao integral",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "pao forma special integral | massa:400g": {
+      "descricao": "Pão Forma Special Integral 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898907040921",
+      "hits": 1,
+      "aliases": [
+        "pao forma special integral 400 g",
+        "pao forma special integral 400g",
+        "pao forma special integral | massa:400g"
+      ],
+      "descricao_base": "pao forma special integral",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "pao forma special leite | massa:400g": {
+      "descricao": "Pão Forma Special Leite 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7908028700526",
+      "hits": 1,
+      "aliases": [
+        "pao forma special leite 400 g",
+        "pao forma special leite 400g",
+        "pao forma special leite | massa:400g"
+      ],
+      "descricao_base": "pao forma special leite",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "pao forma plusvita integral | massa:480g": {
+      "descricao": "Pão Forma Plusvita Integral 480 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896002300155",
+      "hits": 1,
+      "aliases": [
+        "pao forma plusvita integral 480 g",
+        "pao forma plusvita integral 480g",
+        "pao forma plusvita integral | massa:480g"
+      ],
+      "descricao_base": "pao forma plusvita integral",
+      "medidas": [
+        "massa:480g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "requeijao frutigutti sabor cheddar | massa:180g": {
+      "descricao": "Requeijão Frutigutti Sabor Cheddar 180 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898022211077",
+      "hits": 1,
+      "aliases": [
+        "requeijao frutigutti sabor cheddar 180 g",
+        "requeijao frutigutti sabor cheddar 180g",
+        "requeijao frutigutti sabor cheddar | massa:180g"
+      ],
+      "descricao_base": "requeijao frutigutti sabor cheddar",
+      "medidas": [
+        "massa:180g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "massa pastel bom leite festa | massa:500g": {
+      "descricao": "Massa Pastel Bom Leite Festa 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898970918189",
+      "hits": 1,
+      "aliases": [
+        "massa pastel bom leite festa 500 g",
+        "massa pastel bom leite festa 500g",
+        "massa pastel bom leite festa | massa:500g"
+      ],
+      "descricao_base": "massa pastel bom leite festa",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "requeijao cremoso trad catupiry sc | massa:250g": {
+      "descricao": "Requeijão Cremoso Trad Catupiry Sc 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896353300033",
+      "hits": 1,
+      "aliases": [
+        "requeijao cremoso trad catupiry sc 250 g",
+        "requeijao cremoso trad catupiry sc 250g",
+        "requeijao cremoso trad catupiry sc | massa:250g"
+      ],
+      "descricao_base": "requeijao cremoso trad catupiry sc",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "requeijao crem regina queijo suico | massa:180g": {
+      "descricao": "Requeijão Crem Regina Queijo Suíço 180 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896010400717",
+      "hits": 1,
+      "aliases": [
+        "requeijao crem regina queijo suico 180 g",
+        "requeijao crem regina queijo suico 180g",
+        "requeijao crem regina queijo suico | massa:180g"
+      ],
+      "descricao_base": "requeijao crem regina queijo suico",
+      "medidas": [
+        "massa:180g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "massa de pastel comercial pasticrem | massa:500g": {
+      "descricao": "Massa De Pastel Comercial Pasticrem 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896109200037",
+      "hits": 1,
+      "aliases": [
+        "massa de pastel comercial pasticrem 500 g",
+        "massa de pastel comercial pasticrem 500g",
+        "massa de pastel comercial pasticrem | massa:500g"
+      ],
+      "descricao_base": "massa de pastel comercial pasticrem",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "mortadela fat def vacuo sd | massa:180g": {
+      "descricao": "Mortadela Fat Def Vacuo Sd 180 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515598259",
+      "hits": 1,
+      "aliases": [
+        "mortadela fat def vacuo sd 180 g",
+        "mortadela fat def vacuo sd 180g",
+        "mortadela fat def vacuo sd | massa:180g"
+      ],
+      "descricao_base": "mortadela fat def vacuo sd",
+      "medidas": [
+        "massa:180g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "queijo cream cheese polenghi zr lac | massa:150g": {
+      "descricao": "Queijo Cream Cheese Polenghi Zr Lac 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891143019058",
+      "hits": 1,
+      "aliases": [
+        "queijo cream cheese polenghi zr lac 150 g",
+        "queijo cream cheese polenghi zr lac 150g",
+        "queijo cream cheese polenghi zr lac | massa:150g"
+      ],
+      "descricao_base": "queijo cream cheese polenghi zr lac",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "manteiga piracanjuba s/sal pote | massa:200g": {
+      "descricao": "Manteiga Piracanjuba s/sal Pote 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898215151470",
+      "hits": 1,
+      "aliases": [
+        "manteiga piracanjuba s sal pote 200 g",
+        "manteiga piracanjuba s sal pote 200g",
+        "manteiga piracanjuba s/sal pote | massa:200g"
+      ],
+      "descricao_base": "manteiga piracanjuba s/sal pote",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "requeijao cremoso catupiry light | massa:200g": {
+      "descricao": "Requeijão Cremoso Catupiry Light 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896353301191",
+      "hits": 1,
+      "aliases": [
+        "requeijao cremoso catupiry light 200 g",
+        "requeijao cremoso catupiry light 200g",
+        "requeijao cremoso catupiry light | massa:200g"
+      ],
+      "descricao_base": "requeijao cremoso catupiry light",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "manteiga extra c/sal catupiry | massa:200g": {
+      "descricao": "Manteiga Extra c/sal Catupiry 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896353302969",
+      "hits": 1,
+      "aliases": [
+        "manteiga extra c sal catupiry 200 g",
+        "manteiga extra c sal catupiry 200g",
+        "manteiga extra c/sal catupiry | massa:200g"
+      ],
+      "descricao_base": "manteiga extra c/sal catupiry",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "queijo prato fat president | massa:150g": {
+      "descricao": "Queijo Prato Fat President 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898955617519",
+      "hits": 1,
+      "aliases": [
+        "queijo prato fat president 150 g",
+        "queijo prato fat president 150g",
+        "queijo prato fat president | massa:150g"
+      ],
+      "descricao_base": "queijo prato fat president",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "mort ouro fatiada ervas finas | massa:200g": {
+      "descricao": "Mort Ouro Fatiada Ervas Finas 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515539177",
+      "hits": 1,
+      "aliases": [
+        "mort ouro fatiada ervas finas 200 g",
+        "mort ouro fatiada ervas finas 200g",
+        "mort ouro fatiada ervas finas | massa:200g"
+      ],
+      "descricao_base": "mort ouro fatiada ervas finas",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "queijo brie faixa azul | massa:120g": {
+      "descricao": "Queijo Brie Faixa Azul 120 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896625211906",
+      "hits": 1,
+      "aliases": [
+        "queijo brie faixa azul 120 g",
+        "queijo brie faixa azul 120g",
+        "queijo brie faixa azul | massa:120g"
+      ],
+      "descricao_base": "queijo brie faixa azul",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "queijo brie regina triangulo | massa:115g": {
+      "descricao": "Queijo Brie Regina Triangulo 115 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896010400434",
+      "hits": 1,
+      "aliases": [
+        "queijo brie regina triangulo 115 g",
+        "queijo brie regina triangulo 115g",
+        "queijo brie regina triangulo | massa:115g"
+      ],
+      "descricao_base": "queijo brie regina triangulo",
+      "medidas": [
+        "massa:115g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "mort defumada ouro fatiada | massa:200g": {
+      "descricao": "Mort Defumada Ouro Fatiada 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515434311",
+      "hits": 1,
+      "aliases": [
+        "mort defumada ouro fatiada 200 g",
+        "mort defumada ouro fatiada 200g",
+        "mort defumada ouro fatiada | massa:200g"
+      ],
+      "descricao_base": "mort defumada ouro fatiada",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "requeijao nestle tradicional | massa:200g": {
+      "descricao": "Requeijão Nestlé Tradicional 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000084649",
+      "hits": 1,
+      "aliases": [
+        "requeijao nestle tradicional 200 g",
+        "requeijao nestle tradicional 200g",
+        "requeijao nestle tradicional | massa:200g"
+      ],
+      "descricao_base": "requeijao nestle tradicional",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "requeijao catupiry lactozero | massa:150g": {
+      "descricao": "Requeijão Catupiry Lactozero 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896353302204",
+      "hits": 1,
+      "aliases": [
+        "requeijao catupiry lactozero 150 g",
+        "requeijao catupiry lactozero 150g",
+        "requeijao catupiry lactozero | massa:150g"
+      ],
+      "descricao_base": "requeijao catupiry lactozero",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "queijo davaca prato fatiado | massa:150g": {
+      "descricao": "Queijo Davaca Prato Fatiado 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897318572830",
+      "hits": 1,
+      "aliases": [
+        "queijo davaca prato fatiado 150 g",
+        "queijo davaca prato fatiado 150g",
+        "queijo davaca prato fatiado | massa:150g"
+      ],
+      "descricao_base": "queijo davaca prato fatiado",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "queijo mussa zero lac frimesa | massa:150g": {
+      "descricao": "Queijo Mussa Zero Lac Frimesa 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896275985332",
+      "hits": 1,
+      "aliases": [
+        "queijo mussa zero lac frimesa 150 g",
+        "queijo mussa zero lac frimesa 150g",
+        "queijo mussa zero lac frimesa | massa:150g"
+      ],
+      "descricao_base": "queijo mussa zero lac frimesa",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "requeijao nestle light | massa:200g": {
+      "descricao": "Requeijão Nestlé Light 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000084663",
+      "hits": 1,
+      "aliases": [
+        "requeijao nestle light 200 g",
+        "requeijao nestle light 200g",
+        "requeijao nestle light | massa:200g"
+      ],
+      "descricao_base": "requeijao nestle light",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "queijo cream cheese catupiry | massa:150g": {
+      "descricao": "Queijo Cream Cheese Catupiry 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896353300941",
+      "hits": 1,
+      "aliases": [
+        "queijo cream cheese catupiry 150 g",
+        "queijo cream cheese catupiry 150g",
+        "queijo cream cheese catupiry | massa:150g"
+      ],
+      "descricao_base": "queijo cream cheese catupiry",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "creme de ricota light president | massa:200g": {
+      "descricao": "Creme De Ricota Light President 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097000997",
+      "hits": 1,
+      "aliases": [
+        "creme de ricota light president 200 g",
+        "creme de ricota light president 200g",
+        "creme de ricota light president | massa:200g"
+      ],
+      "descricao_base": "creme de ricota light president",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
+    },
+    "creme minas frescal tirolez | massa:150g": {
+      "descricao": "Creme Minas Frescal Tirolez 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896030521614",
+      "hits": 1,
+      "aliases": [
+        "creme minas frescal tirolez 150 g",
+        "creme minas frescal tirolez 150g",
+        "creme minas frescal tirolez | massa:150g"
+      ],
+      "descricao_base": "creme minas frescal tirolez",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-06-30T14:28:21"
     }
   }
 }
