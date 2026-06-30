@@ -16143,5 +16143,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/06/2026",
+    "hora": "15:43:14",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Nestlé Batido Zero 1,150 kg",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/07/2026",
+        "codigo_barras": "7898755200362",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Pedaços De Coco Pense Zr 100 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/07/2026",
+        "codigo_barras": "7891097107023",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Betania Yobem Trip Zero Pap/Lin 850 g",
+        "preco": "14,48",
+        "unidade": "Unid.",
+        "validade_oferta": "03/07/2026",
+        "codigo_barras": "7898403782103",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Danone Activia Gf Ameixa 170 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "08/07/2026",
+        "codigo_barras": "7891025109419",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
