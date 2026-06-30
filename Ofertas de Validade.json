@@ -16013,5 +16013,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/06/2026",
+    "hora": "14:47:01",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Requeijão Catupiry Lactozero 150 g",
+        "preco": "9,48",
+        "unidade": "Unid.",
+        "validade_oferta": "17/07/2026",
+        "codigo_barras": "7896353302204",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Queijo Coalho Engenho Zero Lactose Kg",
+        "preco": "48,98",
+        "unidade": "Kg",
+        "validade_oferta": "09/07/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Queijo Davaca Prato Fatiado 150 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/07/2026",
+        "codigo_barras": "7897318572830",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Queijo Mussa Zero Lac Frimesa 150 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/07/2026",
+        "codigo_barras": "7896275985332",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
