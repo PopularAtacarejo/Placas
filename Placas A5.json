@@ -10198,5 +10198,61 @@
     "produto": "Refresco Frisco 18g Div. Sabores",
     "preco": "1,28",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-27",
+    "horario": "10:03:03",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Desc.Cremer Magic Care C/34 M4, g C/30, xg C/24, xxg C/22",
+    "preco": "26,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-29",
+    "horario": "09:18:40",
+    "feito_por": "Jeferson",
+    "produto": "Ovo Luna Grande Fimado C/30Unid",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-29",
+    "horario": "12:36:42",
+    "feito_por": "Jeferson",
+    "produto": "Água Mineral Monte Carlo 1,5lt",
+    "preco": "2,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-29",
+    "horario": "12:36:42",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Pepsi Black Pet 1lt",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-29",
+    "horario": "12:36:42",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Guarana Antarctica Pet 1L",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-29",
+    "horario": "12:36:42",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Guarana Antarctica Pet 2L",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-06-30",
+    "horario": "14:15:29",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Skol 473ml Multipack",
+    "preco": "49,98",
+    "validade_oferta_ate": ""
   }
 ]
