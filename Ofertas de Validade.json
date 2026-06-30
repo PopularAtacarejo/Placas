@@ -15837,5 +15837,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/06/2026",
+    "hora": "14:38:48",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Massa De Pastel Pasticrem T. Aniv 500 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/07/2026",
+        "codigo_barras": "7896109200044",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Massa De Pastel Fam. Pasticrem 500 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/07/2026",
+        "codigo_barras": "7896109200020",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Manteiga Piracanjuba s/sal Pote 200 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/07/2026",
+        "codigo_barras": "7898215151470",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Requeijão Cremoso Catupiry Light 200 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "09/07/2026",
+        "codigo_barras": "7896353301191",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
