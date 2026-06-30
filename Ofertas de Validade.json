@@ -15661,5 +15661,49 @@
         "validade_oferta": "28/07/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/06/2026",
+    "hora": "14:30:34",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Vitarella Maria Tradicional 350 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/07/2026",
+        "codigo_barras": "7896213006358",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Patê De Presunto Sadia 100 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/07/2026",
+        "codigo_barras": "7893000004757",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pão Forma Bauducco Multigrãos 390 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/07/2026",
+        "codigo_barras": "7891962067278",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Pão Tradição Integral 400 gr",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/07/2026",
+        "codigo_barras": "7896002311427",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
