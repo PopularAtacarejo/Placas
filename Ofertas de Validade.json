@@ -15749,5 +15749,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/06/2026",
+    "hora": "14:34:32",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Requeijão Frutigutti Sabor Cheddar 180 g",
+        "preco": "6,48",
+        "unidade": "Unid.",
+        "validade_oferta": "09/07/2026",
+        "codigo_barras": "7898022211077",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Massa Pastel Bom Leite Festa 500 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/07/2026",
+        "codigo_barras": "7898970918189",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Requeijão Cremoso Trad Catupiry Sc 250 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7896353300033",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Requeijão Crem Regina Queijo Suíço 180 g",
+        "preco": "10,48",
+        "unidade": "Unid.",
+        "validade_oferta": "22/07/2026",
+        "codigo_barras": "7896010400717",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
