@@ -15793,5 +15793,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/06/2026",
+    "hora": "14:36:43",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Massa De Pastel Comercial Pasticrem 500 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/07/2026",
+        "codigo_barras": "7896109200037",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Salamitos Aurora 100 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/07/2026",
+        "codigo_barras": "7891164006204",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mortadela Fat Def Vacuo Sd 180 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/07/2026",
+        "codigo_barras": "7891515598259",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Queijo Cream Cheese Polenghi Zr Lac 150 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/07/2026",
+        "codigo_barras": "7891143019058",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
