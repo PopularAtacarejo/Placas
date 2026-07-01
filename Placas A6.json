@@ -11638,5 +11638,45 @@
     "produto": "Gelatina Lowcucar 10g Div. Sabores",
     "preco": "3,48",
     "validade_oferta_ate": "02/07/2026"
+  },
+  {
+    "data": "2026-07-01",
+    "horario": "11:39:45",
+    "feito_por": "Jeferson",
+    "produto": "Refrigerante Fanta Cajú Lt 350ml",
+    "preco": "3,19",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-01",
+    "horario": "11:39:45",
+    "feito_por": "Jeferson",
+    "produto": "Refrigerante Fanta Laranja Lt 350ml",
+    "preco": "3,19",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-01",
+    "horario": "11:39:45",
+    "feito_por": "Jeferson",
+    "produto": "Refrigerante Fanta Uva Lt 350ml",
+    "preco": "3,19",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-01",
+    "horario": "11:39:45",
+    "feito_por": "Jeferson",
+    "produto": "Refrigerante Sprite Original Lt 350ml",
+    "preco": "3,19",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-01",
+    "horario": "11:39:45",
+    "feito_por": "Jeferson",
+    "produto": "Refrigerante Guaraná Jesus Lt 350ml",
+    "preco": "3,29",
+    "validade_oferta_ate": ""
   }
 ]
