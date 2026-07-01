@@ -16301,5 +16301,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "01/07/2026",
+    "hora": "16:10:26",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Bombom Arcor Pacoca 15 g",
+        "preco": "1,15",
+        "unidade": "Unid.",
+        "validade_oferta": "02/07/2026",
+        "codigo_barras": "0000078948334",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bombom Raffaello 30 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/07/2026",
+        "codigo_barras": "0000080052487",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Baton Garoto Extra Milk 16 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/07/2026",
+        "codigo_barras": "0000078939363",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Wafer Kinder Tronky 18 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "8000500384763",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
