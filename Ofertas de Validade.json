@@ -16409,5 +16409,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "02/07/2026",
+    "hora": "15:22:31",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Café c/leite Maratá Sh 200 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/07/2026",
+        "codigo_barras": "7898286203146",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
