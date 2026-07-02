@@ -16383,5 +16383,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "02/07/2026",
+    "hora": "11:07:47",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc M&m´s Amendoim 40 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7896423438703",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pastilha Minty Menta Sem Açúcar 21 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/07/2026",
+        "codigo_barras": "7896451915276",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
