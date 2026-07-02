@@ -10534,5 +10534,53 @@
     "produto": "Arroz KIarroz Parboilizado 1Kg",
     "preco": "4,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-02",
+    "horario": "08:16:44",
+    "feito_por": "Jeferson",
+    "produto": "Abacaxi",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-02",
+    "horario": "10:15:19",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Guarana Antarctica S/Açúcar Pet 2L",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-02",
+    "horario": "10:15:19",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Guarana Antarctica Pet 2L",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-02",
+    "horario": "10:15:19",
+    "feito_por": "Jeferson",
+    "produto": "Suco Del Valle Div. Sabores 1,5L",
+    "preco": "6,49",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-02",
+    "horario": "10:15:19",
+    "feito_por": "Jeferson",
+    "produto": "Suco Del Valle Div. Sabores 450ml",
+    "preco": "3,79",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-02",
+    "horario": "10:15:19",
+    "feito_por": "Jeferson",
+    "produto": "Energético Energy Drink Red Bull 250 ml Div. Sabores",
+    "preco": "10,18",
+    "validade_oferta_ate": ""
   }
 ]
