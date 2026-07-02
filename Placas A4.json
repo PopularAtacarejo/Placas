@@ -8326,5 +8326,21 @@
     "produto": "Abacaxi",
     "preco": "4,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-02",
+    "horario": "10:15:19",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Guarana Antarctica S/Açúcar Pet 2L",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-02",
+    "horario": "10:15:19",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Guarana Antarctica Pet 2L",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
   }
 ]
