@@ -8790,5 +8790,21 @@
     "produto": "Carvão Vegetal Special 2,2Kg",
     "preco": "16,78",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "15:41:07",
+    "feito_por": "Jeferson",
+    "produto": "Sorv Fika Frio 2L Div. Sabores",
+    "preco": "26,98",
+    "validade_oferta_ate": "05/07/2026"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "15:41:07",
+    "feito_por": "Jeferson",
+    "produto": "Linguiça Toscana Frimesa",
+    "preco": "21,98",
+    "validade_oferta_ate": "05/07/2026"
   }
 ]
