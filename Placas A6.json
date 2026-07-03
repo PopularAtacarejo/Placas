@@ -12526,5 +12526,85 @@
     "produto": "Bisteca Suína Cong. Kg",
     "preco": "14,48",
     "validade_oferta_ate": "04/07/2026"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "17:00:04",
+    "feito_por": "Jeferson",
+    "produto": "Achocolatado - 3 Corações - Lata - 350G",
+    "preco": "11,99",
+    "validade_oferta_ate": "15/07/2026"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "17:00:04",
+    "feito_por": "Jeferson",
+    "produto": "Achocolatado - 3Corações - Lata - 400G",
+    "preco": "8,99",
+    "validade_oferta_ate": "15/07/2026"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "17:00:04",
+    "feito_por": "Jeferson",
+    "produto": "Achocolatado - 3Corações - Refil - 700G",
+    "preco": "16,99",
+    "validade_oferta_ate": "15/07/2026"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "17:00:04",
+    "feito_por": "Jeferson",
+    "produto": "Achocolatado - 3Corações - Refil - 900G",
+    "preco": "22,99",
+    "validade_oferta_ate": "15/07/2026"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "17:00:04",
+    "feito_por": "Jeferson",
+    "produto": "Café Santa Clara 250G",
+    "preco": "13,69",
+    "validade_oferta_ate": "15/07/2026"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "17:00:04",
+    "feito_por": "Jeferson",
+    "produto": "Café Kimimo - 250G",
+    "preco": "12,49",
+    "validade_oferta_ate": "15/07/2026"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "17:00:04",
+    "feito_por": "Jeferson",
+    "produto": "Café 3 Corações 250G",
+    "preco": "13,99",
+    "validade_oferta_ate": "15/07/2026"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "17:00:04",
+    "feito_por": "Jeferson",
+    "produto": "Café 3Corações Gourmet - 250G",
+    "preco": "28,99",
+    "validade_oferta_ate": "15/07/2026"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "17:00:04",
+    "feito_por": "Jeferson",
+    "produto": "Santa Clara - Pote - 200G",
+    "preco": "15,99",
+    "validade_oferta_ate": "15/07/2026"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "17:00:04",
+    "feito_por": "Jeferson",
+    "produto": "Cápsula - 3 Corações - Compatível Nespresso",
+    "preco": "17,99",
+    "validade_oferta_ate": "15/07/2026"
   }
 ]
