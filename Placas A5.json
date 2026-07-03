@@ -11134,5 +11134,37 @@
     "produto": "Alimento Beb a Tal Da Castanha Div Sabores 1L",
     "preco": "21,99",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "15:41:07",
+    "feito_por": "Jeferson",
+    "produto": "Sorv Fika Frio 2L Div. Sabores",
+    "preco": "26,98",
+    "validade_oferta_ate": "05/07/2026"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "15:41:07",
+    "feito_por": "Jeferson",
+    "produto": "Linguiça Toscana Frimesa",
+    "preco": "21,98",
+    "validade_oferta_ate": "05/07/2026"
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "15:41:07",
+    "feito_por": "Jeferson",
+    "produto": "Café Santa Clara Alm Classico 250g",
+    "preco": "13,69",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-03",
+    "horario": "15:41:07",
+    "feito_por": "Jeferson",
+    "produto": "Mist P/ Bolo Apti Div. Sabores 400g",
+    "preco": "7,18",
+    "validade_oferta_ate": ""
   }
 ]
