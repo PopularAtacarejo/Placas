@@ -9110,5 +9110,37 @@
     "produto": "Coco Seco Un",
     "preco": "5,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-04",
+    "horario": "07:40:51",
+    "feito_por": "Jeferson",
+    "produto": "Batata Pringles Div. Sabores 100g",
+    "preco": "10,98",
+    "validade_oferta_ate": "05/07/2026"
+  },
+  {
+    "data": "2026-07-04",
+    "horario": "07:40:51",
+    "feito_por": "Jeferson",
+    "produto": "Mamão Papaya Kg",
+    "preco": "3,48",
+    "validade_oferta_ate": "05/07/2026"
+  },
+  {
+    "data": "2026-07-04",
+    "horario": "07:40:51",
+    "feito_por": "Jeferson",
+    "produto": "Batata Mccain Pre-Frita Airfryer 600g",
+    "preco": "21,98",
+    "validade_oferta_ate": "05/07/2026"
+  },
+  {
+    "data": "2026-07-04",
+    "horario": "07:40:51",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Coalho Gabriel Kg",
+    "preco": "44,98",
+    "validade_oferta_ate": "05/07/2026"
   }
 ]
