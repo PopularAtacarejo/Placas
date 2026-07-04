@@ -11542,5 +11542,21 @@
     "produto": "Café Maratá Moído Vacuo Extra Forte ou Trad. 250g",
     "preco": "11,98",
     "validade_oferta_ate": "05/07/2026"
+  },
+  {
+    "data": "2026-07-04",
+    "horario": "11:01:05",
+    "feito_por": "Jeferson",
+    "produto": "Biscoito Pajuçara Povolho Div. Sabores 35g",
+    "preco": "2,58",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-04",
+    "horario": "11:01:05",
+    "feito_por": "Jeferson",
+    "produto": "Amaciante Sonho Lv2L Pag 1,8L Div. Fragrâncias",
+    "preco": "9,98",
+    "validade_oferta_ate": "05/07/2026"
   }
 ]
