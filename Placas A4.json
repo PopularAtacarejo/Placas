@@ -9142,5 +9142,13 @@
     "produto": "Queijo Coalho Gabriel Kg",
     "preco": "44,98",
     "validade_oferta_ate": "05/07/2026"
+  },
+  {
+    "data": "2026-07-04",
+    "horario": "08:17:38",
+    "feito_por": "Jeferson",
+    "produto": "Tangerina Importada",
+    "preco": "9,98",
+    "validade_oferta_ate": "05/07/2026"
   }
 ]
