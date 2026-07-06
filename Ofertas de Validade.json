@@ -16452,5 +16452,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/07/2026",
+    "hora": "11:50:39",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Parati Hot Cracker Queijo 100 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7896004010557",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cheetos Bola Queijo Suíço 33 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/07/2026",
+        "codigo_barras": "7892840824976",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salg Fandangos Queijo 60 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7892840823504",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Amendoim Japonês Dori 70 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/07/2026",
+        "codigo_barras": "7896058500738",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
