@@ -9190,5 +9190,13 @@
     "produto": "Cerveja Amstel Lt 473ml",
     "preco": "4,88",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-06",
+    "horario": "16:55:42",
+    "feito_por": "Jeferson",
+    "produto": "Bombom Garoto Sortidos 220g",
+    "preco": "11,98",
+    "validade_oferta_ate": "07/07/2026"
   }
 ]
