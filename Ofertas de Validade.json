@@ -16426,5 +16426,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/07/2026",
+    "hora": "11:39:47",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cond. Elseve Pure Hialuronico 200 ml",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "7899706244084",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Condicionador Elseve Pure Hialuronico 200 ml",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "7899706244084",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
