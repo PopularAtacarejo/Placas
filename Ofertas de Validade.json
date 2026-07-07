@@ -16574,5 +16574,41 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/07/2026",
+    "hora": "15:06:12",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Ferm Elege Bob Esponja Trad 160 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/07/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Pense Zero Mor Bdj 510 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/07/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Batavo Pense Zero Mamão 1,150 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/07/2026"
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bab. Lact. Betania Ameixa 900 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/07/2026"
+      }
+    ]
   }
 ]
