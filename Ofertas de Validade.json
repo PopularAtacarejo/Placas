@@ -16680,5 +16680,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/07/2026",
+    "hora": "17:17:24",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Cipan Top Salgado 300 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/07/2026",
+        "codigo_barras": "8973539032939",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Club Social Bacon&provol 141 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/07/2026",
+        "codigo_barras": "6222105688479",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Mabel Amant Coco 300 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "8960710300901",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "11/07/2026",
+        "codigo_barras": "8960164358367",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
