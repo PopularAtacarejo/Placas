@@ -16856,5 +16856,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/07/2026",
+    "hora": "17:23:53",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pasta De Castanha Atdc Choconuts 120 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "8989557057359",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Empanado Perdigao Mini Chicken 275 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7891515485528",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Empanado Perdigao Mini Chicken c/qjo 275 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7891515485535",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Linguiça Tipo Calabresa Defumada Perdigao 1 kg",
+        "preco": "31,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/07/2026",
+        "codigo_barras": "7891515518516",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
