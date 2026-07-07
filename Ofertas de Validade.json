@@ -16548,5 +16548,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/07/2026",
+    "hora": "11:49:22",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "11/07/2026",
+        "codigo_barras": "7896016435836",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Biscoito Pajucara Wafer Choc Branco 78 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "11/07/2026",
+        "codigo_barras": "7896016435836",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
