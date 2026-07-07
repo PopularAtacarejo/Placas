@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-07-02T11:05:35",
+  "atualizado_em": "2026-07-07T17:13:59",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3835,7 +3835,8 @@
     "bisc pilar coquinho | massa:300g": {
       "descricao": "Bisc Pilar Coquinho 300 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "8960050300739",
+      "hits": 3,
       "aliases": [
         "bisc pilar coquinho 300 g",
         "bisc pilar coquinho 300g",
@@ -3846,7 +3847,7 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-14T07:55:04"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "bisc maizena vitarella chocolate | massa:350g": {
       "descricao": "Bisc Maizena Vitarella Chocolate 350 g",
@@ -4143,7 +4144,8 @@
     "bisc vitarella tortinhas morango | massa:140g": {
       "descricao": "Bisc Vitarella Tortinhas Morango 140 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "8962130052453",
+      "hits": 2,
       "aliases": [
         "bisc vitarella tortinhas morango 140 g",
         "bisc vitarella tortinhas morango 140g",
@@ -4154,7 +4156,7 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "bisc cookies vitarella original | massa:80g": {
       "descricao": "Bisc Cookies Vitarella Original 80 g",
@@ -4319,7 +4321,8 @@
     "bisc pajucara wafer choc branco | massa:78g": {
       "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
       "unidade": "Unid.",
-      "hits": 4,
+      "codigo_barras": "8960164358367",
+      "hits": 5,
       "aliases": [
         "bisc pajucara wafer choc branco 78 g",
         "bisc pajucara wafer choc branco 78g",
@@ -4330,7 +4333,7 @@
         "massa:78g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:11:21"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "hamb brasa costela gourmet | massa:150g": {
       "descricao": "Hamb.Brasa Costela Gourmet 150 g",
@@ -9382,21 +9385,23 @@
       "atualizado_em": "2026-05-30T09:23:43"
     },
     "massa de pastel fam pasticrem | massa:500g": {
-      "descricao": "Massa De Pastel Fam. Pasticrem 500 g",
+      "descricao": "Mort Defumada Ouro Fatiada 200 g",
       "unidade": "Unid.",
-      "codigo_barras": "7896109200020",
-      "hits": 4,
+      "codigo_barras": "7891515434311",
+      "hits": 5,
       "aliases": [
         "massa de pastel fam pasticrem 500 g",
         "massa de pastel fam pasticrem 500g",
-        "massa de pastel fam pasticrem | massa:500g"
+        "massa de pastel fam pasticrem | massa:500g",
+        "mort defumada ouro fatiada 200 g",
+        "mort defumada ouro fatiada | massa:200g"
       ],
-      "descricao_base": "massa de pastel fam pasticrem",
+      "descricao_base": "mort defumada ouro fatiada",
       "medidas": [
-        "massa:500g"
+        "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "requeijao vigor cremoso light | massa:200g": {
       "descricao": "Requeijão Vigor Cremoso Light 200 g",
@@ -11135,20 +11140,23 @@
       "atualizado_em": "2026-06-17T14:42:31"
     },
     "bisc nesfit morango e cereais | massa:160g": {
-      "descricao": "Bisc Nesfit Morango E Cereais 160 g",
+      "descricao": "Pasta De Castanha Atdc Choconuts 120 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "8989557057359",
+      "hits": 2,
       "aliases": [
         "bisc nesfit morango e cereais 160 g",
         "bisc nesfit morango e cereais 160g",
-        "bisc nesfit morango e cereais | massa:160g"
+        "bisc nesfit morango e cereais | massa:160g",
+        "pasta de castanha atdc choconuts 120 g",
+        "pasta de castanha atdc choconuts | massa:120g"
       ],
-      "descricao_base": "bisc nesfit morango e cereais",
+      "descricao_base": "pasta de castanha atdc choconuts",
       "medidas": [
-        "massa:160g"
+        "massa:120g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T14:42:31"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "bisc lowcucar rech morango | massa:120g": {
       "descricao": "Bisc Lowcucar Rech Morango 120 g",
@@ -11185,7 +11193,8 @@
     "ambroxmel spr fr sbr mel/euc | volume:30ml": {
       "descricao": "Ambroxmel Spr Fr Sbr Mel/Euc 30 ml",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "8997852006125",
+      "hits": 2,
       "aliases": [
         "ambroxmel spr fr sbr mel euc 30 ml",
         "ambroxmel spr fr sbr mel euc 30ml",
@@ -11196,7 +11205,7 @@
         "volume:30ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T14:42:31"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "mel karo pet | massa:350g": {
       "descricao": "Mel Karo Pet 350 g",
@@ -11279,20 +11288,23 @@
       "atualizado_em": "2026-06-17T14:42:31"
     },
     "pasta de castanha atdc choconuts | massa:120g": {
-      "descricao": "Pasta De Castanha Atdc Choconuts 120 g",
+      "descricao": "Empanado Perdigao Mini Chicken 275 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7891515485528",
+      "hits": 2,
       "aliases": [
+        "empanado perdigao mini chicken 275 g",
+        "empanado perdigao mini chicken | massa:275g",
         "pasta de castanha atdc choconuts 120 g",
         "pasta de castanha atdc choconuts 120g",
         "pasta de castanha atdc choconuts | massa:120g"
       ],
-      "descricao_base": "pasta de castanha atdc choconuts",
+      "descricao_base": "empanado perdigao mini chicken",
       "medidas": [
-        "massa:120g"
+        "massa:275g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T14:42:31"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "barra protein max milk caramel | massa:41g": {
       "descricao": "Barra Protein Max Milk Caramel 41 g",
@@ -11487,20 +11499,23 @@
       "atualizado_em": "2026-06-17T14:42:31"
     },
     "barra de cereal naturale castanhas c/ave | massa:25g": {
-      "descricao": "Barra De Cereal Naturale Castanhas c/ave 25 g",
+      "descricao": "Bisc Nesfit Morango E Cereais 160 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "8910003045941",
+      "hits": 2,
       "aliases": [
         "barra de cereal naturale castanhas c ave 25 g",
         "barra de cereal naturale castanhas c ave 25g",
-        "barra de cereal naturale castanhas c/ave | massa:25g"
+        "barra de cereal naturale castanhas c/ave | massa:25g",
+        "bisc nesfit morango e cereais 160 g",
+        "bisc nesfit morango e cereais | massa:160g"
       ],
-      "descricao_base": "barra de cereal naturale castanhas c/ave",
+      "descricao_base": "bisc nesfit morango e cereais",
       "medidas": [
-        "massa:25g"
+        "massa:160g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T14:42:31"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "barra spl max titanium p prot napol | massa:90g": {
       "descricao": "Barra Spl Max Titanium P.Prot.Napol 90 g",
@@ -11985,7 +12000,8 @@
     "bisc mabel amant coco | massa:300g": {
       "descricao": "Bisc Mabel Amant Coco 300 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "8960710300901",
+      "hits": 2,
       "aliases": [
         "bisc mabel amant coco 300 g",
         "bisc mabel amant coco 300g",
@@ -11996,12 +12012,13 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:11:21"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "bisc wafer toddy choc c/mor | massa:94g": {
       "descricao": "Bisc Wafer Toddy Choc c/mor 94 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "8960710254167",
+      "hits": 2,
       "aliases": [
         "bisc wafer toddy choc c mor 94 g",
         "bisc wafer toddy choc c mor 94g",
@@ -12012,12 +12029,13 @@
         "massa:94g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:11:21"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "bisc wafer toddy chocolate | massa:94g": {
       "descricao": "Bisc Wafer Toddy Chocolate 94 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "8960710253863",
+      "hits": 2,
       "aliases": [
         "bisc wafer toddy chocolate 94 g",
         "bisc wafer toddy chocolate 94g",
@@ -12028,7 +12046,7 @@
         "massa:94g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:11:21"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "bisc rech piraque morango | massa:76g": {
       "descricao": "Bisc Rech Piraque Morango 76 g",
@@ -12161,7 +12179,8 @@
     "bisc bauducco leite | massa:335g": {
       "descricao": "Bisc Bauducco Leite 335 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "8919620680399",
+      "hits": 2,
       "aliases": [
         "bisc bauducco leite 335 g",
         "bisc bauducco leite 335g",
@@ -12172,7 +12191,7 @@
         "massa:335g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:11:21"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "bisc bauducco champagne | massa:150g": {
       "descricao": "Bisc Bauducco Champagne 150 g",
@@ -12273,7 +12292,8 @@
     "bisc wafer parati minueto chocolate | massa:73g": {
       "descricao": "Bisc.Wafer Parati Minueto Chocolate 73 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "8960040099407",
+      "hits": 2,
       "aliases": [
         "bisc wafer parati minueto chocolate 73 g",
         "bisc wafer parati minueto chocolate 73g",
@@ -12284,24 +12304,27 @@
         "massa:73g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:11:21"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "bolinho ana maria chocolate | massa:70g": {
-      "descricao": "Bolinho Ana Maria Trad Baunilha 70 g",
+      "descricao": "Bolinho Ana Maria Gotas Choc 70 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "8960023624367",
+      "hits": 2,
       "aliases": [
         "bolinho ana maria chocolate 70g",
         "bolinho ana maria chocolate | massa:70g",
+        "bolinho ana maria gotas choc 70 g",
+        "bolinho ana maria gotas choc | massa:70g",
         "bolinho ana maria trad baunilha 70 g",
         "bolinho ana maria trad baunilha | massa:70g"
       ],
-      "descricao_base": "bolinho ana maria trad baunilha",
+      "descricao_base": "bolinho ana maria gotas choc",
       "medidas": [
         "massa:70g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:11:21"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "bolinho ana maria trad baunilha | massa:70g": {
       "descricao": "Bolinho Ana Maria Gotas Choc 70 g",
@@ -13179,21 +13202,23 @@
       "atualizado_em": "2026-06-30T14:28:21"
     },
     "mort ouro fatiada ervas finas | massa:200g": {
-      "descricao": "Mort Ouro Fatiada Ervas Finas 200 g",
+      "descricao": "Patê De Presunto Sadia 100 g",
       "unidade": "Unid.",
-      "codigo_barras": "7891515539177",
-      "hits": 1,
+      "codigo_barras": "7893000004757",
+      "hits": 2,
       "aliases": [
         "mort ouro fatiada ervas finas 200 g",
         "mort ouro fatiada ervas finas 200g",
-        "mort ouro fatiada ervas finas | massa:200g"
+        "mort ouro fatiada ervas finas | massa:200g",
+        "pate de presunto sadia 100 g",
+        "pate de presunto sadia | massa:100g"
       ],
-      "descricao_base": "mort ouro fatiada ervas finas",
+      "descricao_base": "pate de presunto sadia",
       "medidas": [
-        "massa:200g"
+        "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "queijo brie faixa azul | massa:120g": {
       "descricao": "Queijo Brie Faixa Azul 120 g",
@@ -13230,21 +13255,23 @@
       "atualizado_em": "2026-06-30T14:28:21"
     },
     "mort defumada ouro fatiada | massa:200g": {
-      "descricao": "Mort Defumada Ouro Fatiada 200 g",
+      "descricao": "Mort Ouro Fatiada Ervas Finas 200 g",
       "unidade": "Unid.",
-      "codigo_barras": "7891515434311",
-      "hits": 1,
+      "codigo_barras": "7891515539177",
+      "hits": 2,
       "aliases": [
         "mort defumada ouro fatiada 200 g",
         "mort defumada ouro fatiada 200g",
-        "mort defumada ouro fatiada | massa:200g"
+        "mort defumada ouro fatiada | massa:200g",
+        "mort ouro fatiada ervas finas 200 g",
+        "mort ouro fatiada ervas finas | massa:200g"
       ],
-      "descricao_base": "mort defumada ouro fatiada",
+      "descricao_base": "mort ouro fatiada ervas finas",
       "medidas": [
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-07-07T17:13:59"
     },
     "requeijao nestle tradicional | massa:200g": {
       "descricao": "Requeijão Nestlé Tradicional 200 g",
@@ -13619,6 +13646,231 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-07-02T11:05:35"
+    },
+    "cerv spaten ln | volume:355ml": {
+      "descricao": "Cerv Spaten Ln 355 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "8919912974793",
+      "hits": 1,
+      "aliases": [
+        "cerv spaten ln 355 ml",
+        "cerv spaten ln 355ml",
+        "cerv spaten ln | volume:355ml"
+      ],
+      "descricao_base": "cerv spaten ln",
+      "medidas": [
+        "volume:355ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-07T17:13:59"
+    },
+    "cerv itaipava 00 alcool lt un | volume:350ml": {
+      "descricao": "Cerv Itaipava 00 Álcool Lt Un 350 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "8973950403905",
+      "hits": 1,
+      "aliases": [
+        "cerv itaipava 00 alcool lt un 350 ml",
+        "cerv itaipava 00 alcool lt un 350ml",
+        "cerv itaipava 00 alcool lt un | volume:350ml"
+      ],
+      "descricao_base": "cerv itaipava 00 alcool lt un",
+      "medidas": [
+        "volume:350ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-07T17:13:59"
+    },
+    "gin tonico schwepes vd | volume:250ml": {
+      "descricao": "Gin Tonico Schwepes Vd 250 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "8949001840067",
+      "hits": 1,
+      "aliases": [
+        "gin tonico schwepes vd 250 ml",
+        "gin tonico schwepes vd 250ml",
+        "gin tonico schwepes vd | volume:250ml"
+      ],
+      "descricao_base": "gin tonico schwepes vd",
+      "medidas": [
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-07T17:13:59"
+    },
+    "bisc cipan top salgado | massa:300g": {
+      "descricao": "Bisc Cipan Top Salgado 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "8973539032939",
+      "hits": 1,
+      "aliases": [
+        "bisc cipan top salgado 300 g",
+        "bisc cipan top salgado 300g",
+        "bisc cipan top salgado | massa:300g"
+      ],
+      "descricao_base": "bisc cipan top salgado",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-07T17:13:59"
+    },
+    "bisc club social bacon&provol | massa:141g": {
+      "descricao": "Bisc Club Social Bacon&provol 141 g",
+      "unidade": "Unid.",
+      "codigo_barras": "6222105688479",
+      "hits": 1,
+      "aliases": [
+        "bisc club social bacon provol 141 g",
+        "bisc club social bacon provol 141g",
+        "bisc club social bacon&provol | massa:141g"
+      ],
+      "descricao_base": "bisc club social bacon&provol",
+      "medidas": [
+        "massa:141g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-07T17:13:59"
+    },
+    "bisc parati hot cracker queijo | massa:100g": {
+      "descricao": "Bisc Parati Hot Cracker Queijo 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "8960040105573",
+      "hits": 1,
+      "aliases": [
+        "bisc parati hot cracker queijo 100 g",
+        "bisc parati hot cracker queijo 100g",
+        "bisc parati hot cracker queijo | massa:100g"
+      ],
+      "descricao_base": "bisc parati hot cracker queijo",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-07T17:13:59"
+    },
+    "bisc wafer toddy trufado | massa:94g": {
+      "descricao": "Bisc Wafer Toddy Trufado 94 g",
+      "unidade": "Unid.",
+      "codigo_barras": "8960710253931",
+      "hits": 1,
+      "aliases": [
+        "bisc wafer toddy trufado 94 g",
+        "bisc wafer toddy trufado 94g",
+        "bisc wafer toddy trufado | massa:94g"
+      ],
+      "descricao_base": "bisc wafer toddy trufado",
+      "medidas": [
+        "massa:94g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-07T17:13:59"
+    },
+    "bolinho ana maria duplo choc | massa:35g": {
+      "descricao": "Bolinho Ana Maria Duplo Choc 35 g",
+      "unidade": "Unid.",
+      "codigo_barras": "8960023026611",
+      "hits": 1,
+      "aliases": [
+        "bolinho ana maria duplo choc 35 g",
+        "bolinho ana maria duplo choc 35g",
+        "bolinho ana maria duplo choc | massa:35g"
+      ],
+      "descricao_base": "bolinho ana maria duplo choc",
+      "medidas": [
+        "massa:35g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-07T17:13:59"
+    },
+    "tangerina importada kg": {
+      "descricao": "Barra De Cereal Naturale Castanhas c/ave 25 g",
+      "unidade": "Unid.",
+      "codigo_barras": "8980554203169",
+      "hits": 1,
+      "aliases": [
+        "barra de cereal naturale castanhas c ave 25 g",
+        "barra de cereal naturale castanhas c/ave | massa:25g",
+        "tangerina importada kg"
+      ],
+      "descricao_base": "barra de cereal naturale castanhas c/ave",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-07T17:13:59"
+    },
+    "empanado perdigao mini chicken | massa:275g": {
+      "descricao": "Empanado Perdigao Mini Chicken c/qjo 275 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515485535",
+      "hits": 1,
+      "aliases": [
+        "empanado perdigao mini chicken 275g",
+        "empanado perdigao mini chicken c qjo 275 g",
+        "empanado perdigao mini chicken c/qjo | massa:275g",
+        "empanado perdigao mini chicken | massa:275g"
+      ],
+      "descricao_base": "empanado perdigao mini chicken c/qjo",
+      "medidas": [
+        "massa:275g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-07T17:13:59"
+    },
+    "empanado perdigao mini chicken c/qjo | massa:275g": {
+      "descricao": "Linguiça Tipo Calabresa Defumada Perdigao 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515518516",
+      "hits": 1,
+      "aliases": [
+        "empanado perdigao mini chicken c qjo 275g",
+        "empanado perdigao mini chicken c/qjo | massa:275g",
+        "linguica tipo calabresa defumada perdigao 1 kg",
+        "linguica tipo calabresa defumada perdigao | massa:1000g"
+      ],
+      "descricao_base": "linguica tipo calabresa defumada perdigao",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-07T17:13:59"
+    },
+    "linguica tipo calabresa defumada perdigao | massa:1000g": {
+      "descricao": "Marg Delicia Chef Ervas Arom 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7894904272952",
+      "hits": 1,
+      "aliases": [
+        "linguica tipo calabresa defumada perdigao 1kg",
+        "linguica tipo calabresa defumada perdigao | massa:1000g",
+        "marg delicia chef ervas arom 500 g",
+        "marg delicia chef ervas arom | massa:500g"
+      ],
+      "descricao_base": "marg delicia chef ervas arom",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-07T17:13:59"
+    },
+    "marg delicia chef ervas arom | massa:500g": {
+      "descricao": "Massa De Pastel Fam. Pasticrem 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896109200020",
+      "hits": 1,
+      "aliases": [
+        "marg delicia chef ervas arom 500g",
+        "marg delicia chef ervas arom | massa:500g",
+        "massa de pastel fam pasticrem 500 g",
+        "massa de pastel fam pasticrem | massa:500g"
+      ],
+      "descricao_base": "massa de pastel fam pasticrem",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-07T17:13:59"
     }
   }
 }
