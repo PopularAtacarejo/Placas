@@ -16610,5 +16610,31 @@
         "validade_oferta": "07/07/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/07/2026",
+    "hora": "16:50:37",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Margarina Delicia Chef Ervas Arom 500 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7894904272952",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Marg Delicia Chef Ervas Arom 500 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7894904272952",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
