@@ -9286,5 +9286,101 @@
     "produto": "Budweiser Lt 473ml c 12 Multipack",
     "preco": "58,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-07",
+    "horario": "15:34:27",
+    "feito_por": "Jeferson",
+    "produto": "ACEM C/OSSO",
+    "preco": "21,98",
+    "validade_oferta_ate": "08/07/2026"
+  },
+  {
+    "data": "2026-07-07",
+    "horario": "15:34:27",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA PONTA DE AGULHA",
+    "preco": "19,78",
+    "validade_oferta_ate": "08/07/2026"
+  },
+  {
+    "data": "2026-07-07",
+    "horario": "15:34:27",
+    "feito_por": "Jeferson",
+    "produto": "CARNE MOIDA DE SEGUNDA",
+    "preco": "19,98",
+    "validade_oferta_ate": "08/07/2026"
+  },
+  {
+    "data": "2026-07-07",
+    "horario": "15:34:27",
+    "feito_por": "Jeferson",
+    "produto": "CHAMBARIL",
+    "preco": "18,98",
+    "validade_oferta_ate": "08/07/2026"
+  },
+  {
+    "data": "2026-07-07",
+    "horario": "15:34:27",
+    "feito_por": "Jeferson",
+    "produto": "CHAREU C/OSSO",
+    "preco": "22,48",
+    "validade_oferta_ate": "08/07/2026"
+  },
+  {
+    "data": "2026-07-07",
+    "horario": "15:34:27",
+    "feito_por": "Jeferson",
+    "produto": "BISTECA DO CONTRA",
+    "preco": "32,98",
+    "validade_oferta_ate": "08/07/2026"
+  },
+  {
+    "data": "2026-07-07",
+    "horario": "15:34:27",
+    "feito_por": "Jeferson",
+    "produto": "Ling Toscana Frango Lar Kg",
+    "preco": "15,48",
+    "validade_oferta_ate": "08/07/2026"
+  },
+  {
+    "data": "2026-07-07",
+    "horario": "15:34:27",
+    "feito_por": "Jeferson",
+    "produto": "Salsicha Copacol Kg",
+    "preco": "8,48",
+    "validade_oferta_ate": "08/07/2026"
+  },
+  {
+    "data": "2026-07-07",
+    "horario": "15:34:27",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Mussarela Novo Horizonte Fat Kg",
+    "preco": "39,98",
+    "validade_oferta_ate": "08/07/2026"
+  },
+  {
+    "data": "2026-07-07",
+    "horario": "15:34:27",
+    "feito_por": "Jeferson",
+    "produto": "Presunt Seara Coz Magro Fat Kg",
+    "preco": "33,48",
+    "validade_oferta_ate": "08/07/2026"
+  },
+  {
+    "data": "2026-07-07",
+    "horario": "15:34:27",
+    "feito_por": "Jeferson",
+    "produto": "File De Peito Aurora 1kg Bj",
+    "preco": "21,98",
+    "validade_oferta_ate": "08/07/2026"
+  },
+  {
+    "data": "2026-07-07",
+    "horario": "15:34:27",
+    "feito_por": "Jeferson",
+    "produto": "File De Peito Frango Lar 600g",
+    "preco": "13,98",
+    "validade_oferta_ate": "08/07/2026"
   }
 ]
