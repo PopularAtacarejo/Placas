@@ -16636,5 +16636,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/07/2026",
+    "hora": "17:15:58",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cerv Spaten Ln 355 ml",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/08/2026",
+        "codigo_barras": "8919912974793",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cerv Itaipava 00 Álcool Lt Un 350 ml",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/08/2026",
+        "codigo_barras": "8973950403905",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Gin Tonico Schwepes Vd 250 ml",
+        "preco": "6,48",
+        "unidade": "Unid.",
+        "validade_oferta": "22/08/2026",
+        "codigo_barras": "8949001840067",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Bauducco Leite 335 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/07/2026",
+        "codigo_barras": "8919620680399",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
