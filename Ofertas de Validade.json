@@ -16944,5 +16944,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/07/2026",
+    "hora": "17:26:04",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Patê De Presunto Sadia 100 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026",
+        "codigo_barras": "7893000004757",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
