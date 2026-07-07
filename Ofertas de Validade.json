@@ -16900,5 +16900,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/07/2026",
+    "hora": "17:25:29",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Marg Delicia Chef Ervas Arom 500 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7894904272952",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Massa De Pastel Fam. Pasticrem 500 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/07/2026",
+        "codigo_barras": "7896109200020",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mort Defumada Ouro Fatiada 200 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/07/2026",
+        "codigo_barras": "7891515434311",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mort Ouro Fatiada Ervas Finas 200 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/07/2026",
+        "codigo_barras": "7891515539177",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
