@@ -16522,5 +16522,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/07/2026",
+    "hora": "09:53:02",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Água Mineral Schin c/gás 500 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/07/2026",
+        "codigo_barras": "7896052600724",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Água Min. Schin c/gás 500 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/07/2026",
+        "codigo_barras": "7896052600724",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
