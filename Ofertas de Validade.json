@@ -16812,5 +16812,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/07/2026",
+    "hora": "17:22:05",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bolinho Ana Maria Duplo Choc 35 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/07/2026",
+        "codigo_barras": "8960023026611",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Ambroxmel Spr Fr Sbr Mel/Euc 30 ml",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "8997852006125",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra De Cereal Naturale Castanhas c/ave 25 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "23/07/2026",
+        "codigo_barras": "8980554203169",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Nesfit Morango E Cereais 160 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026",
+        "codigo_barras": "8910003045941",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
