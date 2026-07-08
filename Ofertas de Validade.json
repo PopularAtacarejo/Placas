@@ -16961,5 +16961,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/07/2026",
+    "hora": "09:29:32",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Massa De Pastel Comercial Pasticrem 500 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/02/2026",
+        "codigo_barras": "7896109200037",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Patê De Peito De Peru Sadia 100 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026",
+        "codigo_barras": "7893000025653",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
