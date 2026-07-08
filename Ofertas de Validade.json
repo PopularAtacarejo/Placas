@@ -17268,5 +17268,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/07/2026",
+    "hora": "16:28:53",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Danone Verd.Grego F.Vermelhad 90 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7891025123057",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Danone Natural Lar/Cen/Mel 160 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "24/07/2026",
+        "codigo_barras": "7891025121251",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Bom Leite Grego Bj 540 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/07/2026",
+        "codigo_barras": "7898118392154",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Verde Campo Lacfre Trad 170 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/07/2026",
+        "codigo_barras": "7898205924497",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
