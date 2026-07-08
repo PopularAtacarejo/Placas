@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-07-07T17:13:59",
+  "atualizado_em": "2026-07-08T16:14:30",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3636,12 +3636,14 @@
       "atualizado_em": "2026-04-30T11:59:44"
     },
     "beb lact bom leite bdj ameixa | massa:540g": {
-      "descricao": "Beb Lact Bom Leite Bdj 540 g Ameixa",
+      "descricao": "Beb Lact Bom Leite Bdj Ameixa 540 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7898118392659",
+      "hits": 3,
       "aliases": [
         "beb lact bom leite bdj 540 g ameixa",
         "beb lact bom leite bdj 540g ameixa",
+        "beb lact bom leite bdj ameixa 540 g",
         "beb lact bom leite bdj ameixa | massa:540g"
       ],
       "descricao_base": "beb lact bom leite bdj ameixa",
@@ -3649,7 +3651,7 @@
         "massa:540g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-30T11:59:44"
+      "atualizado_em": "2026-07-08T16:14:30"
     },
     "iog liq ninho maca/banana | massa:850g": {
       "descricao": "Iog Liq Ninho Maçã/banana 850 g",
@@ -3668,9 +3670,10 @@
       "atualizado_em": "2026-05-13T10:29:07"
     },
     "leite ferm nestle chamyto big | massa:120g": {
-      "descricao": "Leite Ferm Nestle Chamyto Big 120 g",
+      "descricao": "Leite Ferm Nestlé Chamyto Big 120 g",
       "unidade": "Unid.",
-      "hits": 4,
+      "codigo_barras": "7891000027967",
+      "hits": 5,
       "aliases": [
         "leite ferm nestle chamyto big 120 g",
         "leite ferm nestle chamyto big 120g",
@@ -3681,7 +3684,7 @@
         "massa:120g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T10:29:07"
+      "atualizado_em": "2026-07-08T16:14:30"
     },
     "iog chambinho desnatado morango | massa:850g": {
       "descricao": "Iog Chambinho Desnatado Morango 850 g",
@@ -4547,7 +4550,8 @@
     "iog verde campo lacfre trad | massa:170g": {
       "descricao": "Iog Verde Campo Lacfre Trad 170 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7898205924497",
+      "hits": 3,
       "aliases": [
         "iog verde campo lacfre trad 170 g",
         "iog verde campo lacfre trad 170g",
@@ -4558,7 +4562,7 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T10:29:07"
+      "atualizado_em": "2026-07-08T16:14:30"
     },
     "iog molico morango t zero | massa:850g": {
       "descricao": "Iog Molico Morango T Zero 850 g",
@@ -4677,7 +4681,8 @@
     "iog batavo mor/coco bdj | massa:540g": {
       "descricao": "Iog Batavo Mor/Coco Bdj 540 g",
       "unidade": "Unid.",
-      "hits": 4,
+      "codigo_barras": "7891097101854",
+      "hits": 5,
       "aliases": [
         "iog batavo mor coco bdj 540 g",
         "iog batavo mor coco bdj 540g",
@@ -4688,7 +4693,7 @@
         "massa:540g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-07-08T16:14:30"
     },
     "iog betania yobem triplo zero ameixa | massa:850g": {
       "descricao": "Iog Betania Yobem Triplo Zero Ameixa 850 g",
@@ -4901,7 +4906,8 @@
     "iog lacfree banana/maca/mamao | massa:140g": {
       "descricao": "Iog Lacfree Banana/Maçã/Mamão 140 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7898205924060",
+      "hits": 3,
       "aliases": [
         "iog lacfree banana maca mamao 140 g",
         "iog lacfree banana maca mamao 140g",
@@ -4912,7 +4918,7 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T10:29:07"
+      "atualizado_em": "2026-07-08T16:14:30"
     },
     "iog nestle natural mel/lar/cenoura | massa:170g": {
       "descricao": "Iog Nestle Natural Mel/Lar/Cenoura 170 g",
@@ -8616,8 +8622,10 @@
     "iog betania yobem trip zero pap/linhaca | massa:850g": {
       "descricao": "Iog Betania Yobem Trip Zero Pap/Linhaca 850 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7898403782103",
+      "hits": 3,
       "aliases": [
+        "iog betania yobem trip zero 850g pap linhaca",
         "iog betania yobem trip zero pap linhaca 850 g",
         "iog betania yobem trip zero pap linhaca 850g",
         "iog betania yobem trip zero pap/linhaca | massa:850g"
@@ -8627,12 +8635,13 @@
         "massa:850g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-07-08T16:14:30"
     },
     "iog verde campo whey 15 cookies | massa:250g": {
       "descricao": "Iog Verde Campo Whey 15 Cookies 250 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7898205924435",
+      "hits": 3,
       "aliases": [
         "iog verde campo whey 15 cookies 250 g",
         "iog verde campo whey 15 cookies 250g",
@@ -8643,7 +8652,7 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-07-08T16:14:30"
     },
     "iog danone emb eco vit de frutas | massa:1.25g": {
       "descricao": "Iog Danone Emb Eco Vit De Frutas 1,250 g",
@@ -8810,7 +8819,8 @@
     "iog danone activia ameixa | massa:150g": {
       "descricao": "Iog Danone Activia Ameixa 150 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891025102663",
+      "hits": 3,
       "aliases": [
         "iog danone activia 150g ameixa",
         "iog danone activia ameixa 150 g",
@@ -8821,7 +8831,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-07-08T16:14:30"
     },
     "iog betania familia salada de frutas | massa:1250g": {
       "descricao": "Iog Betania Família Salada De Frutas 1,250 kg",
@@ -8941,7 +8951,8 @@
     "iog verde campo whey 11 ban/can | massa:140g": {
       "descricao": "Iog Verde Campo Whey 11 Ban/Can 140 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7898205925562",
+      "hits": 3,
       "aliases": [
         "iog verde campo whey 11 ban can 140 g",
         "iog verde campo whey 11 ban can 140g",
@@ -8952,7 +8963,7 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-07-08T16:14:30"
     },
     "iog danone morango bdj | massa:510g": {
       "descricao": "Iog Danone Morango Bdj 510 g",
@@ -8973,7 +8984,8 @@
     "iog liq activia zero morango danone | massa:800g": {
       "descricao": "Iog Liq Activia Zero Morango Danone 800 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891025124030",
+      "hits": 3,
       "aliases": [
         "iog liq activia zero morango danone 800 g",
         "iog liq activia zero morango danone 800g",
@@ -8984,7 +8996,7 @@
         "massa:800g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-07-08T16:14:30"
     },
     "iog liq activia aveia danone | massa:800g": {
       "descricao": "Iog Liq Activia Aveia Danone 800 g",
@@ -13871,6 +13883,482 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-07-07T17:13:59"
+    },
+    "iog batavo tradicional probio 2 | massa:1.15g": {
+      "descricao": "Iog Batavo Tradicional Probio 2 1,150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097107030",
+      "hits": 1,
+      "aliases": [
+        "iog batavo tradicional probio 2 1 150 g",
+        "iog batavo tradicional probio 2 | massa:1.15g",
+        "iog batavo tradicional probio2 1 150g"
+      ],
+      "descricao_base": "iog batavo tradicional probio 2",
+      "medidas": [
+        "massa:1.15g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "leite ferm elege bob esponja trad | massa:160g": {
+      "descricao": "Leite Ferm Elege Bob Esponja Trad 160 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097101540",
+      "hits": 1,
+      "aliases": [
+        "leite ferm elege bob esponja trad 160 g",
+        "leite ferm elege bob esponja trad 160g",
+        "leite ferm elege bob esponja trad | massa:160g"
+      ],
+      "descricao_base": "leite ferm elege bob esponja trad",
+      "medidas": [
+        "massa:160g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog danone activia polpa morango | massa:340g": {
+      "descricao": "Iog Danone Activia Polpa Morango 340 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891025123163",
+      "hits": 1,
+      "aliases": [
+        "iog danone activia polpa morango 340 g",
+        "iog danone activia polpa morango 340g",
+        "iog danone activia polpa morango | massa:340g"
+      ],
+      "descricao_base": "iog danone activia polpa morango",
+      "medidas": [
+        "massa:340g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog verdadeiro zero batido danone | massa:1200g": {
+      "descricao": "Iog Verdadeiro Zero Batido Danone 1200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891025125365",
+      "hits": 1,
+      "aliases": [
+        "iog verdadeiro zero batido danone 1200 g",
+        "iog verdadeiro zero batido danone 1200g",
+        "iog verdadeiro zero batido danone | massa:1200g"
+      ],
+      "descricao_base": "iog verdadeiro zero batido danone",
+      "medidas": [
+        "massa:1200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog grego vigor zero tradicional | massa:90g": {
+      "descricao": "Iog Grego Vigor Zero Tradicional 90 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896625211166",
+      "hits": 1,
+      "aliases": [
+        "iog grego vigor zero tradicional 90 g",
+        "iog grego vigor zero tradicional 90g",
+        "iog grego vigor zero tradicional | massa:90g"
+      ],
+      "descricao_base": "iog grego vigor zero tradicional",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog batavo morango probio 2 | massa:510g": {
+      "descricao": "Iog Batavo Morango Probio 2 510 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097104855",
+      "hits": 1,
+      "aliases": [
+        "iog batavo morango probio 2 510 g",
+        "iog batavo morango probio 2 | massa:510g",
+        "iog batavo morango probio2 510g"
+      ],
+      "descricao_base": "iog batavo morango probio 2",
+      "medidas": [
+        "massa:510g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog petit nestle chambinho mor bdj | massa:320g": {
+      "descricao": "Iog Petit Nestlé Chambinho Mor Bdj 320 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000103937",
+      "hits": 1,
+      "aliases": [
+        "iog petit nestle chambinho mor bdj 320 g",
+        "iog petit nestle chambinho mor bdj 320g",
+        "iog petit nestle chambinho mor bdj | massa:320g"
+      ],
+      "descricao_base": "iog petit nestle chambinho mor bdj",
+      "medidas": [
+        "massa:320g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog grego vigor tradicional | massa:90g": {
+      "descricao": "Iog Grego Vigor Tradicional 90 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896625211142",
+      "hits": 1,
+      "aliases": [
+        "iog grego vigor tradicional 90 g",
+        "iog grego vigor tradicional 90g",
+        "iog grego vigor tradicional | massa:90g"
+      ],
+      "descricao_base": "iog grego vigor tradicional",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog liq activia ameixa danone | massa:800g": {
+      "descricao": "Iog Liq Activia Ameixa Danone 800 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891025123453",
+      "hits": 1,
+      "aliases": [
+        "iog liq activia ameixa danone 800 g",
+        "iog liq activia ameixa danone 800g",
+        "iog liq activia ameixa danone | massa:800g"
+      ],
+      "descricao_base": "iog liq activia ameixa danone",
+      "medidas": [
+        "massa:800g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "leite ferm elege bob esponja mor | massa:160g": {
+      "descricao": "Leite Ferm Elege Bob Esponja Mor 160 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097101588",
+      "hits": 1,
+      "aliases": [
+        "leite ferm elege bob esponja mor 160 g",
+        "leite ferm elege bob esponja mor 160g",
+        "leite ferm elege bob esponja mor | massa:160g"
+      ],
+      "descricao_base": "leite ferm elege bob esponja mor",
+      "medidas": [
+        "massa:160g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "leite ferm itambe kids uva | massa:80g": {
+      "descricao": "Leite Ferm Itambe Kids Uva 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896051165989",
+      "hits": 1,
+      "aliases": [
+        "leite ferm itambe kids uva 80 g",
+        "leite ferm itambe kids uva 80g",
+        "leite ferm itambe kids uva | massa:80g"
+      ],
+      "descricao_base": "leite ferm itambe kids uva",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog batavo grego morango | massa:450g": {
+      "descricao": "Iog Batavo Grego Morango 450 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097000140",
+      "hits": 1,
+      "aliases": [
+        "iog batavo grego morango 450 g",
+        "iog batavo grego morango 450g",
+        "iog batavo grego morango | massa:450g"
+      ],
+      "descricao_base": "iog batavo grego morango",
+      "medidas": [
+        "massa:450g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "leite fermentado bom leite | massa:80g": {
+      "descricao": "Leite Fermentado Bom Leite 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898118392390",
+      "hits": 1,
+      "aliases": [
+        "leite fermentado bom leite 80 g",
+        "leite fermentado bom leite 80g",
+        "leite fermentado bom leite | massa:80g"
+      ],
+      "descricao_base": "leite fermentado bom leite",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog nestle natural mel | massa:170g": {
+      "descricao": "Iog Nestlé Natural Mel 170 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000072974",
+      "hits": 1,
+      "aliases": [
+        "iog nestle natural mel 170 g",
+        "iog nestle natural mel 170g",
+        "iog nestle natural mel | massa:170g"
+      ],
+      "descricao_base": "iog nestle natural mel",
+      "medidas": [
+        "massa:170g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog danone verd grego f vermelhad | massa:90g": {
+      "descricao": "Iog Danone Verd.Grego F.Vermelhad 90 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891025123057",
+      "hits": 1,
+      "aliases": [
+        "iog danone 90g verd grego f vermelhad",
+        "iog danone verd grego f vermelhad 90 g",
+        "iog danone verd grego f vermelhad | massa:90g"
+      ],
+      "descricao_base": "iog danone verd grego f vermelhad",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog danone natural lar/cen/mel | massa:160g": {
+      "descricao": "Iog Danone Natural Lar/Cen/Mel 160 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891025121251",
+      "hits": 1,
+      "aliases": [
+        "iog danone natural lar cen mel 160 g",
+        "iog danone natural lar cen mel 160g",
+        "iog danone natural lar/cen/mel | massa:160g"
+      ],
+      "descricao_base": "iog danone natural lar/cen/mel",
+      "medidas": [
+        "massa:160g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog bom leite grego bj | massa:540g": {
+      "descricao": "Iog Bom Leite Grego Bj 540 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898118392154",
+      "hits": 1,
+      "aliases": [
+        "iog bom leite grego bj 540 g",
+        "iog bom leite grego bj 540g",
+        "iog bom leite grego bj | massa:540g"
+      ],
+      "descricao_base": "iog bom leite grego bj",
+      "medidas": [
+        "massa:540g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "leite ferm yakult 40 light | massa:80g": {
+      "descricao": "Leite Ferm Yakult 40 Light 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "0000078936676",
+      "hits": 1,
+      "aliases": [
+        "leite ferm yakult 40 light 80 g",
+        "leite ferm yakult 40 light 80g",
+        "leite ferm yakult 40 light | massa:80g"
+      ],
+      "descricao_base": "leite ferm yakult 40 light",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog bom leite light morango bdj | massa:540g": {
+      "descricao": "Iog Bom Leite Light Morango Bdj 540 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898118391379",
+      "hits": 1,
+      "aliases": [
+        "iog bom leite light morango bdj 540 g",
+        "iog bom leite light morango bdj 540g",
+        "iog bom leite light morango bdj | massa:540g"
+      ],
+      "descricao_base": "iog bom leite light morango bdj",
+      "medidas": [
+        "massa:540g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog danone yopro doce de leite | massa:250g": {
+      "descricao": "Iog Danone Yopro Doce De Leite 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891025115588",
+      "hits": 1,
+      "aliases": [
+        "iog danone yopro doce de leite 250 g",
+        "iog danone yopro doce de leite 250g",
+        "iog danone yopro doce de leite | massa:250g"
+      ],
+      "descricao_base": "iog danone yopro doce de leite",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog polpa betania coco | massa:540g": {
+      "descricao": "Iog Polpa Betania Coco 540 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898403782196",
+      "hits": 1,
+      "aliases": [
+        "iog polpa betania 540g coco",
+        "iog polpa betania coco 540 g",
+        "iog polpa betania coco | massa:540g"
+      ],
+      "descricao_base": "iog polpa betania coco",
+      "medidas": [
+        "massa:540g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog danone corp break mor fam tri zero | massa:800g": {
+      "descricao": "Iog Danone Corp Break Mor Fam Tri.Zero 800 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891025124177",
+      "hits": 1,
+      "aliases": [
+        "iog danone corp break mor fam tri zero 800 g",
+        "iog danone corp break mor fam tri zero 800g",
+        "iog danone corp break mor fam tri zero | massa:800g"
+      ],
+      "descricao_base": "iog danone corp break mor fam tri zero",
+      "medidas": [
+        "massa:800g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog betania bicamada ameixa | massa:150g": {
+      "descricao": "Iog Betania Bicamada Ameixa 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898403782349",
+      "hits": 1,
+      "aliases": [
+        "iog betania bicamada 150g ameixa",
+        "iog betania bicamada ameixa 150 g",
+        "iog betania bicamada ameixa | massa:150g"
+      ],
+      "descricao_base": "iog betania bicamada ameixa",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog betania yobem trip zero ameixa | massa:850g": {
+      "descricao": "Iog Betania Yobem Trip Zero Ameixa 850 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898403781496",
+      "hits": 1,
+      "aliases": [
+        "iog betania yobem trip zero 850g ameixa",
+        "iog betania yobem trip zero ameixa 850 g",
+        "iog betania yobem trip zero ameixa | massa:850g"
+      ],
+      "descricao_base": "iog betania yobem trip zero ameixa",
+      "medidas": [
+        "massa:850g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog verde campo whey 15 prot banana | massa:250g": {
+      "descricao": "Iog Verde Campo Whey 15 Prot Banana 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898205924206",
+      "hits": 1,
+      "aliases": [
+        "iog verde campo whey 15 prot banana 250 g",
+        "iog verde campo whey 15 prot banana | massa:250g",
+        "iog verde campo whey 15 prot banana250g"
+      ],
+      "descricao_base": "iog verde campo whey 15 prot banana",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog batavo pedacos morango | massa:100g": {
+      "descricao": "Iog Batavo Pedacos Morango 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097000607",
+      "hits": 1,
+      "aliases": [
+        "iog batavo pedacos morango 100 g",
+        "iog batavo pedacos morango 100g",
+        "iog batavo pedacos morango | massa:100g"
+      ],
+      "descricao_base": "iog batavo pedacos morango",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog grego vigor flocos chocolate | massa:90g": {
+      "descricao": "Iog Grego Vigor Flocos Chocolate 90 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896625211081",
+      "hits": 1,
+      "aliases": [
+        "iog grego vigor flocos chocolate 90 g",
+        "iog grego vigor flocos chocolate 90g",
+        "iog grego vigor flocos chocolate | massa:90g"
+      ],
+      "descricao_base": "iog grego vigor flocos chocolate",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "iog danone natural mel | massa:160g": {
+      "descricao": "Iog Danone Natural Mel 160 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891025121244",
+      "hits": 1,
+      "aliases": [
+        "iog danone natural mel 160 g",
+        "iog danone natural mel 160g",
+        "iog danone natural mel | massa:160g"
+      ],
+      "descricao_base": "iog danone natural mel",
+      "medidas": [
+        "massa:160g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-08T16:14:30"
     }
   }
 }
