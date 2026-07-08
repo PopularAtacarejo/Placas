@@ -17224,5 +17224,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/07/2026",
+    "hora": "16:26:15",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Batavo Grego Morango 450 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7891097000140",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Liq Activia Zero Morango Danone 800 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/07/2026",
+        "codigo_barras": "7891025124030",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Fermentado Bom Leite 80 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/07/2026",
+        "codigo_barras": "7898118392390",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Nestlé Natural Mel 170 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/07/2026",
+        "codigo_barras": "7891000072974",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
