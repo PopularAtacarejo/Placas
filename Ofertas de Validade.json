@@ -17180,5 +17180,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/07/2026",
+    "hora": "16:23:23",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Liq Activia Ameixa Danone 800 g",
+        "preco": "11,48",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7891025123453",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Leite Ferm Nestlé Chamyto Big 120 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/07/2026",
+        "codigo_barras": "7891000027967",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Ferm Elege Bob Esponja Mor 160 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/07/2026",
+        "codigo_barras": "7891097101588",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Ferm Itambe Kids Uva 80 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/07/2026",
+        "codigo_barras": "7896051165989",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
