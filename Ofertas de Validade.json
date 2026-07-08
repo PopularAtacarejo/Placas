@@ -17312,5 +17312,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/07/2026",
+    "hora": "16:31:31",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Ferm Yakult 40 Light 80 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/07/2026",
+        "codigo_barras": "0000078936676",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Lacfree Banana/Maçã/Mamão 140 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "18/07/2026",
+        "codigo_barras": "7898205924060",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Bom Leite Light Morango Bdj 540 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/07/2026",
+        "codigo_barras": "7898118391379",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Beb Lact Bom Leite Bdj Ameixa 540 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/07/2026",
+        "codigo_barras": "7898118392659",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
