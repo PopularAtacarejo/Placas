@@ -17004,5 +17004,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/07/2026",
+    "hora": "15:57:56",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Batavo Tradicional Probio 2 1,150 g",
+        "preco": "16,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/07/2026",
+        "codigo_barras": "7891097107030",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Leite Ferm Elege Bob Esponja Trad 160 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/07/2026",
+        "codigo_barras": "7891097101540",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Danone Activia Polpa Morango 340 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/07/2026",
+        "codigo_barras": "7891025123163",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Verdadeiro Zero Batido Danone 1200 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/07/2026",
+        "codigo_barras": "7891025125365",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
