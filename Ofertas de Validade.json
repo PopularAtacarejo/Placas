@@ -17136,5 +17136,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/07/2026",
+    "hora": "16:20:48",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Batavo Morango Probio 2 510 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/07/2026",
+        "codigo_barras": "7891097104855",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Petit Nestlé Chambinho Mor Bdj 320 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/07/2026",
+        "codigo_barras": "7891000103937",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Grego Vigor Tradicional 90 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "10/07/2026",
+        "codigo_barras": "7896625211142",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Batavo Mor/Coco Bdj 540 g",
+        "preco": "6,48",
+        "unidade": "Unid.",
+        "validade_oferta": "24/07/2026",
+        "codigo_barras": "7891097101854",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
