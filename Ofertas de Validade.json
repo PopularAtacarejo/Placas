@@ -16987,5 +16987,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/07/2026",
+    "hora": "10:36:23",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Desodorante Aero Francis Div. Fragâncias 50 ml",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/07/2026",
+        "codigo_barras": "7908324402384",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
