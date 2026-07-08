@@ -17356,5 +17356,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/07/2026",
+    "hora": "16:34:21",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Danone Yopro Doce De Leite 250 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/07/2026",
+        "codigo_barras": "7891025115588",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Polpa Betania Coco 540 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/07/2026",
+        "codigo_barras": "7898403782196",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Danone Corp Break Mor Fam Tri.Zero 800 g",
+        "preco": "17,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/07/2026",
+        "codigo_barras": "7891025124177",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Betania Bicamada Ameixa 150 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/07/2026",
+        "codigo_barras": "7898403782349",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
