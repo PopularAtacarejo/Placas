@@ -9910,5 +9910,21 @@
     "produto": "Salg Elma Chips Fandangos Presunto 21g",
     "preco": "0,88",
     "validade_oferta_ate": "13/07/2026"
+  },
+  {
+    "data": "2026-07-10",
+    "horario": "15:42:49",
+    "feito_por": "Jeferson",
+    "produto": "Refrigerante Pepsi Black 1L",
+    "preco": "4,29",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-10",
+    "horario": "15:42:49",
+    "feito_por": "Jeferson",
+    "produto": "Pastilha Docil Mini Minty Div. Sabores 14g",
+    "preco": "0,98",
+    "validade_oferta_ate": ""
   }
 ]
