@@ -9846,5 +9846,37 @@
     "produto": "Charque Jerked Suino Seara 400g",
     "preco": "14,98",
     "validade_oferta_ate": "12/07/2026"
+  },
+  {
+    "data": "2026-07-10",
+    "horario": "10:55:04",
+    "feito_por": "Jeferson",
+    "produto": "Cebola Roxa",
+    "preco": "9,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-10",
+    "horario": "10:55:04",
+    "feito_por": "Jeferson",
+    "produto": "Kiwi Sungold Zespri 440g",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-10",
+    "horario": "10:55:04",
+    "feito_por": "Jeferson",
+    "produto": "Cebola Branca",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-10",
+    "horario": "10:55:04",
+    "feito_por": "Jeferson",
+    "produto": "Abacaxi",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
   }
 ]
