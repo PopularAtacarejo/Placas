@@ -17444,5 +17444,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/07/2026",
+    "hora": "14:52:02",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pasta De Castanha Atdc Chopconuts 120 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7898955705735",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Torrada Vitarella Integral 142",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7896213004750",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc. Parati Hot Cracker Queijo 100 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/07/2026",
+        "codigo_barras": "7896004010557",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Desodorante Aero Francis Div. Fragrâncias 150 ml",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026"
+      }
+    ]
   }
 ]
