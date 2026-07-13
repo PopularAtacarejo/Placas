@@ -9974,5 +9974,21 @@
     "produto": "Cerveja Itaipava Lt 473ml",
     "preco": "3,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-13",
+    "horario": "15:17:21",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Desc Babysec Shortinho Megam c/30, g c/24u, Xg c/22, Xxg c/20, Xxxg c/16",
+    "preco": "31,98",
+    "validade_oferta_ate": "14/07/2026"
+  },
+  {
+    "data": "2026-07-13",
+    "horario": "15:17:21",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Calca Mamypoko D&n Jbo g C/30 m C/34, c/30, Xg C/26, Xxg C/22",
+    "preco": "49,98",
+    "validade_oferta_ate": "14/07/2026"
   }
 ]
