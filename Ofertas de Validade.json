@@ -17528,5 +17528,49 @@
         "validade_oferta": "31/07/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "14/07/2026",
+    "hora": "10:56:24",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bananada Tambau 500 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7896945403296",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Café Capuccino Maratá Chocolate Sh 200 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7898286203177",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Pó Piracanjuba Int. Lt 380 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026",
+        "codigo_barras": "7898215158448",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mort Copacol Frango 380 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/07/2026",
+        "codigo_barras": "7891527069020",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
