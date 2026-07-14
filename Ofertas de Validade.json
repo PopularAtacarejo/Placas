@@ -17572,5 +17572,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "14/07/2026",
+    "hora": "10:57:12",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mortadela Frimesa Frango Kg",
+        "preco": "12,98",
+        "unidade": "Kg",
+        "validade_oferta": "24/07/2026",
+        "codigo_barras": "0000000032698",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
