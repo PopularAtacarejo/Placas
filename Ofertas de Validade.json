@@ -17762,5 +17762,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/07/2026",
+    "hora": "14:39:19",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Wafer Toddy Choc c/mor 94 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/07/2026",
+        "codigo_barras": "7896071025416",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bolinho Ana Maria Duplo Choc 35 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "19/07/2026",
+        "codigo_barras": "7896002302661",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Vitarella Tortinhas Morango 140 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/07/2026",
+        "codigo_barras": "7896213005245",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Mabel Amant Coco 300 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7896071030090",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
