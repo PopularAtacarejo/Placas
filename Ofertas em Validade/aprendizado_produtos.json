@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-07-08T16:14:30",
+  "atualizado_em": "2026-07-15T14:34:18",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -4147,8 +4147,8 @@
     "bisc vitarella tortinhas morango | massa:140g": {
       "descricao": "Bisc Vitarella Tortinhas Morango 140 g",
       "unidade": "Unid.",
-      "codigo_barras": "8962130052453",
-      "hits": 2,
+      "codigo_barras": "7896213005245",
+      "hits": 3,
       "aliases": [
         "bisc vitarella tortinhas morango 140 g",
         "bisc vitarella tortinhas morango 140g",
@@ -4159,7 +4159,7 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-07T17:13:59"
+      "atualizado_em": "2026-07-15T14:34:18"
     },
     "bisc cookies vitarella original | massa:80g": {
       "descricao": "Bisc Cookies Vitarella Original 80 g",
@@ -5206,7 +5206,7 @@
       "descricao": "Bombom Raffaello 30 g",
       "unidade": "Unid.",
       "codigo_barras": "",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "bombom raffaello 30 g",
         "bombom raffaello 30g",
@@ -5217,7 +5217,7 @@
         "massa:30g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-02T11:05:35"
+      "atualizado_em": "2026-07-15T14:34:18"
     },
     "choc arcor bon o bon beijinho | massa:15g": {
       "descricao": "Choc Arcor Bon o Bon Beijinho 15 g",
@@ -11026,7 +11026,8 @@
     "suco pindorama conc acerola pet | volume:500ml": {
       "descricao": "Suco Pindorama Conc Acerola Pet 500 ml",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896215300089",
+      "hits": 2,
       "aliases": [
         "suco pindorama conc acerola pet 500 ml",
         "suco pindorama conc acerola pet 500ml",
@@ -11037,7 +11038,7 @@
         "volume:500ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T14:35:37"
+      "atualizado_em": "2026-07-15T14:34:18"
     },
     "suco del valle limonada tropical lt | volume:290ml": {
       "descricao": "Suco Del Valle Limonada Tropical Lt 290 ml",
@@ -11058,7 +11059,8 @@
     "agua de coco qualicoco tp | volume:1000ml": {
       "descricao": "Água De Coco Qualicoco Tp 1 l",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896552907484",
+      "hits": 2,
       "aliases": [
         "agua de coco qualicoco tp 1 l",
         "agua de coco qualicoco tp 1l",
@@ -11069,7 +11071,7 @@
         "volume:1000ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T14:35:37"
+      "atualizado_em": "2026-07-15T14:34:18"
     },
     "refri guarana antarctica zero | volume:2500ml": {
       "descricao": "Refri Guarana Antarctica Zero 2,5 l",
@@ -11106,7 +11108,8 @@
     "refri pet guarana kuat | volume:1500ml": {
       "descricao": "Refri Pet Guarana Kuat 1,5 l",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7894900911756",
+      "hits": 2,
       "aliases": [
         "refri pet guarana kuat 1 5 l",
         "refri pet guarana kuat 1 5l",
@@ -11117,7 +11120,7 @@
         "volume:1500ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T14:35:37"
+      "atualizado_em": "2026-07-15T14:34:18"
     },
     "torrada vitarella integral | massa:142g": {
       "descricao": "Torrada Vitarella Integral 142 g",
@@ -11152,10 +11155,10 @@
       "atualizado_em": "2026-06-17T14:42:31"
     },
     "bisc nesfit morango e cereais | massa:160g": {
-      "descricao": "Pasta De Castanha Atdc Choconuts 120 g",
+      "descricao": "Bisc Nesfit Morango E Cereais 160 g",
       "unidade": "Unid.",
-      "codigo_barras": "8989557057359",
-      "hits": 2,
+      "codigo_barras": "7891000304594",
+      "hits": 3,
       "aliases": [
         "bisc nesfit morango e cereais 160 g",
         "bisc nesfit morango e cereais 160g",
@@ -11163,12 +11166,12 @@
         "pasta de castanha atdc choconuts 120 g",
         "pasta de castanha atdc choconuts | massa:120g"
       ],
-      "descricao_base": "pasta de castanha atdc choconuts",
+      "descricao_base": "bisc nesfit morango e cereais",
       "medidas": [
-        "massa:120g"
+        "massa:160g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-07T17:13:59"
+      "atualizado_em": "2026-07-15T14:34:18"
     },
     "bisc lowcucar rech morango | massa:120g": {
       "descricao": "Bisc Lowcucar Rech Morango 120 g",
@@ -11511,10 +11514,10 @@
       "atualizado_em": "2026-06-17T14:42:31"
     },
     "barra de cereal naturale castanhas c/ave | massa:25g": {
-      "descricao": "Bisc Nesfit Morango E Cereais 160 g",
+      "descricao": "Barra De Cereal Naturale Castanhas c/ave 25 g",
       "unidade": "Unid.",
-      "codigo_barras": "8910003045941",
-      "hits": 2,
+      "codigo_barras": "7898055420316",
+      "hits": 3,
       "aliases": [
         "barra de cereal naturale castanhas c ave 25 g",
         "barra de cereal naturale castanhas c ave 25g",
@@ -11522,12 +11525,12 @@
         "bisc nesfit morango e cereais 160 g",
         "bisc nesfit morango e cereais | massa:160g"
       ],
-      "descricao_base": "bisc nesfit morango e cereais",
+      "descricao_base": "barra de cereal naturale castanhas c/ave",
       "medidas": [
-        "massa:160g"
+        "massa:25g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-07T17:13:59"
+      "atualizado_em": "2026-07-15T14:34:18"
     },
     "barra spl max titanium p prot napol | massa:90g": {
       "descricao": "Barra Spl Max Titanium P.Prot.Napol 90 g",
@@ -12012,8 +12015,8 @@
     "bisc mabel amant coco | massa:300g": {
       "descricao": "Bisc Mabel Amant Coco 300 g",
       "unidade": "Unid.",
-      "codigo_barras": "8960710300901",
-      "hits": 2,
+      "codigo_barras": "7896071030090",
+      "hits": 3,
       "aliases": [
         "bisc mabel amant coco 300 g",
         "bisc mabel amant coco 300g",
@@ -12024,13 +12027,13 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-07T17:13:59"
+      "atualizado_em": "2026-07-15T14:34:18"
     },
     "bisc wafer toddy choc c/mor | massa:94g": {
       "descricao": "Bisc Wafer Toddy Choc c/mor 94 g",
       "unidade": "Unid.",
-      "codigo_barras": "8960710254167",
-      "hits": 2,
+      "codigo_barras": "7896071025416",
+      "hits": 3,
       "aliases": [
         "bisc wafer toddy choc c mor 94 g",
         "bisc wafer toddy choc c mor 94g",
@@ -12041,7 +12044,7 @@
         "massa:94g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-07T17:13:59"
+      "atualizado_em": "2026-07-15T14:34:18"
     },
     "bisc wafer toddy chocolate | massa:94g": {
       "descricao": "Bisc Wafer Toddy Chocolate 94 g",
@@ -12409,7 +12412,8 @@
     "pitu batidinha coco cremoso | volume:250ml": {
       "descricao": "Pitu Batidinha Coco Cremoso 250 ml",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896607100136",
+      "hits": 2,
       "aliases": [
         "pitu batidinha coco cremoso 250 ml",
         "pitu batidinha coco cremoso 250ml",
@@ -12420,7 +12424,7 @@
         "volume:250ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T16:05:19"
+      "atualizado_em": "2026-07-15T14:34:18"
     },
     "cerv budweiser zero ln | volume:330ml": {
       "descricao": "Cerv Budweiser Zero Ln 330 ml",
@@ -13781,8 +13785,8 @@
     "bolinho ana maria duplo choc | massa:35g": {
       "descricao": "Bolinho Ana Maria Duplo Choc 35 g",
       "unidade": "Unid.",
-      "codigo_barras": "8960023026611",
-      "hits": 1,
+      "codigo_barras": "7896002302661",
+      "hits": 2,
       "aliases": [
         "bolinho ana maria duplo choc 35 g",
         "bolinho ana maria duplo choc 35g",
@@ -13793,7 +13797,7 @@
         "massa:35g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-07T17:13:59"
+      "atualizado_em": "2026-07-15T14:34:18"
     },
     "tangerina importada kg": {
       "descricao": "Barra De Cereal Naturale Castanhas c/ave 25 g",
@@ -14359,6 +14363,125 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-07-08T16:14:30"
+    },
+    "beb lact piracanjuba banana | volume:200ml": {
+      "descricao": "Beb Lact Piracanjuba Banana 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898215152774",
+      "hits": 1,
+      "aliases": [
+        "beb lact piracanjuba banana 200 ml",
+        "beb lact piracanjuba banana 200ml",
+        "beb lact piracanjuba banana | volume:200ml"
+      ],
+      "descricao_base": "beb lact piracanjuba banana",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-15T14:34:18"
+    },
+    "iog pense zero batido | massa:1150g": {
+      "descricao": "Iog Pense Zero Batido 1150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097103650",
+      "hits": 1,
+      "aliases": [
+        "iog pense zero batido 1150 g",
+        "iog pense zero batido 1150g",
+        "iog pense zero batido | massa:1150g"
+      ],
+      "descricao_base": "iog pense zero batido",
+      "medidas": [
+        "massa:1150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-15T14:34:18"
+    },
+    "iog batavo grego flocos | massa:450g": {
+      "descricao": "Iog Batavo Grego Flocos 450 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097104770",
+      "hits": 1,
+      "aliases": [
+        "iog batavo grego flocos 450 g",
+        "iog batavo grego flocos 450g",
+        "iog batavo grego flocos | massa:450g"
+      ],
+      "descricao_base": "iog batavo grego flocos",
+      "medidas": [
+        "massa:450g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-15T14:34:18"
+    },
+    "iog batavo bob esponja pouch vitam | massa:100g": {
+      "descricao": "Iog Batavo Bob Esponja Pouch Vitam. 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097106767",
+      "hits": 1,
+      "aliases": [
+        "iog batavo bob esponja pouch vitam 100 g",
+        "iog batavo bob esponja pouch vitam 100g",
+        "iog batavo bob esponja pouch vitam | massa:100g"
+      ],
+      "descricao_base": "iog batavo bob esponja pouch vitam",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-15T14:34:18"
+    },
+    "iog liq pense zero bat ameixa | massa:1.15g": {
+      "descricao": "Iog Liq Pense Zero Bat Ameixa 1,150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097104640",
+      "hits": 1,
+      "aliases": [
+        "iog liq pense zero bat ameixa 1 150 g",
+        "iog liq pense zero bat ameixa 1 150g",
+        "iog liq pense zero bat ameixa | massa:1.15g"
+      ],
+      "descricao_base": "iog liq pense zero bat ameixa",
+      "medidas": [
+        "massa:1.15g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-15T14:34:18"
+    },
+    "iog copo coco parmalat fit | massa:120g": {
+      "descricao": "Iog Copo Coco Parmalat Fit 120 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097107221",
+      "hits": 1,
+      "aliases": [
+        "iog copo coco parmalat fit 120 g",
+        "iog copo coco parmalat fit 120g",
+        "iog copo coco parmalat fit | massa:120g"
+      ],
+      "descricao_base": "iog copo coco parmalat fit",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-15T14:34:18"
+    },
+    "iog bom leite natural integral | massa:150g": {
+      "descricao": "Iog Bom Leite Natural Integral 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898118392017",
+      "hits": 1,
+      "aliases": [
+        "iog bom leite natural integral 150 g",
+        "iog bom leite natural integral 150g",
+        "iog bom leite natural integral | massa:150g"
+      ],
+      "descricao_base": "iog bom leite natural integral",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-15T14:34:18"
     }
   }
 }
