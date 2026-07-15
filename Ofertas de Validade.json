@@ -17848,5 +17848,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/07/2026",
+    "hora": "14:43:28",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Pense Zero Batido 1150 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/07/2026",
+        "codigo_barras": "7891097103650",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Batavo Grego Flocos 450 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026",
+        "codigo_barras": "7891097104770",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Batavo Bob Esponja Pouch Vitam. 100 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026",
+        "codigo_barras": "7891097106767",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Liq Pense Zero Bat Ameixa 1,150 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/07/2026",
+        "codigo_barras": "7891097104640",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
