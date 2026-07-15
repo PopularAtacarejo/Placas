@@ -17718,5 +17718,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/07/2026",
+    "hora": "14:37:09",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pitu Batidinha Coco Cremoso 250 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/07/2026",
+        "codigo_barras": "7896607100136",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Suco Pindorama Conc Acerola Pet 500 ml",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/07/2026",
+        "codigo_barras": "7896215300089",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Refri Pet Guarana Kuat 1,5 l",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/07/2026",
+        "codigo_barras": "7894900911756",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Água De Coco Qualicoco Tp 1 l",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/07/2026",
+        "codigo_barras": "7896552907484",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
