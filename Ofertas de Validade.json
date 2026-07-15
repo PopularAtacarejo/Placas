@@ -17918,5 +17918,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/07/2026",
+    "hora": "15:51:57",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Chá Preto Maratá 18 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/07/2026",
+        "codigo_barras": "7898286200152",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Chá Preto Maratá 18 gramas",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/07/2026",
+        "codigo_barras": "7898286200152",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
