@@ -17649,5 +17649,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/07/2026",
+    "hora": "10:55:49",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mist P/Bolo Apti Cenoura 400 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7896327511502",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mist P/Bolo Apti Choc/Avelã Ref 380 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7896327516644",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mist Bolo Apti Choc/Coco 380 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7896327516620",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mist P/Bolo Apti Laranja 400 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7896327511342",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
