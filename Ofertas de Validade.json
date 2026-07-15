@@ -17806,5 +17806,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/07/2026",
+    "hora": "14:41:24",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bombom Raffaello 30 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/07/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra De Cereal Naturale Castanhas c/ave 25 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/07/2026",
+        "codigo_barras": "7898055420316",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Nesfit Morango E Cereais 160 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026",
+        "codigo_barras": "7891000304594",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Beb Lact Piracanjuba Banana 200 ml",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/07/2026",
+        "codigo_barras": "7898215152774",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
