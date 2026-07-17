@@ -17944,5 +17944,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/07/2026",
+    "hora": "15:14:36",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Toddy Original 750 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/07/2026",
+        "codigo_barras": "7892840819170",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Castanha De Caju Maratá 50 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/07/2026",
+        "codigo_barras": "7898617580939",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Tempero Cond Maratá 490 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/07/2026",
+        "codigo_barras": "7898286191306",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
