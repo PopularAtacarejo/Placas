@@ -10854,5 +10854,29 @@
     "produto": "Asa De Frango a Granel Kg",
     "preco": "14,98",
     "validade_oferta_ate": "19/07/2026"
+  },
+  {
+    "data": "2026-07-18",
+    "horario": "08:52:49",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Pilão Parboilizado 1kg",
+    "preco": "4,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-18",
+    "horario": "08:52:49",
+    "feito_por": "Jeferson",
+    "produto": "Arroz kiarroz parboilizado 1kg",
+    "preco": "4,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-18",
+    "horario": "08:52:49",
+    "feito_por": "Jeferson",
+    "produto": "Refresco Frisco Div. Sabores 18g",
+    "preco": "1,28",
+    "validade_oferta_ate": ""
   }
 ]
