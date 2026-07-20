@@ -17979,5 +17979,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/07/2026",
+    "hora": "15:22:43",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb Lact Frutigutti Ameixa Sh 900 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/07/2026",
+        "codigo_barras": "7898022210612",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Lact Betania Bat Gut Ameixa Sh 900 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/07/2026",
+        "codigo_barras": "7898403781014",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
