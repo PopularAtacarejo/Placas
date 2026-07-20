@@ -10926,5 +10926,21 @@
     "produto": "Biscoito Doce Bicharada 300g",
     "preco": "6,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-20",
+    "horario": "17:50:32",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Desc Babysec Shortinho Megag c/24; Xg c/22; Xxg c/20",
+    "preco": "29,98",
+    "validade_oferta_ate": "21/07/2026"
+  },
+  {
+    "data": "2026-07-20",
+    "horario": "17:50:32",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Capricho Shortinho Mega 30 G.g c/30; eg c/26; xxg c/22",
+    "preco": "39,98",
+    "validade_oferta_ate": "21/07/2026"
   }
 ]
