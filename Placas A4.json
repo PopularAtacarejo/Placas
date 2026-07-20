@@ -10902,5 +10902,13 @@
     "produto": "Laranja Pera",
     "preco": "1,98",
     "validade_oferta_ate": "19/07/2026"
+  },
+  {
+    "data": "2026-07-20",
+    "horario": "14:43:43",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/12",
+    "preco": "8,98",
+    "validade_oferta_ate": "21/07/2026"
   }
 ]
