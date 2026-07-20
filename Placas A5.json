@@ -13478,5 +13478,37 @@
     "produto": "Baly Energético Div. Sabores 473ml",
     "preco": "9,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-18",
+    "horario": "11:48:15",
+    "feito_por": "Jeferson",
+    "produto": "Laranja Pera",
+    "preco": "1,98",
+    "validade_oferta_ate": "19/07/2026"
+  },
+  {
+    "data": "2026-07-20",
+    "horario": "14:43:43",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Caipira Coopag Bandeja C/12",
+    "preco": "8,98",
+    "validade_oferta_ate": "21/07/2026"
+  },
+  {
+    "data": "2026-07-20",
+    "horario": "14:43:43",
+    "feito_por": "Jeferson",
+    "produto": "Drops Halls Cereja 28g",
+    "preco": "0,98",
+    "validade_oferta_ate": "22/07/2026"
+  },
+  {
+    "data": "2026-07-20",
+    "horario": "14:43:43",
+    "feito_por": "Jeferson",
+    "produto": "Beb Lact Piracanjuba Banana 200ml",
+    "preco": "1,98",
+    "validade_oferta_ate": "20/07/2026"
   }
 ]
