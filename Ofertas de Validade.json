@@ -18093,5 +18093,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "21/07/2026",
+    "hora": "09:41:48",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Nestlé Natural Desnatado 160 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026",
+        "codigo_barras": "7891000073018",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Danone Activia Gf Ameixa 170 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/07/2026",
+        "codigo_barras": "7891025109419",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Beb Lact Betania Bat Gut Sh Ameixa 900 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/07/2026",
+        "codigo_barras": "7898403781014",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Betania Yobem Trip Zero Ameixa 850 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/07/2026",
+        "codigo_barras": "7898403781496",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
