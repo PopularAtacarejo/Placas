@@ -13646,5 +13646,21 @@
     "produto": "Fralda Desc. T. DA Monica Prem. Econ. Div. Tamanhos",
     "preco": "24,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-21",
+    "horario": "09:50:43",
+    "feito_por": "Jeferson",
+    "produto": "Granola Tia Sonia 200g",
+    "preco": "5,98",
+    "validade_oferta_ate": "07/08/2026"
+  },
+  {
+    "data": "2026-07-21",
+    "horario": "09:50:43",
+    "feito_por": "Jeferson",
+    "produto": "Flocão de Milho Popular 500g",
+    "preco": "2,06",
+    "validade_oferta_ate": ""
   }
 ]
