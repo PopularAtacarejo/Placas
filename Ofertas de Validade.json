@@ -18049,5 +18049,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "21/07/2026",
+    "hora": "09:40:21",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb Lact Betania Bat Gut Sal De Fruta Sh 900 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7898403781533",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Danone Activia Gf Morango 170 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7891025109396",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Batavo Grego Pt Tradicional 100 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/07/2026",
+        "codigo_barras": "7891097000270",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Danone Yopro Protein Mor Pouch 160 g",
+        "preco": "10,48",
+        "unidade": "Unid.",
+        "validade_oferta": "25/07/2026",
+        "codigo_barras": "7891025121435",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
