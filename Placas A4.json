@@ -11278,5 +11278,21 @@
     "produto": "File De Peito Aurora 1kg Bj",
     "preco": "21,98",
     "validade_oferta_ate": "22/07/2026"
+  },
+  {
+    "data": "2026-07-21",
+    "horario": "16:29:10",
+    "feito_por": "Jeferson",
+    "produto": "Agua Minerla Crystal C/Gás 500ml",
+    "preco": "2,29",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-21",
+    "horario": "16:29:10",
+    "feito_por": "Jeferson",
+    "produto": "Agua Minerla Crystal S/Gás 500ml",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
   }
 ]
