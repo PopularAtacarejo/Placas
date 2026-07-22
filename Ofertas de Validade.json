@@ -18269,5 +18269,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/07/2026",
+    "hora": "09:32:38",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Goma De Tapioca Doce Mel 1 kg",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/07/2026",
+        "codigo_barras": "7898366001396",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Lays Rustica Sour Cream 62 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/08/2026",
+        "codigo_barras": "7892840825157",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
