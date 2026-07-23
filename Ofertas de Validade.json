@@ -18339,5 +18339,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "23/07/2026",
+    "hora": "09:57:06",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Maxmallows t Rech t Color Baun c/mor 70 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/07/2026",
+        "codigo_barras": "7896451929372",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bala Canudinho Color/mor Citr 70 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7896451912480",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Gelatines Uni 80 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/08/2026",
+        "codigo_barras": "7896451913869",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Gelatines Docile Cubo Sort 80 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026",
+        "codigo_barras": "7896451914354",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
