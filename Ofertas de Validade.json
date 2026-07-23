@@ -18383,5 +18383,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "23/07/2026",
+    "hora": "15:41:58",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Empanado Perdigão Mini Chicken 275 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7891515485528",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Empanado Perdigão Mini Chicken 275 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7891515485528",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
