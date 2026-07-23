@@ -18295,5 +18295,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "23/07/2026",
+    "hora": "09:54:47",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bala Canudinho Color/mor Citr V 2 70 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/07/2026",
+        "codigo_barras": "7896451913845",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Gelatines Beijo 70 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/07/2026",
+        "codigo_barras": "7896451909381",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Docigoma Docile Super Azedinhos Cubinhos 80 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/07/2026",
+        "codigo_barras": "7896451922892",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bala Canudinho Super Azedinhos Docile 70 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/07/2026",
+        "codigo_barras": "7896451922915",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
