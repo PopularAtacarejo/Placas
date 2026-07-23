@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-07-21T09:36:09",
+  "atualizado_em": "2026-07-23T09:51:31",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -8159,7 +8159,8 @@
     "maxmallows t rech t color baun c/mor | massa:70g": {
       "descricao": "Maxmallows t Rech t Color Baun c/mor 70 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896451929372",
+      "hits": 2,
       "aliases": [
         "maxmallows t rech t color baun c mor 70 g",
         "maxmallows t rech t color baun c mor 70g",
@@ -8170,7 +8171,7 @@
         "massa:70g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T15:19:14"
+      "atualizado_em": "2026-07-23T09:51:31"
     },
     "salg elma chips fandangos bacon | massa:35g": {
       "descricao": "Salg Elma Chips Fandangos Bacon 35 g",
@@ -14744,6 +14745,125 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-07-21T09:36:09"
+    },
+    "bala canudinho color/mor citr v 2 | massa:70g": {
+      "descricao": "Bala Canudinho Color/mor Citr V 2 70 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896451913845",
+      "hits": 1,
+      "aliases": [
+        "bala canudinho color mor citr v 2 70 g",
+        "bala canudinho color mor citr v2 70g",
+        "bala canudinho color/mor citr v 2 | massa:70g"
+      ],
+      "descricao_base": "bala canudinho color/mor citr v 2",
+      "medidas": [
+        "massa:70g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-23T09:51:31"
+    },
+    "gelatines beijo | massa:70g": {
+      "descricao": "Gelatines Beijo 70 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896451909381",
+      "hits": 1,
+      "aliases": [
+        "gelatines beijo 70 g",
+        "gelatines beijo 70g",
+        "gelatines beijo | massa:70g"
+      ],
+      "descricao_base": "gelatines beijo",
+      "medidas": [
+        "massa:70g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-23T09:51:31"
+    },
+    "docigoma docile super azedinhos cubinhos | massa:80g": {
+      "descricao": "Docigoma Docile Super Azedinhos Cubinhos 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896451922892",
+      "hits": 1,
+      "aliases": [
+        "docigoma docile super azedinhos cubinhos 80 g",
+        "docigoma docile super azedinhos cubinhos 80g",
+        "docigoma docile super azedinhos cubinhos | massa:80g"
+      ],
+      "descricao_base": "docigoma docile super azedinhos cubinhos",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-23T09:51:31"
+    },
+    "bala canudinho super azedinhos docile | massa:70g": {
+      "descricao": "Bala Canudinho Super Azedinhos Docile 70 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896451922915",
+      "hits": 1,
+      "aliases": [
+        "bala canudinho super azedinhos docile 70 g",
+        "bala canudinho super azedinhos docile 70g",
+        "bala canudinho super azedinhos docile | massa:70g"
+      ],
+      "descricao_base": "bala canudinho super azedinhos docile",
+      "medidas": [
+        "massa:70g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-23T09:51:31"
+    },
+    "bala canudinho color/mor citr | massa:70g": {
+      "descricao": "Bala Canudinho Color/mor Citr 70 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896451912480",
+      "hits": 1,
+      "aliases": [
+        "bala canudinho color mor citr 70 g",
+        "bala canudinho color mor citr 70g",
+        "bala canudinho color/mor citr | massa:70g"
+      ],
+      "descricao_base": "bala canudinho color/mor citr",
+      "medidas": [
+        "massa:70g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-23T09:51:31"
+    },
+    "gelatines uni | massa:80g": {
+      "descricao": "Gelatines Uni 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896451913869",
+      "hits": 1,
+      "aliases": [
+        "gelatines uni 80 g",
+        "gelatines uni 80g",
+        "gelatines uni | massa:80g"
+      ],
+      "descricao_base": "gelatines uni",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-23T09:51:31"
+    },
+    "gelatines docile cubo sort | massa:80g": {
+      "descricao": "Gelatines Docile Cubo Sort 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896451914354",
+      "hits": 1,
+      "aliases": [
+        "gelatines docile cubo sort 80 g",
+        "gelatines docile cubo sort 80g",
+        "gelatines docile cubo sort | massa:80g"
+      ],
+      "descricao_base": "gelatines docile cubo sort",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-23T09:51:31"
     }
   }
 }
