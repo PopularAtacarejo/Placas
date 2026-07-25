@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-07-23T09:51:31",
+  "atualizado_em": "2026-07-25T09:02:32",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -14864,6 +14864,100 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-07-23T09:51:31"
+    },
+    "bolinho bela coxita calabresa | massa:500g": {
+      "descricao": "Bolinho Bela Coxita Calabresa 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "6182316878864",
+      "hits": 1,
+      "aliases": [
+        "bolinho bela coxita 500g calabresa",
+        "bolinho bela coxita calabresa 500 g",
+        "bolinho bela coxita calabresa | massa:500g"
+      ],
+      "descricao_base": "bolinho bela coxita calabresa",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:02:32"
+    },
+    "bolinho bela coxita pizza | massa:500g": {
+      "descricao": "Bolinho Bela Coxita Pizza 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "6182316879090",
+      "hits": 1,
+      "aliases": [
+        "bolinho bela coxita 500g pizza",
+        "bolinho bela coxita pizza 500 g",
+        "bolinho bela coxita pizza | massa:500g"
+      ],
+      "descricao_base": "bolinho bela coxita pizza",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:02:32"
+    },
+    "bolinho bela coxita queijo | massa:500g": {
+      "descricao": "Bolinho Bela Coxita Queijo 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "6182314667330",
+      "hits": 1,
+      "aliases": [
+        "bolinho bela coxita 500g queijo",
+        "bolinho bela coxita queijo 500 g",
+        "bolinho bela coxita queijo | massa:500g"
+      ],
+      "descricao_base": "bolinho bela coxita queijo",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:02:32"
+    },
+    "coxinha de frango bela coxita | massa:500g": {
+      "descricao": "Coxinha De Frango Bela Coxita Pct 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "6192050440876",
+      "hits": 1,
+      "aliases": [
+        "coxinha de frango bela coxita pct 500 g",
+        "coxinha de frango bela coxita pct 500g",
+        "coxinha de frango bela coxita | massa:500g"
+      ],
+      "descricao_base": "coxinha de frango bela coxita",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:02:32"
+    },
+    "linguica com ervas boi de engenho kg": {
+      "descricao": "Linguiça Com Ervas Boi De Engenho Kg",
+      "unidade": "Kg",
+      "codigo_barras": "",
+      "hits": 1,
+      "aliases": [
+        "linguica com ervas boi de engenho kg"
+      ],
+      "descricao_base": "linguica com ervas boi de engenho kg",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:02:32"
+    },
+    "linguica toscana boi engenho granel kg": {
+      "descricao": "Linguiça Toscana Boi Engenho Granel Kg",
+      "unidade": "Kg",
+      "codigo_barras": "",
+      "hits": 1,
+      "aliases": [
+        "linguica toscana boi engenho granel kg"
+      ],
+      "descricao_base": "linguica toscana boi engenho granel kg",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:02:32"
     }
   }
 }
