@@ -19135,5 +19135,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "10:09:04",
+    "placa": 16,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Chá Leão Cam/Bau/Mel 15 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/08/2026",
+        "codigo_barras": "7898341432719",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Fermento Em Pó Fleischmann Inst 125 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/08/2026",
+        "codigo_barras": "7898409952128",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Confeito Dr.Oetker Choc Bolinha 80 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/08/2026",
+        "codigo_barras": "7891048014028",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Chá Leão Matte Original 16 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "09/08/2026",
+        "codigo_barras": "7891098038333",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
