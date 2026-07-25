@@ -18563,5 +18563,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "09:55:37",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Geleia Mor Diet B.Principio c/pedacos 230 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/08/2026",
+        "codigo_barras": "7897500603168",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Granola Cereais e Frutas Vovo Maze 250 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/08/2026",
+        "codigo_barras": "7898918420187",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra Power Prot Crisp Milk Caramelo 44 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/08/2026",
+        "codigo_barras": "7899941206304",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Pasta De Amendoim Dr.Peanut Pistache 600 g",
+        "preco": "44,48",
+        "unidade": "Unid.",
+        "validade_oferta": "21/08/2026",
+        "codigo_barras": "0070341663486",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
