@@ -18453,5 +18453,27 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "09:05:18",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Linguiça Com Ervas Boi De Engenho Kg",
+        "preco": "31,98",
+        "unidade": "Kg",
+        "validade_oferta": "26/07/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Linguiça Toscana Boi Engenho Granel Kg",
+        "preco": "29,98",
+        "unidade": "Kg",
+        "validade_oferta": "26/07/2026"
+      }
+    ]
   }
 ]
