@@ -19311,5 +19311,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "10:13:08",
+    "placa": 20,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Creme De Amendoim Bom Principio 250 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/08/2026",
+        "codigo_barras": "7897500607456",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Creme De Leite Piracanjuba Tp 1 kg",
+        "preco": "17,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/08/2026",
+        "codigo_barras": "7898215151883",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Ninho Uht Tp Zl Integral 1 l",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "7898215157410",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mist P/Bolo Dr.Oetker Cenoura 300 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "7891048061848",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
