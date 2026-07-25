@@ -19047,5 +19047,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "10:07:02",
+    "placa": 14,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Miojo Nissin Yakissoba Ufo Tomate 95 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "27/08/2026",
+        "codigo_barras": "7891079014318",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Molho De Tomate Pomarola Sachet Piz 300 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/08/2026",
+        "codigo_barras": "7896036095065",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Catchup Heinz Picante 397 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7896102593068",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Ervilha Knorr 170 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7891150058897",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
