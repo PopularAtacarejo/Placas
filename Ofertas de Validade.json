@@ -18871,5 +18871,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "10:03:09",
+    "placa": 10,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Molho p Salada Predilecta Parmesan 235 ml",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/08/2026",
+        "codigo_barras": "7896292399846",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Queijo Parmesao Ralado Vigor 50 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "09/08/2026",
+        "codigo_barras": "7891999970053",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mac Inst Nissin Turma Da Monica Carne 85 g",
+        "preco": "2,28",
+        "unidade": "Unid.",
+        "validade_oferta": "10/08/2026",
+        "codigo_barras": "7891079001004",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mac Inst Nissin Lamen Carne 85 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/08/2026",
+        "codigo_barras": "7891079000205",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
