@@ -18959,5 +18959,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "10:05:06",
+    "placa": 12,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mac Inst Lamen Nissin Bacon 85 g",
+        "preco": "1,68",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026",
+        "codigo_barras": "7891079000250",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Caldo Maratá Carne 57 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7898932426899",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Temp Sazon Limão 60 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/08/2026",
+        "codigo_barras": "7891132008704",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Maionese Hellmanns Pet 335 g",
+        "preco": "14,48",
+        "unidade": "Unid.",
+        "validade_oferta": "19/08/2026",
+        "codigo_barras": "7891150027800",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
