@@ -18651,5 +18651,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "09:58:15",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Rosquinha Lowcucar Leite 150 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7896292070073",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra Prot Nutrata Grego Torta Limão 40 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7898599212705",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra Nutrit Whey Grego Brigadeiro 40 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7898599213603",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Barra Prot Nutrata Grego Cookies Cream 40 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7898599218172",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
