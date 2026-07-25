@@ -19355,5 +19355,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "10:46:30",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cr De Avelã c/cacau Bom Principio Pt 350 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/08/2026",
+        "codigo_barras": "7897500605865",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Azeitona Vde Vale Fertil Pmtao Vidr 200 g",
+        "preco": "18,48",
+        "unidade": "Unid.",
+        "validade_oferta": "06/08/2026",
+        "codigo_barras": "7896272000977",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
