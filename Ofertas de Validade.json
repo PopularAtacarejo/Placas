@@ -18409,5 +18409,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "09:04:41",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bolinho Bela Coxita Calabresa 500 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026",
+        "codigo_barras": "6182316878864",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bolinho Bela Coxita Pizza 500 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026",
+        "codigo_barras": "6182316879090",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bolinho Bela Coxita Queijo 500 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026",
+        "codigo_barras": "6182314667330",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Coxinha De Frango Bela Coxita Pct 500 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/07/2026",
+        "codigo_barras": "6192050440876",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
