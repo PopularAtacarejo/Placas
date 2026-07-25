@@ -19223,5 +19223,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "10:11:05",
+    "placa": 18,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bebida Láctea Cappuccino Cemil 190 ml",
+        "preco": "1,68",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026",
+        "codigo_barras": "7896590801201",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Chá Leão Cap Cidreira 10 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026",
+        "codigo_barras": "7891098000156",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Capsula Café 3 Corações Porti.Menino 8 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7896045109784",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Café Santa Clara Gourmet Reg Vulcanica Sc 250 g",
+        "preco": "24,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7896045109685",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
