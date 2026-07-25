@@ -18607,5 +18607,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "09:57:13",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Biscoito Polvilho Light Vale D'ouro 100 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/08/2026",
+        "codigo_barras": "7896236300426",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Lowcucar Pistache Lactose 30 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/08/2026",
+        "codigo_barras": "7896292007147",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Brigadeiro Zero Lactose Bom Principio 350 g",
+        "preco": "10,48",
+        "unidade": "Unid.",
+        "validade_oferta": "29/08/2026",
+        "codigo_barras": "7897500600396",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Pasta De Amendoim Predilecta Crocante 450 g",
+        "preco": "18,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/08/2026",
+        "codigo_barras": "7896292372443",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
