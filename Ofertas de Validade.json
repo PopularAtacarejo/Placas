@@ -18475,5 +18475,49 @@
         "validade_oferta": "26/07/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "09:52:30",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Cr Cracker Vitarella Integral 367.5 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/08/2026",
+        "codigo_barras": "7896213006266",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Biscoito Polvilho Queijo Vale D'ouro 100 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/08/2026",
+        "codigo_barras": "7896236300099",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra Protein Max Frutas Verm 90 g",
+        "preco": "12,48",
+        "unidade": "Unid.",
+        "validade_oferta": "07/08/2026",
+        "codigo_barras": "7899941205871",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Crepioca Kodilar s/gluten 250 g",
+        "preco": "11,48",
+        "unidade": "Unid.",
+        "validade_oferta": "08/08/2026",
+        "codigo_barras": "7896256065619",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
