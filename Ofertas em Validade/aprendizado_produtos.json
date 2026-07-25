@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-07-25T09:02:32",
+  "atualizado_em": "2026-07-25T09:50:20",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1851,7 +1851,8 @@
     "mac inst talharim nissin carne c/tom | massa:99g": {
       "descricao": "Mac Inst Talharim Nissin Carne c/tom 99 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7891079000410",
+      "hits": 2,
       "aliases": [
         "mac inst talharim nissin carne c tom 99 g",
         "mac inst talharim nissin carne c tom 99g",
@@ -1862,7 +1863,7 @@
         "massa:99g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T14:52:36"
+      "atualizado_em": "2026-07-25T09:50:20"
     },
     "catchup hellmanns supreme sqz | massa:390g": {
       "descricao": "Catchup Hellmanns Supreme Sqz 390 g",
@@ -2060,7 +2061,8 @@
     "caldo maggi carne | massa:57g": {
       "descricao": "Caldo Maggi Carne 57 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891000250150",
+      "hits": 3,
       "aliases": [
         "caldo maggi carne 57 g",
         "caldo maggi carne 57g",
@@ -2071,7 +2073,7 @@
         "massa:57g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:09:06"
+      "atualizado_em": "2026-07-25T09:50:20"
     },
     "colorifico kitano | massa:400g": {
       "descricao": "Colorifico Kitano 400 g",
@@ -2140,7 +2142,8 @@
     "farofa crocante tio fernando | massa:300g": {
       "descricao": "Farofa Crocante Tio Fernando 300 gr",
       "unidade": "Unid.",
-      "hits": 3,
+      "codigo_barras": "7898996455507",
+      "hits": 4,
       "aliases": [
         "farofa crocante tio fernando 300 gr",
         "farofa crocante tio fernando 300gr",
@@ -2151,7 +2154,7 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:42:32"
+      "atualizado_em": "2026-07-25T09:50:20"
     },
     "bisc skin mini maria tradicional | massa:400g": {
       "descricao": "Bisc Skin Mini Maria Tradicional 400 g",
@@ -3923,7 +3926,8 @@
     "bisc cr cracker vitarella integral | massa:367.5g": {
       "descricao": "Bisc Cr Cracker Vitarella Integral 367.5 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "codigo_barras": "7896213006266",
+      "hits": 4,
       "aliases": [
         "bisc cr cracker vitarella integral 367 5 g",
         "bisc cr cracker vitarella integral 367 5g",
@@ -3934,7 +3938,7 @@
         "massa:367.5g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T14:46:18"
+      "atualizado_em": "2026-07-25T09:50:20"
     },
     "bisc cr cracker vitarella pao assado | massa:350g": {
       "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
@@ -6017,7 +6021,8 @@
     "pasta de amendoim predilecta crocante | massa:450g": {
       "descricao": "Pasta De Amendoim Predilecta Crocante 450 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7896292372443",
+      "hits": 3,
       "aliases": [
         "pasta de amendoim predilecta crocante 450 g",
         "pasta de amendoim predilecta crocante 450g",
@@ -6028,7 +6033,7 @@
         "massa:450g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T09:24:36"
+      "atualizado_em": "2026-07-25T09:50:20"
     },
     "pasta de amendoim predilecta cacau | massa:450g": {
       "descricao": "Pasta De Amendoim Predilecta Cacau 450 g",
@@ -6691,7 +6696,8 @@
     "doce de leite bom leite | massa:250g": {
       "descricao": "Doce De Leite Bom Leite 250 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "codigo_barras": "7898118390143",
+      "hits": 4,
       "aliases": [
         "doce de leite bom leite 250 g",
         "doce de leite bom leite 250g",
@@ -6702,7 +6708,7 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-29T17:45:38"
+      "atualizado_em": "2026-07-25T09:50:20"
     },
     "capsula cafe 3 coracoes porti peneir | massa:8g": {
       "descricao": "Capsula Café 3 Corações Porti.Peneir. 8 g",
@@ -7245,7 +7251,8 @@
     "farofa de mandioca yoki bacon | massa:200g": {
       "descricao": "Farofa De Mandioca Yoki Bacon 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7891095911646",
+      "hits": 2,
       "aliases": [
         "farofa de mandioca yoki bacon 200 g",
         "farofa de mandioca yoki bacon 200g",
@@ -7256,7 +7263,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:42:32"
+      "atualizado_em": "2026-07-25T09:50:20"
     },
     "flocao de milho coringa rech coco | massa:200g": {
       "descricao": "Flocao De Milho Coringa Rech Coco 200 g",
@@ -10060,7 +10067,8 @@
     "caldo arisco galinha caipira | massa:19g": {
       "descricao": "Caldo Arisco Galinha Caipira 19 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891700023023",
+      "hits": 3,
       "aliases": [
         "caldo arisco galinha caipira 19 g",
         "caldo arisco galinha caipira 19g",
@@ -10071,7 +10079,7 @@
         "massa:19g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T17:48:35"
+      "atualizado_em": "2026-07-25T09:50:20"
     },
     "caldo arisco carne | massa:19g": {
       "descricao": "Caldo Arisco Carne 19 g",
@@ -10108,7 +10116,8 @@
     "ervilha knorr | massa:170g": {
       "descricao": "Ervilha Knorr 170 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891150058897",
+      "hits": 3,
       "aliases": [
         "ervilha knorr 170 g",
         "ervilha knorr 170g",
@@ -10119,7 +10128,7 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T17:48:35"
+      "atualizado_em": "2026-07-25T09:50:20"
     },
     "molho de tomate zero fugini sc | massa:300g": {
       "descricao": "Molho De Tomate Zero Fugini Sc 300 g",
@@ -10332,7 +10341,8 @@
     "leite ninho uht tp zl integral | volume:1000ml": {
       "descricao": "Leite Ninho Uht Tp Zl Integral 1 l",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7898215157410",
+      "hits": 3,
       "aliases": [
         "leite ninho uht tp zl integral 1 l",
         "leite ninho uht tp zl integral 1l",
@@ -10343,7 +10353,7 @@
         "volume:1000ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T17:48:35"
+      "atualizado_em": "2026-07-25T09:50:20"
     },
     "capsula cafe c/leite tres | massa:9g": {
       "descricao": "Capsula Café c/leite Três 9 g",
@@ -10396,7 +10406,8 @@
     "cr de avela c/cacau bom principio pt | massa:350g": {
       "descricao": "Cr De Avelã c/cacau Bom Principio Pt 350 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7897500605865",
+      "hits": 3,
       "aliases": [
         "cr de avela c cacau bom principio pt 350 g",
         "cr de avela c cacau bom principio pt 350g",
@@ -10407,7 +10418,7 @@
         "massa:350g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T17:48:35"
+      "atualizado_em": "2026-07-25T09:50:20"
     },
     "coco ralado tambau | massa:50g": {
       "descricao": "Coco Ralado Tambau 50 g",
@@ -10540,7 +10551,8 @@
     "toddy original | massa:750g": {
       "descricao": "Toddy Original 750 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7892840819170",
+      "hits": 3,
       "aliases": [
         "toddy original 750 g",
         "toddy original 750g",
@@ -10551,7 +10563,7 @@
         "massa:750g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T17:48:35"
+      "atualizado_em": "2026-07-25T09:50:20"
     },
     "doce de leite engenho | massa:270g": {
       "descricao": "Doce De Leite Engenho 270 g",
@@ -11148,7 +11160,8 @@
     "biscoito polvilho queijo vale d ouro | massa:100g": {
       "descricao": "Biscoito Polvilho Queijo Vale D'ouro 100 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896236300099",
+      "hits": 2,
       "aliases": [
         "biscoito polvilho queijo vale d ouro 100 g",
         "biscoito polvilho queijo vale d ouro 100g",
@@ -11159,7 +11172,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T14:42:31"
+      "atualizado_em": "2026-07-25T09:50:20"
     },
     "bisc nesfit morango e cereais | massa:160g": {
       "descricao": "Bisc Nesfit Morango E Cereais 160 g",
@@ -14958,6 +14971,1142 @@
       "medidas": [],
       "confidence": 1.0,
       "atualizado_em": "2026-07-25T09:02:32"
+    },
+    "barra protein max frutas verm | massa:90g": {
+      "descricao": "Barra Protein Max Frutas Verm 90 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7899941205871",
+      "hits": 1,
+      "aliases": [
+        "barra protein max frutas verm 90 g",
+        "barra protein max frutas verm 90g",
+        "barra protein max frutas verm | massa:90g"
+      ],
+      "descricao_base": "barra protein max frutas verm",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "crepioca kodilar s/gluten | massa:250g": {
+      "descricao": "Crepioca Kodilar s/gluten 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896256065619",
+      "hits": 1,
+      "aliases": [
+        "crepioca kodilar s gluten 250 g",
+        "crepioca kodilar s gluten 250g",
+        "crepioca kodilar s/gluten | massa:250g"
+      ],
+      "descricao_base": "crepioca kodilar s/gluten",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "bisc jasmine sou sweet maracuja/chia | massa:75g": {
+      "descricao": "Bisc Jasmine Sou Sweet Maracujá/Chia 75 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896283006494",
+      "hits": 1,
+      "aliases": [
+        "bisc jasmine sou sweet 75g maracuja chia",
+        "bisc jasmine sou sweet maracuja chia 75 g",
+        "bisc jasmine sou sweet maracuja/chia | massa:75g"
+      ],
+      "descricao_base": "bisc jasmine sou sweet maracuja/chia",
+      "medidas": [
+        "massa:75g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "granola biosoft trad light | massa:230g": {
+      "descricao": "Granola Biosoft Trad Light 230 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896837100715",
+      "hits": 1,
+      "aliases": [
+        "granola biosoft trad light 230 g",
+        "granola biosoft trad light 230g",
+        "granola biosoft trad light | massa:230g"
+      ],
+      "descricao_base": "granola biosoft trad light",
+      "medidas": [
+        "massa:230g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "shake whey caramelo verde campo | massa:14g | volume:250ml": {
+      "descricao": "Shake Whey Caramelo Verde Campo 14 g 250 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898205925340",
+      "hits": 1,
+      "aliases": [
+        "shake whey caramelo verde campo 14 g 250 ml",
+        "shake whey caramelo verde campo | massa:14g | volume:250ml",
+        "shake whey14g caramelo verde campo 250ml"
+      ],
+      "descricao_base": "shake whey caramelo verde campo",
+      "medidas": [
+        "massa:14g",
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "bisc lowcucar wafer limao | massa:115g": {
+      "descricao": "Bisc Lowcucar Wafer Limão 115 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896292002739",
+      "hits": 1,
+      "aliases": [
+        "bisc lowcucar wafer limao 115 g",
+        "bisc lowcucar wafer limao 115g",
+        "bisc lowcucar wafer limao | massa:115g"
+      ],
+      "descricao_base": "bisc lowcucar wafer limao",
+      "medidas": [
+        "massa:115g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "geleia mor diet b principio c/pedacos | massa:230g": {
+      "descricao": "Geleia Mor Diet B.Principio c/pedacos 230 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897500603168",
+      "hits": 1,
+      "aliases": [
+        "geleia mor diet b principio c pedacos 230 g",
+        "geleia mor diet b principio c pedacos 230g",
+        "geleia mor diet b principio c/pedacos | massa:230g"
+      ],
+      "descricao_base": "geleia mor diet b principio c/pedacos",
+      "medidas": [
+        "massa:230g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "granola cereais e frutas vovo maze | massa:250g": {
+      "descricao": "Granola Cereais e Frutas Vovo Maze 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898918420187",
+      "hits": 1,
+      "aliases": [
+        "granola cereais e frutas vovo maze 250 g",
+        "granola cereais e frutas vovo maze 250g",
+        "granola cereais e frutas vovo maze | massa:250g"
+      ],
+      "descricao_base": "granola cereais e frutas vovo maze",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "barra power prot crisp milk caramelo | massa:44g": {
+      "descricao": "Barra Power Prot Crisp Milk Caramelo 44 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7899941206304",
+      "hits": 1,
+      "aliases": [
+        "barra power prot crisp milk caramelo 44 g",
+        "barra power prot crisp milk caramelo 44g",
+        "barra power prot crisp milk caramelo | massa:44g"
+      ],
+      "descricao_base": "barra power prot crisp milk caramelo",
+      "medidas": [
+        "massa:44g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "pasta de amendoim dr peanut pistache | massa:600g": {
+      "descricao": "Pasta De Amendoim Dr.Peanut Pistache 600 g",
+      "unidade": "Unid.",
+      "codigo_barras": "0070341663486",
+      "hits": 1,
+      "aliases": [
+        "pasta de amendoim dr peanut pistache 600 g",
+        "pasta de amendoim dr peanut pistache 600g",
+        "pasta de amendoim dr peanut pistache | massa:600g"
+      ],
+      "descricao_base": "pasta de amendoim dr peanut pistache",
+      "medidas": [
+        "massa:600g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "biscoito polvilho light vale d ouro | massa:100g": {
+      "descricao": "Biscoito Polvilho Light Vale D'ouro 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896236300426",
+      "hits": 1,
+      "aliases": [
+        "biscoito polvilho light vale d ouro 100 g",
+        "biscoito polvilho light vale d ouro 100g",
+        "biscoito polvilho light vale d ouro | massa:100g"
+      ],
+      "descricao_base": "biscoito polvilho light vale d ouro",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "choc lowcucar pistache lactose | massa:30g": {
+      "descricao": "Choc Lowcucar Pistache Lactose 30 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896292007147",
+      "hits": 1,
+      "aliases": [
+        "choc lowcucar pistache lactose 30 g",
+        "choc lowcucar pistache lactose 30g",
+        "choc lowcucar pistache lactose | massa:30g"
+      ],
+      "descricao_base": "choc lowcucar pistache lactose",
+      "medidas": [
+        "massa:30g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "brigadeiro zero lactose bom principio | massa:350g": {
+      "descricao": "Brigadeiro Zero Lactose Bom Principio 350 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897500600396",
+      "hits": 1,
+      "aliases": [
+        "brigadeiro zero lactose bom principio 350 g",
+        "brigadeiro zero lactose bom principio 350g",
+        "brigadeiro zero lactose bom principio | massa:350g"
+      ],
+      "descricao_base": "brigadeiro zero lactose bom principio",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "rosquinha lowcucar leite | massa:150g": {
+      "descricao": "Rosquinha Lowcucar Leite 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896292070073",
+      "hits": 1,
+      "aliases": [
+        "rosquinha lowcucar leite 150 g",
+        "rosquinha lowcucar leite 150g",
+        "rosquinha lowcucar leite | massa:150g"
+      ],
+      "descricao_base": "rosquinha lowcucar leite",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "barra prot nutrata grego torta limao | massa:40g": {
+      "descricao": "Barra Prot Nutrata Grego Torta Limão 40 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898599212705",
+      "hits": 1,
+      "aliases": [
+        "barra prot nutrata grego torta limao 40 g",
+        "barra prot nutrata grego torta limao 40g",
+        "barra prot nutrata grego torta limao | massa:40g"
+      ],
+      "descricao_base": "barra prot nutrata grego torta limao",
+      "medidas": [
+        "massa:40g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "barra nutrit whey grego brigadeiro | massa:40g": {
+      "descricao": "Barra Nutrit Whey Grego Brigadeiro 40 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898599213603",
+      "hits": 1,
+      "aliases": [
+        "barra nutrit whey grego brigadeiro 40 g",
+        "barra nutrit whey grego brigadeiro 40g",
+        "barra nutrit whey grego brigadeiro | massa:40g"
+      ],
+      "descricao_base": "barra nutrit whey grego brigadeiro",
+      "medidas": [
+        "massa:40g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "barra prot nutrata grego cookies cream | massa:40g": {
+      "descricao": "Barra Prot Nutrata Grego Cookies Cream 40 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898599218172",
+      "hits": 1,
+      "aliases": [
+        "barra prot nutrata grego cookies cream 40 g",
+        "barra prot nutrata grego cookies cream 40g",
+        "barra prot nutrata grego cookies cream | massa:40g"
+      ],
+      "descricao_base": "barra prot nutrata grego cookies cream",
+      "medidas": [
+        "massa:40g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "choco wheyfer 6 gprot cookies c | massa:25g": {
+      "descricao": "Choco Wheyfer 6 gprot Cookies C. 25 g",
+      "unidade": "Unid.",
+      "codigo_barras": "6182319437778",
+      "hits": 1,
+      "aliases": [
+        "choco wheyfer 6 gprot cookies c 25 g",
+        "choco wheyfer 6 gprot cookies c | massa:25g",
+        "choco wheyfer 6gprot cookies c 25g"
+      ],
+      "descricao_base": "choco wheyfer 6 gprot cookies c",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "refil desodor glade aguas flor 20 | volume:269ml": {
+      "descricao": "Refil Desodor Glade Águas Flor 20% 269 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7894650938942",
+      "hits": 1,
+      "aliases": [
+        "refil desodor glade aguas flor 20 269 ml",
+        "refil desodor glade aguas flor 20 269ml",
+        "refil desodor glade aguas flor 20 | volume:269ml"
+      ],
+      "descricao_base": "refil desodor glade aguas flor 20",
+      "medidas": [
+        "volume:269ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "limpa inox uau | volume:200ml": {
+      "descricao": "Limpa Inox Uau 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891242770010",
+      "hits": 1,
+      "aliases": [
+        "limpa inox uau 200 ml",
+        "limpa inox uau 200ml",
+        "limpa inox uau | volume:200ml"
+      ],
+      "descricao_base": "limpa inox uau",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "bom ar spray glade c/ap lavanda | volume:12ml": {
+      "descricao": "Bom Ar Spray Glade c/ap. Lavanda 12 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7894650013847",
+      "hits": 1,
+      "aliases": [
+        "bom ar spray glade c ap lavanda 12 ml",
+        "bom ar spray glade c ap lavanda 12ml",
+        "bom ar spray glade c/ap lavanda | volume:12ml"
+      ],
+      "descricao_base": "bom ar spray glade c/ap lavanda",
+      "medidas": [
+        "volume:12ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "lava roupa brilhante po sh limp total | massa:400g": {
+      "descricao": "Lava Roupa Brilhante Pó Sh Limp Total 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891150086586",
+      "hits": 1,
+      "aliases": [
+        "lava roupa brilhante po 400g sh limp total",
+        "lava roupa brilhante po sh limp total 400 g",
+        "lava roupa brilhante po sh limp total | massa:400g"
+      ],
+      "descricao_base": "lava roupa brilhante po sh limp total",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "farofa yoki tradicional | massa:400g": {
+      "descricao": "Farofa Yoki Tradicional 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891095911486",
+      "hits": 1,
+      "aliases": [
+        "farofa yoki tradicional 400 g",
+        "farofa yoki tradicional 400g",
+        "farofa yoki tradicional | massa:400g"
+      ],
+      "descricao_base": "farofa yoki tradicional",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "goma de tapioca doce mel | massa:1000g": {
+      "descricao": "Goma De Tapioca Doce Mel 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7898366001396",
+      "hits": 1,
+      "aliases": [
+        "goma de tapioca doce mel 1 kg",
+        "goma de tapioca doce mel 1kg",
+        "goma de tapioca doce mel | massa:1000g"
+      ],
+      "descricao_base": "goma de tapioca doce mel",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "caldo maggi bacon | massa:114g": {
+      "descricao": "Caldo Maggi Bacon 114 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000251492",
+      "hits": 1,
+      "aliases": [
+        "caldo maggi bacon 114 g",
+        "caldo maggi bacon 114g",
+        "caldo maggi bacon | massa:114g"
+      ],
+      "descricao_base": "caldo maggi bacon",
+      "medidas": [
+        "massa:114g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "azeitonas c/caroco vale fertil sc | massa:100g": {
+      "descricao": "Azeitonas c/caroco Vale Fertil Sc 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896272000496",
+      "hits": 1,
+      "aliases": [
+        "azeitonas c caroco vale fertil sc 100 g",
+        "azeitonas c caroco vale fertil sc 100g",
+        "azeitonas c/caroco vale fertil sc | massa:100g"
+      ],
+      "descricao_base": "azeitonas c/caroco vale fertil sc",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "sal parrilla verde gonzalo | massa:500g": {
+      "descricao": "Sal Parrilla Verde Gonzalo 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898959242250",
+      "hits": 1,
+      "aliases": [
+        "sal parrilla verde gonzalo 500 g",
+        "sal parrilla verde gonzalo 500g",
+        "sal parrilla verde gonzalo | massa:500g"
+      ],
+      "descricao_base": "sal parrilla verde gonzalo",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "azeitona vde vale fertil pmtao vidr | massa:200g": {
+      "descricao": "Azeitona Vde Vale Fertil Pmtao Vidr 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896272000977",
+      "hits": 1,
+      "aliases": [
+        "azeitona vde vale fertil pmtao vidr 200 g",
+        "azeitona vde vale fertil pmtao vidr 200g",
+        "azeitona vde vale fertil pmtao vidr | massa:200g"
+      ],
+      "descricao_base": "azeitona vde vale fertil pmtao vidr",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "caldo marata galinha | massa:57g": {
+      "descricao": "Caldo Maratá Galinha 57 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898932426905",
+      "hits": 1,
+      "aliases": [
+        "caldo marata galinha 57 g",
+        "caldo marata galinha 57g",
+        "caldo marata galinha | massa:57g"
+      ],
+      "descricao_base": "caldo marata galinha",
+      "medidas": [
+        "massa:57g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "molho p salada predilecta parmesan | volume:235ml": {
+      "descricao": "Molho p Salada Predilecta Parmesan 235 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896292399846",
+      "hits": 1,
+      "aliases": [
+        "molho p salada predilecta parmesan 235 ml",
+        "molho p salada predilecta parmesan 235ml",
+        "molho p salada predilecta parmesan | volume:235ml"
+      ],
+      "descricao_base": "molho p salada predilecta parmesan",
+      "medidas": [
+        "volume:235ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "queijo parmesao ralado vigor | massa:50g": {
+      "descricao": "Queijo Parmesao Ralado Vigor 50 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891999970053",
+      "hits": 1,
+      "aliases": [
+        "queijo parmesao ralado vigor 50 g",
+        "queijo parmesao ralado vigor 50g",
+        "queijo parmesao ralado vigor | massa:50g"
+      ],
+      "descricao_base": "queijo parmesao ralado vigor",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "mac inst nissin turma da monica carne | massa:85g": {
+      "descricao": "Mac Inst Nissin Turma Da Monica Carne 85 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891079001004",
+      "hits": 1,
+      "aliases": [
+        "mac inst nissin turma da monica carne 85 g",
+        "mac inst nissin turma da monica carne 85g",
+        "mac inst nissin turma da monica carne | massa:85g"
+      ],
+      "descricao_base": "mac inst nissin turma da monica carne",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "mac inst nissin lamen carne | massa:85g": {
+      "descricao": "Mac Inst Nissin Lamen Carne 85 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891079000205",
+      "hits": 1,
+      "aliases": [
+        "mac inst nissin lamen carne 85 g",
+        "mac inst nissin lamen carne 85g",
+        "mac inst nissin lamen carne | massa:85g"
+      ],
+      "descricao_base": "mac inst nissin lamen carne",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "pasta de pimenta vermelha marata | massa:200g": {
+      "descricao": "Pasta De Pimenta Vermelha Maratá 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898286191030",
+      "hits": 1,
+      "aliases": [
+        "pasta de pimenta vermelha marata 200 g",
+        "pasta de pimenta vermelha marata 200g",
+        "pasta de pimenta vermelha marata | massa:200g"
+      ],
+      "descricao_base": "pasta de pimenta vermelha marata",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "batata palha yoki ext fina cebola salsa | massa:100g": {
+      "descricao": "Batata Palha Yoki Ext Fina Cebola Salsa 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891095031153",
+      "hits": 1,
+      "aliases": [
+        "batata palha yoki ext fina cebola salsa 100 g",
+        "batata palha yoki ext fina cebola salsa 100g",
+        "batata palha yoki ext fina cebola salsa | massa:100g"
+      ],
+      "descricao_base": "batata palha yoki ext fina cebola salsa",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "batata palha yoki tradicional | massa:105g": {
+      "descricao": "Batata Palha Yoki Tradicional 105 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891095031115",
+      "hits": 1,
+      "aliases": [
+        "batata palha yoki tradicional 105 g",
+        "batata palha yoki tradicional 105g",
+        "batata palha yoki tradicional | massa:105g"
+      ],
+      "descricao_base": "batata palha yoki tradicional",
+      "medidas": [
+        "massa:105g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "mac inst lamen nissin costela | massa:85g": {
+      "descricao": "Mac Inst Lamen Nissin Costela 85 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891079012963",
+      "hits": 1,
+      "aliases": [
+        "mac inst lamen nissin costela 85 g",
+        "mac inst lamen nissin costela 85g",
+        "mac inst lamen nissin costela | massa:85g"
+      ],
+      "descricao_base": "mac inst lamen nissin costela",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "mac inst lamen nissin bacon | massa:85g": {
+      "descricao": "Mac Inst Lamen Nissin Bacon 85 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891079000250",
+      "hits": 1,
+      "aliases": [
+        "mac inst lamen nissin bacon 85 g",
+        "mac inst lamen nissin bacon 85g",
+        "mac inst lamen nissin bacon | massa:85g"
+      ],
+      "descricao_base": "mac inst lamen nissin bacon",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "caldo marata carne | massa:57g": {
+      "descricao": "Caldo Maratá Carne 57 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898932426899",
+      "hits": 1,
+      "aliases": [
+        "caldo marata carne 57 g",
+        "caldo marata carne 57g",
+        "caldo marata carne | massa:57g"
+      ],
+      "descricao_base": "caldo marata carne",
+      "medidas": [
+        "massa:57g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "temp sazon limao | massa:60g": {
+      "descricao": "Temp Sazon Limão 60 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891132008704",
+      "hits": 1,
+      "aliases": [
+        "temp sazon limao 60 g",
+        "temp sazon limao 60g",
+        "temp sazon limao | massa:60g"
+      ],
+      "descricao_base": "temp sazon limao",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "maionese hellmanns pet | massa:335g": {
+      "descricao": "Maionese Hellmanns Pet 335 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891150027800",
+      "hits": 1,
+      "aliases": [
+        "maionese hellmanns pet 335 g",
+        "maionese hellmanns pet 335g",
+        "maionese hellmanns pet | massa:335g"
+      ],
+      "descricao_base": "maionese hellmanns pet",
+      "medidas": [
+        "massa:335g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "oleo de coco pindorama virgem | volume:200ml": {
+      "descricao": "Óleo De Coco Pindorama Virgem 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896215301918",
+      "hits": 1,
+      "aliases": [
+        "oleo de coco pindorama virgem 200 ml",
+        "oleo de coco pindorama virgem 200ml",
+        "oleo de coco pindorama virgem | volume:200ml"
+      ],
+      "descricao_base": "oleo de coco pindorama virgem",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "mac inst nissin lamen carne c/tomate | massa:85g": {
+      "descricao": "Mac Inst Nissin Lamen Carne c/tomate 85 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891079000311",
+      "hits": 1,
+      "aliases": [
+        "mac inst nissin lamen carne c tomate 85 g",
+        "mac inst nissin lamen carne c tomate 85g",
+        "mac inst nissin lamen carne c/tomate | massa:85g"
+      ],
+      "descricao_base": "mac inst nissin lamen carne c/tomate",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "mac inst lamen nissin galinha | massa:80g": {
+      "descricao": "Mac Inst Lamen Nissin Galinha 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891079000212",
+      "hits": 1,
+      "aliases": [
+        "mac inst lamen nissin galinha 80 g",
+        "mac inst lamen nissin galinha 80g",
+        "mac inst lamen nissin galinha | massa:80g"
+      ],
+      "descricao_base": "mac inst lamen nissin galinha",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "temp marata frango | massa:60g": {
+      "descricao": "Temp Maratá Frango 60 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898932426561",
+      "hits": 1,
+      "aliases": [
+        "temp marata frango 60 g",
+        "temp marata frango 60g",
+        "temp marata frango | massa:60g"
+      ],
+      "descricao_base": "temp marata frango",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "miojo nissin yakissoba ufo tomate | massa:95g": {
+      "descricao": "Miojo Nissin Yakissoba Ufo Tomate 95 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891079014318",
+      "hits": 1,
+      "aliases": [
+        "miojo nissin yakissoba ufo tomate 95 g",
+        "miojo nissin yakissoba ufo tomate 95g",
+        "miojo nissin yakissoba ufo tomate | massa:95g"
+      ],
+      "descricao_base": "miojo nissin yakissoba ufo tomate",
+      "medidas": [
+        "massa:95g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "molho de tomate pomarola sachet piz | massa:300g": {
+      "descricao": "Molho De Tomate Pomarola Sachet Piz 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896036095065",
+      "hits": 1,
+      "aliases": [
+        "molho de tomate pomarola sachet piz 300 g",
+        "molho de tomate pomarola sachet piz 300g",
+        "molho de tomate pomarola sachet piz | massa:300g"
+      ],
+      "descricao_base": "molho de tomate pomarola sachet piz",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "catchup heinz picante | massa:397g": {
+      "descricao": "Catchup Heinz Picante 397 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896102593068",
+      "hits": 1,
+      "aliases": [
+        "catchup heinz picante 397 g",
+        "catchup heinz picante 397g",
+        "catchup heinz picante | massa:397g"
+      ],
+      "descricao_base": "catchup heinz picante",
+      "medidas": [
+        "massa:397g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "confeito colorido raizes | massa:500g": {
+      "descricao": "Confeito Colorido Raizes 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896627200335",
+      "hits": 1,
+      "aliases": [
+        "confeito colorido raizes 500 g",
+        "confeito colorido raizes 500g",
+        "confeito colorido raizes | massa:500g"
+      ],
+      "descricao_base": "confeito colorido raizes",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "creme de avela com cacau b principio | massa:250g": {
+      "descricao": "Creme De Avelã Com Cacau B.Principio 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897500607388",
+      "hits": 1,
+      "aliases": [
+        "creme de avela com cacau b principio 250 g",
+        "creme de avela com cacau b principio 250g",
+        "creme de avela com cacau b principio | massa:250g"
+      ],
+      "descricao_base": "creme de avela com cacau b principio",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "cha leao cam/bau/mel | massa:15g": {
+      "descricao": "Chá Leão Cam/Bau/Mel 15 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898341432719",
+      "hits": 1,
+      "aliases": [
+        "cha leao cam bau mel 15 g",
+        "cha leao cam bau mel 15g",
+        "cha leao cam/bau/mel | massa:15g"
+      ],
+      "descricao_base": "cha leao cam/bau/mel",
+      "medidas": [
+        "massa:15g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "fermento em po fleischmann inst | massa:125g": {
+      "descricao": "Fermento Em Pó Fleischmann Inst 125 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898409952128",
+      "hits": 1,
+      "aliases": [
+        "fermento em po fleischmann inst 125 g",
+        "fermento em po fleischmann inst 125g",
+        "fermento em po fleischmann inst | massa:125g"
+      ],
+      "descricao_base": "fermento em po fleischmann inst",
+      "medidas": [
+        "massa:125g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "confeito dr oetker choc bolinha | massa:80g": {
+      "descricao": "Confeito Dr.Oetker Choc Bolinha 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891048014028",
+      "hits": 1,
+      "aliases": [
+        "confeito dr oetker choc bolinha 80 g",
+        "confeito dr oetker choc bolinha 80g",
+        "confeito dr oetker choc bolinha | massa:80g"
+      ],
+      "descricao_base": "confeito dr oetker choc bolinha",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "cha leao matte original | massa:16g": {
+      "descricao": "Chá Leão Matte Original 16 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891098038333",
+      "hits": 1,
+      "aliases": [
+        "cha leao matte original 16 g",
+        "cha leao matte original 16g",
+        "cha leao matte original | massa:16g"
+      ],
+      "descricao_base": "cha leao matte original",
+      "medidas": [
+        "massa:16g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "choc italac em po soluvel | massa:200g": {
+      "descricao": "Choc Italac Em Pó Solúvel 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898080640970",
+      "hits": 1,
+      "aliases": [
+        "choc italac em po soluvel 200 g",
+        "choc italac em po soluvel 200g",
+        "choc italac em po soluvel | massa:200g"
+      ],
+      "descricao_base": "choc italac em po soluvel",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "mist p/bolo dona benta milho | massa:450g": {
+      "descricao": "Mist P/Bolo Dona Benta Milho 450 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896005272121",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo dona benta milho 450 g",
+        "mist p bolo dona benta milho 450g",
+        "mist p/bolo dona benta milho | massa:450g"
+      ],
+      "descricao_base": "mist p/bolo dona benta milho",
+      "medidas": [
+        "massa:450g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "creme de avela com cacau e castanhas b principio": {
+      "descricao": "Creme De Avelã Com Cacau e Castanhas B.Principio",
+      "unidade": "Unid.",
+      "codigo_barras": "7897500607548",
+      "hits": 1,
+      "aliases": [
+        "creme de avela com cacau e castanhas b principio"
+      ],
+      "descricao_base": "creme de avela com cacau e castanhas b principio",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "bebida lactea cappuccino cemil | volume:190ml": {
+      "descricao": "Bebida Láctea Cappuccino Cemil 190 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896590801201",
+      "hits": 1,
+      "aliases": [
+        "bebida lactea cappuccino cemil 190 ml",
+        "bebida lactea cappuccino cemil 190ml",
+        "bebida lactea cappuccino cemil | volume:190ml"
+      ],
+      "descricao_base": "bebida lactea cappuccino cemil",
+      "medidas": [
+        "volume:190ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "cha leao cap cidreira | massa:10g": {
+      "descricao": "Chá Leão Cap Cidreira 10 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891098000156",
+      "hits": 1,
+      "aliases": [
+        "cha leao cap cidreira 10 g",
+        "cha leao cap cidreira 10g",
+        "cha leao cap cidreira | massa:10g"
+      ],
+      "descricao_base": "cha leao cap cidreira",
+      "medidas": [
+        "massa:10g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "capsula cafe 3 coracoes porti menino | massa:8g": {
+      "descricao": "Capsula Café 3 Corações Porti.Menino 8 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896045109784",
+      "hits": 1,
+      "aliases": [
+        "capsula cafe 3 coracoes porti menino 8 g",
+        "capsula cafe 3 coracoes porti menino 8g",
+        "capsula cafe 3 coracoes porti menino | massa:8g"
+      ],
+      "descricao_base": "capsula cafe 3 coracoes porti menino",
+      "medidas": [
+        "massa:8g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "cafe santa clara gourmet reg vulcanica sc | massa:250g": {
+      "descricao": "Café Santa Clara Gourmet Reg Vulcanica Sc 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896045109685",
+      "hits": 1,
+      "aliases": [
+        "cafe santa clara gourmet reg vulcanica sc 250 g",
+        "cafe santa clara gourmet reg vulcanica sc 250g",
+        "cafe santa clara gourmet reg vulcanica sc | massa:250g"
+      ],
+      "descricao_base": "cafe santa clara gourmet reg vulcanica sc",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "cha leao gel abac/hort | massa:25g": {
+      "descricao": "Chá Leão Gel Abac/Hort 25 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891098041869",
+      "hits": 1,
+      "aliases": [
+        "cha leao gel abac hort 25 g",
+        "cha leao gel abac hort 25g",
+        "cha leao gel abac/hort | massa:25g"
+      ],
+      "descricao_base": "cha leao gel abac/hort",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "doce leite c/choc bom principio pt | massa:350g": {
+      "descricao": "Doce Leite c/choc Bom Principio Pt 350 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897500601287",
+      "hits": 1,
+      "aliases": [
+        "doce leite c choc bom principio pt 350 g",
+        "doce leite c choc bom principio pt 350g",
+        "doce leite c/choc bom principio pt | massa:350g"
+      ],
+      "descricao_base": "doce leite c/choc bom principio pt",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "capsula cafe 3 coracoes gourmet dark | massa:80g": {
+      "descricao": "Capsula Café 3 Corações Gourmet Dark 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896045111251",
+      "hits": 1,
+      "aliases": [
+        "capsula cafe 3 coracoes gourmet dark 80 g",
+        "capsula cafe 3 coracoes gourmet dark 80g",
+        "capsula cafe 3 coracoes gourmet dark | massa:80g"
+      ],
+      "descricao_base": "capsula cafe 3 coracoes gourmet dark",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "creme de amendoim bom principio | massa:250g": {
+      "descricao": "Creme De Amendoim Bom Principio 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897500607456",
+      "hits": 1,
+      "aliases": [
+        "creme de amendoim bom principio 250 g",
+        "creme de amendoim bom principio 250g",
+        "creme de amendoim bom principio | massa:250g"
+      ],
+      "descricao_base": "creme de amendoim bom principio",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "creme de leite piracanjuba tp | massa:1000g": {
+      "descricao": "Creme De Leite Piracanjuba Tp 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7898215151883",
+      "hits": 1,
+      "aliases": [
+        "creme de leite piracanjuba tp 1 kg",
+        "creme de leite piracanjuba tp 1kg",
+        "creme de leite piracanjuba tp | massa:1000g"
+      ],
+      "descricao_base": "creme de leite piracanjuba tp",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "mist p/bolo dr oetker cenoura | massa:300g": {
+      "descricao": "Mist P/Bolo Dr.Oetker Cenoura 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891048061848",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo dr oetker cenoura 300 g",
+        "mist p bolo dr oetker cenoura 300g",
+        "mist p/bolo dr oetker cenoura | massa:300g"
+      ],
+      "descricao_base": "mist p/bolo dr oetker cenoura",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-25T09:50:20"
     }
   }
 }
