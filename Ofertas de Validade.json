@@ -18827,5 +18827,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "10:02:08",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Sal Parrilla Verde Gonzalo 500 g",
+        "preco": "15,48",
+        "unidade": "Unid.",
+        "validade_oferta": "06/08/2026",
+        "codigo_barras": "7898959242250",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Azeitona Vde Vale Fertil Pmtao Vidr 200 g",
+        "preco": "25,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/08/2026",
+        "codigo_barras": "7896272000977",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mac Inst Talharim Nissin Carne c/tom 99 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "07/08/2026",
+        "codigo_barras": "7891079000410",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Caldo Maratá Galinha 57 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "07/08/2026",
+        "codigo_barras": "7898932426905",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
