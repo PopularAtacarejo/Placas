@@ -19179,5 +19179,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "10:10:06",
+    "placa": 17,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Italac Em Pó Solúvel 200 g",
+        "preco": "23,48",
+        "unidade": "Unid.",
+        "validade_oferta": "11/08/2026",
+        "codigo_barras": "7898080640970",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Toddy Original 750 g",
+        "preco": "22,48",
+        "unidade": "Unid.",
+        "validade_oferta": "12/08/2026",
+        "codigo_barras": "7892840819170",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mist P/Bolo Dona Benta Milho 450 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/08/2026",
+        "codigo_barras": "7896005272121",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Creme De Avelã Com Cacau e Castanhas B.Principio",
+        "preco": "18,48",
+        "unidade": "Unid.",
+        "validade_oferta": "12/08/2026",
+        "codigo_barras": "7897500607548",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
