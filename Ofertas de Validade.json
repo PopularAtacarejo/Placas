@@ -18739,5 +18739,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "25/07/2026",
+    "hora": "10:00:15",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Lava Roupa Brilhante Pó Sh Limp Total 400 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7891150086586",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Farofa Yoki Tradicional 400 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "18/08/2026",
+        "codigo_barras": "7891095911486",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Farofa De Mandioca Yoki Bacon 200 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "19/08/2026",
+        "codigo_barras": "7891095911646",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Goma De Tapioca Doce Mel 1 kg",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "21/08/2026",
+        "codigo_barras": "7898366001396",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
