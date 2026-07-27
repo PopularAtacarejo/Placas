@@ -19513,5 +19513,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "15:46:56",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Refresc. Frutybom Frut.Citri. 330 ml",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "08/08/2026",
+        "codigo_barras": "7898118392857",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Red Bull Edition Maracujá e Melão 250 ml",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/08/2026",
+        "codigo_barras": "9002490275013",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cerv Itaipava Prem Ln 330 ml",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/08/2026",
+        "codigo_barras": "7897395002121",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Brahma Chopp Zero Lt 350 ml",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "16/08/2026",
+        "codigo_barras": "7891149104932",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
