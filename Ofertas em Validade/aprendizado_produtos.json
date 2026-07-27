@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-07-25T09:50:20",
+  "atualizado_em": "2026-07-27T15:40:09",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -2191,7 +2191,8 @@
     "bisc skin coquinho doce | massa:400g": {
       "descricao": "Bisc Skin Coquinho Doce 400 g",
       "unidade": "Unid.",
-      "hits": 4,
+      "codigo_barras": "7898185760313",
+      "hits": 5,
       "aliases": [
         "bisc skin coquinho doce 400 g",
         "bisc skin coquinho doce 400g",
@@ -2202,7 +2203,7 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T14:46:18"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "bisc cream cracker capricche trad | massa:350g": {
       "descricao": "Bisc Marilan Cream Cracker Água Sal 300 g",
@@ -4103,28 +4104,15 @@
       "atualizado_em": "2026-06-17T15:11:21"
     },
     "bisc marilan pit stop rech misto quente | massa:91g": {
-      "descricao": "Bisc Marilan Pit Stop Rech Misto Quente 91 g",
+      "descricao": "Bisc Marilan Pit Stop Rech Salsa Ceb 91 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896003739688",
+      "hits": 2,
       "aliases": [
         "bisc marilan pit stop rech misto quente 91 g",
         "bisc marilan pit stop rech misto quente 91g",
-        "bisc marilan pit stop rech misto quente | massa:91g"
-      ],
-      "descricao_base": "bisc marilan pit stop rech misto quente",
-      "medidas": [
-        "massa:91g"
-      ],
-      "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
-    },
-    "bisc marilan pit stop rech salsa ceb | massa:91g": {
-      "descricao": "Bisc Marilan Pit Stop Rech Salsa Ceb 91 g",
-      "unidade": "Unid.",
-      "hits": 2,
-      "aliases": [
+        "bisc marilan pit stop rech misto quente | massa:91g",
         "bisc marilan pit stop rech salsa ceb 91 g",
-        "bisc marilan pit stop rech salsa ceb 91g",
         "bisc marilan pit stop rech salsa ceb | massa:91g"
       ],
       "descricao_base": "bisc marilan pit stop rech salsa ceb",
@@ -4132,7 +4120,26 @@
         "massa:91g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-14T07:55:04"
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc marilan pit stop rech salsa ceb | massa:91g": {
+      "descricao": "Pit Stop Rech Trufado 91 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003739817",
+      "hits": 3,
+      "aliases": [
+        "bisc marilan pit stop rech salsa ceb 91 g",
+        "bisc marilan pit stop rech salsa ceb 91g",
+        "bisc marilan pit stop rech salsa ceb | massa:91g",
+        "pit stop rech trufado 91 g",
+        "pit stop rech trufado | massa:91g"
+      ],
+      "descricao_base": "pit stop rech trufado",
+      "medidas": [
+        "massa:91g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "bisc vitarella delicita salg queijo | massa:138g": {
       "descricao": "Bisc Vitarella Delicita Salg Presunto 138 g",
@@ -4152,21 +4159,23 @@
       "atualizado_em": "2026-05-06T07:50:09"
     },
     "bisc vitarella tortinhas morango | massa:140g": {
-      "descricao": "Bisc Vitarella Tortinhas Morango 140 g",
+      "descricao": "Bisc Treloso Rech Flocos 4 pts 480 g",
       "unidade": "Unid.",
-      "codigo_barras": "7896213005245",
-      "hits": 3,
+      "codigo_barras": "7896213006228",
+      "hits": 4,
       "aliases": [
+        "bisc treloso rech flocos 4 pts 480 g",
+        "bisc treloso rech flocos 4 pts | massa:480g",
         "bisc vitarella tortinhas morango 140 g",
         "bisc vitarella tortinhas morango 140g",
         "bisc vitarella tortinhas morango | massa:140g"
       ],
-      "descricao_base": "bisc vitarella tortinhas morango",
+      "descricao_base": "bisc treloso rech flocos 4 pts",
       "medidas": [
-        "massa:140g"
+        "massa:480g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-15T14:34:18"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "bisc cookies vitarella original | massa:80g": {
       "descricao": "Bisc Cookies Vitarella Original 80 g",
@@ -5630,10 +5639,13 @@
       "atualizado_em": "2026-05-14T07:55:04"
     },
     "bisc vitarella maria chocolate | massa:350g": {
-      "descricao": "Bisc Maizena Vitarella Ao Leite 350 g",
+      "descricao": "Bisc Maizena Choco Renat 360 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7896022208110",
+      "hits": 3,
       "aliases": [
+        "bisc maizena choco renat 360 g",
+        "bisc maizena choco renat | massa:360g",
         "bisc maizena vitarella ao leite 350 g",
         "bisc maizena vitarella ao leite | massa:350g",
         "bisc maria vitarella chocolate 350 g",
@@ -5641,12 +5653,12 @@
         "bisc vitarella maria chocolate 350g",
         "bisc vitarella maria chocolate | massa:350g"
       ],
-      "descricao_base": "bisc maizena vitarella ao leite",
+      "descricao_base": "bisc maizena choco renat",
       "medidas": [
-        "massa:350g"
+        "massa:360g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:11:21"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "bisc vitarella maria tradicional | massa:350g": {
       "descricao": "Bisc Vitarella Maria Tradicional 350 g",
@@ -7428,20 +7440,23 @@
       "atualizado_em": "2026-05-22T14:46:18"
     },
     "bisc club social queijo | massa:141g": {
-      "descricao": "Bisc Club Social Queijo 141 g",
+      "descricao": "Bisc Club Social Presunto 141 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7622210641632",
+      "hits": 3,
       "aliases": [
+        "bisc club social presunto 141 g",
+        "bisc club social presunto | massa:141g",
         "bisc club social queijo 141 g",
         "bisc club social queijo 141g",
         "bisc club social queijo | massa:141g"
       ],
-      "descricao_base": "bisc club social queijo",
+      "descricao_base": "bisc club social presunto",
       "medidas": [
         "massa:141g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T14:46:18"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "bisc amanteigado leite maltado vitamassa | massa:120g": {
       "descricao": "Bisc Amanteigado Leite Maltado Vitamassa 120 g",
@@ -7492,21 +7507,24 @@
       "atualizado_em": "2026-05-22T14:46:18"
     },
     "bisc skin coquinho tradicional | massa:400g": {
-      "descricao": "Bisc Skin Coquinho Doce 400 g",
+      "descricao": "Bisc Cipan Top Salgado 300 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7897353903293",
+      "hits": 3,
       "aliases": [
+        "bisc cipan top salgado 300 g",
+        "bisc cipan top salgado | massa:300g",
         "bisc skin coquinho doce 400 g",
         "bisc skin coquinho doce | massa:400g",
         "bisc skin coquinho tradicional 400g",
         "bisc skin coquinho tradicional | massa:400g"
       ],
-      "descricao_base": "bisc skin coquinho doce",
+      "descricao_base": "bisc cipan top salgado",
       "medidas": [
-        "massa:400g"
+        "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T14:46:18"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "bisc skin familia coquinho trad | massa:800g": {
       "descricao": "Bisc Skin Família Coquinho Trad 800 g",
@@ -7624,7 +7642,8 @@
     "bisc pajucara wafer abacaxi | massa:78g": {
       "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7896016435430",
+      "hits": 3,
       "aliases": [
         "bisc pajucara wafer abacaxi 78g",
         "bisc pajucara wafer abacaxi | massa:78g",
@@ -7636,7 +7655,7 @@
         "massa:78g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T14:46:18"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "bolinho marilan turma monica bau/gt choc | massa:40g": {
       "descricao": "Bolinho Marilan Turma Monica Bau/Gt Choc 40 g",
@@ -7768,21 +7787,24 @@
       "atualizado_em": "2026-05-22T14:46:18"
     },
     "bisc marilan laminado manteiga | massa:300g": {
-      "descricao": "Bisc Marilan Cream Cracker Água Sal 300 g",
+      "descricao": "Bisc Mini Maiz Petyan Trad 300 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7896532701606",
+      "hits": 3,
       "aliases": [
         "bisc marilan cream cracker agua sal 300 g",
         "bisc marilan cream cracker agua sal | massa:300g",
         "bisc marilan laminado manteiga 300g",
-        "bisc marilan laminado manteiga | massa:300g"
+        "bisc marilan laminado manteiga | massa:300g",
+        "bisc mini maiz petyan trad 300 g",
+        "bisc mini maiz petyan trad | massa:300g"
       ],
-      "descricao_base": "bisc marilan cream cracker agua sal",
+      "descricao_base": "bisc mini maiz petyan trad",
       "medidas": [
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T14:46:18"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "bisc cr cracker petyan amandt | massa:350g": {
       "descricao": "Bisc Cr. Cracker Petyan Amandt 350 g",
@@ -8051,21 +8073,24 @@
       "atualizado_em": "2026-05-22T14:46:18"
     },
     "bisc treloso rech brigadeiro 4 pts | massa:480g": {
-      "descricao": "Bisc Treloso Rech Flocos 4 pts 480 g",
+      "descricao": "Bisc Treloso Clubinho Morango 130 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7896213003128",
+      "hits": 3,
       "aliases": [
+        "bisc treloso clubinho morango 130 g",
+        "bisc treloso clubinho morango | massa:130g",
         "bisc treloso rech brigadeiro 4 pts | massa:480g",
         "bisc treloso rech brigadeiro 4pts 480g",
         "bisc treloso rech flocos 4 pts 480 g",
         "bisc treloso rech flocos 4 pts | massa:480g"
       ],
-      "descricao_base": "bisc treloso rech flocos 4 pts",
+      "descricao_base": "bisc treloso clubinho morango",
       "medidas": [
-        "massa:480g"
+        "massa:130g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T14:46:18"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "bala fini marsh rech torcao | massa:80g": {
       "descricao": "Bala Fini Marsh.Rech. Torcao 80 g",
@@ -8150,7 +8175,8 @@
     "pir blong morango | massa:672g": {
       "descricao": "Pir. Blong Morango 672 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896306610974",
+      "hits": 2,
       "aliases": [
         "pir blong morango 672 g",
         "pir blong morango 672g",
@@ -8161,7 +8187,7 @@
         "massa:672g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T15:19:14"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "maxmallows t rech t color baun c/mor | massa:70g": {
       "descricao": "Maxmallows t Rech t Color Baun c/mor 70 g",
@@ -8295,7 +8321,8 @@
     "salg fandangos queijo | massa:60g": {
       "descricao": "Salg Fandangos Queijo 60 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7892840823504",
+      "hits": 2,
       "aliases": [
         "salg fandangos queijo 60 g",
         "salg fandangos queijo 60g",
@@ -8306,7 +8333,7 @@
         "massa:60g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-28T08:36:36"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "salg yokitos queijo tubinho | massa:45g": {
       "descricao": "Salg Yokitos Queijo Tubinho 45 g",
@@ -11699,7 +11726,8 @@
     "salg elma chips fandangos queijo | massa:35g": {
       "descricao": "Salg Elma Chips Fandangos Queijo 35 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7892840822866",
+      "hits": 2,
       "aliases": [
         "salg elma chips fandangos queijo 35 g",
         "salg elma chips fandangos queijo 35g",
@@ -11710,7 +11738,7 @@
         "massa:35g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:00:23"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "salg elma chips fandangos presunto | massa:35g": {
       "descricao": "Salg Elma Chips Fandangos Presunto 35 g",
@@ -12003,7 +12031,8 @@
     "cheetos bola queijo suico | massa:33g": {
       "descricao": "Cheetos Bola Queijo Suíço 33 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7892840825010",
+      "hits": 2,
       "aliases": [
         "cheetos bola queijo suico 33 g",
         "cheetos bola queijo suico 33g",
@@ -12014,7 +12043,7 @@
         "massa:33g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:00:23"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "salg doritos pizza | massa:48g": {
       "descricao": "Salg Doritos Pizza 48 g",
@@ -12293,20 +12322,23 @@
       "atualizado_em": "2026-06-17T15:11:21"
     },
     "bisc treloso rech doce de leite | massa:120g": {
-      "descricao": "Bisc Treloso Rech Doce De Leite 120 g",
+      "descricao": "Bisc Piraque Newafer Choc 100 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896024726582",
+      "hits": 2,
       "aliases": [
+        "bisc piraque newafer choc 100 g",
+        "bisc piraque newafer choc | massa:100g",
         "bisc treloso rech doce de leite 120 g",
         "bisc treloso rech doce de leite 120g",
         "bisc treloso rech doce de leite | massa:120g"
       ],
-      "descricao_base": "bisc treloso rech doce de leite",
+      "descricao_base": "bisc piraque newafer choc",
       "medidas": [
-        "massa:120g"
+        "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:11:21"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "bisc rech pilar mor | massa:120g": {
       "descricao": "Bisc Rech Pilar Mor 120 g",
@@ -13686,8 +13718,8 @@
     "cerv spaten ln | volume:355ml": {
       "descricao": "Cerv Spaten Ln 355 ml",
       "unidade": "Unid.",
-      "codigo_barras": "8919912974793",
-      "hits": 1,
+      "codigo_barras": "7891991297479",
+      "hits": 2,
       "aliases": [
         "cerv spaten ln 355 ml",
         "cerv spaten ln 355ml",
@@ -13698,7 +13730,7 @@
         "volume:355ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-07T17:13:59"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "cerv itaipava 00 alcool lt un | volume:350ml": {
       "descricao": "Cerv Itaipava 00 Álcool Lt Un 350 ml",
@@ -13720,8 +13752,8 @@
     "gin tonico schwepes vd | volume:250ml": {
       "descricao": "Gin Tonico Schwepes Vd 250 ml",
       "unidade": "Unid.",
-      "codigo_barras": "8949001840067",
-      "hits": 1,
+      "codigo_barras": "7894900184006",
+      "hits": 2,
       "aliases": [
         "gin tonico schwepes vd 250 ml",
         "gin tonico schwepes vd 250ml",
@@ -13732,24 +13764,26 @@
         "volume:250ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-07T17:13:59"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "bisc cipan top salgado | massa:300g": {
-      "descricao": "Bisc Cipan Top Salgado 300 g",
+      "descricao": "Bisc Cr Cracker Vitarella Água e Sal 350 g",
       "unidade": "Unid.",
-      "codigo_barras": "8973539032939",
-      "hits": 1,
+      "codigo_barras": "7896213006242",
+      "hits": 2,
       "aliases": [
         "bisc cipan top salgado 300 g",
         "bisc cipan top salgado 300g",
-        "bisc cipan top salgado | massa:300g"
+        "bisc cipan top salgado | massa:300g",
+        "bisc cr cracker vitarella agua e sal 350 g",
+        "bisc cr cracker vitarella agua e sal | massa:350g"
       ],
-      "descricao_base": "bisc cipan top salgado",
+      "descricao_base": "bisc cr cracker vitarella agua e sal",
       "medidas": [
-        "massa:300g"
+        "massa:350g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-07T17:13:59"
+      "atualizado_em": "2026-07-27T15:40:09"
     },
     "bisc club social bacon&provol | massa:141g": {
       "descricao": "Bisc Club Social Bacon&provol 141 g",
@@ -16107,6 +16141,1180 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-07-25T09:50:20"
+    },
+    "refri soda pet | volume:200ml": {
+      "descricao": "Refri Soda Pet 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891991014984",
+      "hits": 1,
+      "aliases": [
+        "refri soda pet 200 ml",
+        "refri soda pet 200ml",
+        "refri soda pet | volume:200ml"
+      ],
+      "descricao_base": "refri soda pet",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "refri sukita pet | volume:200ml": {
+      "descricao": "Refri Sukita Pet 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891149108282",
+      "hits": 1,
+      "aliases": [
+        "refri sukita pet 200 ml",
+        "refri sukita pet 200ml",
+        "refri sukita pet | volume:200ml"
+      ],
+      "descricao_base": "refri sukita pet",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "refri sao geraldo laranja pet | volume:1000ml": {
+      "descricao": "Refri Sao Geraldo Laranja Pet 1 lt",
+      "unidade": "Unid.",
+      "codigo_barras": "7897240900657",
+      "hits": 1,
+      "aliases": [
+        "refri sao geraldo laranja pet 1 lt",
+        "refri sao geraldo laranja pet 1lt",
+        "refri sao geraldo laranja pet | volume:1000ml"
+      ],
+      "descricao_base": "refri sao geraldo laranja pet",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "refri kuat mini pet | volume:200ml": {
+      "descricao": "Refri Kuat Mini Pet 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "0000078938564",
+      "hits": 1,
+      "aliases": [
+        "refri kuat mini pet 200 ml",
+        "refri kuat mini pet 200ml",
+        "refri kuat mini pet | volume:200ml"
+      ],
+      "descricao_base": "refri kuat mini pet",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "refri dual coca cola + kuat pet | volume:2000ml": {
+      "descricao": "Refri Dual Coca Cola + Kuat Pet 2 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7894900027402",
+      "hits": 1,
+      "aliases": [
+        "refri dual coca cola + kuat pet | volume:2000ml",
+        "refri dual coca cola kuat pet 2 l",
+        "refri dual coca cola kuat pet 2l"
+      ],
+      "descricao_base": "refri dual coca cola + kuat pet",
+      "medidas": [
+        "volume:2000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "refri fanta laranja pet | volume:1000ml": {
+      "descricao": "Refri Fanta Laranja Pet 1 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7894900031713",
+      "hits": 1,
+      "aliases": [
+        "refri fanta laranja pet 1 l",
+        "refri fanta laranja pet 1l",
+        "refri fanta laranja pet | volume:1000ml"
+      ],
+      "descricao_base": "refri fanta laranja pet",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "schweppes tonica lt | volume:350ml": {
+      "descricao": "Schweppes Tonica Lt 350 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7894900300017",
+      "hits": 1,
+      "aliases": [
+        "schweppes tonica lt 350 ml",
+        "schweppes tonica lt 350ml",
+        "schweppes tonica lt | volume:350ml"
+      ],
+      "descricao_base": "schweppes tonica lt",
+      "medidas": [
+        "volume:350ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "refri sprite lemon fresh pet | volume:1500ml": {
+      "descricao": "Refri Sprite Lemon Fresh Pet 1,5 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7894900680522",
+      "hits": 1,
+      "aliases": [
+        "refri sprite lemon fresh pet 1 5 l",
+        "refri sprite lemon fresh pet 1 5l",
+        "refri sprite lemon fresh pet | volume:1500ml"
+      ],
+      "descricao_base": "refri sprite lemon fresh pet",
+      "medidas": [
+        "volume:1500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "ref mid limao | massa:20g": {
+      "descricao": "Ref Mid Limão 20 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891132082223",
+      "hits": 1,
+      "aliases": [
+        "ref mid limao 20 g",
+        "ref mid limao 20g",
+        "ref mid limao | massa:20g"
+      ],
+      "descricao_base": "ref mid limao",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "suco del valle limonada lt | volume:290ml": {
+      "descricao": "Suco Del Valle Limonada Lt 290 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7894900664003",
+      "hits": 1,
+      "aliases": [
+        "suco del valle limonada lt 290 ml",
+        "suco del valle limonada lt 290ml",
+        "suco del valle limonada lt | volume:290ml"
+      ],
+      "descricao_base": "suco del valle limonada lt",
+      "medidas": [
+        "volume:290ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "suco del valle limonada pink lt | volume:290ml": {
+      "descricao": "Suco Del Valle Limonada Pink Lt 290 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7894900664010",
+      "hits": 1,
+      "aliases": [
+        "suco del valle limonada pink lt 290 ml",
+        "suco del valle limonada pink lt 290ml",
+        "suco del valle limonada pink lt | volume:290ml"
+      ],
+      "descricao_base": "suco del valle limonada pink lt",
+      "medidas": [
+        "volume:290ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "refresc frutybom uva | volume:330ml": {
+      "descricao": "Refresc. Frutybom Uva 330 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898118392864",
+      "hits": 1,
+      "aliases": [
+        "refresc frutybom uva 330 ml",
+        "refresc frutybom uva 330ml",
+        "refresc frutybom uva | volume:330ml"
+      ],
+      "descricao_base": "refresc frutybom uva",
+      "medidas": [
+        "volume:330ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "refresc frutybom frut citri | volume:330ml": {
+      "descricao": "Refresc. Frutybom Frut.Citri. 330 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898118392857",
+      "hits": 1,
+      "aliases": [
+        "refresc frutybom frut citri 330 ml",
+        "refresc frutybom frut citri 330ml",
+        "refresc frutybom frut citri | volume:330ml"
+      ],
+      "descricao_base": "refresc frutybom frut citri",
+      "medidas": [
+        "volume:330ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "red bull edition maracuja e melao | volume:250ml": {
+      "descricao": "Red Bull Edition Maracujá e Melão 250 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "9002490275013",
+      "hits": 1,
+      "aliases": [
+        "red bull edition maracuja e melao 250 ml",
+        "red bull edition maracuja e melao 250ml",
+        "red bull edition maracuja e melao | volume:250ml"
+      ],
+      "descricao_base": "red bull edition maracuja e melao",
+      "medidas": [
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "cerv itaipava prem ln | volume:330ml": {
+      "descricao": "Cerv Itaipava Prem Ln 330 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7897395002121",
+      "hits": 1,
+      "aliases": [
+        "cerv itaipava prem ln 330 ml",
+        "cerv itaipava prem ln 330ml",
+        "cerv itaipava prem ln | volume:330ml"
+      ],
+      "descricao_base": "cerv itaipava prem ln",
+      "medidas": [
+        "volume:330ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "brahma chopp zero lt | volume:350ml": {
+      "descricao": "Brahma Chopp Zero Lt 350 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891149104932",
+      "hits": 1,
+      "aliases": [
+        "brahma chopp zero lt 350 ml",
+        "brahma chopp zero lt 350ml",
+        "brahma chopp zero lt | volume:350ml"
+      ],
+      "descricao_base": "brahma chopp zero lt",
+      "medidas": [
+        "volume:350ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "pipoca marata pronta tradicional | massa:25g": {
+      "descricao": "Pipoca Maratá Pronta Tradicional 25 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898617580694",
+      "hits": 1,
+      "aliases": [
+        "pipoca marata pronta tradicional 25 g",
+        "pipoca marata pronta tradicional 25g",
+        "pipoca marata pronta tradicional | massa:25g"
+      ],
+      "descricao_base": "pipoca marata pronta tradicional",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "pistache c/casca marata | massa:50g": {
+      "descricao": "Pistache c/casca Maratá 50 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898617580953",
+      "hits": 1,
+      "aliases": [
+        "pistache c casca marata 50 g",
+        "pistache c casca marata 50g",
+        "pistache c/casca marata | massa:50g"
+      ],
+      "descricao_base": "pistache c/casca marata",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "pir blong 12 blue | massa:600g": {
+      "descricao": "Pir. Blong 12 Blue 600 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896306614453",
+      "hits": 1,
+      "aliases": [
+        "pir blong 12 blue 600 g",
+        "pir blong 12 blue 600g",
+        "pir blong 12 blue | massa:600g"
+      ],
+      "descricao_base": "pir blong 12 blue",
+      "medidas": [
+        "massa:600g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "pir blong black | massa:672g": {
+      "descricao": "Pir. Blong Black 672 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896306615306",
+      "hits": 1,
+      "aliases": [
+        "pir blong black 672 g",
+        "pir blong black 672g",
+        "pir blong black | massa:672g"
+      ],
+      "descricao_base": "pir blong black",
+      "medidas": [
+        "massa:672g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "pir blong nitrofetas sortido | massa:672g": {
+      "descricao": "Pir. Blong Nitrofetas Sortido 672 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896306624728",
+      "hits": 1,
+      "aliases": [
+        "pir blong nitrofetas sortido 672 g",
+        "pir blong nitrofetas sortido 672g",
+        "pir blong nitrofetas sortido | massa:672g"
+      ],
+      "descricao_base": "pir blong nitrofetas sortido",
+      "medidas": [
+        "massa:672g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bala due simonetto fruta/chan | massa:600g": {
+      "descricao": "Bala Due Simonetto Fruta/Chan 600 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897652603016",
+      "hits": 1,
+      "aliases": [
+        "bala due simonetto fruta chan 600 g",
+        "bala due simonetto fruta chan 600g",
+        "bala due simonetto fruta/chan | massa:600g"
+      ],
+      "descricao_base": "bala due simonetto fruta/chan",
+      "medidas": [
+        "massa:600g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "salg doritos sweet chilli | massa:32g": {
+      "descricao": "Salg Doritos Sweet Chilli 32 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7892840822392",
+      "hits": 1,
+      "aliases": [
+        "salg doritos sweet chilli 32 g",
+        "salg doritos sweet chilli 32g",
+        "salg doritos sweet chilli | massa:32g"
+      ],
+      "descricao_base": "salg doritos sweet chilli",
+      "medidas": [
+        "massa:32g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "doritos ketchup | massa:110g": {
+      "descricao": "Doritos Ketchup 110 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7892840823771",
+      "hits": 1,
+      "aliases": [
+        "doritos ketchup 110 g",
+        "doritos ketchup 110g",
+        "doritos ketchup | massa:110g"
+      ],
+      "descricao_base": "doritos ketchup",
+      "medidas": [
+        "massa:110g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "lays rustica classica | massa:62g": {
+      "descricao": "Lays Rustica Clássica 62 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7892840825133",
+      "hits": 1,
+      "aliases": [
+        "lays rustica classica 62 g",
+        "lays rustica classica 62g",
+        "lays rustica classica | massa:62g"
+      ],
+      "descricao_base": "lays rustica classica",
+      "medidas": [
+        "massa:62g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "lays rustica sour cream | massa:62g": {
+      "descricao": "Lays Rustica Sour Cream 62 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7892840825157",
+      "hits": 1,
+      "aliases": [
+        "lays rustica sour cream 62 g",
+        "lays rustica sour cream 62g",
+        "lays rustica sour cream | massa:62g"
+      ],
+      "descricao_base": "lays rustica sour cream",
+      "medidas": [
+        "massa:62g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "batata lays classica | massa:30g": {
+      "descricao": "Batata Lays Clássica 30 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7892840825195",
+      "hits": 1,
+      "aliases": [
+        "batata lays classica 30 g",
+        "batata lays classica 30g",
+        "batata lays classica | massa:30g"
+      ],
+      "descricao_base": "batata lays classica",
+      "medidas": [
+        "massa:30g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "amendoim dori torrado salgado | massa:70g": {
+      "descricao": "Amendoim Dori Torrado Salgado 70 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896058507218",
+      "hits": 1,
+      "aliases": [
+        "amendoim dori torrado salgado 70 g",
+        "amendoim dori torrado salgado 70g",
+        "amendoim dori torrado salgado | massa:70g"
+      ],
+      "descricao_base": "amendoim dori torrado salgado",
+      "medidas": [
+        "massa:70g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "amend pettiz croc pimenta dori | massa:120g": {
+      "descricao": "Amend Pettiz Croc Pimenta Dori 120 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896058599848",
+      "hits": 1,
+      "aliases": [
+        "amend pettiz croc pimenta dori 120 g",
+        "amend pettiz croc pimenta dori 120g",
+        "amend pettiz croc pimenta dori | massa:120g"
+      ],
+      "descricao_base": "amend pettiz croc pimenta dori",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "amendoim dori pettiz croc natural | massa:120g": {
+      "descricao": "Amendoim Dori Pettiz Croc Natural 120 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896058599831",
+      "hits": 1,
+      "aliases": [
+        "amendoim dori pettiz croc natural 120 g",
+        "amendoim dori pettiz croc natural 120g",
+        "amendoim dori pettiz croc natural | massa:120g"
+      ],
+      "descricao_base": "amendoim dori pettiz croc natural",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "amendoim japones yoki | massa:60g": {
+      "descricao": "Amendoim Japonês Yoki 60 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891095911776",
+      "hits": 1,
+      "aliases": [
+        "amendoim japones yoki 60 g",
+        "amendoim japones yoki 60g",
+        "amendoim japones yoki | massa:60g"
+      ],
+      "descricao_base": "amendoim japones yoki",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "amendoim crokissimo shoyu | massa:150g": {
+      "descricao": "Amendoim Crokissimo Shoyu 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896336016333",
+      "hits": 1,
+      "aliases": [
+        "amendoim crokissimo shoyu 150 g",
+        "amendoim crokissimo shoyu 150g",
+        "amendoim crokissimo shoyu | massa:150g"
+      ],
+      "descricao_base": "amendoim crokissimo shoyu",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc rech trufas morango | massa:140g": {
+      "descricao": "Bisc Chokolot Mais Choc. Branco 65 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897353902104",
+      "hits": 2,
+      "aliases": [
+        "bisc chokolot mais choc branco 65 g",
+        "bisc chokolot mais choc branco | massa:65g",
+        "bisc rech trufas morango 140 g",
+        "bisc rech trufas morango 140g",
+        "bisc rech trufas morango | massa:140g"
+      ],
+      "descricao_base": "bisc chokolot mais choc branco",
+      "medidas": [
+        "massa:65g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc treloso rech brigadeiro | massa:120g": {
+      "descricao": "Bisc Treloso Rech Brigadeiro 120 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896213005962",
+      "hits": 1,
+      "aliases": [
+        "bisc treloso rech brigadeiro 120 g",
+        "bisc treloso rech brigadeiro 120g",
+        "bisc treloso rech brigadeiro | massa:120g"
+      ],
+      "descricao_base": "bisc treloso rech brigadeiro",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc maizena choco renat | massa:360g": {
+      "descricao": "Bisc Marilan Cream Cracker Água Sal 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003740264",
+      "hits": 1,
+      "aliases": [
+        "bisc maizena choco renat 360g",
+        "bisc maizena choco renat | massa:360g",
+        "bisc marilan cream cracker agua sal 300 g",
+        "bisc marilan cream cracker agua sal | massa:300g"
+      ],
+      "descricao_base": "bisc marilan cream cracker agua sal",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc mini maiz petyan trad | massa:300g": {
+      "descricao": "Bisc Mini Maria Petyan Trad 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896532701583",
+      "hits": 1,
+      "aliases": [
+        "bisc mini maiz petyan trad 300g",
+        "bisc mini maiz petyan trad | massa:300g",
+        "bisc mini maria petyan trad 300 g",
+        "bisc mini maria petyan trad | massa:300g"
+      ],
+      "descricao_base": "bisc mini maria petyan trad",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc mini maria petyan trad | massa:300g": {
+      "descricao": "Bisc Rosquinhas Petyan Milho 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896532701712",
+      "hits": 1,
+      "aliases": [
+        "bisc mini maria petyan trad 300g",
+        "bisc mini maria petyan trad | massa:300g",
+        "bisc rosquinhas petyan milho 300 g",
+        "bisc rosquinhas petyan milho | massa:300g"
+      ],
+      "descricao_base": "bisc rosquinhas petyan milho",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc rosquinhas petyan milho | massa:300g": {
+      "descricao": "Bisc Rosq Marilan Leite 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003738421",
+      "hits": 1,
+      "aliases": [
+        "bisc rosq marilan leite 300 g",
+        "bisc rosq marilan leite | massa:300g",
+        "bisc rosquinhas petyan milho 300g",
+        "bisc rosquinhas petyan milho | massa:300g"
+      ],
+      "descricao_base": "bisc rosq marilan leite",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc rosq marilan leite | massa:300g": {
+      "descricao": "Bisc Rosq Marilan Coco 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003738483",
+      "hits": 1,
+      "aliases": [
+        "bisc rosq marilan coco 300 g",
+        "bisc rosq marilan coco | massa:300g",
+        "bisc rosq marilan leite 300g",
+        "bisc rosq marilan leite | massa:300g"
+      ],
+      "descricao_base": "bisc rosq marilan coco",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc rosq marilan coco | massa:300g": {
+      "descricao": "Bisc Rosq Marilan Choc 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003738490",
+      "hits": 1,
+      "aliases": [
+        "bisc rosq marilan choc 300 g",
+        "bisc rosq marilan choc | massa:300g",
+        "bisc rosq marilan coco 300g",
+        "bisc rosq marilan coco | massa:300g"
+      ],
+      "descricao_base": "bisc rosq marilan choc",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc rosq marilan choc | massa:300g": {
+      "descricao": "Bolacha Bem Bom Vovo Dulce 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898962966419",
+      "hits": 1,
+      "aliases": [
+        "bisc rosq marilan choc 300g",
+        "bisc rosq marilan choc | massa:300g",
+        "bolacha bem bom vovo dulce 300 g",
+        "bolacha bem bom vovo dulce | massa:300g"
+      ],
+      "descricao_base": "bolacha bem bom vovo dulce",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bolacha bem bom vovo dulce | massa:300g": {
+      "descricao": "Bisc Skin Coquinho Doce 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898185760412",
+      "hits": 1,
+      "aliases": [
+        "bisc skin coquinho doce 400 g",
+        "bisc skin coquinho doce | massa:400g",
+        "bolacha bem bom vovo dulce 300g",
+        "bolacha bem bom vovo dulce | massa:300g"
+      ],
+      "descricao_base": "bisc skin coquinho doce",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc cr cracker vitarella agua e sal | massa:350g": {
+      "descricao": "Bisc Marilan Cream Cracker Especial 350 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003738629",
+      "hits": 1,
+      "aliases": [
+        "bisc cr cracker vitarella agua e sal 350g",
+        "bisc cr cracker vitarella agua e sal | massa:350g",
+        "bisc marilan cream cracker especial 350 g",
+        "bisc marilan cream cracker especial | massa:350g"
+      ],
+      "descricao_base": "bisc marilan cream cracker especial",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc marilan cream cracker especial | massa:350g": {
+      "descricao": "Bisc Club Social Queijo 141 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7622210644534",
+      "hits": 1,
+      "aliases": [
+        "bisc club social queijo 141 g",
+        "bisc club social queijo | massa:141g",
+        "bisc marilan cream cracker especial 350g",
+        "bisc marilan cream cracker especial | massa:350g"
+      ],
+      "descricao_base": "bisc club social queijo",
+      "medidas": [
+        "massa:141g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc club social presunto | massa:141g": {
+      "descricao": "Bisc Sol Salt Queijo 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896005217788",
+      "hits": 1,
+      "aliases": [
+        "bisc club social presunto 141g",
+        "bisc club social presunto | massa:141g",
+        "bisc sol salt queijo 150 g",
+        "bisc sol salt queijo | massa:150g"
+      ],
+      "descricao_base": "bisc sol salt queijo",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc sol salt queijo | massa:150g": {
+      "descricao": "Bisc Marilan Pit Stop Integral 137 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003739466",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan pit stop integral 137 g",
+        "bisc marilan pit stop integral | massa:137g",
+        "bisc sol salt queijo 150g",
+        "bisc sol salt queijo | massa:150g"
+      ],
+      "descricao_base": "bisc marilan pit stop integral",
+      "medidas": [
+        "massa:137g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc marilan pit stop integral | massa:137g": {
+      "descricao": "Bisc Marilan Pit Stop Rech Misto Quente 91 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003739671",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan pit stop integral 137g",
+        "bisc marilan pit stop integral | massa:137g",
+        "bisc marilan pit stop rech misto quente 91 g",
+        "bisc marilan pit stop rech misto quente | massa:91g"
+      ],
+      "descricao_base": "bisc marilan pit stop rech misto quente",
+      "medidas": [
+        "massa:91g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "pit stop rech trufado | massa:91g": {
+      "descricao": "Bisc Vitarella Tortinhas Morango 140 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896213005245",
+      "hits": 1,
+      "aliases": [
+        "bisc vitarella tortinhas morango 140 g",
+        "bisc vitarella tortinhas morango | massa:140g",
+        "pit stop rech trufado 91g",
+        "pit stop rech trufado | massa:91g"
+      ],
+      "descricao_base": "bisc vitarella tortinhas morango",
+      "medidas": [
+        "massa:140g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc treloso clubinho morango | massa:130g": {
+      "descricao": "Bisc Treloso Rech Doce De Leite 120 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896213005931",
+      "hits": 1,
+      "aliases": [
+        "bisc treloso clubinho morango 130g",
+        "bisc treloso clubinho morango | massa:130g",
+        "bisc treloso rech doce de leite 120 g",
+        "bisc treloso rech doce de leite | massa:120g"
+      ],
+      "descricao_base": "bisc treloso rech doce de leite",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc piraque newafer choc | massa:100g": {
+      "descricao": "Bisc Marilan Tortinha Morango 140 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003738810",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan tortinha morango 140 g",
+        "bisc marilan tortinha morango | massa:140g",
+        "bisc piraque newafer choc 100g",
+        "bisc piraque newafer choc | massa:100g"
+      ],
+      "descricao_base": "bisc marilan tortinha morango",
+      "medidas": [
+        "massa:140g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc marilan tortinha morango | massa:140g": {
+      "descricao": "Bisc Rech Marilan Chocolate 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003739299",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan tortinha morango 140g",
+        "bisc marilan tortinha morango | massa:140g",
+        "bisc rech marilan chocolate 80 g",
+        "bisc rech marilan chocolate | massa:80g"
+      ],
+      "descricao_base": "bisc rech marilan chocolate",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc rech marilan chocolate | massa:80g": {
+      "descricao": "Bolinho Renata Baunilha 40 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896022203207",
+      "hits": 1,
+      "aliases": [
+        "bisc rech marilan chocolate 80g",
+        "bisc rech marilan chocolate | massa:80g",
+        "bolinho renata baunilha 40 g",
+        "bolinho renata baunilha | massa:40g"
+      ],
+      "descricao_base": "bolinho renata baunilha",
+      "medidas": [
+        "massa:40g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bolinho renata baunilha | massa:40g": {
+      "descricao": "Bolinho Ana Maria Cober Avelã 42 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896002311540",
+      "hits": 1,
+      "aliases": [
+        "bolinho ana maria cober avela 42 g",
+        "bolinho ana maria cober avela | massa:42g",
+        "bolinho renata baunilha 40g",
+        "bolinho renata baunilha | massa:40g"
+      ],
+      "descricao_base": "bolinho ana maria cober avela",
+      "medidas": [
+        "massa:42g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bolinho ana maria cober avela | massa:42g": {
+      "descricao": "Bisc Capricche Wafer Choc Ao Leite 90 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898954857671",
+      "hits": 1,
+      "aliases": [
+        "bisc capricche wafer choc ao leite 90 g",
+        "bisc capricche wafer choc ao leite | massa:90g",
+        "bolinho ana maria cober avela 42g",
+        "bolinho ana maria cober avela | massa:42g"
+      ],
+      "descricao_base": "bisc capricche wafer choc ao leite",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc capricche wafer choc ao leite | massa:90g": {
+      "descricao": "Bisc Capricche Wafer Chocolate 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898657830322",
+      "hits": 1,
+      "aliases": [
+        "bisc capricche wafer choc ao leite 90g",
+        "bisc capricche wafer choc ao leite | massa:90g",
+        "bisc capricche wafer chocolate 80 g",
+        "bisc capricche wafer chocolate | massa:80g"
+      ],
+      "descricao_base": "bisc capricche wafer chocolate",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc capricche wafer chocolate | massa:80g": {
+      "descricao": "Bisc Wafer Futurinhos Abacaxi - Un 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898657830612",
+      "hits": 1,
+      "aliases": [
+        "bisc capricche wafer chocolate 80g",
+        "bisc capricche wafer chocolate | massa:80g",
+        "bisc wafer futurinhos abacaxi un 80 g",
+        "bisc wafer futurinhos abacaxi un | massa:80g"
+      ],
+      "descricao_base": "bisc wafer futurinhos abacaxi un",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc wafer futurinhos abacaxi un | massa:80g": {
+      "descricao": "Bisc Capricche Wafer Black 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898657830353",
+      "hits": 1,
+      "aliases": [
+        "bisc capricche wafer black 80 g",
+        "bisc capricche wafer black | massa:80g",
+        "bisc wafer futurinhos abacaxi 80g un",
+        "bisc wafer futurinhos abacaxi un | massa:80g"
+      ],
+      "descricao_base": "bisc capricche wafer black",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc capricche wafer black | massa:80g": {
+      "descricao": "Wafer Futurinhos Brigadeiro 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898657830346",
+      "hits": 1,
+      "aliases": [
+        "bisc capricche wafer black 80g",
+        "bisc capricche wafer black | massa:80g",
+        "wafer futurinhos brigadeiro 80 g",
+        "wafer futurinhos brigadeiro | massa:80g"
+      ],
+      "descricao_base": "wafer futurinhos brigadeiro",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "wafer futurinhos brigadeiro | massa:80g": {
+      "descricao": "Bisc Capricche Wafer Morango 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898657830339",
+      "hits": 1,
+      "aliases": [
+        "bisc capricche wafer morango 80 g",
+        "bisc capricche wafer morango | massa:80g",
+        "wafer futurinhos brigadeiro 80g",
+        "wafer futurinhos brigadeiro | massa:80g"
+      ],
+      "descricao_base": "bisc capricche wafer morango",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc capricche wafer morango | massa:80g": {
+      "descricao": "Bisc Wafer Tortuguita Morango 85 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896058258097",
+      "hits": 1,
+      "aliases": [
+        "bisc capricche wafer morango 80g",
+        "bisc capricche wafer morango | massa:80g",
+        "bisc wafer tortuguita morango 85 g",
+        "bisc wafer tortuguita morango | massa:85g"
+      ],
+      "descricao_base": "bisc wafer tortuguita morango",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc wafer tortuguita morango | massa:85g": {
+      "descricao": "Bisc Rech Trufas Morango 140 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897353901909",
+      "hits": 1,
+      "aliases": [
+        "bisc rech trufas morango 140 g",
+        "bisc rech trufas morango | massa:140g",
+        "bisc wafer tortuguita morango 85g",
+        "bisc wafer tortuguita morango | massa:85g"
+      ],
+      "descricao_base": "bisc rech trufas morango",
+      "medidas": [
+        "massa:140g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc chokolot mais choc branco | massa:65g": {
+      "descricao": "Bisc Amanteigado Leite Maltado Vitamassa 360 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897353903422",
+      "hits": 1,
+      "aliases": [
+        "bisc amanteigado leite maltado vitamassa 360 g",
+        "bisc amanteigado leite maltado vitamassa | massa:360g",
+        "bisc chokolot mais choc branco 65g",
+        "bisc chokolot mais choc branco | massa:65g"
+      ],
+      "descricao_base": "bisc amanteigado leite maltado vitamassa",
+      "medidas": [
+        "massa:360g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc amanteigado leite maltado vitamassa | massa:360g": {
+      "descricao": "Bisc Amant.Vitamas Choc - Un 360 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897353902913",
+      "hits": 1,
+      "aliases": [
+        "bisc amant vitamas choc un 360 g",
+        "bisc amant vitamas choc un | massa:360g",
+        "bisc amanteigado leite maltado vitamassa 360g",
+        "bisc amanteigado leite maltado vitamassa | massa:360g"
+      ],
+      "descricao_base": "bisc amant vitamas choc un",
+      "medidas": [
+        "massa:360g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc amant vitamas choc un | massa:360g": {
+      "descricao": "Bisc Bauducco Speculoos Caramel 84 gr",
+      "unidade": "Unid.",
+      "codigo_barras": "7891962076317",
+      "hits": 1,
+      "aliases": [
+        "bisc amant vitamas choc 360g un",
+        "bisc amant vitamas choc un | massa:360g",
+        "bisc bauducco speculoos caramel 84 gr",
+        "bisc bauducco speculoos caramel | massa:84g"
+      ],
+      "descricao_base": "bisc bauducco speculoos caramel",
+      "medidas": [
+        "massa:84g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc bauducco speculoos caramel | massa:84g": {
+      "descricao": "Bolinho Bauducco Duo Chocolate 27 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891962051383",
+      "hits": 1,
+      "aliases": [
+        "bisc bauducco speculoos caramel 84gr",
+        "bisc bauducco speculoos caramel | massa:84g",
+        "bolinho bauducco duo chocolate 27 g",
+        "bolinho bauducco duo chocolate | massa:27g"
+      ],
+      "descricao_base": "bolinho bauducco duo chocolate",
+      "medidas": [
+        "massa:27g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bolinho bauducco duo chocolate | massa:27g": {
+      "descricao": "Bisc Nestles Cookies Choc Branco 60 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000350072",
+      "hits": 1,
+      "aliases": [
+        "bisc nestles cookies choc branco 60 g",
+        "bisc nestles cookies choc branco | massa:60g",
+        "bolinho bauducco duo chocolate 27g",
+        "bolinho bauducco duo chocolate | massa:27g"
+      ],
+      "descricao_base": "bisc nestles cookies choc branco",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "bisc nestles cookies choc branco | massa:60g": {
+      "descricao": "Bisc Wafer Prestigio 110 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000077924",
+      "hits": 1,
+      "aliases": [
+        "bisc nestles cookies choc branco 60g",
+        "bisc nestles cookies choc branco | massa:60g",
+        "bisc wafer prestigio 110 g",
+        "bisc wafer prestigio | massa:110g"
+      ],
+      "descricao_base": "bisc wafer prestigio",
+      "medidas": [
+        "massa:110g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-27T15:40:09"
     }
   }
 }
