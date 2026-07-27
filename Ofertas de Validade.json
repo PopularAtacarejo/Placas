@@ -19953,5 +19953,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "16:06:39",
+    "placa": 14,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Skin Coquinho Doce 400 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/08/2026",
+        "codigo_barras": "7898185760313",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Cipan Top Salgado 300 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/08/2026",
+        "codigo_barras": "7897353903293",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Cr Cracker Vitarella Água e Sal 350 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/08/2026",
+        "codigo_barras": "7896213006242",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Cream Cracker Especial 350 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026",
+        "codigo_barras": "7896003738629",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
