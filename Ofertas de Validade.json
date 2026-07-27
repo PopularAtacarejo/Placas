@@ -19909,5 +19909,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "16:04:25",
+    "placa": 13,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rosq Marilan Coco 300 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/06/2026",
+        "codigo_barras": "7896003738483",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rosq Marilan Choc 300 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7896003738490",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bolacha Bem Bom Vovo Dulce 300 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/08/2026",
+        "codigo_barras": "7898962966419",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Skin Coquinho Doce 400 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/08/2026",
+        "codigo_barras": "7898185760412",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
