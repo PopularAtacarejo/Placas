@@ -19689,5 +19689,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "15:53:09",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Doritos Ketchup 110 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/08/2026",
+        "codigo_barras": "7892840823771",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Lays Rustica Clássica 62 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/08/2026",
+        "codigo_barras": "7892840825133",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Lays Rustica Sour Cream 62 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/08/2026",
+        "codigo_barras": "7892840825157",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cheetos Bola Queijo Suíço 33 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/08/2026",
+        "codigo_barras": "7892840825010",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
