@@ -19469,5 +19469,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "15:45:26",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Ref Mid Limão 20 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/08/2026",
+        "codigo_barras": "7891132082223",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Suco Del Valle Limonada Lt 290 ml",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "06/08/2026",
+        "codigo_barras": "7894900664003",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Suco Del Valle Limonada Pink Lt 290 ml",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7894900664010",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Refresc. Frutybom Uva 330 ml",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026",
+        "codigo_barras": "7898118392864",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
