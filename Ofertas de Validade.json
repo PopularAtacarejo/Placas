@@ -19865,5 +19865,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "16:01:48",
+    "placa": 12,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Mini Maiz Petyan Trad 300 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "27/08/2026",
+        "codigo_barras": "7896532701606",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Mini Maria Petyan Trad 300 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "19/08/2026",
+        "codigo_barras": "7896532701583",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Rosquinhas Petyan Milho 300 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/08/2026",
+        "codigo_barras": "7896532701712",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Rosq Marilan Leite 300 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026",
+        "codigo_barras": "7896003738421",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
