@@ -20041,5 +20041,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "16:10:46",
+    "placa": 16,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Marilan Pit Stop Rech Misto Quente 91 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/08/2026",
+        "codigo_barras": "7896003739671",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Marilan Pit Stop Rech Salsa Ceb 91 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/08/2026",
+        "codigo_barras": "7896003739688",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pit Stop Rech Trufado 91 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7896003739817",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Vitarella Tortinhas Morango 140 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026",
+        "codigo_barras": "7896213005245",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
