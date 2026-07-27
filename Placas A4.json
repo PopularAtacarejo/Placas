@@ -11830,5 +11830,29 @@
     "produto": "Mort Copacol C/Toucinho 2kg",
     "preco": "9,98",
     "validade_oferta_ate": "28/07/2026"
+  },
+  {
+    "data": "2026-07-27",
+    "horario": "14:43:23",
+    "feito_por": "Jeferson",
+    "produto": "Refri Pepsi Black Zero Pet 2l",
+    "preco": "7,99",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-27",
+    "horario": "14:43:23",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Budweiser Lt 350ml",
+    "preco": "4,29",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-27",
+    "horario": "14:43:23",
+    "feito_por": "Jeferson",
+    "produto": "Agua Mineral Verde Mares S/Gás 1,5L",
+    "preco": "2,48",
+    "validade_oferta_ate": ""
   }
 ]
