@@ -20305,5 +20305,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "16:24:17",
+    "placa": 22,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bolinho Bauducco Duo Chocolate 27 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7891962051383",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Nestles Cookies Choc Branco 60 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/08/2026",
+        "codigo_barras": "7891000350072",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Wafer Prestigio 110 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/08/2026",
+        "codigo_barras": "7891000077924",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
