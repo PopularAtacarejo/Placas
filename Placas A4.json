@@ -11870,5 +11870,21 @@
     "produto": "Maçã Pink Lady",
     "preco": "9,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-27",
+    "horario": "17:43:54",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Desc Babysec Shortinho Megag c/ 24und, Xg C/22und, Xxg C/20und",
+    "preco": "29,98",
+    "validade_oferta_ate": "28/07/2026"
+  },
+  {
+    "data": "2026-07-27",
+    "horario": "17:43:54",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Capricho Shortinho Megag C/30und, Xxg C/22und, Xg C/26und",
+    "preco": "42,98",
+    "validade_oferta_ate": "28/07/2026"
   }
 ]
