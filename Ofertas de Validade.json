@@ -19733,5 +19733,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "15:54:45",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Batata Lays Clássica 30 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7892840825195",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Amendoim Torrado Salg Jazam",
+        "preco": "0,78",
+        "unidade": "Unid.",
+        "validade_oferta": "22/08/2026",
+        "codigo_barras": "7896383072603",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Amendoim Dori Torrado Salgado 70 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7896058507218",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Amend Pettiz Croc Pimenta Dori 120 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/08/2026",
+        "codigo_barras": "7896058599848",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
