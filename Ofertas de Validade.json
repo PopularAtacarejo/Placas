@@ -19645,5 +19645,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "15:51:31",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bala Due Simonetto Fruta/Chan 600 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/08/2026",
+        "codigo_barras": "7897652603016",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Salg Elma Chips Fandangos Queijo 35 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7892840822866",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salg Fandangos Queijo 60 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/08/2026",
+        "codigo_barras": "7892840823504",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Salg Doritos Sweet Chilli 32 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/08/2026",
+        "codigo_barras": "7892840822392",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
