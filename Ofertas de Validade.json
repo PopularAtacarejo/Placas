@@ -20173,5 +20173,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "16:17:58",
+    "placa": 19,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Capricche Wafer Choc Ao Leite 90 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/08/2026",
+        "codigo_barras": "7898954857671",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Capricche Wafer Chocolate 80 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026",
+        "codigo_barras": "7898657830322",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Wafer Futurinhos Abacaxi - Un 80 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/08/2026",
+        "codigo_barras": "7898657830612",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Capricche Wafer Black 80 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7898657830353",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
