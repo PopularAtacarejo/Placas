@@ -20129,5 +20129,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "16:15:34",
+    "placa": 18,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Marilan Tortinha Morango 140 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/08/2026",
+        "codigo_barras": "7896003738810",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rech Marilan Chocolate 80 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/08/2026",
+        "codigo_barras": "7896003739299",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bolinho Renata Baunilha 40 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/08/2026",
+        "codigo_barras": "7896022203207",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bolinho Ana Maria Cober Avelã 42 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/08/2026",
+        "codigo_barras": "7896002311540",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
