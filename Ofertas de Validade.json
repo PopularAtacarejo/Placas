@@ -19777,5 +19777,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "15:57:07",
+    "placa": 10,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Amendoim Dori Pettiz Croc Natural 120 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/08/2026",
+        "codigo_barras": "7896058599831",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Amendoim Japonês Yoki 60 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7891095911776",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Amendoim Crokissimo Shoyu 150 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/08/2026",
+        "codigo_barras": "7896336016333",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Rech Trufas Morango 140 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/08/2026",
+        "codigo_barras": "7897353901909",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
