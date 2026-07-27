@@ -20261,5 +20261,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "16:22:30",
+    "placa": 21,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Chokolot Mais Choc. Branco 65 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/08/2026",
+        "codigo_barras": "7897353902104",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Amanteigado Leite Maltado Vitamassa 360 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "13/08/2026",
+        "codigo_barras": "7897353903422",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Amant.Vitamas Choc - Un 360 g",
+        "preco": "6,48",
+        "unidade": "Unid.",
+        "validade_oferta": "16/08/2026",
+        "codigo_barras": "7897353902913",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Bauducco Speculoos Caramel 84 gr",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/08/2026",
+        "codigo_barras": "7891962076317",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
