@@ -20085,5 +20085,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/07/2026",
+    "hora": "16:13:13",
+    "placa": 17,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Treloso Rech Flocos 4 pts 480 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/08/2026",
+        "codigo_barras": "7896213006228",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Treloso Clubinho Morango 130 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "04/08/2026",
+        "codigo_barras": "7896213003128",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Treloso Rech Doce De Leite 120 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/08/2026",
+        "codigo_barras": "7896213005931",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Piraque Newafer Choc 100 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/08/2026",
+        "codigo_barras": "7896024726582",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
