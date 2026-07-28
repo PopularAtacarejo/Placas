@@ -20340,5 +20340,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/07/2026",
+    "hora": "08:46:25",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rech Trufas Morango 140 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/08/2026",
+        "codigo_barras": "7897353901909",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Recheado Trufas Morango 140 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/08/2026",
+        "codigo_barras": "7897353901909",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
