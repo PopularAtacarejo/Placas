@@ -20366,5 +20366,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/07/2026",
+    "hora": "10:32:57",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Hidrat Monange Firmador Q 10 Vit.C+e 200 ml",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7896235354178",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Hidratante Monange Firmador Q 10 Vit.C+e 200 ml",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7896235354178",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
