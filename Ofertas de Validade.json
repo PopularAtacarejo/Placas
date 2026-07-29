@@ -20432,5 +20432,21 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/07/2026",
+    "hora": "15:17:37",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb.Láctea Elege Sal Frutas 1,150 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7891097103230",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
