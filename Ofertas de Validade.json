@@ -20448,5 +20448,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/07/2026",
+    "hora": "18:04:18",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Creme De Ricota Polenghi Light 150 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/08/2026",
+        "codigo_barras": "7891143017009",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Creme De Ricota Tradicional President 200 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/08/2026",
+        "codigo_barras": "7891097000935",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Creme Minas Frescal Tirolez 150 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/08/2026",
+        "codigo_barras": "7896030521614",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Massa De Pastel Pasticrem T. Aniv 500 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/08/2026",
+        "codigo_barras": "7896109200044",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
