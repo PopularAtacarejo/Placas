@@ -20392,5 +20392,45 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/07/2026",
+    "hora": "15:16:33",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Batavo Ameixa Probio 2 1150 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7891097106842",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Láctea Elege Morango Bdj 510 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7891097088346",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Batavo Pense Zero Morango Ferm 170 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7891097101892",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Batavo Mor/Coco Bdj 540 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7891097101854",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
