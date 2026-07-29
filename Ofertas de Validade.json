@@ -20492,5 +20492,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "29/07/2026",
+    "hora": "18:05:07",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Requeijão Cremoso Catupiry Trad 200 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/08/2026",
+        "codigo_barras": "7896353301184",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
