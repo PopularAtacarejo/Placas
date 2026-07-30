@@ -12182,5 +12182,29 @@
     "produto": "Linguiça Bovina POP",
     "preco": "24,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-30",
+    "horario": "17:10:10",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Itaipava 473ml C/12Unidades",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-30",
+    "horario": "17:10:10",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Guarana POP Pet 2L",
+    "preco": "4,58",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-30",
+    "horario": "17:10:10",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Laranja POP Pet 2L",
+    "preco": "4,58",
+    "validade_oferta_ate": ""
   }
 ]
