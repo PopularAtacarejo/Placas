@@ -20535,5 +20535,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/07/2026",
+    "hora": "17:41:19",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Amant Renata Chocolate 330 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/08/2026",
+        "codigo_barras": "7896022204624",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Biscoito Amant Renata Chocolate 330 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/08/2026",
+        "codigo_barras": "7896022204624",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
