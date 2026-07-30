@@ -17406,5 +17406,29 @@
     "produto": "Sabonete pau no live",
     "preco": "1,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-30",
+    "horario": "11:28:40",
+    "feito_por": "Jeferson",
+    "produto": "Linguiça Mista Caseira Popular",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-30",
+    "horario": "11:28:40",
+    "feito_por": "Jeferson",
+    "produto": "Linguiça Bovina POP",
+    "preco": "24,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-07-30",
+    "horario": "16:00:02",
+    "feito_por": "Jeferson",
+    "produto": "Biscoito treloso",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
   }
 ]
