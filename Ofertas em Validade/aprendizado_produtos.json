@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-07-27T15:40:09",
+  "atualizado_em": "2026-07-30T16:17:45",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -17315,6 +17315,40 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-07-27T15:40:09"
+    },
+    "cafe cappuccino marata trad sh | massa:200g": {
+      "descricao": "Café Cappuccino Maratá Trad Sh 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898286203160",
+      "hits": 1,
+      "aliases": [
+        "cafe cappuccino marata trad sh 200 g",
+        "cafe cappuccino marata trad sh 200g",
+        "cafe cappuccino marata trad sh | massa:200g"
+      ],
+      "descricao_base": "cafe cappuccino marata trad sh",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-30T16:17:45"
+    },
+    "chocolate apti granulado flocos | massa:80g": {
+      "descricao": "Chocolate Apti Granulado Flocos 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896327514091",
+      "hits": 1,
+      "aliases": [
+        "chocolate apti granulado flocos 80 g",
+        "chocolate apti granulado flocos 80g",
+        "chocolate apti granulado flocos | massa:80g"
+      ],
+      "descricao_base": "chocolate apti granulado flocos",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-07-30T16:17:45"
     }
   }
 }
