@@ -20509,5 +20509,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "30/07/2026",
+    "hora": "16:22:02",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Café Cappuccino Maratá Trad Sh 200 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7898286203160",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Chocolate Apti Granulado Flocos 80 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "06/08/2026",
+        "codigo_barras": "7896327514091",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
