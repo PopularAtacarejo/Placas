@@ -20776,5 +20776,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/07/2026",
+    "hora": "17:04:26",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bombom Ferrero Rocher T 3 37,5 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/08/2026",
+        "codigo_barras": "0000078909434",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bombom Ferrero Roche. T 3 37,5 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/08/2026",
+        "codigo_barras": "0000078909434",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
