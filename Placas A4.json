@@ -12742,5 +12742,45 @@
     "produto": "Costela Suína",
     "preco": "19,98",
     "validade_oferta_ate": "02/08/2026"
+  },
+  {
+    "data": "2026-07-31",
+    "horario": "16:36:04",
+    "feito_por": "Jeferson",
+    "produto": "Cerv. Itaipava Lt 473ml",
+    "preco": "2,98",
+    "validade_oferta_ate": "01/08/2026"
+  },
+  {
+    "data": "2026-07-31",
+    "horario": "16:36:04",
+    "feito_por": "Jeferson",
+    "produto": "Ovos Favorito Branco Grande Bdj 30und.",
+    "preco": "14,48",
+    "validade_oferta_ate": "01/08/2026"
+  },
+  {
+    "data": "2026-07-31",
+    "horario": "16:36:04",
+    "feito_por": "Jeferson",
+    "produto": "Lava Roupa Ala Po 400g (DIVERSAS FRAGÂNCIAS)",
+    "preco": "2,58",
+    "validade_oferta_ate": "01/08/2026"
+  },
+  {
+    "data": "2026-07-31",
+    "horario": "16:36:04",
+    "feito_por": "Jeferson",
+    "produto": "Bisteca Suina Congelada",
+    "preco": "14,98",
+    "validade_oferta_ate": "01/08/2026"
+  },
+  {
+    "data": "2026-07-31",
+    "horario": "16:36:04",
+    "feito_por": "Jeferson",
+    "produto": "Contra File Kg",
+    "preco": "42,88",
+    "validade_oferta_ate": "01/08/2026"
   }
 ]
