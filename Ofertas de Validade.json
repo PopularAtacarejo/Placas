@@ -20561,5 +20561,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/07/2026",
+    "hora": "10:49:11",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Ninho Integral Zero Lactose 1 L",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Amend Pettiz Croc Pimenta Dori 120 g",
+        "preco": "9,88",
+        "unidade": "Unid.",
+        "validade_oferta": "08/08/2026",
+        "codigo_barras": "7896058599848",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pão De Hambúrguer Pvt 400 g",
+        "preco": "14,48",
+        "unidade": "Unid.",
+        "validade_oferta": "08/08/2026",
+        "codigo_barras": "7896002311885",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisnaguinha Nutrella Cen/man 300 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/08/2026",
+        "codigo_barras": "7896002301077",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
