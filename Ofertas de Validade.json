@@ -20706,5 +20706,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/07/2026",
+    "hora": "16:14:37",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Fralda Desc. Ger. Plenit Classic G Xg 16 Unidades",
+        "preco": "54,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/10/2026",
+        "codigo_barras": "7896007552986",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Fralda Desc. Ger. Plenit Classic P M 16 Unidades",
+        "preco": "54,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/10/2026",
+        "codigo_barras": "7896007552979",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Fralda Desc. Ger. Plenit C Xg 16 Unidades",
+        "preco": "54,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/10/2026",
+        "codigo_barras": "7896007557210",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
