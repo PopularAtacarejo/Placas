@@ -20645,5 +20645,31 @@
         "unidade": "Unid."
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/07/2026",
+    "hora": "14:56:15",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Refrigerante Sprit Lemon Fresh Pet 1,5 L",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/08/2026",
+        "codigo_barras": "7894900680522",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Refrigerante Lt c/6 Unid. Fanta Laranja Lata 350 ml",
+        "preco": "18,99",
+        "unidade": "Unid.",
+        "validade_oferta": "03/08/2026",
+        "codigo_barras": "7894900031324",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
