@@ -20625,5 +20625,25 @@
         "validade_oferta": "03/08/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/07/2026",
+    "hora": "14:27:39",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Creme de Ricota Light Presidente 200 g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cr. de Ricota Light Presidente 200 g",
+        "preco": "2,98",
+        "unidade": "Unid."
+      }
+    ]
   }
 ]
