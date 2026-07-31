@@ -20603,5 +20603,27 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/07/2026",
+    "hora": "11:00:53",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iogurte Ninho Fruti Morango 250 g",
+        "preco": "9,58",
+        "unidade": "Unid.",
+        "validade_oferta": "03/08/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iorg. Ninho Fruti Morango 250 g",
+        "preco": "9,58",
+        "unidade": "Unid.",
+        "validade_oferta": "03/08/2026"
+      }
+    ]
   }
 ]
