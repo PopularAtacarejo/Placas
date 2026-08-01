@@ -12782,5 +12782,21 @@
     "produto": "Contra File Kg",
     "preco": "42,88",
     "validade_oferta_ate": "01/08/2026"
+  },
+  {
+    "data": "2026-08-01",
+    "horario": "10:03:25",
+    "feito_por": "Jeferson",
+    "produto": "Kiwi",
+    "preco": "21,98",
+    "validade_oferta_ate": "02/08/2026"
+  },
+  {
+    "data": "2026-08-01",
+    "horario": "10:03:25",
+    "feito_por": "Jeferson",
+    "produto": "Morango Premium 250g",
+    "preco": "9,98",
+    "validade_oferta_ate": "02/08/2026"
   }
 ]
