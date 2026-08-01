@@ -15798,5 +15798,21 @@
     "produto": "Iog. Betania Familia Morango 1,250kg",
     "preco": "18,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-01",
+    "horario": "10:07:41",
+    "feito_por": "Jeferson",
+    "produto": "Bisc 3 De Maio Cream Cracker 350g",
+    "preco": "3,48",
+    "validade_oferta_ate": "02/08/2026"
+  },
+  {
+    "data": "2026-08-01",
+    "horario": "10:12:11",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Treloso Rech Brigadeiro 120g",
+    "preco": "1,98",
+    "validade_oferta_ate": "03/08/2026"
   }
 ]
