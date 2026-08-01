@@ -15830,5 +15830,29 @@
     "produto": "Iog. Betania Familia Morango 1,250kg",
     "preco": "15,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-01",
+    "horario": "11:31:48",
+    "feito_por": "Jeferson",
+    "produto": "Cr. Trat. Corpo Dourado caprichosa Babosa 1Kg",
+    "preco": "10,98",
+    "validade_oferta_ate": "02/08/2026"
+  },
+  {
+    "data": "2026-08-01",
+    "horario": "11:31:48",
+    "feito_por": "Jeferson",
+    "produto": "Pão de Quijo Trad. São Geraldo 800g",
+    "preco": "16,98",
+    "validade_oferta_ate": "02/08/2026"
+  },
+  {
+    "data": "2026-08-01",
+    "horario": "11:31:48",
+    "feito_por": "Jeferson",
+    "produto": "Kit Corpo Dourado Cachos Sh 300 Cd250ml",
+    "preco": "22,68",
+    "validade_oferta_ate": "02/08/2026"
   }
 ]
