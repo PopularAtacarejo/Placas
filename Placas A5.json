@@ -15774,5 +15774,29 @@
     "produto": "Cr Trat Skala 1kg - div. Fragrancias",
     "preco": "9,98",
     "validade_oferta_ate": "01/08/2026"
+  },
+  {
+    "data": "2026-08-01",
+    "horario": "10:03:25",
+    "feito_por": "Jeferson",
+    "produto": "Kiwi",
+    "preco": "21,98",
+    "validade_oferta_ate": "02/08/2026"
+  },
+  {
+    "data": "2026-08-01",
+    "horario": "10:03:25",
+    "feito_por": "Jeferson",
+    "produto": "Morango Premium 250g",
+    "preco": "9,98",
+    "validade_oferta_ate": "02/08/2026"
+  },
+  {
+    "data": "2026-08-01",
+    "horario": "10:03:25",
+    "feito_por": "Jeferson",
+    "produto": "Iog. Betania Familia Morango 1,250kg",
+    "preco": "18,98",
+    "validade_oferta_ate": ""
   }
 ]
