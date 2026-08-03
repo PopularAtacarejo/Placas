@@ -12822,5 +12822,13 @@
     "produto": "Maracujá",
     "preco": "11,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-03",
+    "horario": "10:55:22",
+    "feito_por": "Jeferson",
+    "produto": "Abacaxi",
+    "preco": "1,98",
+    "validade_oferta_ate": "03/08/2026"
   }
 ]
