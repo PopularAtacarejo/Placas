@@ -12846,5 +12846,21 @@
     "produto": "Cupim",
     "preco": "34,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-03",
+    "horario": "15:09:04",
+    "feito_por": "Jeferson",
+    "produto": "Rins Bovino Cogelado",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-03",
+    "horario": "15:09:04",
+    "feito_por": "Jeferson",
+    "produto": "Refri Laranja Pop Pet 2l",
+    "preco": "4,58",
+    "validade_oferta_ate": ""
   }
 ]
