@@ -12830,5 +12830,13 @@
     "produto": "Abacaxi",
     "preco": "1,98",
     "validade_oferta_ate": "03/08/2026"
+  },
+  {
+    "data": "2026-08-03",
+    "horario": "11:06:55",
+    "feito_por": "Jeferson",
+    "produto": "Uva Roxa S/Caroço Solta",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
   }
 ]
