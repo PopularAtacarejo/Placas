@@ -20843,5 +20843,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "04/08/2026",
+    "hora": "17:23:59",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Nesfit Maçã e Canela 140 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/08/2026",
+        "codigo_barras": "7891000289747",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Biscoito Nesfit Maçã e Canela 140 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/08/2026",
+        "codigo_barras": "7891000289747",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
