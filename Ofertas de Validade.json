@@ -20913,5 +20913,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "05/08/2026",
+    "hora": "09:55:58",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Manteiga s/sal Galbani Pote 200 g",
+        "preco": "10,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7891097105944",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Salsicha Viena c/corante Nat Ceratti",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/08/2026",
+        "codigo_barras": "7898618520613",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mort Ceratti Fat c/azeitona",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/08/2026",
+        "codigo_barras": "7898907631303",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Creme Minas Frescal Light Tirolez 150 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/08/2026",
+        "codigo_barras": "7896030521621",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
