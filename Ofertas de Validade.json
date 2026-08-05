@@ -20957,5 +20957,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "05/08/2026",
+    "hora": "09:56:43",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Peito Frango Ceratti Tomate Seco Ft 100 g",
+        "preco": "12,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026",
+        "codigo_barras": "7898618520743",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Manteiga Itacolomy s/sal 200 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/08/2026",
+        "codigo_barras": "7896260735911",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
