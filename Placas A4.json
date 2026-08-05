@@ -13230,5 +13230,53 @@
     "produto": "Frango Cong Congran Kg",
     "preco": "12,48",
     "validade_oferta_ate": "05/08/2026"
+  },
+  {
+    "data": "2026-08-05",
+    "horario": "08:25:47",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Itaipva Lt 473ml",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-05",
+    "horario": "08:25:47",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Corona Cero Sunbrew Long Neck 330ml",
+    "preco": "7,29",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-05",
+    "horario": "08:25:47",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Budweiser Lt 350 ml",
+    "preco": "4,29",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-05",
+    "horario": "08:25:47",
+    "feito_por": "Jeferson",
+    "produto": "Açúcar Cristal Caeté 1 kg",
+    "preco": "3,58",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-05",
+    "horario": "08:25:47",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Kiarroz Parb T1 1 kg",
+    "preco": "4,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-05",
+    "horario": "08:25:47",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Gringo Branco Tipo 2 1 kg",
+    "preco": "5,38",
+    "validade_oferta_ate": ""
   }
 ]
