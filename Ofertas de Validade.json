@@ -20983,5 +20983,41 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/08/2026",
+    "hora": "16:18:11",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite fermentado 850 g",
+        "preco": "6,99",
+        "unidade": "Unid.",
+        "validade_oferta": "07/08/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Betânia ameixa 900 g",
+        "preco": "6,99",
+        "unidade": "Unid.",
+        "validade_oferta": "07/08/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Betânia natural integral 170 g",
+        "preco": "0,99",
+        "unidade": "Unid.",
+        "validade_oferta": "05/08/2026"
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bandejão morango 680 g",
+        "preco": "5,99",
+        "unidade": "Unid.",
+        "validade_oferta": "07/08/2026"
+      }
+    ]
   }
 ]
