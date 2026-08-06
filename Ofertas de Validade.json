@@ -21019,5 +21019,22 @@
         "validade_oferta": "07/08/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/08/2026",
+    "hora": "16:18:41",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bat gut salada de frutas",
+        "preco": "4,99",
+        "unidade": "Unid.",
+        "validade_oferta": "08/08/2026",
+        "codigo_barras": "7898403781533",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
