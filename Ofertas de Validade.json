@@ -21072,5 +21072,47 @@
         "validade_oferta": "29/08/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/08/2026",
+    "hora": "15:08:05",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Wafer Trento Chocolate 29 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mortadela Ceratti. Fat c/azeitonas",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/08/2026",
+        "codigo_barras": "7898907631303",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Presunto Sabia Solt Fatiado 200 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/08/2026",
+        "codigo_barras": "7891515432652",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Nata Regina 300 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/08/2026",
+        "codigo_barras": "7896010401844",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
