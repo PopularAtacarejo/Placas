@@ -21138,5 +21138,27 @@
         "validade_oferta": "10/08/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/08/2026",
+    "hora": "15:47:35",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Refresco Frutybom Frut.Citri. 330 ml",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/08/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Refresc. Frutybom Frut.Citri. 330 ml",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/08/2026"
+      }
+    ]
   }
 ]
