@@ -21114,5 +21114,29 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/08/2026",
+    "hora": "15:08:44",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Patê De Presunto Sabia 100 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7893000004757",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Manteiga s/al Galbani Pote 200 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/08/2026"
+      }
+    ]
   }
 ]
