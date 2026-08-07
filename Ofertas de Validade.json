@@ -21036,5 +21036,41 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/08/2026",
+    "hora": "14:50:05",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Twix Triplo 40 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Lácta Bis Xtra Black 45 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/08/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc Lácta Bis Xtra Oreo 45 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026"
+      },
+      {
+        "posicao": "4",
+        "descricao": "Wafer Trento Morango 29 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/08/2026"
+      }
+    ]
   }
 ]
