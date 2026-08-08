@@ -21160,5 +21160,37 @@
         "validade_oferta": "08/08/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/08/2026",
+    "hora": "11:55:42",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cr. Pent. Seda Luminoso Uv 300 l",
+        "preco": "9,48",
+        "unidade": "Unid.",
+        "codigo_barras": "7891150099852",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Masc. Trat. Seda Luminoso Uv. 300 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7891150099883",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leave. In. Serum Seda Luminono Uv. 110 ml",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7891150099821",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
