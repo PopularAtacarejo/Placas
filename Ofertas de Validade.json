@@ -21209,5 +21209,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "10/08/2026",
+    "hora": "14:53:36",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc. Itakac Em Pó Solúvel 200 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/08/2026",
+        "codigo_barras": "7898080640970",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Sustagen Kids Chocolate 190 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7898941911102",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
