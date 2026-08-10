@@ -21192,5 +21192,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "10/08/2026",
+    "hora": "09:22:45",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Hershey's Chocolate Special Dark 73% Cacau 85 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "7899970401657",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
