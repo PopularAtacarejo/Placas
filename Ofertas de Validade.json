@@ -21235,5 +21235,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "11/08/2026",
+    "hora": "08:29:57",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Desodorante Barra Lavanda Secret 45 g",
+        "preco": "23,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026",
+        "codigo_barras": "7500435143196",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Des.Barra Lavanda Secret 45 g",
+        "preco": "23,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026",
+        "codigo_barras": "7500435143196",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
