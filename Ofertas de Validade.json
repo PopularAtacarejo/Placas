@@ -21261,5 +21261,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "12/08/2026",
+    "hora": "08:52:05",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Twix Triplo 40 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026",
+        "codigo_barras": "7896423405491",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Choc Lacta Bis Xtra Oreo 45 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/08/2026",
+        "codigo_barras": "7622300988517",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Choc Lacta Bis Xtra Black 45 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/08/2026",
+        "codigo_barras": "7622210566409",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Pit Stop Rech Salsa Ceb 91 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/08/2026",
+        "codigo_barras": "7896003739688",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
