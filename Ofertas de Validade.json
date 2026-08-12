@@ -21375,5 +21375,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "12/08/2026",
+    "hora": "17:32:13",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bala Canudinho Docile Jumbo Bite 70 g",
+        "preco": "6,18",
+        "unidade": "Unid.",
+        "validade_oferta": "18/08/2026",
+        "codigo_barras": "7896451926203",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Tortilha Rap 10 Integral 297 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/08/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Wafer Tortuguita Morango 85 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7896058258097",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Biscoito Wafer Tortuguita Morango 85 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7896058258097",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
