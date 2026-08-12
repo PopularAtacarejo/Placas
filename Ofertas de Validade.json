@@ -21305,5 +21305,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "12/08/2026",
+    "hora": "08:53:37",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pit Stop Rech Trufado 91 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/08/2026",
+        "codigo_barras": "7896003739817",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Creme De Avelã Com Cacau e Castanhas B.Principio",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/08/2026",
+        "codigo_barras": "7897500607548",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
