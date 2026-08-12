@@ -21331,5 +21331,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "12/08/2026",
+    "hora": "15:06:33",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Biscoito Rech Tortuguita Morango Arcor 90 g",
+        "preco": "2,78",
+        "unidade": "Unid.",
+        "validade_oferta": "04/09/2026",
+        "codigo_barras": "7896058257717",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Biscoito Arcor Triunfo Tortini Chocolate 90 g",
+        "preco": "2,88",
+        "unidade": "Unid.",
+        "validade_oferta": "11/09/2026",
+        "codigo_barras": "7896058257656",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Biscoito Arcor Triunfo Tortini Trufa 90 g",
+        "preco": "2,88",
+        "unidade": "Unid.",
+        "validade_oferta": "22/09/2026",
+        "codigo_barras": "7896058257670",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bala De Gelatina Amoras 80 g",
+        "preco": "6,88",
+        "unidade": "Unid.",
+        "validade_oferta": "12/08/2026",
+        "codigo_barras": "7896451908681",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
