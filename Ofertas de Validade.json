@@ -21606,5 +21606,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/08/2026",
+    "hora": "16:15:42",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mistura Para Bolo Dr. Oetker Cenoura 300 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "7891048061848",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mist. Para Bolo Dr. Oetker Cenoura 300 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "7891048061848",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
