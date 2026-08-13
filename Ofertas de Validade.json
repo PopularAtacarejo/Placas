@@ -21562,5 +21562,49 @@
         "validade_oferta": "21/08/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/08/2026",
+    "hora": "16:12:03",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Café Kimimo Vacuo 250 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/09/2026",
+        "codigo_barras": "7896224817189",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Creme De Leite Piracajuba Tp 1 Kg",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/08/2026",
+        "codigo_barras": "7898215151883",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mist. P Bolo Dr. Oetker Cenoura 0 30 g",
+        "preco": "4,94",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "7891048061848",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Beb. Láctea Itakac Mix De Frutas 200 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/08/2026",
+        "codigo_barras": "7898080640826",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
