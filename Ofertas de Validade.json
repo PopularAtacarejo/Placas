@@ -21461,5 +21461,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/08/2026",
+    "hora": "12:07:33",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Queijo Do Reino Tirolez Kg",
+        "preco": "97,98",
+        "unidade": "Kg",
+        "validade_oferta": "15/08/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Salamitos Perdigao 100 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/08/2026",
+        "codigo_barras": "7891515490218",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salsicha Viena c/corante Nat Ceratti",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/08/2026",
+        "codigo_barras": "7898618520613",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Salsicha Sadia Hot Dog 500 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/08/2026",
+        "codigo_barras": "7893000135529",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
