@@ -21547,5 +21547,20 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/08/2026",
+    "hora": "12:10:16",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Queijo De Coalho Novo Horizonte Kg",
+        "preco": "35,98",
+        "unidade": "Kg",
+        "validade_oferta": "21/08/2026"
+      }
+    ]
   }
 ]
