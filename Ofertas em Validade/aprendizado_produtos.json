@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-07-30T16:17:45",
+  "atualizado_em": "2026-08-13T12:01:59",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3273,7 +3273,8 @@
     "queijo cheddar frimesa fatiado | massa:150g": {
       "descricao": "Queijo Cheddar Frimesa Fatiado 150 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7896275983963",
+      "hits": 3,
       "aliases": [
         "queijo cheddar frimesa fatiado 150 g",
         "queijo cheddar frimesa fatiado 150g",
@@ -3284,7 +3285,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-08-13T12:01:59"
     },
     "requeijao pocos de caldas cheddar | massa:200g": {
       "descricao": "Requeijão Poços De Caldas Cheddar 200 g",
@@ -4470,7 +4471,8 @@
     "creme de ricota itambe trad | massa:200g": {
       "descricao": "Creme De Ricota Itambe Trad 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896051166757",
+      "hits": 2,
       "aliases": [
         "creme de ricota itambe trad 200 g",
         "creme de ricota itambe trad 200g",
@@ -4481,7 +4483,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-12T10:05:15"
+      "atualizado_em": "2026-08-13T12:01:59"
     },
     "requeijao culinario cheddar pira | massa:400g": {
       "descricao": "Requeijão Culinario Cheddar Pira 400 g",
@@ -4518,7 +4520,8 @@
     "salsicha sadia hot dog | massa:500g": {
       "descricao": "Salsicha Sadia Hot Dog 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7893000135529",
+      "hits": 2,
       "aliases": [
         "salsicha sadia hot dog 500 g",
         "salsicha sadia hot dog 500g",
@@ -4529,12 +4532,13 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-12T10:05:15"
+      "atualizado_em": "2026-08-13T12:01:59"
     },
     "creme de ricota regina light | massa:200g": {
       "descricao": "Creme De Ricota Regina Light 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896010400267",
+      "hits": 2,
       "aliases": [
         "creme de ricota regina light 200 g",
         "creme de ricota regina light 200g",
@@ -4545,7 +4549,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-12T10:05:15"
+      "atualizado_em": "2026-08-13T12:01:59"
     },
     "marg becel omega 6 c/sal | massa:500g": {
       "descricao": "Marg Becel Omega 6 c/sal 500 g",
@@ -9311,7 +9315,8 @@
     "requeijao vigor cremoso trad | massa:200g": {
       "descricao": "Requeijão Vigor Cremoso Trad 200 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891999144485",
+      "hits": 3,
       "aliases": [
         "requeijao vigor cremoso trad 200 g",
         "requeijao vigor cremoso trad 200g",
@@ -9322,7 +9327,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-08-13T12:01:59"
     },
     "requeijao cremoso catupiry trad | massa:200g": {
       "descricao": "Requeijão Cremoso Catupiry Trad 200 g",
@@ -9424,7 +9429,8 @@
     "creme de ricota regina | massa:200g": {
       "descricao": "Creme De Ricota Regina 200 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7896010400311",
+      "hits": 3,
       "aliases": [
         "creme de ricota regina 200 g",
         "creme de ricota regina 200g",
@@ -9435,7 +9441,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-08-13T12:01:59"
     },
     "massa de pastel fam pasticrem | massa:500g": {
       "descricao": "Mort Defumada Ouro Fatiada 200 g",
@@ -17349,6 +17355,71 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-07-30T16:17:45"
+    },
+    "salamitos perdigao | massa:100g": {
+      "descricao": "Salamitos Perdigao 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515490218",
+      "hits": 1,
+      "aliases": [
+        "salamitos perdigao 100 g",
+        "salamitos perdigao 100g",
+        "salamitos perdigao | massa:100g"
+      ],
+      "descricao_base": "salamitos perdigao",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-13T12:01:59"
+    },
+    "salsicha viena c/corante nat ceratti": {
+      "descricao": "Salsicha Viena c/corante Nat Ceratti",
+      "unidade": "Unid.",
+      "codigo_barras": "7898618520613",
+      "hits": 1,
+      "aliases": [
+        "salsicha viena c corante nat ceratti",
+        "salsicha viena c/corante nat ceratti"
+      ],
+      "descricao_base": "salsicha viena c/corante nat ceratti",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-13T12:01:59"
+    },
+    "peito frango ceratti tomate seco ft | massa:100g": {
+      "descricao": "Peito Frango Ceratti Tomate Seco Ft 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898618520743",
+      "hits": 1,
+      "aliases": [
+        "peito frango ceratti tomate seco ft 100 g",
+        "peito frango ceratti tomate seco ft 100g",
+        "peito frango ceratti tomate seco ft | massa:100g"
+      ],
+      "descricao_base": "peito frango ceratti tomate seco ft",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-13T12:01:59"
+    },
+    "cr de ricota tirolez cremoso | massa:200g": {
+      "descricao": "Cr De Ricota Tirolez Cremoso 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896030519628",
+      "hits": 1,
+      "aliases": [
+        "cr de ricota tirolez cremoso 200 g",
+        "cr de ricota tirolez cremoso 200g",
+        "cr de ricota tirolez cremoso | massa:200g"
+      ],
+      "descricao_base": "cr de ricota tirolez cremoso",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-13T12:01:59"
     }
   }
 }
