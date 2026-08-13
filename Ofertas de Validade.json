@@ -21632,5 +21632,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "13/08/2026",
+    "hora": "16:28:24",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Achoc Em Pó Chocolatto Caramelo Sc 560 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7896045116027",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
