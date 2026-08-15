@@ -14702,5 +14702,21 @@
     "produto": "Maracujá",
     "preco": "11,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-15",
+    "horario": "11:10:15",
+    "feito_por": "Jeferson",
+    "produto": "Odor Aer Bom Ar Div. Fragrâncias 360ml",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-15",
+    "horario": "11:10:15",
+    "feito_por": "Jeferson",
+    "produto": "Odor Aer Bom Ar Div. Fragrâncias 432ml",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
   }
 ]
