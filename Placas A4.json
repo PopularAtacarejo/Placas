@@ -14678,5 +14678,29 @@
     "produto": "Bisteca Suína Cong.",
     "preco": "15,98",
     "validade_oferta_ate": "16/08/2026"
+  },
+  {
+    "data": "2026-08-15",
+    "horario": "10:42:17",
+    "feito_por": "Jeferson",
+    "produto": "Batata Doce Roxa",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-15",
+    "horario": "10:42:17",
+    "feito_por": "Jeferson",
+    "produto": "Maçã Nacional",
+    "preco": "7,98",
+    "validade_oferta_ate": "15/08/2026"
+  },
+  {
+    "data": "2026-08-15",
+    "horario": "10:42:17",
+    "feito_por": "Jeferson",
+    "produto": "Maracujá",
+    "preco": "11,98",
+    "validade_oferta_ate": ""
   }
 ]
