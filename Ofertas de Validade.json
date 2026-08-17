@@ -21737,5 +21737,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/08/2026",
+    "hora": "15:58:32",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Loc Vult Des Hid Cpo Glicerina 350 ml",
+        "preco": "20,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7899852023977",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Óleo Para Barba King.C. Gillette 30 ml",
+        "preco": "42,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7500435216241",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Prot Solar Sundown Fps 30",
+        "preco": "44,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7891010033521",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Sab Liq Protex Limpeza Profunda 250 ml",
+        "preco": "14,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7891024114674",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
