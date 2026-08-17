@@ -14742,5 +14742,37 @@
     "produto": "Arroz Kiarroz Parb T1 1kg",
     "preco": "4,18",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-17",
+    "horario": "15:35:45",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Calca Mamypoko Super Jbm C/34, g C/28, Xg C/24, Xxg C/22",
+    "preco": "34,98",
+    "validade_oferta_ate": "18/08/2026"
+  },
+  {
+    "data": "2026-08-17",
+    "horario": "15:35:45",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Capricho Shortinho Hiper M. C/58m C/58, g C/50, xg C/42, Xxg C/36",
+    "preco": "44,98",
+    "validade_oferta_ate": "18/08/2026"
+  },
+  {
+    "data": "2026-08-17",
+    "horario": "15:35:45",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Desc Babysec Shortinho Megag C/24und, Xg C/22und, Xxg C/20und",
+    "preco": "29,98",
+    "validade_oferta_ate": "18/08/2026"
+  },
+  {
+    "data": "2026-08-17",
+    "horario": "17:25:32",
+    "feito_por": "Jeferson",
+    "produto": "Cartago Atlanta ou Dakar Div. Tamnhos",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
   }
 ]
