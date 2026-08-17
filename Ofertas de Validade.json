@@ -21825,5 +21825,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/08/2026",
+    "hora": "16:01:50",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cr P/pent Elseve Hidra Hialuronico 250 ml",
+        "preco": "16,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7899706187466",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Selagem Origem Cab Loiros",
+        "preco": "25,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7896085867729",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sh Salon Line Tdcachinho Molinhas 300 ml",
+        "preco": "17,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7898524349223",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
