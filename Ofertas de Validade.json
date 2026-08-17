@@ -21781,5 +21781,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/08/2026",
+    "hora": "16:00:25",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Ampola Pantene Forca E Reconstrucao 15 ml",
+        "preco": "18,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7500435020442",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cond Elseve Pure Hialuronico 200 ml",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7899706244084",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cond Siage Hidratacao Micelar Eudora Siage 200 ml",
+        "preco": "35,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7891033303021",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cond.Bozzano Cachos 200 ml",
+        "preco": "14,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7891350040029",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
