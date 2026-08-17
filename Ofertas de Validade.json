@@ -21649,5 +21649,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/08/2026",
+    "hora": "15:54:23",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bb Cream Loreal Ef Matte Clara Fps 50 30 ml",
+        "preco": "34,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7899706179553",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cr. Trat.Lisa Mao 120 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/09/2026",
+        "codigo_barras": "7896115135880",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cr.Hid.Monange Areas Espec Abacate 50 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7896235354307",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cr.Lisa Mao Biosoft Rejuv. 120 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/09/2026",
+        "codigo_barras": "7896115144486",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
