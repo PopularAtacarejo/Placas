@@ -21693,5 +21693,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "17/08/2026",
+    "hora": "15:56:33",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Gel De Barbear King.C. Gillette 170 ml",
+        "preco": "39,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7500435218856",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Lenco Umed Tena Confort Camomila 40 u",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7702026152239",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Loc Vult Des Hid Cpo Colag/Veg 3500 ml",
+        "preco": "20,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7899852023946",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Loc Vult Des Hid Cpo Glicerina 200 ml",
+        "preco": "15,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7899852023984",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
