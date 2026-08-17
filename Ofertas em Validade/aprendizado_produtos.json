@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-08-13T12:01:59",
+  "atualizado_em": "2026-08-17T15:51:52",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -12645,9 +12645,10 @@
       "atualizado_em": "2026-06-20T09:13:02"
     },
     "cond elseve pure hialuronico | volume:200ml": {
-      "descricao": "Cr.Trat.Dabelle Reconst.Resgata 140 g",
+      "descricao": "Cond Elseve Pure Hialuronico 200 ml",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7899706244084",
+      "hits": 3,
       "aliases": [
         "cond elseve pure hialuronico 200 ml",
         "cond elseve pure hialuronico 200ml",
@@ -12655,12 +12656,12 @@
         "cr trat dabelle reconst resgata 140 g",
         "cr trat dabelle reconst resgata | massa:140g"
       ],
-      "descricao_base": "cr trat dabelle reconst resgata",
+      "descricao_base": "cond elseve pure hialuronico",
       "medidas": [
-        "massa:140g"
+        "volume:200ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-20T09:13:02"
+      "atualizado_em": "2026-08-17T15:51:52"
     },
     "super masc brilho espelhado haskell | volume:240ml": {
       "descricao": "Super Masc Brilho Espelhado Haskell 240 ml",
@@ -12925,7 +12926,8 @@
     "oleo para barba king c gillette | volume:30ml": {
       "descricao": "Óleo Para Barba King.C. Gillette 30 ml",
       "unidade": "Unid.",
-      "hits": 6,
+      "codigo_barras": "7500435216241",
+      "hits": 7,
       "aliases": [
         "oleo para barba king c gillette 30 ml",
         "oleo para barba king c gillette 30ml",
@@ -12936,7 +12938,7 @@
         "volume:30ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-23T11:27:38"
+      "atualizado_em": "2026-08-17T15:51:52"
     },
     "cr dental colgate naturals carv atv | massa:140g": {
       "descricao": "Cr Dental Colgate Naturals Carv Atv 140 g",
@@ -17420,6 +17422,258 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-08-13T12:01:59"
+    },
+    "bb cream loreal ef matte clara fps 50 | volume:30ml": {
+      "descricao": "Bb Cream Loreal Ef Matte Clara Fps 50 30 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7899706179553",
+      "hits": 1,
+      "aliases": [
+        "bb cream loreal ef matte clara fps 50 30 ml",
+        "bb cream loreal ef matte clara fps 50 | volume:30ml",
+        "bb cream loreal ef matte clara fps50 30ml"
+      ],
+      "descricao_base": "bb cream loreal ef matte clara fps 50",
+      "medidas": [
+        "volume:30ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "cr trat lisa mao | massa:120g": {
+      "descricao": "Cr. Trat.Lisa Mao 120 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896115135880",
+      "hits": 1,
+      "aliases": [
+        "cr trat lisa mao 120 g",
+        "cr trat lisa mao 120g",
+        "cr trat lisa mao | massa:120g"
+      ],
+      "descricao_base": "cr trat lisa mao",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "cr hid monange areas espec abacate | massa:50g": {
+      "descricao": "Cr.Hid.Monange Areas Espec Abacate 50 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896235354307",
+      "hits": 1,
+      "aliases": [
+        "cr hid monange areas espec abacate 50 g",
+        "cr hid monange areas espec abacate 50g",
+        "cr hid monange areas espec abacate | massa:50g"
+      ],
+      "descricao_base": "cr hid monange areas espec abacate",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "cr lisa mao biosoft rejuv | massa:120g": {
+      "descricao": "Cr.Lisa Mao Biosoft Rejuv. 120 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896115144486",
+      "hits": 1,
+      "aliases": [
+        "cr lisa mao biosoft rejuv 120 g",
+        "cr lisa mao biosoft rejuv 120g",
+        "cr lisa mao biosoft rejuv | massa:120g"
+      ],
+      "descricao_base": "cr lisa mao biosoft rejuv",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "gel de barbear king c gillette | volume:170ml": {
+      "descricao": "Gel De Barbear King.C. Gillette 170 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7500435218856",
+      "hits": 1,
+      "aliases": [
+        "gel de barbear king c gillette 170 ml",
+        "gel de barbear king c gillette 170ml",
+        "gel de barbear king c gillette | volume:170ml"
+      ],
+      "descricao_base": "gel de barbear king c gillette",
+      "medidas": [
+        "volume:170ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "lenco umed tena confort camomila 40 u": {
+      "descricao": "Lenco Umed Tena Confort Camomila 40 u",
+      "unidade": "Unid.",
+      "codigo_barras": "7702026152239",
+      "hits": 1,
+      "aliases": [
+        "lenco umed tena confort camomila 40 u",
+        "lenco umed tena confort camomila 40u"
+      ],
+      "descricao_base": "lenco umed tena confort camomila 40 u",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "loc vult des hid cpo colag/veg | volume:3500ml": {
+      "descricao": "Loc Vult Des Hid Cpo Colag/Veg 3500 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7899852023946",
+      "hits": 1,
+      "aliases": [
+        "loc vult des hid cpo colag veg 3500 ml",
+        "loc vult des hid cpo colag veg 3500ml",
+        "loc vult des hid cpo colag/veg | volume:3500ml"
+      ],
+      "descricao_base": "loc vult des hid cpo colag/veg",
+      "medidas": [
+        "volume:3500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "loc vult des hid cpo glicerina | volume:200ml": {
+      "descricao": "Loc Vult Des Hid Cpo Glicerina 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7899852023984",
+      "hits": 1,
+      "aliases": [
+        "loc vult des hid cpo glicerina 200 ml",
+        "loc vult des hid cpo glicerina 200ml",
+        "loc vult des hid cpo glicerina | volume:200ml"
+      ],
+      "descricao_base": "loc vult des hid cpo glicerina",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "loc vult des hid cpo glicerina | volume:350ml": {
+      "descricao": "Loc Vult Des Hid Cpo Glicerina 350 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7899852023977",
+      "hits": 1,
+      "aliases": [
+        "loc vult des hid cpo glicerina 350 ml",
+        "loc vult des hid cpo glicerina 350ml",
+        "loc vult des hid cpo glicerina | volume:350ml"
+      ],
+      "descricao_base": "loc vult des hid cpo glicerina",
+      "medidas": [
+        "volume:350ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "sab liq protex limpeza profunda | volume:250ml": {
+      "descricao": "Sab Liq Protex Limpeza Profunda 250 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891024114674",
+      "hits": 1,
+      "aliases": [
+        "sab liq protex limpeza profunda 250 ml",
+        "sab liq protex limpeza profunda 250ml",
+        "sab liq protex limpeza profunda | volume:250ml"
+      ],
+      "descricao_base": "sab liq protex limpeza profunda",
+      "medidas": [
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "ampola pantene forca e reconstrucao | volume:15ml": {
+      "descricao": "Ampola Pantene Forca E Reconstrucao 15 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7500435020442",
+      "hits": 1,
+      "aliases": [
+        "ampola pantene forca e reconstrucao 15 ml",
+        "ampola pantene forca e reconstrucao 15ml",
+        "ampola pantene forca e reconstrucao | volume:15ml"
+      ],
+      "descricao_base": "ampola pantene forca e reconstrucao",
+      "medidas": [
+        "volume:15ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "cond siage hidratacao micelar eudora siage | volume:200ml": {
+      "descricao": "Cond Siage Hidratacao Micelar Eudora Siage 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891033303021",
+      "hits": 1,
+      "aliases": [
+        "cond siage hidratacao micelar 200ml eudora siage 200ml",
+        "cond siage hidratacao micelar eudora siage 200 ml",
+        "cond siage hidratacao micelar eudora siage | volume:200ml"
+      ],
+      "descricao_base": "cond siage hidratacao micelar eudora siage",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "cond bozzano cachos | volume:200ml": {
+      "descricao": "Cond.Bozzano Cachos 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891350040029",
+      "hits": 1,
+      "aliases": [
+        "cond bozzano cachos 200 ml",
+        "cond bozzano cachos 200ml",
+        "cond bozzano cachos | volume:200ml"
+      ],
+      "descricao_base": "cond bozzano cachos",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "cr p/pent elseve hidra hialuronico | volume:250ml": {
+      "descricao": "Cr P/pent Elseve Hidra Hialuronico 250 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7899706187466",
+      "hits": 1,
+      "aliases": [
+        "cr p pent elseve hidra hialuronico 250 ml",
+        "cr p pent elseve hidra hialuronico 250ml",
+        "cr p/pent elseve hidra hialuronico | volume:250ml"
+      ],
+      "descricao_base": "cr p/pent elseve hidra hialuronico",
+      "medidas": [
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "sh salon line tdcachinho molinhas | volume:300ml": {
+      "descricao": "Sh Salon Line Tdcachinho Molinhas 300 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898524349223",
+      "hits": 1,
+      "aliases": [
+        "sh salon line tdcachinho molinhas 300 ml",
+        "sh salon line tdcachinho molinhas 300ml",
+        "sh salon line tdcachinho molinhas | volume:300ml"
+      ],
+      "descricao_base": "sh salon line tdcachinho molinhas",
+      "medidas": [
+        "volume:300ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-17T15:51:52"
     }
   }
 }
