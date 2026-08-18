@@ -21860,5 +21860,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "18/08/2026",
+    "hora": "09:46:04",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Chá Leão Frutas Vermelhas 16 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/08/2026",
+        "codigo_barras": "7891098041463",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
