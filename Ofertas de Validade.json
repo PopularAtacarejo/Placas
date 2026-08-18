@@ -21877,5 +21877,41 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "18/08/2026",
+    "hora": "18:01:37",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pão Frutas Nutrella Grãos e Castanhas 350 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/08/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Tortilha Rap 10 Integral 297 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/08/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisnaguinha Nutrella Cen/man 300 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/08/2026"
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bolinho De Charque Bela Coxita Pct 500 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/08/2026"
+      }
+    ]
   }
 ]
