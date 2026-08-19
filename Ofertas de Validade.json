@@ -22025,5 +22025,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/08/2026",
+    "hora": "09:30:37",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Lenco Umed Tena Confort Camomila 40 u",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7702026152239",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
