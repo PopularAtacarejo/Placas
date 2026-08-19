@@ -22042,5 +22042,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/08/2026",
+    "hora": "16:00:06",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cerv Itaipava Prem Ln 330 ml",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "25/08/2026",
+        "codigo_barras": "7897395002121",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cerveja Itaipava Prem Ln 330 ml",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "25/08/2026",
+        "codigo_barras": "7897395002121",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
