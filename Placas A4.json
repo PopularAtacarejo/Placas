@@ -15134,5 +15134,21 @@
     "produto": "COSTELA PONTA DE AGULHA",
     "preco": "21,48",
     "validade_oferta_ate": "19/08/2026"
+  },
+  {
+    "data": "2026-08-19",
+    "horario": "11:10:06",
+    "feito_por": "Jeferson",
+    "produto": "Ling Defumada Aurora",
+    "preco": "26,98",
+    "validade_oferta_ate": "26/08/2026"
+  },
+  {
+    "data": "2026-08-19",
+    "horario": "11:10:06",
+    "feito_por": "Jeferson",
+    "produto": "Empanado Sadia Frango 100g",
+    "preco": "1,98",
+    "validade_oferta_ate": "28/08/2026"
   }
 ]
