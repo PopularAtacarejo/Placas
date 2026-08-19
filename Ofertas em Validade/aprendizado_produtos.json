@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-08-17T15:51:52",
+  "atualizado_em": "2026-08-19T16:17:24",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -17674,6 +17674,90 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-08-17T15:51:52"
+    },
+    "barra choc neugebauer napolitano | massa:70g": {
+      "descricao": "Barra Choc. Neugebauer Napolitano 70 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891330014934",
+      "hits": 1,
+      "aliases": [
+        "barra choc neugebauer napolitano 70 g",
+        "barra choc neugebauer napolitano 70g",
+        "barra choc neugebauer napolitano | massa:70g"
+      ],
+      "descricao_base": "barra choc neugebauer napolitano",
+      "medidas": [
+        "massa:70g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-19T16:17:24"
+    },
+    "ovos codorna favorito bdj | contagem:30un": {
+      "descricao": "Ovos Codorna Favorito Bdj c/30 Und",
+      "unidade": "Unid.",
+      "codigo_barras": "7898644760502",
+      "hits": 1,
+      "aliases": [
+        "ovos codorna favorito bdj c 30 und",
+        "ovos codorna favorito bdj | contagem:30un"
+      ],
+      "descricao_base": "ovos codorna favorito bdj",
+      "medidas": [
+        "contagem:30un"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-19T16:17:24"
+    },
+    "chocolomba bauducco mousse | massa:500g": {
+      "descricao": "Chocolomba Bauducco Mousse 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891962074382",
+      "hits": 1,
+      "aliases": [
+        "chocolomba bauducco mousse 500 g",
+        "chocolomba bauducco mousse 500g",
+        "chocolomba bauducco mousse | massa:500g"
+      ],
+      "descricao_base": "chocolomba bauducco mousse",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-19T16:17:24"
+    },
+    "chocolomba bauducco gotas | massa:400g": {
+      "descricao": "Chocolomba Bauducco Gotas 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891962074368",
+      "hits": 1,
+      "aliases": [
+        "chocolomba bauducco gotas 400 g",
+        "chocolomba bauducco gotas 400g",
+        "chocolomba bauducco gotas | massa:400g"
+      ],
+      "descricao_base": "chocolomba bauducco gotas",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-19T16:17:24"
+    },
+    "prot solar nivea sun p&h fps 50 | volume:400ml": {
+      "descricao": "Prot.Solar Nivea Sun P&h Fps 50 400 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "4005808858217",
+      "hits": 1,
+      "aliases": [
+        "prot solar nivea sun p h fps 50 400 ml",
+        "prot solar nivea sun p h fps50 400ml",
+        "prot solar nivea sun p&h fps 50 | volume:400ml"
+      ],
+      "descricao_base": "prot solar nivea sun p&h fps 50",
+      "medidas": [
+        "volume:400ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-19T16:17:24"
     }
   }
 }
