@@ -22112,5 +22112,43 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/08/2026",
+    "hora": "16:20:42",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Ling Defumada Aurora Kg",
+        "preco": "26,98",
+        "unidade": "Kg",
+        "validade_oferta": "26/08/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Presunto Levissimo Seara Fat Kg",
+        "preco": "29,98",
+        "unidade": "Kg",
+        "validade_oferta": "25/08/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Queijo Prato Zero Lact. Novo Horizont.Kg",
+        "preco": "49,98",
+        "unidade": "Kg",
+        "validade_oferta": "23/08/2026"
+      },
+      {
+        "posicao": "4",
+        "descricao": "Prot.Solar Nivea Sun P&h Fps 50 400 ml",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/08/2026",
+        "codigo_barras": "4005808858217",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
