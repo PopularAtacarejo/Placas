@@ -21913,5 +21913,40 @@
         "validade_oferta": "23/08/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/08/2026",
+    "hora": "08:53:49",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Toalha Umed Huggies Suave Refr c/48 un",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/10/2026",
+        "codigo_barras": "7896018703636",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Ampola Pantene Nutrição 15 ml",
+        "preco": "18,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7500435020442",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Presunto Levissimo Seara Fat Kg",
+        "preco": "29,98",
+        "unidade": "Kg",
+        "validade_oferta": "25/08/2026",
+        "codigo_barras": "0000000030410",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
