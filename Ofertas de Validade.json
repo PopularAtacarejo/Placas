@@ -22176,5 +22176,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/08/2026",
+    "hora": "16:07:56",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Barra Choc. Neugebauer Napolitano 70 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "7891330014934",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Ovos Codorna Favorito Bdj c/30 Und",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/08/2026",
+        "codigo_barras": "7898644760502",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Chocolomba Bauducco Mousse 500 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/08/2026",
+        "codigo_barras": "7891962074382",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Chocolomba Bauducco Gotas 400 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7891962074368",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
