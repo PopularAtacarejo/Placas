@@ -22220,5 +22220,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "21/08/2026",
+    "hora": "15:07:47",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Massa De Pastel Comercial Pasticrem 500 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/08/2026",
+        "codigo_barras": "7896109200037",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
