@@ -15622,5 +15622,29 @@
     "produto": "Queijo Mussarela Engenho Fat Kg",
     "preco": "44,98",
     "validade_oferta_ate": "23/08/2026"
+  },
+  {
+    "data": "2026-08-21",
+    "horario": "18:15:40",
+    "feito_por": "Jeferson",
+    "produto": "Cafe Marata Soluvel Trad 40g",
+    "preco": "4,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-21",
+    "horario": "18:15:40",
+    "feito_por": "Jeferson",
+    "produto": "Cafe Soluvel Cafe Puro Trad Sh 40g",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-21",
+    "horario": "18:15:40",
+    "feito_por": "Jeferson",
+    "produto": "Cha Leao Pessego Drinks 10x2g",
+    "preco": "21,78",
+    "validade_oferta_ate": ""
   }
 ]
