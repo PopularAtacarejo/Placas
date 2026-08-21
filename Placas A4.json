@@ -15606,5 +15606,13 @@
     "produto": "Tomate",
     "preco": "3,68",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-21",
+    "horario": "15:27:16",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Mussarela Engenho Fat Kg",
+    "preco": "44,98",
+    "validade_oferta_ate": "23/08/2026"
   }
 ]
