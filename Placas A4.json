@@ -15542,5 +15542,69 @@
     "produto": "COSTELA SUINA",
     "preco": "20,48",
     "validade_oferta_ate": "23/08/2026"
+  },
+  {
+    "data": "2026-08-21",
+    "horario": "11:51:23",
+    "feito_por": "Jeferson",
+    "produto": "Suco Artif. Vigor Minions Div. Sabores 200ml",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-21",
+    "horario": "11:51:23",
+    "feito_por": "Jeferson",
+    "produto": "Goma De Tapioca Doce Mel 1Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-21",
+    "horario": "11:51:23",
+    "feito_por": "Jeferson",
+    "produto": "Maçã Nacional",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-21",
+    "horario": "11:51:23",
+    "feito_por": "Jeferson",
+    "produto": "Banana Prata",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-21",
+    "horario": "11:51:23",
+    "feito_por": "Jeferson",
+    "produto": "Cenoura",
+    "preco": "7,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-21",
+    "horario": "11:51:23",
+    "feito_por": "Jeferson",
+    "produto": "Mamão Formosa",
+    "preco": "3,38",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-21",
+    "horario": "11:51:23",
+    "feito_por": "Jeferson",
+    "produto": "Cebola Branca",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-21",
+    "horario": "11:51:23",
+    "feito_por": "Jeferson",
+    "produto": "Tomate",
+    "preco": "3,68",
+    "validade_oferta_ate": ""
   }
 ]
