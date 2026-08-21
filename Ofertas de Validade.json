@@ -22237,5 +22237,41 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "21/08/2026",
+    "hora": "17:43:51",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "IOG PROBIO BATAVO TRADICIONAL 1150 G",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/09/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "IOG POUCH COCO PARMALAT FIT",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/09/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "IOG SOBREMESA CHOC PATRULHA CANINA 340 G",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/09/2026"
+      },
+      {
+        "posicao": "4",
+        "descricao": "IOG PROBIO BATAVO ZERO AMEIXA 1150 G",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/09/2026"
+      }
+    ]
   }
 ]
