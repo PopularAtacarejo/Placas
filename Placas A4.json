@@ -15862,5 +15862,37 @@
     "produto": "Tomate Kg",
     "preco": "3,38",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-22",
+    "horario": "10:33:45",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Itaipava 473ml",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-22",
+    "horario": "10:33:45",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Tio Vieira Branco Tipo 2 1kg",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-22",
+    "horario": "10:33:45",
+    "feito_por": "Jeferson",
+    "produto": "Feijao Tio Vieira Carioca T1 1kg",
+    "preco": "7,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-22",
+    "horario": "10:33:45",
+    "feito_por": "Jeferson",
+    "produto": "Oleo De Soja Soya 900ml",
+    "preco": "8,96",
+    "validade_oferta_ate": ""
   }
 ]
