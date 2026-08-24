@@ -22317,5 +22317,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/08/2026",
+    "hora": "16:14:26",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Formula Nan Supreme 2 800 g",
+        "preco": "59,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/09/2026",
+        "codigo_barras": "7613034968388",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Neston Nestlé 3 Cereais Sc 600 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/09/2026",
+        "codigo_barras": "7891000288474",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Composto Lácteo Neslac 800 g",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/09/2026",
+        "codigo_barras": "7891000106099",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Refri Pet Fanta Laranja 1,5 l",
+        "preco": "2,99",
+        "unidade": "Unid.",
+        "validade_oferta": "27/08/2026",
+        "codigo_barras": "7894900031751",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
