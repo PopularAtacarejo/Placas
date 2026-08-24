@@ -22378,5 +22378,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/08/2026",
+    "hora": "17:04:15",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Sora Pronto e Saud Hamb Veg 200 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/09/2026",
+        "codigo_barras": "7898614670596",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Refri Pet Fanta Laranja 1,5 l",
+        "preco": "2,99",
+        "unidade": "Unid.",
+        "validade_oferta": "27/08/2026",
+        "codigo_barras": "7894900031751",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
