@@ -22361,5 +22361,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "24/08/2026",
+    "hora": "16:15:27",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Prot Solar Sundown Fps 30",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7891010033521",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
