@@ -22646,5 +22646,37 @@
     "produto": "Sh.Inf.Johnson Baby 2em1 400ml",
     "preco": "21,98",
     "validade_oferta_ate": "25/08/2026"
+  },
+  {
+    "data": "2026-08-25",
+    "horario": "09:19:26",
+    "feito_por": "Sidney",
+    "produto": "Cerv Skol Lata 350ml C/12 Multipack",
+    "preco": "37,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-25",
+    "horario": "09:48:47",
+    "feito_por": "Jeferson",
+    "produto": "Refri. Pepsi Black Zero Pet 2L",
+    "preco": "7,99",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-25",
+    "horario": "09:56:43",
+    "feito_por": "Jeferson",
+    "produto": "Agua Mineral Solara C/Gás 510ml",
+    "preco": "1,68",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-25",
+    "horario": "11:38:39",
+    "feito_por": "Teste",
+    "produto": "Iog Liq Ninho 3 Sabores Bdj 540g",
+    "preco": "8,98",
+    "validade_oferta_ate": "25/08/2026"
   }
 ]
