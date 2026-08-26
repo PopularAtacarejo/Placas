@@ -16238,5 +16238,21 @@
     "produto": "Kiarroz Parb. Tipo 1 1Kg",
     "preco": "4,28",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-26",
+    "horario": "11:19:30",
+    "feito_por": "Jeferson",
+    "produto": "Ling Frango Cong Aurora Kg",
+    "preco": "24,98",
+    "validade_oferta_ate": "26/08/2026"
+  },
+  {
+    "data": "2026-08-26",
+    "horario": "11:19:30",
+    "feito_por": "Jeferson",
+    "produto": "Costela Da Agulha Kg",
+    "preco": "23,98",
+    "validade_oferta_ate": "26/08/2026"
   }
 ]
