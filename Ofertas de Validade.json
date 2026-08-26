@@ -22650,5 +22650,48 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "26/08/2026",
+    "hora": "15:28:10",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Ervilha Knorr 170 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7891150058897",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Suco Artif Vigor Minions Morango 200 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "codigo_barras": "7891999340108",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Café Coringa Super Almofada 250 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/09/2026",
+        "codigo_barras": "7896481120466",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Creme De Amendoim Bom Principio 250 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/08/2026",
+        "codigo_barras": "7897500607456",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
