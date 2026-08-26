@@ -22693,5 +22693,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "26/08/2026",
+    "hora": "15:33:12",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Prot Solar Sundown Fps 30",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7891010033521",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Leite Ninho Uht Tp Zl Integral Vit 1 l",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/08/2026",
+        "codigo_barras": "7898215157410",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Creme De Leite Piracanjuba Tp 1 kg",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/09/2026",
+        "codigo_barras": "7898215151883",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Creme De Amendoim Bom Principio 250 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/08/2026",
+        "codigo_barras": "7897500607456",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
