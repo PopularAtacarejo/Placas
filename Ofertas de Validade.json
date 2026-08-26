@@ -22492,5 +22492,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "26/08/2026",
+    "hora": "10:41:30",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Maionese Arisco Pet 500 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/09/2026",
+        "codigo_barras": "7891700206921",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Molho Pr. Predilecta Strog. - Un 300 g",
+        "preco": "6,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7896292334281",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mac Inst Lamen Nissin Legumes 85 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/09/2026",
+        "codigo_barras": "7891079000243",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Caldo Arisco Carne 19 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7891700023009",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
