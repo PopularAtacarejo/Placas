@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-08-19T16:17:24",
+  "atualizado_em": "2026-08-26T10:35:02",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1900,7 +1900,8 @@
     "maionese arisco pet | massa:500g": {
       "descricao": "Maionese Arisco Pet 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7891700206921",
+      "hits": 2,
       "aliases": [
         "maionese arisco pet 500 g",
         "maionese arisco pet 500g",
@@ -1911,7 +1912,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T14:52:36"
+      "atualizado_em": "2026-08-26T10:35:02"
     },
     "maionese predileta stand up | massa:200g": {
       "descricao": "Maionese Predileta Stand Up 200 g",
@@ -2062,7 +2063,7 @@
       "descricao": "Caldo Maggi Carne 57 g",
       "unidade": "Unid.",
       "codigo_barras": "7891000250150",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "caldo maggi carne 57 g",
         "caldo maggi carne 57g",
@@ -2073,7 +2074,7 @@
         "massa:57g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-25T09:50:20"
+      "atualizado_em": "2026-08-26T10:35:02"
     },
     "colorifico kitano | massa:400g": {
       "descricao": "Colorifico Kitano 400 g",
@@ -6197,7 +6198,8 @@
     "mac inst lamen treloso carne suav | massa:75g": {
       "descricao": "Mac Inst Lamen Treloso Carne Suav 75 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "codigo_barras": "7896213006839",
+      "hits": 4,
       "aliases": [
         "mac inst lamen treloso carne suav 75 g",
         "mac inst lamen treloso carne suav 75g",
@@ -6208,7 +6210,7 @@
         "massa:75g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T17:48:35"
+      "atualizado_em": "2026-08-26T10:35:02"
     },
     "caldo arisco galinha caipira | massa:114g": {
       "descricao": "Caldo Arisco Galinha Caipira 114 g",
@@ -6341,7 +6343,8 @@
     "molho pomarola parmegiano sh | massa:300g": {
       "descricao": "Molho Pomarola Parmegiano Sh 300 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896036095072",
+      "hits": 2,
       "aliases": [
         "molho pomarola parmegiano sh 300 g",
         "molho pomarola parmegiano sh 300g",
@@ -6352,7 +6355,7 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:09:06"
+      "atualizado_em": "2026-08-26T10:35:02"
     },
     "mac inst lamen treloso tomate | massa:75g": {
       "descricao": "Mac Inst Lamen Treloso Tomate 75 g",
@@ -10117,7 +10120,8 @@
     "caldo arisco carne | massa:19g": {
       "descricao": "Caldo Arisco Carne 19 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891700023009",
+      "hits": 3,
       "aliases": [
         "caldo arisco carne 19 g",
         "caldo arisco carne 19g",
@@ -10128,7 +10132,7 @@
         "massa:19g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T17:48:35"
+      "atualizado_em": "2026-08-26T10:35:02"
     },
     "azeite de oliva ext v sv nucete | volume:500ml": {
       "descricao": "Azeite De Oliva Ext. V. Sv. Nucete 500 ml",
@@ -17758,6 +17762,295 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-08-19T16:17:24"
+    },
+    "arroz olim integral | massa:1000g": {
+      "descricao": "Arroz Olim Integral 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7897626300293",
+      "hits": 1,
+      "aliases": [
+        "arroz olim integral 1 kg",
+        "arroz olim integral 1kg",
+        "arroz olim integral | massa:1000g"
+      ],
+      "descricao_base": "arroz olim integral",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "polvilho doce yoki | massa:1000g": {
+      "descricao": "Polvilho Doce Yoki 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7891095378630",
+      "hits": 1,
+      "aliases": [
+        "polvilho doce yoki 1 kg",
+        "polvilho doce yoki 1kg",
+        "polvilho doce yoki | massa:1000g"
+      ],
+      "descricao_base": "polvilho doce yoki",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "farofa pronta yoki milho trad | massa:400g": {
+      "descricao": "Farofa Pronta Yoki Milho Trad 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891095911448",
+      "hits": 1,
+      "aliases": [
+        "farofa pronta yoki milho trad 400 g",
+        "farofa pronta yoki milho trad 400g",
+        "farofa pronta yoki milho trad | massa:400g"
+      ],
+      "descricao_base": "farofa pronta yoki milho trad",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "caldo maggi galinha menos sodio | massa:57g": {
+      "descricao": "Caldo Maggi Galinha Menos Sódio 57 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000253540",
+      "hits": 1,
+      "aliases": [
+        "caldo maggi galinha menos sodio 57 g",
+        "caldo maggi galinha menos sodio 57g",
+        "caldo maggi galinha menos sodio | massa:57g"
+      ],
+      "descricao_base": "caldo maggi galinha menos sodio",
+      "medidas": [
+        "massa:57g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "azeite oliva andorinha vintage e v | volume:500ml": {
+      "descricao": "Azeite Oliva Andorinha Vintage E.V 500 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "5601216120336",
+      "hits": 1,
+      "aliases": [
+        "azeite oliva andorinha vintage e v 500 ml",
+        "azeite oliva andorinha vintage e v 500ml",
+        "azeite oliva andorinha vintage e v | volume:500ml"
+      ],
+      "descricao_base": "azeite oliva andorinha vintage e v",
+      "medidas": [
+        "volume:500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "caldo maggi galinha menos sodio | massa:114g": {
+      "descricao": "Caldo Maggi Galinha Menos Sódio 114 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000253588",
+      "hits": 1,
+      "aliases": [
+        "caldo maggi galinha menos sodio 114 g",
+        "caldo maggi galinha menos sodio 114g",
+        "caldo maggi galinha menos sodio | massa:114g"
+      ],
+      "descricao_base": "caldo maggi galinha menos sodio",
+      "medidas": [
+        "massa:114g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "caldo maggi costela | massa:57g": {
+      "descricao": "Caldo Maggi Costela 57 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000249871",
+      "hits": 1,
+      "aliases": [
+        "caldo maggi costela 57 g",
+        "caldo maggi costela 57g",
+        "caldo maggi costela | massa:57g"
+      ],
+      "descricao_base": "caldo maggi costela",
+      "medidas": [
+        "massa:57g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "molho pr predilecta strog un | massa:300g": {
+      "descricao": "Molho Pr. Predilecta Strog. - Un 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896292334281",
+      "hits": 1,
+      "aliases": [
+        "molho pr predilecta strog 300g un",
+        "molho pr predilecta strog un 300 g",
+        "molho pr predilecta strog un | massa:300g"
+      ],
+      "descricao_base": "molho pr predilecta strog un",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "mac inst lamen nissin legumes | massa:85g": {
+      "descricao": "Mac Inst Lamen Nissin Legumes 85 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891079000243",
+      "hits": 1,
+      "aliases": [
+        "mac inst lamen nissin legumes 85 g",
+        "mac inst lamen nissin legumes 85g",
+        "mac inst lamen nissin legumes | massa:85g"
+      ],
+      "descricao_base": "mac inst lamen nissin legumes",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "caldo arisco carne | massa:114g": {
+      "descricao": "Caldo Arisco Carne 114 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891700080378",
+      "hits": 1,
+      "aliases": [
+        "caldo arisco carne 114 g",
+        "caldo arisco carne 114g",
+        "caldo arisco carne | massa:114g"
+      ],
+      "descricao_base": "caldo arisco carne",
+      "medidas": [
+        "massa:114g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "maionese fugini trad s sc | massa:1700g": {
+      "descricao": "Maionese Fugini Trad. S. Sc 1,7 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7897517207175",
+      "hits": 1,
+      "aliases": [
+        "maionese fugini trad s sc 1 7 kg",
+        "maionese fugini trad s sc 1 7kg",
+        "maionese fugini trad s sc | massa:1700g"
+      ],
+      "descricao_base": "maionese fugini trad s sc",
+      "medidas": [
+        "massa:1700g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "molho p salada predilecta italian | volume:235ml": {
+      "descricao": "Molho p Salada Predilecta Italian 235 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896292399822",
+      "hits": 1,
+      "aliases": [
+        "molho p salada predilecta italian 235 ml",
+        "molho p salada predilecta italian 235ml",
+        "molho p salada predilecta italian | volume:235ml"
+      ],
+      "descricao_base": "molho p salada predilecta italian",
+      "medidas": [
+        "volume:235ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "mac inst lamen treloso galinha suav | massa:75g": {
+      "descricao": "Mac Inst Lamen Treloso Galinha Suav 75 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896213006860",
+      "hits": 1,
+      "aliases": [
+        "mac inst lamen treloso galinha suav 75 g",
+        "mac inst lamen treloso galinha suav 75g",
+        "mac inst lamen treloso galinha suav | massa:75g"
+      ],
+      "descricao_base": "mac inst lamen treloso galinha suav",
+      "medidas": [
+        "massa:75g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "maionese hellmanns light | massa:335g": {
+      "descricao": "Maionese Hellmanns Light 335 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891150089501",
+      "hits": 1,
+      "aliases": [
+        "maionese hellmanns light 335 g",
+        "maionese hellmanns light 335g",
+        "maionese hellmanns light | massa:335g"
+      ],
+      "descricao_base": "maionese hellmanns light",
+      "medidas": [
+        "massa:335g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "vinagre minhoto limao | volume:500ml": {
+      "descricao": "Vinagre Minhoto Limão 500 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896013104445",
+      "hits": 1,
+      "aliases": [
+        "vinagre minhoto limao 500 ml",
+        "vinagre minhoto limao 500ml",
+        "vinagre minhoto limao | volume:500ml"
+      ],
+      "descricao_base": "vinagre minhoto limao",
+      "medidas": [
+        "volume:500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "sazon ret caldo carne | massa:11g": {
+      "descricao": "Sazon Ret Caldo Carne 11 gr",
+      "unidade": "Unid.",
+      "codigo_barras": "7891132165964",
+      "hits": 1,
+      "aliases": [
+        "sazon ret caldo carne 11 gr",
+        "sazon ret caldo carne 11gr",
+        "sazon ret caldo carne | massa:11g"
+      ],
+      "descricao_base": "sazon ret caldo carne",
+      "medidas": [
+        "massa:11g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "molho predilecta ervas finas sct | massa:300g": {
+      "descricao": "Molho Predilecta Ervas Finas Sct 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896292334038",
+      "hits": 1,
+      "aliases": [
+        "molho predilecta ervas finas sct 300 g",
+        "molho predilecta ervas finas sct 300g",
+        "molho predilecta ervas finas sct | massa:300g"
+      ],
+      "descricao_base": "molho predilecta ervas finas sct",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-26T10:35:02"
     }
   }
 }
