@@ -22404,5 +22404,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "26/08/2026",
+    "hora": "10:37:37",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Arroz Olim Integral 1 kg",
+        "preco": "6,48",
+        "unidade": "Unid.",
+        "validade_oferta": "09/09/2026",
+        "codigo_barras": "7897626300293",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Polvilho Doce Yoki 1 kg",
+        "preco": "24,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/09/2026",
+        "codigo_barras": "7891095378630",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Farofa Pronta Yoki Milho Trad 400 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/09/2026",
+        "codigo_barras": "7891095911448",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Caldo Maggi Galinha Menos Sódio 57 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/09/2026",
+        "codigo_barras": "7891000253540",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
