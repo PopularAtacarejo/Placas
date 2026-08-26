@@ -16254,5 +16254,13 @@
     "produto": "Costela Da Agulha Kg",
     "preco": "23,98",
     "validade_oferta_ate": "26/08/2026"
+  },
+  {
+    "data": "2026-08-26",
+    "horario": "14:18:59",
+    "feito_por": "Lazaro",
+    "produto": "Acucar Cristal Caete 1kg",
+    "preco": "3,58",
+    "validade_oferta_ate": ""
   }
 ]
