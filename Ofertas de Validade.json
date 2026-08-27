@@ -23001,5 +23001,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/08/2026",
+    "hora": "16:41:25",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cr De Avelã c/cacau Bom Principio 140 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/09/2026",
+        "codigo_barras": "7897500605735",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Leite Ninho Uht Tp Zl Integral Vit 1 l",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/09/2026",
+        "codigo_barras": "7898215157410",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Doce De Leite B.Principio 350 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/09/2026",
+        "codigo_barras": "7897500600266",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Café Moido Melitta Trad 250 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7891021006088",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
