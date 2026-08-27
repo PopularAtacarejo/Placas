@@ -23089,5 +23089,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/08/2026",
+    "hora": "16:46:01",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Hamb Hot Hit X-Bacon Seara 145 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/09/2026",
+        "codigo_barras": "7894904678341",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Hamb Seara Bovino 672 g",
+        "preco": "27,48",
+        "unidade": "Unid.",
+        "validade_oferta": "18/09/2026",
+        "codigo_barras": "7894904575350",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Morangos Congelados Canaa Frutas Nobre 1,02 kg",
+        "preco": "18,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/08/2026",
+        "codigo_barras": "7898130773405",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Ling Tosc Perdigao Nabrasa c/queijo 600 g",
+        "preco": "28,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7891515485139",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
