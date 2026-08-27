@@ -22957,5 +22957,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/08/2026",
+    "hora": "16:39:10",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Gelatina Apti Tutti-Frutti 20 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7896327516170",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Coco Ralado Pindorama Umido Adocado 50 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/09/2026",
+        "codigo_barras": "7896215300935",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mist D.Benta Bolin Chuva Maçã 260 gr",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/09/2026",
+        "codigo_barras": "7896005212097",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Aveia Em Flocos Grossos Apti 150 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/09/2026",
+        "codigo_barras": "7896327515029",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
