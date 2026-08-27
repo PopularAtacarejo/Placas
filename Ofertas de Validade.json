@@ -23045,5 +23045,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/08/2026",
+    "hora": "16:43:40",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Achoc Em Pó Toddy Light 280 g",
+        "preco": "13,69",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7892840822743",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Café Moido Melitta Extraforte Ints 10 250 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7891021006095",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Lombo De Bacalhau Dessalgado Reymar 400 g",
+        "preco": "49,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/09/2026",
+        "codigo_barras": "5602772412958",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Ervilha Cong Grano 300 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/09/2026",
+        "codigo_barras": "7898268720180",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
