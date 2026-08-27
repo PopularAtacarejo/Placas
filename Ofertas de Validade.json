@@ -22825,5 +22825,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/08/2026",
+    "hora": "16:32:40",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mist P/Bolo Apti Floresta Negra 400 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7896327510956",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Chá Maratá Gengibre/Limão 10 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "10/09/2026",
+        "codigo_barras": "7898286200381",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Creme De Leite Piracanjuba Tp 1 kg",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/08/2026",
+        "codigo_barras": "7898215151883",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mist P/Bolo Apti Cenoura 400 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7896327511502",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
