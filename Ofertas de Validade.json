@@ -23133,5 +23133,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/08/2026",
+    "hora": "16:48:14",
+    "placa": 10,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Coxinha De Asa Frango Pioneiro 500 g",
+        "preco": "10,48",
+        "unidade": "Unid.",
+        "validade_oferta": "26/08/2026",
+        "codigo_barras": "7898228063296",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Hamb Cara Preta Costela Angus 360 g",
+        "preco": "21,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/09/2026",
+        "codigo_barras": "7908267528028",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Hamb.Brasa Picanha Gourmet 150 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "24/09/2026",
+        "codigo_barras": "7898600722063",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Filé De Tilapia Lar Cong 400 g",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/08/2026",
+        "codigo_barras": "7896419731900",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
