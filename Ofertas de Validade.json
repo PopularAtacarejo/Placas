@@ -22737,5 +22737,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/08/2026",
+    "hora": "16:28:43",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Em Pó Soy Sem Lact Mor Lt 300 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/09/2026",
+        "codigo_barras": "7893500041849",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mist D.Benta Bolin Chuva Banana 260 gr",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "04/09/2026",
+        "codigo_barras": "7896005212073",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Beb Lact Uht Italakinho Morango 200 ml",
+        "preco": "1,58",
+        "unidade": "Unid.",
+        "validade_oferta": "10/09/2026",
+        "codigo_barras": "7898080642844",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Café Santa Clara Gourmet Chap Diam. 250 g",
+        "preco": "24,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/09/2026",
+        "codigo_barras": "7896045109678",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
