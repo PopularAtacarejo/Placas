@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-08-26T10:35:02",
+  "atualizado_em": "2026-08-27T16:25:03",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3390,7 +3390,7 @@
       "descricao": "Creme De Ricota Galbani 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7891097105975",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "creme de ricota galbani 200 g",
         "creme de ricota galbani 200g",
@@ -3401,7 +3401,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-08-27T16:25:03"
     },
     "chantilly president | massa:250g": {
       "descricao": "Chantilly President 250 g",
@@ -6892,7 +6892,8 @@
     "doce de leite b principio | massa:350g": {
       "descricao": "Doce De Leite B.Principio 350 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "codigo_barras": "7897500600266",
+      "hits": 4,
       "aliases": [
         "doce de leite b principio 350 g",
         "doce de leite b principio 350g",
@@ -6903,7 +6904,7 @@
         "massa:350g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-29T17:45:38"
+      "atualizado_em": "2026-08-27T16:25:03"
     },
     "creme b principio choc ao leite/branco | massa:140g": {
       "descricao": "Creme B.Principio Choc Ao Leite/Branco 140 g",
@@ -6924,7 +6925,8 @@
     "mist p/bolo apti coco | massa:400g": {
       "descricao": "Mist P/Bolo Apti Coco 400 g",
       "unidade": "Unid.",
-      "hits": 4,
+      "codigo_barras": "7896327511328",
+      "hits": 5,
       "aliases": [
         "mist p bolo apti coco 400 g",
         "mist p bolo apti coco 400g",
@@ -6935,7 +6937,7 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T17:48:35"
+      "atualizado_em": "2026-08-27T16:25:03"
     },
     "cha dr oetker hortela | massa:10g": {
       "descricao": "Chá Dr.Oetker Hortela 10 g",
@@ -9161,7 +9163,8 @@
     "hamb hot hit x bacon seara | massa:145g": {
       "descricao": "Hamb Hot Hit X-Bacon Seara 145 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7894904678341",
+      "hits": 3,
       "aliases": [
         "hamb hot hit x bacon seara 145 g",
         "hamb hot hit x bacon seara 145g",
@@ -9172,7 +9175,7 @@
         "massa:145g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-08-27T16:25:03"
     },
     "pernil s/osso temperado seara kg": {
       "descricao": "Pernil s/osso Temperado Seara Kg",
@@ -13357,7 +13360,7 @@
       "descricao": "Requeijão Nestlé Tradicional 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7891000084649",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "requeijao nestle tradicional 200 g",
         "requeijao nestle tradicional 200g",
@@ -13368,7 +13371,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-08-27T16:25:03"
     },
     "requeijao catupiry lactozero | massa:150g": {
       "descricao": "Requeijão Catupiry Lactozero 150 g",
@@ -16124,7 +16127,7 @@
       "descricao": "Creme De Leite Piracanjuba Tp 1 kg",
       "unidade": "Unid.",
       "codigo_barras": "7898215151883",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "creme de leite piracanjuba tp 1 kg",
         "creme de leite piracanjuba tp 1kg",
@@ -16135,7 +16138,7 @@
         "massa:1000g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-25T09:50:20"
+      "atualizado_em": "2026-08-27T16:25:03"
     },
     "mist p/bolo dr oetker cenoura | massa:300g": {
       "descricao": "Mist P/Bolo Dr.Oetker Cenoura 300 g",
@@ -18051,6 +18054,635 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-08-26T10:35:02"
+    },
+    "leite em po soy sem lact mor lt | massa:300g": {
+      "descricao": "Leite Em Pó Soy Sem Lact Mor Lt 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7893500041849",
+      "hits": 1,
+      "aliases": [
+        "leite em po soy sem lact mor lt 300 g",
+        "leite em po soy sem lact mor lt 300g",
+        "leite em po soy sem lact mor lt | massa:300g"
+      ],
+      "descricao_base": "leite em po soy sem lact mor lt",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "mist d benta bolin chuva banana | massa:260g": {
+      "descricao": "Mist D.Benta Bolin Chuva Banana 260 gr",
+      "unidade": "Unid.",
+      "codigo_barras": "7896005212073",
+      "hits": 1,
+      "aliases": [
+        "mist d benta bolin chuva banana 260 gr",
+        "mist d benta bolin chuva banana 260gr",
+        "mist d benta bolin chuva banana | massa:260g"
+      ],
+      "descricao_base": "mist d benta bolin chuva banana",
+      "medidas": [
+        "massa:260g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "beb lact uht italakinho morango | volume:200ml": {
+      "descricao": "Beb Lact Uht Italakinho Morango 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898080642844",
+      "hits": 1,
+      "aliases": [
+        "beb lact uht italakinho morango 200 ml",
+        "beb lact uht italakinho morango 200ml",
+        "beb lact uht italakinho morango | volume:200ml"
+      ],
+      "descricao_base": "beb lact uht italakinho morango",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "cafe santa clara gourmet chap diam | massa:250g": {
+      "descricao": "Café Santa Clara Gourmet Chap Diam. 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896045109678",
+      "hits": 1,
+      "aliases": [
+        "cafe santa clara gourmet chap diam 250 g",
+        "cafe santa clara gourmet chap diam 250g",
+        "cafe santa clara gourmet chap diam | massa:250g"
+      ],
+      "descricao_base": "cafe santa clara gourmet chap diam",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "cereal choco power ball choc mavalerio | massa:80g": {
+      "descricao": "Cereal Choco Power Ball Choc Mavalerio 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896072641585",
+      "hits": 1,
+      "aliases": [
+        "cereal choco power ball choc 80g mavalerio",
+        "cereal choco power ball choc mavalerio 80 g",
+        "cereal choco power ball choc mavalerio | massa:80g"
+      ],
+      "descricao_base": "cereal choco power ball choc mavalerio",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "cajuzinho bom principio | massa:350g": {
+      "descricao": "Cajuzinho Bom Principio 350 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897500602338",
+      "hits": 1,
+      "aliases": [
+        "cajuzinho bom principio 350 g",
+        "cajuzinho bom principio 350g",
+        "cajuzinho bom principio | massa:350g"
+      ],
+      "descricao_base": "cajuzinho bom principio",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "beb lactea uht nescau protein | volume:250ml": {
+      "descricao": "Beb Láctea Uht Nescau Protein 250 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000446799",
+      "hits": 1,
+      "aliases": [
+        "beb lactea uht nescau protein 250 ml",
+        "beb lactea uht nescau protein 250ml",
+        "beb lactea uht nescau protein | volume:250ml"
+      ],
+      "descricao_base": "beb lactea uht nescau protein",
+      "medidas": [
+        "volume:250ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "achoc em po toddy light | massa:380g": {
+      "descricao": "Achoc Em Pó Toddy Light 380 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7894321711058",
+      "hits": 1,
+      "aliases": [
+        "achoc em po toddy light 380 g",
+        "achoc em po toddy light 380g",
+        "achoc em po toddy light | massa:380g"
+      ],
+      "descricao_base": "achoc em po toddy light",
+      "medidas": [
+        "massa:380g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "mist p/bolo apti floresta negra | massa:400g": {
+      "descricao": "Mist P/Bolo Apti Floresta Negra 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896327510956",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo apti floresta negra 400 g",
+        "mist p bolo apti floresta negra 400g",
+        "mist p/bolo apti floresta negra | massa:400g"
+      ],
+      "descricao_base": "mist p/bolo apti floresta negra",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "cha marata gengibre/limao | massa:10g": {
+      "descricao": "Chá Maratá Gengibre/Limão 10 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898286200381",
+      "hits": 1,
+      "aliases": [
+        "cha marata gengibre limao 10 g",
+        "cha marata gengibre limao 10g",
+        "cha marata gengibre/limao | massa:10g"
+      ],
+      "descricao_base": "cha marata gengibre/limao",
+      "medidas": [
+        "massa:10g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "mist p/bolo apti cenoura | massa:400g": {
+      "descricao": "Mist P/Bolo Apti Cenoura 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896327511502",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo apti cenoura 400 g",
+        "mist p bolo apti cenoura 400g",
+        "mist p/bolo apti cenoura | massa:400g"
+      ],
+      "descricao_base": "mist p/bolo apti cenoura",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "choc em po nestle cacau 100 | massa:200g": {
+      "descricao": "Choc Em Pó Nestlé Cacau 100% 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000120095",
+      "hits": 1,
+      "aliases": [
+        "choc em po nestle cacau 100 200 g",
+        "choc em po nestle cacau 100 200g",
+        "choc em po nestle cacau 100 | massa:200g"
+      ],
+      "descricao_base": "choc em po nestle cacau 100",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "cha leao kids amora/framboesa | massa:23g": {
+      "descricao": "Chá Leão Kids Amora/Framboesa 23 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891098041944",
+      "hits": 1,
+      "aliases": [
+        "cha leao kids amora framboesa 23 g",
+        "cha leao kids amora framboesa 23g",
+        "cha leao kids amora/framboesa | massa:23g"
+      ],
+      "descricao_base": "cha leao kids amora/framboesa",
+      "medidas": [
+        "massa:23g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "mist p/bolo fleischmann petit gateau | massa:350g": {
+      "descricao": "Mist P/Bolo Fleischmann Petit Gateau 350 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897309408599",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo fleischmann petit gateau 350 g",
+        "mist p bolo fleischmann petit gateau 350g",
+        "mist p/bolo fleischmann petit gateau | massa:350g"
+      ],
+      "descricao_base": "mist p/bolo fleischmann petit gateau",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "mist p/bolo fleischmann aipim | massa:390g": {
+      "descricao": "Mist P/bolo Fleischmann Aipim 390 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898331012525",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo fleischmann aipim 390 g",
+        "mist p bolo fleischmann aipim 390g",
+        "mist p/bolo fleischmann aipim | massa:390g"
+      ],
+      "descricao_base": "mist p/bolo fleischmann aipim",
+      "medidas": [
+        "massa:390g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "farelo de aveia apti | massa:150g": {
+      "descricao": "Farelo De Aveia Apti 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896327515500",
+      "hits": 1,
+      "aliases": [
+        "farelo de aveia apti 150 g",
+        "farelo de aveia apti 150g",
+        "farelo de aveia apti | massa:150g"
+      ],
+      "descricao_base": "farelo de aveia apti",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "creme de avela bom principio pt | massa:140g": {
+      "descricao": "Creme De Avelã Bom Principio Pt 140 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897500605827",
+      "hits": 1,
+      "aliases": [
+        "creme de avela bom principio pt 140 g",
+        "creme de avela bom principio pt 140g",
+        "creme de avela bom principio pt | massa:140g"
+      ],
+      "descricao_base": "creme de avela bom principio pt",
+      "medidas": [
+        "massa:140g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "coco ralado pindorama | massa:50g": {
+      "descricao": "Coco Ralado Pindorama 50 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896215300027",
+      "hits": 1,
+      "aliases": [
+        "coco ralado pindorama 50 g",
+        "coco ralado pindorama 50g",
+        "coco ralado pindorama | massa:50g"
+      ],
+      "descricao_base": "coco ralado pindorama",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "gelatina apti tutti frutti | massa:20g": {
+      "descricao": "Gelatina Apti Tutti-Frutti 20 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896327516170",
+      "hits": 1,
+      "aliases": [
+        "gelatina apti tutti frutti 20 g",
+        "gelatina apti tutti frutti 20g",
+        "gelatina apti tutti frutti | massa:20g"
+      ],
+      "descricao_base": "gelatina apti tutti frutti",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "coco ralado pindorama umido adocado | massa:50g": {
+      "descricao": "Coco Ralado Pindorama Umido Adocado 50 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896215300935",
+      "hits": 1,
+      "aliases": [
+        "coco ralado pindorama umido adocado 50 g",
+        "coco ralado pindorama umido adocado 50g",
+        "coco ralado pindorama umido adocado | massa:50g"
+      ],
+      "descricao_base": "coco ralado pindorama umido adocado",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "mist d benta bolin chuva maca | massa:260g": {
+      "descricao": "Mist D.Benta Bolin Chuva Maçã 260 gr",
+      "unidade": "Unid.",
+      "codigo_barras": "7896005212097",
+      "hits": 1,
+      "aliases": [
+        "mist d benta bolin chuva maca 260 gr",
+        "mist d benta bolin chuva maca 260gr",
+        "mist d benta bolin chuva maca | massa:260g"
+      ],
+      "descricao_base": "mist d benta bolin chuva maca",
+      "medidas": [
+        "massa:260g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "aveia em flocos grossos apti | massa:150g": {
+      "descricao": "Aveia Em Flocos Grossos Apti 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896327515029",
+      "hits": 1,
+      "aliases": [
+        "aveia em flocos grossos apti 150 g",
+        "aveia em flocos grossos apti 150g",
+        "aveia em flocos grossos apti | massa:150g"
+      ],
+      "descricao_base": "aveia em flocos grossos apti",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "cr de avela c/cacau bom principio | massa:140g": {
+      "descricao": "Cr De Avelã c/cacau Bom Principio 140 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897500605735",
+      "hits": 1,
+      "aliases": [
+        "cr de avela c cacau bom principio 140 g",
+        "cr de avela c cacau bom principio 140g",
+        "cr de avela c/cacau bom principio | massa:140g"
+      ],
+      "descricao_base": "cr de avela c/cacau bom principio",
+      "medidas": [
+        "massa:140g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "leite ninho uht tp zl integral vit | volume:1000ml": {
+      "descricao": "Leite Ninho Uht Tp Zl Integral Vit 1 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7898215157410",
+      "hits": 1,
+      "aliases": [
+        "leite ninho uht 1l tp zl integral vit",
+        "leite ninho uht tp zl integral vit 1 l",
+        "leite ninho uht tp zl integral vit | volume:1000ml"
+      ],
+      "descricao_base": "leite ninho uht tp zl integral vit",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "cafe moido melitta trad | massa:250g": {
+      "descricao": "Café Moido Melitta Trad 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891021006088",
+      "hits": 1,
+      "aliases": [
+        "cafe moido melitta trad 250 g",
+        "cafe moido melitta trad 250g",
+        "cafe moido melitta trad | massa:250g"
+      ],
+      "descricao_base": "cafe moido melitta trad",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "achoc em po toddy light | massa:280g": {
+      "descricao": "Achoc Em Pó Toddy Light 280 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7892840822743",
+      "hits": 1,
+      "aliases": [
+        "achoc em po toddy light 280 g",
+        "achoc em po toddy light 280g",
+        "achoc em po toddy light | massa:280g"
+      ],
+      "descricao_base": "achoc em po toddy light",
+      "medidas": [
+        "massa:280g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "cafe moido melitta extraforte ints 10 | massa:250g": {
+      "descricao": "Café Moido Melitta Extraforte Ints 10 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891021006095",
+      "hits": 1,
+      "aliases": [
+        "cafe moido melitta extraforte ints 10 250 g",
+        "cafe moido melitta extraforte ints 10 | massa:250g",
+        "cafe moido melitta extraforte ints10 250g"
+      ],
+      "descricao_base": "cafe moido melitta extraforte ints 10",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "lombo de bacalhau dessalgado reymar | massa:400g": {
+      "descricao": "Lombo De Bacalhau Dessalgado Reymar 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "5602772412958",
+      "hits": 1,
+      "aliases": [
+        "lombo de bacalhau dessalgado reymar 400 g",
+        "lombo de bacalhau dessalgado reymar 400g",
+        "lombo de bacalhau dessalgado reymar | massa:400g"
+      ],
+      "descricao_base": "lombo de bacalhau dessalgado reymar",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "ervilha cong grano | massa:300g": {
+      "descricao": "Ervilha Cong Grano 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898268720180",
+      "hits": 1,
+      "aliases": [
+        "ervilha cong grano 300 g",
+        "ervilha cong grano 300g",
+        "ervilha cong grano | massa:300g"
+      ],
+      "descricao_base": "ervilha cong grano",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "hamb seara bovino | massa:672g": {
+      "descricao": "Hamb Seara Bovino 672 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7894904575350",
+      "hits": 1,
+      "aliases": [
+        "hamb seara bovino 672 g",
+        "hamb seara bovino 672g",
+        "hamb seara bovino | massa:672g"
+      ],
+      "descricao_base": "hamb seara bovino",
+      "medidas": [
+        "massa:672g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "morangos congelados canaa frutas nobre | massa:1020g": {
+      "descricao": "Morangos Congelados Canaa Frutas Nobre 1,02 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7898130773405",
+      "hits": 1,
+      "aliases": [
+        "morangos congelados canaa frutas nobre 1 02 kg",
+        "morangos congelados canaa frutas nobre 1 02kg",
+        "morangos congelados canaa frutas nobre | massa:1020g"
+      ],
+      "descricao_base": "morangos congelados canaa frutas nobre",
+      "medidas": [
+        "massa:1020g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "ling tosc perdigao nabrasa c/queijo | massa:600g": {
+      "descricao": "Ling Tosc Perdigao Nabrasa c/queijo 600 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515485139",
+      "hits": 1,
+      "aliases": [
+        "ling tosc perdigao nabrasa c queijo 600 g",
+        "ling tosc perdigao nabrasa c queijo 600g",
+        "ling tosc perdigao nabrasa c/queijo | massa:600g"
+      ],
+      "descricao_base": "ling tosc perdigao nabrasa c/queijo",
+      "medidas": [
+        "massa:600g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "coxinha de asa frango pioneiro | massa:500g": {
+      "descricao": "Coxinha De Asa Frango Pioneiro 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898228063296",
+      "hits": 1,
+      "aliases": [
+        "coxinha de asa frango pioneiro 500 g",
+        "coxinha de asa frango pioneiro 500g",
+        "coxinha de asa frango pioneiro | massa:500g"
+      ],
+      "descricao_base": "coxinha de asa frango pioneiro",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "hamb cara preta costela angus | massa:360g": {
+      "descricao": "Hamb Cara Preta Costela Angus 360 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7908267528028",
+      "hits": 1,
+      "aliases": [
+        "hamb cara preta costela angus 360 g",
+        "hamb cara preta costela angus 360g",
+        "hamb cara preta costela angus | massa:360g"
+      ],
+      "descricao_base": "hamb cara preta costela angus",
+      "medidas": [
+        "massa:360g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "hamb brasa picanha gourmet | massa:150g": {
+      "descricao": "Hamb.Brasa Picanha Gourmet 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898600722063",
+      "hits": 1,
+      "aliases": [
+        "hamb brasa picanha gourmet 150 g",
+        "hamb brasa picanha gourmet 150g",
+        "hamb brasa picanha gourmet | massa:150g"
+      ],
+      "descricao_base": "hamb brasa picanha gourmet",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "file de tilapia lar cong | massa:400g": {
+      "descricao": "Filé De Tilapia Lar Cong 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896419731900",
+      "hits": 1,
+      "aliases": [
+        "file de tilapia lar cong 400 g",
+        "file de tilapia lar cong 400g",
+        "file de tilapia lar cong | massa:400g"
+      ],
+      "descricao_base": "file de tilapia lar cong",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "ling maria rosa mellore | massa:600g": {
+      "descricao": "Ling Maria Rosa Mellore 600 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7908359401338",
+      "hits": 1,
+      "aliases": [
+        "ling maria rosa mellore 600 g",
+        "ling maria rosa mellore 600g",
+        "ling maria rosa mellore | massa:600g"
+      ],
+      "descricao_base": "ling maria rosa mellore",
+      "medidas": [
+        "massa:600g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-27T16:25:03"
     }
   }
 }
