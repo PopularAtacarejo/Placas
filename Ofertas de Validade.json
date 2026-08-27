@@ -22913,5 +22913,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/08/2026",
+    "hora": "16:37:00",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mist P/bolo Fleischmann Aipim 390 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/09/2026",
+        "codigo_barras": "7898331012525",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Farelo De Aveia Apti 150 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "22/09/2026",
+        "codigo_barras": "7896327515500",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Creme De Avelã Bom Principio Pt 140 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/09/2026",
+        "codigo_barras": "7897500605827",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Coco Ralado Pindorama 50 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7896215300027",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
