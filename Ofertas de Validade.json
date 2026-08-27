@@ -22869,5 +22869,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/08/2026",
+    "hora": "16:34:56",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc Em Pó Nestlé Cacau 100% 200 g",
+        "preco": "39,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/09/2026",
+        "codigo_barras": "7891000120095",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Chá Leão Kids Amora/Framboesa 23 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/09/2026",
+        "codigo_barras": "7891098041944",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mist P/Bolo Fleischmann Petit Gateau 350 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/09/2026",
+        "codigo_barras": "7897309408599",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mist P/Bolo Apti Coco 400 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7896327511328",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
