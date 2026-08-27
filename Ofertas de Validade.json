@@ -23177,5 +23177,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "27/08/2026",
+    "hora": "16:49:48",
+    "placa": 11,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Ling Maria Rosa Mellore 600 g",
+        "preco": "12,48",
+        "unidade": "Unid.",
+        "validade_oferta": "26/08/2026",
+        "codigo_barras": "7908359401338",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Creme De Ricota Galbani 200 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/09/2026",
+        "codigo_barras": "7891097105975",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Requeijão Nestlé Tradicional 200 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "01/09/2026",
+        "codigo_barras": "7891000084649",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
