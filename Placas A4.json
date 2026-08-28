@@ -16670,5 +16670,13 @@
     "produto": "Caju Kg",
     "preco": "12,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-28",
+    "horario": "14:49:18",
+    "feito_por": "Pedro",
+    "produto": "Linguica De Pato 500g",
+    "preco": "5,98",
+    "validade_oferta_ate": "10/09/2026"
   }
 ]
