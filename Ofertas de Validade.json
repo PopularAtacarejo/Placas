@@ -23341,5 +23341,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/08/2026",
+    "hora": "17:14:13",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mort Confianca Frango 1 kg",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/09/2026",
+        "codigo_barras": "7894904843060",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Creme De Ricota Polenghi Light 150 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/09/2026",
+        "codigo_barras": "7891143017009",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mortadela Perdigao 1 kg",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/09/2026",
+        "codigo_barras": "7891515408312",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Massa De Pastel Massafest Rolo 1 kg",
+        "preco": "15,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/09/2026",
+        "codigo_barras": "7898928718106",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
