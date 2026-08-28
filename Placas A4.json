@@ -16550,5 +16550,29 @@
     "produto": "Peito De Frango a Granel Kg",
     "preco": "11,98",
     "validade_oferta_ate": "29/08/2026"
+  },
+  {
+    "data": "2026-08-28",
+    "horario": "08:37:38",
+    "feito_por": "Wellington",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-28",
+    "horario": "08:37:38",
+    "feito_por": "Wellington",
+    "produto": "Abacaxi Un",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-28",
+    "horario": "08:37:38",
+    "feito_por": "Wellington",
+    "produto": "Laranja Pera Kg",
+    "preco": "2,18",
+    "validade_oferta_ate": ""
   }
 ]
