@@ -16654,5 +16654,13 @@
     "produto": "Banana Prata Kg",
     "preco": "4,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-28",
+    "horario": "13:52:51",
+    "feito_por": "Eduardo",
+    "produto": "Pimentao Verde Kg",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
   }
 ]
