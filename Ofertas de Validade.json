@@ -23471,5 +23471,49 @@
         "validade_oferta": "07/09/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/08/2026",
+    "hora": "17:19:31",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Manteiga Frimesa Extra c/sal 200 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/09/2026",
+        "codigo_barras": "7896275981945",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Massa De Pastel Massafest 1 kg",
+        "preco": "15,48",
+        "unidade": "Unid.",
+        "validade_oferta": "12/09/2026",
+        "codigo_barras": "7898928718243",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Qj Coalho Piracanjuba Ft 150 g",
+        "preco": "14,48",
+        "unidade": "Unid.",
+        "validade_oferta": "13/09/2026",
+        "codigo_barras": "7898215158059",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Salamitos Aurora 100 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/09/2026",
+        "codigo_barras": "7891164006204",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
