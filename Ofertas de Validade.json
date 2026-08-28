@@ -23515,5 +23515,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/08/2026",
+    "hora": "17:21:16",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Requeijão Cremoso Vigor Light Zero 200 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/09/2026",
+        "codigo_barras": "7896625213757",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Requeijão Tirolez Cremoso Trd 200 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/09/2026",
+        "codigo_barras": "7896030518027",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Requeijão Catupiry Lactozero 150 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/09/2026",
+        "codigo_barras": "7896353302204",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Linguiça Brasa Tp Calabresa 400 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/09/2026",
+        "codigo_barras": "7898720660115",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
