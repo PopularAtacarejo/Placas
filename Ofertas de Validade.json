@@ -23559,5 +23559,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/08/2026",
+    "hora": "17:22:53",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mortadela De Frango Perdigao 400 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/09/2026",
+        "codigo_barras": "7891515429966",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Requeijão Tirolez Light 200 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/09/2026",
+        "codigo_barras": "7896030518751",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Requeijão Tirolez Zero Lactose 200 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/09/2026",
+        "codigo_barras": "7896030520273",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Requeijão Vigor Cremoso Trad 200 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7891999144485",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
