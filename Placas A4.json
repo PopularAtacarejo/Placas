@@ -16646,5 +16646,13 @@
     "produto": "Maca Nacional Kg",
     "preco": "12,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-28",
+    "horario": "13:50:47",
+    "feito_por": "Eduardo",
+    "produto": "Banana Prata Kg",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
   }
 ]
