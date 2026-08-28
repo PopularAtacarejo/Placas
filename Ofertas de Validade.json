@@ -23229,5 +23229,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/08/2026",
+    "hora": "15:02:24",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pão De Alho Massa Fest Trad 400 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7898928718458",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Salamitos Aurora 100 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/09/2026",
+        "codigo_barras": "7891164006204",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
