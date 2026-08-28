@@ -23212,5 +23212,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/08/2026",
+    "hora": "10:41:13",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Esm Colorama Cremo 40 Graus 8 ml",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/10/2026",
+        "codigo_barras": "7899026421349",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
