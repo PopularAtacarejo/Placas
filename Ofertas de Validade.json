@@ -23385,5 +23385,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/08/2026",
+    "hora": "17:15:54",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Queijo Muçarela Fatiado Galbani 150 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/09/2026",
+        "codigo_barras": "7891097105739",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Requeijão Frimesa Crem Light 200 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/09/2026",
+        "codigo_barras": "7896275960209",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Queijo Cream Cheese Polenghi Light 150 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/09/2026",
+        "codigo_barras": "7891143012592",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mort Tub Sadia 1 kg",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/09/2026",
+        "codigo_barras": "7893000340107",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
