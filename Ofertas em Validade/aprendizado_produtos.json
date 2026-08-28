@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-08-27T16:25:03",
+  "atualizado_em": "2026-08-28T17:07:48",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3258,7 +3258,7 @@
       "descricao": "Requeijão Frimesa Crem Light 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7896275960209",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "requeijao frimesa crem light 200 g",
         "requeijao frimesa crem light 200g",
@@ -3269,7 +3269,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-08-28T17:07:48"
     },
     "queijo cheddar frimesa fatiado | massa:150g": {
       "descricao": "Queijo Cheddar Frimesa Fatiado 150 g",
@@ -3439,7 +3439,7 @@
       "descricao": "Salamitos Aurora 100 g",
       "unidade": "Unid.",
       "codigo_barras": "7891164006204",
-      "hits": 4,
+      "hits": 5,
       "aliases": [
         "salamitos aurora 100 g",
         "salamitos aurora 100g",
@@ -3450,7 +3450,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-08-28T17:07:48"
     },
     "salame tp italiano defum ceratti | massa:100g": {
       "descricao": "Salame Tp Italiano Defum Ceratti 100 g",
@@ -3487,7 +3487,8 @@
     "creme de ricota polenghi trad | massa:150g": {
       "descricao": "Creme De Ricota Polenghi Trad 150 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891143021426",
+      "hits": 3,
       "aliases": [
         "creme de ricota polenghi trad 150 g",
         "creme de ricota polenghi trad 150g",
@@ -3498,7 +3499,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-08-28T17:07:48"
     },
     "matambrito con suino frimesa kg": {
       "descricao": "Matambrito Con Suíno Frimesa Kg",
@@ -3531,7 +3532,8 @@
     "lombo ceratti tp canadense ft | massa:100g": {
       "descricao": "Lombo Ceratti Tp Canadense Ft 100 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "codigo_barras": "7898618520859",
+      "hits": 4,
       "aliases": [
         "lombo ceratti tp canadense ft 100 g",
         "lombo ceratti tp canadense ft 100g",
@@ -3542,7 +3544,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-12T10:05:15"
+      "atualizado_em": "2026-08-28T17:07:48"
     },
     "bisc d licia diversos sabores | massa:220g": {
       "descricao": "Bisc. d Licia 220 g Diversos Sabores",
@@ -9322,7 +9324,7 @@
       "descricao": "Requeijão Vigor Cremoso Trad 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7891999144485",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "requeijao vigor cremoso trad 200 g",
         "requeijao vigor cremoso trad 200g",
@@ -9333,7 +9335,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-13T12:01:59"
+      "atualizado_em": "2026-08-28T17:07:48"
     },
     "requeijao cremoso catupiry trad | massa:200g": {
       "descricao": "Requeijão Cremoso Catupiry Trad 200 g",
@@ -9386,7 +9388,8 @@
     "requeijao tirolez cremoso trd | massa:200g": {
       "descricao": "Requeijão Tirolez Cremoso Trd 200 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "codigo_barras": "7896030518027",
+      "hits": 4,
       "aliases": [
         "requeijao tirolez cremoso trd 200 g",
         "requeijao tirolez cremoso trd 200g",
@@ -9397,7 +9400,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-05T14:45:58"
+      "atualizado_em": "2026-08-28T17:07:48"
     },
     "manteiga davaca s/sal | massa:200g": {
       "descricao": "Manteiga Davaca s/sal 200 g",
@@ -9656,7 +9659,8 @@
     "creme de ricota polenghi light | massa:150g": {
       "descricao": "Creme De Ricota Polenghi Light 150 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7891143017009",
+      "hits": 2,
       "aliases": [
         "creme de ricota polenghi light 150 g",
         "creme de ricota polenghi light 150g",
@@ -9667,7 +9671,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-05T14:45:58"
+      "atualizado_em": "2026-08-28T17:07:48"
     },
     "beb lact frutigutti frutas c/cereais bdj | massa:510g": {
       "descricao": "Beb Lact Frutigutti Frutas c/cereais Bdj 510 g",
@@ -9866,7 +9870,8 @@
     "mortadela de frango perdigao | massa:400g": {
       "descricao": "Mortadela De Frango Perdigao 400 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7891515429966",
+      "hits": 2,
       "aliases": [
         "mortadela de frango perdigao 400 g",
         "mortadela de frango perdigao 400g",
@@ -9877,7 +9882,7 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T08:10:58"
+      "atualizado_em": "2026-08-28T17:07:48"
     },
     "pao de alho santa massa trad | massa:400g": {
       "descricao": "Pão De Alho Santa Massa Trad 400 g",
@@ -13377,7 +13382,7 @@
       "descricao": "Requeijão Catupiry Lactozero 150 g",
       "unidade": "Unid.",
       "codigo_barras": "7896353302204",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "requeijao catupiry lactozero 150 g",
         "requeijao catupiry lactozero 150g",
@@ -13388,7 +13393,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-08-28T17:07:48"
     },
     "queijo davaca prato fatiado | massa:150g": {
       "descricao": "Queijo Davaca Prato Fatiado 150 g",
@@ -18683,6 +18688,364 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-08-27T16:25:03"
+    },
+    "ling calab def perdigao | massa:400g": {
+      "descricao": "Ling Calab Def Perdigao 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515977511",
+      "hits": 1,
+      "aliases": [
+        "ling calab def perdigao 400 g",
+        "ling calab def perdigao 400g",
+        "ling calab def perdigao | massa:400g"
+      ],
+      "descricao_base": "ling calab def perdigao",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "ling calabresa ceratti def fat ft | massa:100g": {
+      "descricao": "Ling Calabresa Ceratti Def Fat Ft 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898907632614",
+      "hits": 1,
+      "aliases": [
+        "ling calabresa ceratti def fat ft 100 g",
+        "ling calabresa ceratti def fat ft 100g",
+        "ling calabresa ceratti def fat ft | massa:100g"
+      ],
+      "descricao_base": "ling calabresa ceratti def fat ft",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "pao de alho massa fest trad | massa:400g": {
+      "descricao": "Pão De Alho Massa Fest Trad 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898928718458",
+      "hits": 1,
+      "aliases": [
+        "pao de alho massa fest trad 400 g",
+        "pao de alho massa fest trad 400g",
+        "pao de alho massa fest trad | massa:400g"
+      ],
+      "descricao_base": "pao de alho massa fest trad",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "requeijao itambe light cp | massa:220g": {
+      "descricao": "Requeijão Itambe Light Cp 220 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896051140108",
+      "hits": 1,
+      "aliases": [
+        "requeijao itambe light cp 220 g",
+        "requeijao itambe light cp 220g",
+        "requeijao itambe light cp | massa:220g"
+      ],
+      "descricao_base": "requeijao itambe light cp",
+      "medidas": [
+        "massa:220g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "manteiga de coco copra cremosa | massa:200g": {
+      "descricao": "Manteiga De Coco Copra Cremosa 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898596082776",
+      "hits": 1,
+      "aliases": [
+        "manteiga de coco copra cremosa 200 g",
+        "manteiga de coco copra cremosa 200g",
+        "manteiga de coco copra cremosa | massa:200g"
+      ],
+      "descricao_base": "manteiga de coco copra cremosa",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "mortadela defumada gourmet seara | massa:180g": {
+      "descricao": "Mortadela Defumada Gourmet Seara 180 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7894904268573",
+      "hits": 1,
+      "aliases": [
+        "mortadela defumada gourmet seara 180 g",
+        "mortadela defumada gourmet seara 180g",
+        "mortadela defumada gourmet seara | massa:180g"
+      ],
+      "descricao_base": "mortadela defumada gourmet seara",
+      "medidas": [
+        "massa:180g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "mort confianca frango | massa:1000g": {
+      "descricao": "Mort Confianca Frango 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7894904843060",
+      "hits": 1,
+      "aliases": [
+        "mort confianca frango 1 kg",
+        "mort confianca frango 1kg",
+        "mort confianca frango | massa:1000g"
+      ],
+      "descricao_base": "mort confianca frango",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "mortadela perdigao | massa:1000g": {
+      "descricao": "Mortadela Perdigao 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515408312",
+      "hits": 1,
+      "aliases": [
+        "mortadela perdigao 1 kg",
+        "mortadela perdigao 1kg",
+        "mortadela perdigao | massa:1000g"
+      ],
+      "descricao_base": "mortadela perdigao",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "massa de pastel massafest rolo | massa:1000g": {
+      "descricao": "Massa De Pastel Massafest Rolo 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7898928718106",
+      "hits": 1,
+      "aliases": [
+        "massa de pastel massafest rolo 1 kg",
+        "massa de pastel massafest rolo 1kg",
+        "massa de pastel massafest rolo | massa:1000g"
+      ],
+      "descricao_base": "massa de pastel massafest rolo",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "queijo mussarela fatiado galbani | massa:150g": {
+      "descricao": "Queijo Muçarela Fatiado Galbani 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097105739",
+      "hits": 1,
+      "aliases": [
+        "queijo mucarela fatiado galbani 150 g",
+        "queijo mucarela fatiado galbani | massa:150g",
+        "queijo mussarela fatiado galbani 150g",
+        "queijo mussarela fatiado galbani | massa:150g"
+      ],
+      "descricao_base": "queijo mucarela fatiado galbani",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "queijo cream cheese polenghi light | massa:150g": {
+      "descricao": "Queijo Cream Cheese Polenghi Light 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891143012592",
+      "hits": 1,
+      "aliases": [
+        "queijo cream cheese polenghi light 150 g",
+        "queijo cream cheese polenghi light 150g",
+        "queijo cream cheese polenghi light | massa:150g"
+      ],
+      "descricao_base": "queijo cream cheese polenghi light",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "mort tub sadia | massa:1000g": {
+      "descricao": "Mort Tub Sadia 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7893000340107",
+      "hits": 1,
+      "aliases": [
+        "mort tub sadia 1 kg",
+        "mort tub sadia 1kg",
+        "mort tub sadia | massa:1000g"
+      ],
+      "descricao_base": "mort tub sadia",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "presunto sadia solt fatiado | massa:200g": {
+      "descricao": "Presunto Sadia Solt Fatiado 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515432652",
+      "hits": 1,
+      "aliases": [
+        "presunto sadia solt fatiado 200 g",
+        "presunto sadia solt fatiado 200g",
+        "presunto sadia solt fatiado | massa:200g"
+      ],
+      "descricao_base": "presunto sadia solt fatiado",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "ling coz mista sadia defum | massa:215g": {
+      "descricao": "Ling Coz Mista Sadia Defum 215 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515606831",
+      "hits": 1,
+      "aliases": [
+        "ling coz mista sadia defum 215 g",
+        "ling coz mista sadia defum 215g",
+        "ling coz mista sadia defum | massa:215g"
+      ],
+      "descricao_base": "ling coz mista sadia defum",
+      "medidas": [
+        "massa:215g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "manteiga frimesa extra c/sal | massa:200g": {
+      "descricao": "Manteiga Frimesa Extra c/sal 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896275981945",
+      "hits": 1,
+      "aliases": [
+        "manteiga frimesa extra c sal 200 g",
+        "manteiga frimesa extra c sal 200g",
+        "manteiga frimesa extra c/sal | massa:200g"
+      ],
+      "descricao_base": "manteiga frimesa extra c/sal",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "massa de pastel massafest | massa:1000g": {
+      "descricao": "Massa De Pastel Massafest 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7898928718243",
+      "hits": 1,
+      "aliases": [
+        "massa de pastel massafest 1 kg",
+        "massa de pastel massafest 1kg",
+        "massa de pastel massafest | massa:1000g"
+      ],
+      "descricao_base": "massa de pastel massafest",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "qj coalho piracanjuba ft | massa:150g": {
+      "descricao": "Qj Coalho Piracanjuba Ft 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898215158059",
+      "hits": 1,
+      "aliases": [
+        "qj coalho piracanjuba ft 150 g",
+        "qj coalho piracanjuba ft 150g",
+        "qj coalho piracanjuba ft | massa:150g"
+      ],
+      "descricao_base": "qj coalho piracanjuba ft",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "requeijao cremoso vigor light zero | massa:200g": {
+      "descricao": "Requeijão Cremoso Vigor Light Zero 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896625213757",
+      "hits": 1,
+      "aliases": [
+        "requeijao cremoso vigor light zero 200 g",
+        "requeijao cremoso vigor light zero 200g",
+        "requeijao cremoso vigor light zero | massa:200g"
+      ],
+      "descricao_base": "requeijao cremoso vigor light zero",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "linguica brasa tp calabresa | massa:400g": {
+      "descricao": "Linguiça Brasa Tp Calabresa 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898720660115",
+      "hits": 1,
+      "aliases": [
+        "linguica brasa tp calabresa 400 g",
+        "linguica brasa tp calabresa 400g",
+        "linguica brasa tp calabresa | massa:400g"
+      ],
+      "descricao_base": "linguica brasa tp calabresa",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "requeijao tirolez light | massa:200g": {
+      "descricao": "Requeijão Tirolez Light 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896030518751",
+      "hits": 1,
+      "aliases": [
+        "requeijao tirolez light 200 g",
+        "requeijao tirolez light 200g",
+        "requeijao tirolez light | massa:200g"
+      ],
+      "descricao_base": "requeijao tirolez light",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
+    },
+    "requeijao tirolez zero lactose | massa:200g": {
+      "descricao": "Requeijão Tirolez Zero Lactose 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896030520273",
+      "hits": 1,
+      "aliases": [
+        "requeijao tirolez zero lactose 200 g",
+        "requeijao tirolez zero lactose 200g",
+        "requeijao tirolez zero lactose | massa:200g"
+      ],
+      "descricao_base": "requeijao tirolez zero lactose",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-28T17:07:48"
     }
   }
 }
