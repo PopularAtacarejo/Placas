@@ -16942,5 +16942,37 @@
     "produto": "Farofa Pronta Popular 350g div. sabores",
     "preco": "5,98",
     "validade_oferta_ate": "08/09/2026"
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "11:34:03",
+    "feito_por": "Eduardo",
+    "produto": "Laranja Pera Kg",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "11:34:03",
+    "feito_por": "Eduardo",
+    "produto": "Pera Danjou Kg",
+    "preco": "14,98",
+    "validade_oferta_ate": "31/08/2026"
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "11:34:03",
+    "feito_por": "Eduardo",
+    "produto": "Tangerina Importada Kg",
+    "preco": "15,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "11:34:03",
+    "feito_por": "Eduardo",
+    "produto": "Ovos De Codorna Dois Irmaos 30un",
+    "preco": "9,98",
+    "validade_oferta_ate": "30/08/2026"
   }
 ]
