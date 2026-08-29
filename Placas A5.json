@@ -20590,5 +20590,45 @@
     "produto": "Pao De Alho Massa Fest Trad 400g",
     "preco": "11,98",
     "validade_oferta_ate": "31/08/2026"
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "08:57:33",
+    "feito_por": "Douglas",
+    "produto": "Figado Bovino Congelado Kg",
+    "preco": "14,98",
+    "validade_oferta_ate": "29/08/2026"
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "08:57:33",
+    "feito_por": "Douglas",
+    "produto": "Bisteca Suina Cong. Kg",
+    "preco": "15,48",
+    "validade_oferta_ate": "29/08/2026"
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "09:05:22",
+    "feito_por": "Wellington",
+    "produto": "Pinha Kg",
+    "preco": "23,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "09:06:23",
+    "feito_por": "Paulo",
+    "produto": "Beb Lactea Elege Morango Bdj 510g",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "09:08:24",
+    "feito_por": "Sidnei",
+    "produto": "Leite Em Po Instantaneo Camponesa 200g",
+    "preco": "7,48",
+    "validade_oferta_ate": "29/08/2026"
   }
 ]
