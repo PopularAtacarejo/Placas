@@ -16982,5 +16982,85 @@
     "produto": "Tomate Kg",
     "preco": "4,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "12:29:14",
+    "feito_por": "Eduardo",
+    "produto": "Tangerina Kg",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "12:29:14",
+    "feito_por": "Eduardo",
+    "produto": "Melao Espanhol Kg",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "12:29:14",
+    "feito_por": "Eduardo",
+    "produto": "Melancia Kg",
+    "preco": "3,08",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "12:29:14",
+    "feito_por": "Eduardo",
+    "produto": "Cebola Branca Kg",
+    "preco": "5,68",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "12:29:14",
+    "feito_por": "Eduardo",
+    "produto": "Manga Rosa Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "12:29:14",
+    "feito_por": "Eduardo",
+    "produto": "Inhame Kg",
+    "preco": "12,58",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "12:29:14",
+    "feito_por": "Eduardo",
+    "produto": "Banana Maca Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "12:29:14",
+    "feito_por": "Eduardo",
+    "produto": "Banana Comprida/Terra Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "12:29:14",
+    "feito_por": "Eduardo",
+    "produto": "Mamao Papaya Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "12:29:14",
+    "feito_por": "Eduardo",
+    "produto": "Manga Espada Kg",
+    "preco": "6,58",
+    "validade_oferta_ate": ""
   }
 ]
