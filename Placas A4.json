@@ -16886,5 +16886,13 @@
     "produto": "Bisteca Suina Cong. Kg",
     "preco": "15,48",
     "validade_oferta_ate": "29/08/2026"
+  },
+  {
+    "data": "2026-08-29",
+    "horario": "09:05:22",
+    "feito_por": "Wellington",
+    "produto": "Pinha Kg",
+    "preco": "23,98",
+    "validade_oferta_ate": ""
   }
 ]
