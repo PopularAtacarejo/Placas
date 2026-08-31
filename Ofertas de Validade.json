@@ -23911,5 +23911,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "17:17:46",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Amant Renata Coco 330 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/09/2026",
+        "codigo_barras": "7896022204631",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Amant Renata Chocolate 330 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/09/2026",
+        "codigo_barras": "7896022204624",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/09/2026",
+        "codigo_barras": "7896016435836",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Biscoito Sequilho Leite Pajucara 100 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "16/09/2026",
+        "codigo_barras": "7896016436208",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
