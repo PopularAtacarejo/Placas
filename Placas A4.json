@@ -17198,5 +17198,29 @@
     "produto": "Agua Min Village S/ Gas 500ml",
     "preco": "0,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-31",
+    "horario": "17:41:14",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Desc Pampers Supersec Hiperm C/90, g C/80",
+    "preco": "89,98",
+    "validade_oferta_ate": "01/09/2026"
+  },
+  {
+    "data": "2026-08-31",
+    "horario": "17:41:14",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Desc Babysec Shortinho Megam C/30und, g C/24und, Xg C/22und, Xxg C/20und",
+    "preco": "29,98",
+    "validade_oferta_ate": "01/09/2026"
+  },
+  {
+    "data": "2026-08-31",
+    "horario": "17:41:14",
+    "feito_por": "Jeferson",
+    "produto": "Fralda Mili Love e Care Jbinho p C/28p C/28, m C/26, g c/24, Xg C/22,",
+    "preco": "28,98",
+    "validade_oferta_ate": "01/09/2026"
   }
 ]
