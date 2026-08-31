@@ -24333,5 +24333,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "18:31:04",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Massa Para Pastel Pasticrem 200 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/09/2026",
+        "codigo_barras": "7896109200013",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Queijo Muçarela Fatiado Galbani 150 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/09/2026",
+        "codigo_barras": "7891097105739",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Linguiça Tipo Calabresa Defumada Perdigao 1 kg",
+        "preco": "32,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/09/2026",
+        "codigo_barras": "7891515518516",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Requeijão Nestlé Tradicional 200 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/09/2026",
+        "codigo_barras": "7891000084649",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
