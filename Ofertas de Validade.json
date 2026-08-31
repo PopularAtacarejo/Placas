@@ -23735,5 +23735,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "17:09:07",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Cr Cracker Marilan Premium 300 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/09/2026",
+        "codigo_barras": "7896003738452",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Capricche Água/Sal 350 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/09/2026",
+        "codigo_barras": "7898657830841",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Cr Crack Capricche Integ 314,4 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/09/2026",
+        "codigo_barras": "7898657832180",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Cream Cracker Capricche Trad 350 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/09/2026",
+        "codigo_barras": "7898657830827",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
