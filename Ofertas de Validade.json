@@ -24043,5 +24043,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "17:24:51",
+    "placa": 11,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Amanteigado Leite Maltado Vitamassa 120 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/09/2026",
+        "codigo_barras": "7897353903439",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Oreo Chocolate Mondelez 270 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/09/2026",
+        "codigo_barras": "7622210565938",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Batata Yokitos Ondulada Natural 45 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/09/2026",
+        "codigo_barras": "7891095023134",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Salg Elma Chips Fandangos Churrasco 35 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/09/2026",
+        "codigo_barras": "7892840822842",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
