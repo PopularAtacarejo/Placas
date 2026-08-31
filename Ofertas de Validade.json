@@ -23779,5 +23779,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "17:11:13",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Biscoito Cream Craker Capricche Premium",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/09/2026",
+        "codigo_barras": "7898657832548",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/09/2026",
+        "codigo_barras": "7896532701064",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Skin Cream Cracker Integral 300 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/09/2026",
+        "codigo_barras": "7898185760078",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Club Social Presunto 141 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/09/2026",
+        "codigo_barras": "7622210644534",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
