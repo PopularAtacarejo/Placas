@@ -23999,5 +23999,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "17:22:28",
+    "placa": 10,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rech Futurinho Morango 339 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/09/2026",
+        "codigo_barras": "7898657831671",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rech Futurinho Brigadeiro 339 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/09/2026",
+        "codigo_barras": "7898657831664",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Rech Morango Vitamassa 60 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/09/2026",
+        "codigo_barras": "7897353900612",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Amant. Vitamas Leit/Mel 120 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "17/09/2026",
+        "codigo_barras": "7897353902906",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
