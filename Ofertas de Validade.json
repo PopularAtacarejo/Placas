@@ -24131,5 +24131,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "17:27:35",
+    "placa": 13,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Maxmallows Pistache 150 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7896451928221",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
