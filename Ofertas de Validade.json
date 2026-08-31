@@ -24148,5 +24148,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "17:30:38",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Treloso Clubinho Leite 130 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/09/2026",
+        "codigo_barras": "7896213004521",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
