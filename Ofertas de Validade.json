@@ -24251,5 +24251,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "18:29:00",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Presunt Seara Coz Magro Fat Kg",
+        "preco": "28,98",
+        "unidade": "Kg",
+        "validade_oferta": "31/08/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Presunto Sadia Solt Fatiado 200 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/09/2026",
+        "codigo_barras": "7891515432652",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Manteiga De Coco Copra Cremosa 200 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/09/2026",
+        "codigo_barras": "7898596082776",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mortadela Fat Def Vacuo Sd 180 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/09/2026",
+        "codigo_barras": "7891515598259",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
