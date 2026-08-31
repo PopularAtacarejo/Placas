@@ -23955,5 +23955,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "17:20:02",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rech Futurinhos Morango 113 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/09/2026",
+        "codigo_barras": "7898657831527",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rech Futurinhos Bem Casado 113 g",
+        "preco": "2,28",
+        "unidade": "Unid.",
+        "validade_oferta": "30/09/2026",
+        "codigo_barras": "7898657831558",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Rech Futurinhos Flocos 113 g",
+        "preco": "2,28",
+        "unidade": "Unid.",
+        "validade_oferta": "28/09/2026",
+        "codigo_barras": "7898657831541",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Capricche Amant. Coco 288 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/09/2026",
+        "codigo_barras": "7898657831848",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
