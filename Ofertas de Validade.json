@@ -23647,5 +23647,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "17:05:01",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Capricche Maria Trad 312 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/09/2026",
+        "codigo_barras": "7898657831008",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Marilan Distracao Choc/Choc Branco 280 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/09/2026",
+        "codigo_barras": "7896003740769",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Marilan Distracao Choc/Coco 280 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/09/2026",
+        "codigo_barras": "7896003740776",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Maizena Marilan Chocolate 300 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/09/2026",
+        "codigo_barras": "7896003740257",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
