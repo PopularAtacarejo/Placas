@@ -24377,5 +24377,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "18:31:30",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Super Pizza Delicias Calabresa 350 g",
+        "preco": "9,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7899983838488",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
