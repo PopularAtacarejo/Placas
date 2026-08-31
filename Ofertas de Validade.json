@@ -24293,5 +24293,45 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "18:30:01",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Queijo Muçarela Novo Horizonte Fat Kg",
+        "preco": "39,98",
+        "unidade": "Kg",
+        "validade_oferta": "31/08/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Super Pizza Delicia Frango 350 g",
+        "preco": "9,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7899966681872",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Queijo Prato Zero Lact. Novo Horizont.Kg",
+        "preco": "39,98",
+        "unidade": "Kg",
+        "validade_oferta": "02/09/2026"
+      },
+      {
+        "posicao": "4",
+        "descricao": "Requeijão Nestlé Light 200 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/09/2026",
+        "codigo_barras": "7891000084663",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
