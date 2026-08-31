@@ -17150,5 +17150,13 @@
     "produto": "Tomate Kg",
     "preco": "4,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-08-31",
+    "horario": "10:00:37",
+    "feito_por": "Wellington",
+    "produto": "Laranja Pera Kg",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
   }
 ]
