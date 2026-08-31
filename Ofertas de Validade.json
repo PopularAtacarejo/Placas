@@ -24087,5 +24087,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "17:26:49",
+    "placa": 12,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Balas Mast Pindorama Iogurte 300 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/09/2029",
+        "codigo_barras": "7896215301116",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Amendoim Crokissimo Shoyu 150 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/09/2026",
+        "codigo_barras": "7896336016326",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salg Torcida Queijo 35 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/09/2026",
+        "codigo_barras": "7892840822521",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Batata Fries Coringa Bacon 40 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/09/2026",
+        "codigo_barras": "7896481100055",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
