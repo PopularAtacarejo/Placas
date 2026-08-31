@@ -23823,5 +23823,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "17:13:26",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Club Social Bacon&provol 141 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/09/2026",
+        "codigo_barras": "7622210568847",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Club Social Ceb c/sour 141 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/09/2026",
+        "codigo_barras": "7622210568816",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Marilan Pit Stop Rech Peito Peru 91 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/09/2026",
+        "codigo_barras": "7896003739664",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Treloso Amant Coco 330 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/09/2026",
+        "codigo_barras": "7896213004897",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
