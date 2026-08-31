@@ -24165,5 +24165,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "18:27:01",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Hamb Perdigão Frango 56 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "09/09/2026",
+        "codigo_barras": "7891515989415",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Ling Calabresa Ceratti Def Fat Ft 100 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/09/2026",
+        "codigo_barras": "7898907632614",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Filézinho Sassimi Lar Bdj 1 kg",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/08/2026",
+        "codigo_barras": "7896419728917",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Massa De Pastel Massafest T. Aniv 500 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/09/2026",
+        "codigo_barras": "7898928718038",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
