@@ -23691,5 +23691,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "31/08/2026",
+    "hora": "17:07:03",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Marilan Salgadinhos Queijo 400 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/09/2026",
+        "codigo_barras": "7896003703368",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rosq Coco Parati 250 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/09/2026",
+        "codigo_barras": "7896004009902",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bolacha Bem Bom Vovo Dulce 300 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/09/2026",
+        "codigo_barras": "7898962966419",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Pilar Coquinho 300 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/09/2026",
+        "codigo_barras": "7896005030073",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
