@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-08-31T17:00:20",
+  "atualizado_em": "2026-08-31T18:24:26",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -926,10 +926,12 @@
       "atualizado_em": "2026-03-19T07:59:33"
     },
     "hamb perdigao frango | massa:56g": {
-      "descricao": "Hamb Perdigão Frango 56g",
+      "descricao": "Hamb Perdigão Frango 56 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7891515989415",
+      "hits": 2,
       "aliases": [
+        "hamb perdigao frango 56 g",
         "hamb perdigao frango 56g",
         "hamb perdigao frango | massa:56g"
       ],
@@ -938,7 +940,7 @@
         "massa:56g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-19T07:59:33"
+      "atualizado_em": "2026-08-31T18:24:26"
     },
     "iog itambe fit bdj mor/ameixa/maca | massa:510g": {
       "descricao": "Iog Itambe Fit 510g Bdj Mor/Ameixa/Maçã",
@@ -3326,7 +3328,8 @@
     "massa para pastel pasticrem | massa:200g": {
       "descricao": "Massa Para Pastel Pasticrem 200 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7896109200013",
+      "hits": 3,
       "aliases": [
         "massa para pastel pasticrem 200 g",
         "massa para pastel pasticrem 200g",
@@ -3337,7 +3340,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-08-31T18:24:26"
     },
     "massa de pastel pasticrem t aniv | massa:500g": {
       "descricao": "Massa De Pastel Pasticrem T. Aniv 500 g",
@@ -13206,7 +13209,7 @@
       "descricao": "Mortadela Fat Def Vacuo Sd 180 g",
       "unidade": "Unid.",
       "codigo_barras": "7891515598259",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "mortadela fat def vacuo sd 180 g",
         "mortadela fat def vacuo sd 180g",
@@ -13217,7 +13220,7 @@
         "massa:180g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-08-31T18:24:26"
     },
     "queijo cream cheese polenghi zr lac | massa:150g": {
       "descricao": "Queijo Cream Cheese Polenghi Zr Lac 150 g",
@@ -13380,7 +13383,7 @@
       "descricao": "Requeijão Nestlé Tradicional 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7891000084649",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "requeijao nestle tradicional 200 g",
         "requeijao nestle tradicional 200g",
@@ -13391,7 +13394,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-27T16:25:03"
+      "atualizado_em": "2026-08-31T18:24:26"
     },
     "requeijao catupiry lactozero | massa:150g": {
       "descricao": "Requeijão Catupiry Lactozero 150 g",
@@ -13448,7 +13451,7 @@
       "descricao": "Requeijão Nestlé Light 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7891000084663",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "requeijao nestle light 200 g",
         "requeijao nestle light 200g",
@@ -13459,7 +13462,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-08-31T18:24:26"
     },
     "queijo cream cheese catupiry | massa:150g": {
       "descricao": "Queijo Cream Cheese Catupiry 150 g",
@@ -13942,22 +13945,23 @@
       "atualizado_em": "2026-07-07T17:13:59"
     },
     "linguica tipo calabresa defumada perdigao | massa:1000g": {
-      "descricao": "Marg Delicia Chef Ervas Arom 500 g",
+      "descricao": "Linguiça Tipo Calabresa Defumada Perdigao 1 kg",
       "unidade": "Unid.",
-      "codigo_barras": "7894904272952",
-      "hits": 1,
+      "codigo_barras": "7891515518516",
+      "hits": 2,
       "aliases": [
+        "linguica tipo calabresa defumada perdigao 1 kg",
         "linguica tipo calabresa defumada perdigao 1kg",
         "linguica tipo calabresa defumada perdigao | massa:1000g",
         "marg delicia chef ervas arom 500 g",
         "marg delicia chef ervas arom | massa:500g"
       ],
-      "descricao_base": "marg delicia chef ervas arom",
+      "descricao_base": "linguica tipo calabresa defumada perdigao",
       "medidas": [
-        "massa:500g"
+        "massa:1000g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-07T17:13:59"
+      "atualizado_em": "2026-08-31T18:24:26"
     },
     "marg delicia chef ervas arom | massa:500g": {
       "descricao": "Massa De Pastel Fam. Pasticrem 500 g",
@@ -18726,7 +18730,7 @@
       "descricao": "Ling Calabresa Ceratti Def Fat Ft 100 g",
       "unidade": "Unid.",
       "codigo_barras": "7898907632614",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "ling calabresa ceratti def fat ft 100 g",
         "ling calabresa ceratti def fat ft 100g",
@@ -18737,7 +18741,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-08-31T18:24:26"
     },
     "pao de alho massa fest trad | massa:400g": {
       "descricao": "Pão De Alho Massa Fest Trad 400 g",
@@ -18777,7 +18781,7 @@
       "descricao": "Manteiga De Coco Copra Cremosa 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7898596082776",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "manteiga de coco copra cremosa 200 g",
         "manteiga de coco copra cremosa 200g",
@@ -18788,7 +18792,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-08-31T18:24:26"
     },
     "mortadela defumada gourmet seara | massa:180g": {
       "descricao": "Mortadela Defumada Gourmet Seara 180 g",
@@ -18828,7 +18832,7 @@
       "descricao": "Mortadela Perdigao 1 kg",
       "unidade": "Unid.",
       "codigo_barras": "7891515408312",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "mortadela perdigao 1 kg",
         "mortadela perdigao 1kg",
@@ -18839,7 +18843,7 @@
         "massa:1000g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-08-31T18:24:26"
     },
     "massa de pastel massafest rolo | massa:1000g": {
       "descricao": "Massa De Pastel Massafest Rolo 1 kg",
@@ -18862,7 +18866,7 @@
       "descricao": "Queijo Muçarela Fatiado Galbani 150 g",
       "unidade": "Unid.",
       "codigo_barras": "7891097105739",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "queijo mucarela fatiado galbani 150 g",
         "queijo mucarela fatiado galbani | massa:150g",
@@ -18874,7 +18878,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-08-31T18:24:26"
     },
     "queijo cream cheese polenghi light | massa:150g": {
       "descricao": "Queijo Cream Cheese Polenghi Light 150 g",
@@ -18914,7 +18918,7 @@
       "descricao": "Presunto Sadia Solt Fatiado 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7891515432652",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "presunto sadia solt fatiado 200 g",
         "presunto sadia solt fatiado 200g",
@@ -18925,7 +18929,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-08-31T18:24:26"
     },
     "ling coz mista sadia defum | massa:215g": {
       "descricao": "Ling Coz Mista Sadia Defum 215 g",
@@ -19538,6 +19542,122 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-08-31T17:00:20"
+    },
+    "filezinho sassimi lar bdj | massa:1000g": {
+      "descricao": "Filézinho Sassimi Lar Bdj 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7896419728917",
+      "hits": 1,
+      "aliases": [
+        "filezinho sassimi lar bdj 1 kg",
+        "filezinho sassimi lar bdj 1kg",
+        "filezinho sassimi lar bdj | massa:1000g"
+      ],
+      "descricao_base": "filezinho sassimi lar bdj",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-31T18:24:26"
+    },
+    "massa de pastel massafest t aniv | massa:500g": {
+      "descricao": "Massa De Pastel Massafest T. Aniv 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898928718038",
+      "hits": 1,
+      "aliases": [
+        "massa de pastel massafest t aniv 500 g",
+        "massa de pastel massafest t aniv 500g",
+        "massa de pastel massafest t aniv | massa:500g"
+      ],
+      "descricao_base": "massa de pastel massafest t aniv",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-31T18:24:26"
+    },
+    "mort confianca trad | massa:1000g": {
+      "descricao": "Mort Confianca Trad 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7894904578245",
+      "hits": 1,
+      "aliases": [
+        "mort confianca trad 1 kg",
+        "mort confianca trad 1kg",
+        "mort confianca trad | massa:1000g"
+      ],
+      "descricao_base": "mort confianca trad",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-31T18:24:26"
+    },
+    "pao de alho frescarina | massa:400g": {
+      "descricao": "Pão De Alho Frescarina 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898928718670",
+      "hits": 1,
+      "aliases": [
+        "pao de alho frescarina 400 g",
+        "pao de alho frescarina 400g",
+        "pao de alho frescarina | massa:400g"
+      ],
+      "descricao_base": "pao de alho frescarina",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-31T18:24:26"
+    },
+    "queijo mussarela novo horizonte fat kg": {
+      "descricao": "Queijo Muçarela Novo Horizonte Fat Kg",
+      "unidade": "Kg",
+      "codigo_barras": "",
+      "hits": 1,
+      "aliases": [
+        "queijo mucarela novo horizonte fat kg",
+        "queijo mussarela novo horizonte fat kg"
+      ],
+      "descricao_base": "queijo mucarela novo horizonte fat kg",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-31T18:24:26"
+    },
+    "super pizza delicia frango | massa:350g": {
+      "descricao": "Super Pizza Delicia Frango 350 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7899966681872",
+      "hits": 1,
+      "aliases": [
+        "super pizza delicia frango 350 g",
+        "super pizza delicia frango 350g",
+        "super pizza delicia frango | massa:350g"
+      ],
+      "descricao_base": "super pizza delicia frango",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-31T18:24:26"
+    },
+    "super pizza delicias calabresa | massa:350g": {
+      "descricao": "Super Pizza Delicias Calabresa 350 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7899983838488",
+      "hits": 1,
+      "aliases": [
+        "super pizza delicias calabresa 350 g",
+        "super pizza delicias calabresa 350g",
+        "super pizza delicias calabresa | massa:350g"
+      ],
+      "descricao_base": "super pizza delicias calabresa",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-08-31T18:24:26"
     }
   }
 }
