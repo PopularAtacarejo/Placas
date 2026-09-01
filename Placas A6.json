@@ -24310,5 +24310,29 @@
     "produto": "Refri Pepsi Black Zero Pet 2l",
     "preco": "7,68",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "09:17:00",
+    "feito_por": "Sidnei",
+    "produto": "Cerv Budweiser Ln 330ml",
+    "preco": "2,98",
+    "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "09:17:27",
+    "feito_por": "Sidnei",
+    "produto": "Cerveja Skol One Way Ln Retornavel 300ml",
+    "preco": "2,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "10:10:55",
+    "feito_por": "Huiliane",
+    "produto": "Leite Uht Molico 1l Desn Zl Vit",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
   }
 ]
