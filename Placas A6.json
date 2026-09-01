@@ -24246,5 +24246,53 @@
     "produto": "Amaciante Bebe Carinho 500ml Camomila ou amendoas",
     "preco": "5,98",
     "validade_oferta_ate": "01/09/2026"
+  },
+  {
+    "data": "2026-08-31",
+    "horario": "17:52:51",
+    "feito_por": "Eduardo",
+    "produto": "Amendoim Crocante Cebola e Salsa 150g",
+    "preco": "3,98",
+    "validade_oferta_ate": "11/09/2026"
+  },
+  {
+    "data": "2026-08-31",
+    "horario": "17:52:51",
+    "feito_por": "Eduardo",
+    "produto": "Batatinha Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "07:44:10",
+    "feito_por": "Sidnei",
+    "produto": "Flocao De Milho Popular 400g",
+    "preco": "1,38",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "07:45:05",
+    "feito_por": "Sidnei",
+    "produto": "Oleo De Soja Soya 900ml",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "07:45:41",
+    "feito_por": "Sidnei",
+    "produto": "Cerv Coronita Extra Ln 210ml",
+    "preco": "6,29",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "09:12:08",
+    "feito_por": "Silvana",
+    "produto": "Feijao Tio Vieira Carioca T1 1kg",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
   }
 ]
