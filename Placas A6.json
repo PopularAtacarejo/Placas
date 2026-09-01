@@ -24334,5 +24334,45 @@
     "produto": "Leite Uht Molico 1l Desn Zl Vit",
     "preco": "9,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "10:56:05",
+    "feito_por": "Sidnei",
+    "produto": "Cerv Budweiser Ln 330ml",
+    "preco": "2,98",
+    "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "14:17:12",
+    "feito_por": "Sidnei",
+    "produto": "Cerv Corona Cero Sunbrew Ln 330ml",
+    "preco": "7,49",
+    "validade_oferta_ate": "16/09/2026"
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "14:28:47",
+    "feito_por": "Sidnei",
+    "produto": "Cerv Corona Cero Sunbrew Ln 330ml",
+    "preco": "7,49",
+    "validade_oferta_ate": "16/09/2026"
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "14:31:56",
+    "feito_por": "Sidnei",
+    "produto": "Cerv Corona Cero Sunbrew Ln 330ml",
+    "preco": "7,49",
+    "validade_oferta_ate": "16/09/2026"
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "14:50:46",
+    "feito_por": "Silvania",
+    "produto": "Amido De Milho Maizena Lv200pg150g",
+    "preco": "5,18",
+    "validade_oferta_ate": ""
   }
 ]
