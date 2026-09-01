@@ -17286,5 +17286,13 @@
     "produto": "Cerv Budweiser Ln 330ml",
     "preco": "2,98",
     "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "09:17:27",
+    "feito_por": "Sidnei",
+    "produto": "Cerveja Skol One Way Ln Retornavel 300ml",
+    "preco": "2,88",
+    "validade_oferta_ate": ""
   }
 ]
