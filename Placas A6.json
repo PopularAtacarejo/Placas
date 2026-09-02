@@ -25134,5 +25134,61 @@
     "produto": "Refri Pet 2,5l Coca Cola Z/Acucar",
     "preco": "11,99",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "09:57:33",
+    "feito_por": "Renato",
+    "produto": "Beterraba Kg",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "09:57:33",
+    "feito_por": "Renato",
+    "produto": "Abacaxi Un",
+    "preco": "4,98",
+    "validade_oferta_ate": "03/09/2026"
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "09:57:33",
+    "feito_por": "Renato",
+    "produto": "Pera Danjou Kg",
+    "preco": "24,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "10:09:53",
+    "feito_por": "Vinicius",
+    "produto": "Racao P/Cao Receita Espec Ad 10kg",
+    "preco": "139,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "10:09:53",
+    "feito_por": "Vinicius",
+    "produto": "Racao P/Cao Receita Espec Fl 15kg",
+    "preco": "198,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "10:09:53",
+    "feito_por": "Vinicius",
+    "produto": "Racao P/Gato Receita Pe Ad Sa 10,1kg",
+    "preco": "149,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "10:09:53",
+    "feito_por": "Vinicius",
+    "produto": "Racao P/Gato Receita Pe Ad c 10,1kg",
+    "preco": "149,98",
+    "validade_oferta_ate": ""
   }
 ]
