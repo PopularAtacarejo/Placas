@@ -17718,5 +17718,13 @@
     "produto": "Maca Nacional Kg",
     "preco": "8,98",
     "validade_oferta_ate": "03/09/2026"
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "08:20:00",
+    "feito_por": "Wellington",
+    "produto": "Inhame Kg",
+    "preco": "13,48",
+    "validade_oferta_ate": ""
   }
 ]
