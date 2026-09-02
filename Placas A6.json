@@ -24966,5 +24966,29 @@
     "produto": "Cerv Budweiser Ln 330ml",
     "preco": "2,98",
     "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "20:42:02",
+    "feito_por": "Marcos",
+    "produto": "Agua Mineral Solara 1,5l",
+    "preco": "2,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-01",
+    "horario": "20:42:02",
+    "feito_por": "Marcos",
+    "produto": "Agua Min Village S/ Gas 500ml",
+    "preco": "0,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "07:55:13",
+    "feito_por": "Sidnei",
+    "produto": "Beb Lactea Parmalat Wheyfit Baunilha 250ml",
+    "preco": "5,98",
+    "validade_oferta_ate": "03/09/2026"
   }
 ]
