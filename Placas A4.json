@@ -17750,5 +17750,29 @@
     "produto": "Refri Pepsi Black Zero Pet 2l",
     "preco": "8,59",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "09:57:33",
+    "feito_por": "Renato",
+    "produto": "Beterraba Kg",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "09:57:33",
+    "feito_por": "Renato",
+    "produto": "Abacaxi Un",
+    "preco": "4,98",
+    "validade_oferta_ate": "03/09/2026"
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "09:57:33",
+    "feito_por": "Renato",
+    "produto": "Pera Danjou Kg",
+    "preco": "24,98",
+    "validade_oferta_ate": ""
   }
 ]
