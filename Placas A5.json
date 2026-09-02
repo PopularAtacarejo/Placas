@@ -21654,5 +21654,37 @@
     "produto": "Morango Vilifrut Bdj 200g",
     "preco": "6,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "16:08:09",
+    "feito_por": "Jane",
+    "produto": "Bucho Bovino Kg",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "18:51:37",
+    "feito_por": "Gustavo",
+    "produto": "Cerv Heineken Sleek Lt 350ml",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "18:51:37",
+    "feito_por": "Gustavo",
+    "produto": "Cerv Heineken Ln 330ml",
+    "preco": "7,68",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-02",
+    "horario": "18:51:37",
+    "feito_por": "Gustavo",
+    "produto": "Cerv Heineken Lt 473ml",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
   }
 ]
