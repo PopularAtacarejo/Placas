@@ -21774,5 +21774,13 @@
     "produto": "Uva Italia Kg",
     "preco": "9,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "19:36:33",
+    "feito_por": "Renato",
+    "produto": "Laranja Pera Kg",
+    "preco": "1,48",
+    "validade_oferta_ate": "03/09/2026"
   }
 ]
