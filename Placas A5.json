@@ -21726,5 +21726,53 @@
     "produto": "Bisc Rosquinha Petyan Leite 300g",
     "preco": "2,98",
     "validade_oferta_ate": "14/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "15:03:57",
+    "feito_por": "Douglas",
+    "produto": "Pao De Alho Massa Fest Trad 400g",
+    "preco": "11,98",
+    "validade_oferta_ate": "15/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "17:48:27",
+    "feito_por": "Katiany",
+    "produto": "Ice Smirnoff Original 275ml",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "17:55:10",
+    "feito_por": "Katiany",
+    "produto": "Ice Smirnoff Original 275ml",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "18:30:24",
+    "feito_por": "Cauan",
+    "produto": "Refri Lt 350ml C/6uni Fanta Laranja",
+    "preco": "18,99",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "18:31:13",
+    "feito_por": "Cauan",
+    "produto": "Refri 350ml C/6un Coca Cola Z/Acucar",
+    "preco": "21,99",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "19:35:56",
+    "feito_por": "Renato",
+    "produto": "Uva Italia Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
   }
 ]
