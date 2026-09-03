@@ -25342,5 +25342,45 @@
     "produto": "Pao Forma Plusvita S/acucar 350g",
     "preco": "4,98",
     "validade_oferta_ate": "03/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "10:30:37",
+    "feito_por": "Sidnei",
+    "produto": "Choc Chokito Nestle 32g",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "10:30:37",
+    "feito_por": "Sidnei",
+    "produto": "Wafer Trento Avela 29g",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "10:30:37",
+    "feito_por": "Sidnei",
+    "produto": "Choc Talento Doce De Leite 85g",
+    "preco": "8,98",
+    "validade_oferta_ate": "10/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "10:30:37",
+    "feito_por": "Sidnei",
+    "produto": "Wafer Trento Massimo Chocolate 25g",
+    "preco": "4,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "10:30:37",
+    "feito_por": "Sidnei",
+    "produto": "Barra Choc. Neugebauer Napolitano 70g",
+    "preco": "12,48",
+    "validade_oferta_ate": ""
   }
 ]
