@@ -25318,5 +25318,29 @@
     "produto": "Pao De Hamburguer Pvt 400g",
     "preco": "14,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "10:12:59",
+    "feito_por": "Matheus",
+    "produto": "Pao De Forma Skin Int 450g - Un",
+    "preco": "6,98",
+    "validade_oferta_ate": "04/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "10:12:59",
+    "feito_por": "Matheus",
+    "produto": "Pao De Hamb. C/Gergelim Bimbo 280g",
+    "preco": "8,98",
+    "validade_oferta_ate": "05/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "10:12:59",
+    "feito_por": "Matheus",
+    "produto": "Pao Forma Plusvita S/acucar 350g",
+    "preco": "4,98",
+    "validade_oferta_ate": "03/09/2026"
   }
 ]
