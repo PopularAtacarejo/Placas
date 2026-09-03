@@ -25390,5 +25390,85 @@
     "produto": "Cerv Budweiser Zero Ln 330ml",
     "preco": "5,48",
     "validade_oferta_ate": "24/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "12:53:25",
+    "feito_por": "Sidnei",
+    "produto": "Cerveja Praya Lager Sem Gluten 330ml",
+    "preco": "7,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "15:03:57",
+    "feito_por": "Douglas",
+    "produto": "Pao De Alho Massa Fest Trad 400g",
+    "preco": "11,98",
+    "validade_oferta_ate": "15/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "17:06:42",
+    "feito_por": "Lucas",
+    "produto": "Wafer Trento Massimo Chocolate 25g",
+    "preco": "1,98",
+    "validade_oferta_ate": "10/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "17:06:42",
+    "feito_por": "Lucas",
+    "produto": "Barra Choc 70 Ao Leite Cacau Cia 20g",
+    "preco": "4,48",
+    "validade_oferta_ate": "30/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "17:06:42",
+    "feito_por": "Lucas",
+    "produto": "Wafer Trento Avela 29g",
+    "preco": "1,98",
+    "validade_oferta_ate": "19/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "17:06:42",
+    "feito_por": "Lucas",
+    "produto": "Wafer Trento Branco Dark 29g",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "17:06:42",
+    "feito_por": "Lucas",
+    "produto": "Bala Docile Mini Abobora 15g",
+    "preco": "0,78",
+    "validade_oferta_ate": "10/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "17:06:42",
+    "feito_por": "Lucas",
+    "produto": "Baton Garoto Choc Branco 16g",
+    "preco": "1,98",
+    "validade_oferta_ate": "25/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "17:06:42",
+    "feito_por": "Lucas",
+    "produto": "Choc Talento Doce De Leite 85g",
+    "preco": "4,98",
+    "validade_oferta_ate": "10/09/2026"
+  },
+  {
+    "data": "2026-09-03",
+    "horario": "17:06:42",
+    "feito_por": "Lucas",
+    "produto": "Pastilha Garoto Hortela 17g",
+    "preco": "0,98",
+    "validade_oferta_ate": "11/09/2026"
   }
 ]
