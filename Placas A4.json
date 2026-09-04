@@ -17910,5 +17910,21 @@
     "produto": "Refri Pepsi Black Zero Pet 2l",
     "preco": "7,99",
     "validade_oferta_ate": "13/09/2026"
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "10:17:50",
+    "feito_por": "Sidnei",
+    "produto": "Refri Guarana Antarctica S/Açucar Pet 1l",
+    "preco": "3,99",
+    "validade_oferta_ate": "13/09/2026"
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "10:17:50",
+    "feito_por": "Sidnei",
+    "produto": "Refri Guarana Antarctica Pet 1l",
+    "preco": "5,09",
+    "validade_oferta_ate": "13/09/2026"
   }
 ]
