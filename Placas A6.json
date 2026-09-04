@@ -25798,5 +25798,29 @@
     "produto": "Choc Bombom Arcor Pacoca 15g",
     "preco": "0,98",
     "validade_oferta_ate": "04/10/2026"
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "13:17:28",
+    "feito_por": "Eduardo",
+    "produto": "Tangerina Importada Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "13:17:28",
+    "feito_por": "Eduardo",
+    "produto": "Maca Nacional Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "13:22:04",
+    "feito_por": "Ruan",
+    "produto": "Choc Lacta Bis Xtra Oreo 45g",
+    "preco": "3,98",
+    "validade_oferta_ate": "09/09/2026"
   }
 ]
