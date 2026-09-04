@@ -17862,5 +17862,37 @@
     "produto": "Refri 350ml C/6un Coca Cola Z/Acucar",
     "preco": "21,99",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "07:29:38",
+    "feito_por": "Wellington",
+    "produto": "Tomate Kg",
+    "preco": "5,38",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "07:29:38",
+    "feito_por": "Wellington",
+    "produto": "Maca Nacional Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "07:29:38",
+    "feito_por": "Wellington",
+    "produto": "Goiaba Kg",
+    "preco": "5,38",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "07:29:38",
+    "feito_por": "Wellington",
+    "produto": "Cebola Branca Kg",
+    "preco": "7,28",
+    "validade_oferta_ate": ""
   }
 ]
