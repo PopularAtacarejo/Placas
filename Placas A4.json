@@ -17982,5 +17982,21 @@
     "produto": "Mort Confianca Frango 1kg",
     "preco": "4,98",
     "validade_oferta_ate": "04/09/2026"
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "13:17:28",
+    "feito_por": "Eduardo",
+    "produto": "Tangerina Importada Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "13:17:28",
+    "feito_por": "Eduardo",
+    "produto": "Maca Nacional Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
   }
 ]
