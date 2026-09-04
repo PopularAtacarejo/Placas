@@ -25726,5 +25726,53 @@
     "produto": "Coca Cola + Coca S/A Pet 2l",
     "preco": "21,50",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "11:49:47",
+    "feito_por": "Caio",
+    "produto": "Pera Danjou Rede Kg",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "11:57:59",
+    "feito_por": "Caio",
+    "produto": "Pera Danjou Rede Kg",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "11:57:59",
+    "feito_por": "Caio",
+    "produto": "Amendoim Cozido Kg",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "11:59:04",
+    "feito_por": "Douglas",
+    "produto": "Mort Confianca Frango 1kg",
+    "preco": "4,98",
+    "validade_oferta_ate": "04/09/2026"
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "12:03:47",
+    "feito_por": "Lçlçl",
+    "produto": "Mort Confianca Frango 1kg",
+    "preco": "4,98",
+    "validade_oferta_ate": "04/09/2026"
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "12:39:34",
+    "feito_por": "Ruan",
+    "produto": "Choc Bombom Arcor Pacoca 15g",
+    "preco": "0,98",
+    "validade_oferta_ate": "04/10/2026"
   }
 ]
