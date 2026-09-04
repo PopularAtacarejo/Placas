@@ -18406,5 +18406,21 @@
     "produto": "MAMINHA",
     "preco": "37,98",
     "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "17:56:47",
+    "feito_por": "Jeferson",
+    "produto": "Flocão de Milho Popular 400g",
+    "preco": "1,15",
+    "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "17:56:47",
+    "feito_por": "Jeferson",
+    "produto": "Goiabada Poly Popular 500g",
+    "preco": "5,48",
+    "validade_oferta_ate": "06/09/2026"
   }
 ]
