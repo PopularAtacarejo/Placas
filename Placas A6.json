@@ -25566,5 +25566,21 @@
     "produto": "Choc Lacta Bis Xtra Orig 45g",
     "preco": "5,98",
     "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "08:58:06",
+    "feito_por": "Ana",
+    "produto": "Cond Prime Hair Antiq.Abacate e Jabor 270ml",
+    "preco": "12,98",
+    "validade_oferta_ate": "30/09/2026"
+  },
+  {
+    "data": "2026-09-04",
+    "horario": "08:58:06",
+    "feito_por": "Ana",
+    "produto": "Remov Esm Beira Alta 90ml",
+    "preco": "3,48",
+    "validade_oferta_ate": "30/10/2026"
   }
 ]
