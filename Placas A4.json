@@ -18550,5 +18550,21 @@
     "produto": "File De Peito Jagua Bdj 1kg",
     "preco": "18,98",
     "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "08:15:38",
+    "feito_por": "Gustavo",
+    "produto": "Ice Smirnoff 269ml Div. Sabores",
+    "preco": "6,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "08:15:38",
+    "feito_por": "Gustavo",
+    "produto": "Ice Smirnoff Original 275ml",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
   }
 ]
