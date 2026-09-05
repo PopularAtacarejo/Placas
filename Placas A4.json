@@ -18598,5 +18598,21 @@
     "produto": "Maca Nacional Kg",
     "preco": "7,98",
     "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "09:14:23",
+    "feito_por": "Gustavo",
+    "produto": "Leite Po Int Camponesa 1kg",
+    "preco": "35,98",
+    "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "09:14:23",
+    "feito_por": "Gustavo",
+    "produto": "Leite Po Inst Camponesa 1kg",
+    "preco": "35,98",
+    "validade_oferta_ate": "06/09/2026"
   }
 ]
