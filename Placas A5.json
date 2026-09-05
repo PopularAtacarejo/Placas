@@ -22686,5 +22686,37 @@
     "produto": "Inset Aerosol Raid L+pg Div.Fragrâncias",
     "preco": "14,48",
     "validade_oferta_ate": "05/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "09:14:23",
+    "feito_por": "Gustavo",
+    "produto": "Leite Po Int Camponesa 1kg",
+    "preco": "35,98",
+    "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "09:14:23",
+    "feito_por": "Gustavo",
+    "produto": "Leite Po Inst Camponesa 1kg",
+    "preco": "35,98",
+    "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "09:14:23",
+    "feito_por": "Gustavo",
+    "produto": "Leite Em Po Camponesa Instantaneo 400g",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "09:14:23",
+    "feito_por": "Gustavo",
+    "produto": "Leite Em Po Camponesa Integral 400g",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
   }
 ]
