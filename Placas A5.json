@@ -22734,5 +22734,37 @@
     "produto": "Cafe Bom Jesus Trad. e Extra Forte Sache 250g",
     "preco": "11,98",
     "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "09:38:22",
+    "feito_por": "Jeferson",
+    "produto": "Costela Ponta De Agulha Kg",
+    "preco": "18,98",
+    "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "10:10:32",
+    "feito_por": "Sidnei",
+    "produto": "Suco De Uva Garibaldi Int 1,5l",
+    "preco": "17,48",
+    "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "10:26:50",
+    "feito_por": "Sidnei",
+    "produto": "Beb Lactea Parmalat Wheyfit 250ml div. sabores",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "11:25:13",
+    "feito_por": "Írineia",
+    "produto": "Farofa Pronta Popular Soja 350g",
+    "preco": "3,98",
+    "validade_oferta_ate": "08/09/2026"
   }
 ]
