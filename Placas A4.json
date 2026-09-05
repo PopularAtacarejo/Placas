@@ -18750,5 +18750,21 @@
     "produto": "LINGUIÇA MISTA DA CASA",
     "preco": "27,98",
     "validade_oferta_ate": "07/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "12:42:25",
+    "feito_por": "Eduardo",
+    "produto": "Uva Nubia Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "12:42:25",
+    "feito_por": "Eduardo",
+    "produto": "Chuchu Kg",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
   }
 ]
