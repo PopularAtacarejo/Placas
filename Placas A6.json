@@ -26638,5 +26638,21 @@
     "produto": "Pao De Queijo Coq Brasa 1kg",
     "preco": "16,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "10:09:46",
+    "feito_por": "Silvania",
+    "produto": "Fralda Capricho Shortinho Hiper Xxg. C/36",
+    "preco": "39,98",
+    "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "10:09:46",
+    "feito_por": "Silvania",
+    "produto": "Fralda Capricho Shortinho Mega Xg C/26und",
+    "preco": "43,98",
+    "validade_oferta_ate": ""
   }
 ]
