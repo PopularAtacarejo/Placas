@@ -18590,5 +18590,13 @@
     "produto": "Laranja Pera Kg",
     "preco": "1,28",
     "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "08:26:58",
+    "feito_por": "Wellington",
+    "produto": "Maca Nacional Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": "06/09/2026"
   }
 ]
