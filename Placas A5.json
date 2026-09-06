@@ -23070,5 +23070,69 @@
     "produto": "Linguica Tipo Calabresa Defumada Perdigao 1kg",
     "preco": "29,98",
     "validade_oferta_ate": "07/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "12:42:25",
+    "feito_por": "Eduardo",
+    "produto": "Uva Nubia Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "12:42:25",
+    "feito_por": "Eduardo",
+    "produto": "Chuchu Kg",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "13:51:22",
+    "feito_por": "Cauê",
+    "produto": "Mistura Pao Queijo Fleischmann 1kg",
+    "preco": "38,15",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "14:53:29",
+    "feito_por": "Cauan",
+    "produto": "Budweiser Lt 473ml c 12 Multipack",
+    "preco": "56,98",
+    "validade_oferta_ate": "29/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "15:09:36",
+    "feito_por": "Gracenildo",
+    "produto": "File De Peito Jagua Bdj 1kg",
+    "preco": "18,98",
+    "validade_oferta_ate": "06/09/2026"
+  },
+  {
+    "data": "2026-09-05",
+    "horario": "16:00:20",
+    "feito_por": "Erick",
+    "produto": "Abacate Kg",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-06",
+    "horario": "10:52:32",
+    "feito_por": "Renato",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-06",
+    "horario": "11:43:12",
+    "feito_por": "Renato",
+    "produto": "Ovos De Codorna Dois Irmaos 30un",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
   }
 ]
