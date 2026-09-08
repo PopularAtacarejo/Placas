@@ -26846,5 +26846,61 @@
     "produto": "Cerveja Skol One Way Ln Retornavel 300ml",
     "preco": "2,49",
     "validade_oferta_ate": "16/09/2026"
+  },
+  {
+    "data": "2026-09-06",
+    "horario": "14:02:15",
+    "feito_por": "Josejailsom",
+    "produto": "Cafe Marata Almofada 250g",
+    "preco": "9,98",
+    "validade_oferta_ate": "07/09/2026"
+  },
+  {
+    "data": "2026-09-06",
+    "horario": "14:04:19",
+    "feito_por": "Jose jailson",
+    "produto": "Arroz Kiarroz Parb T1 1kg",
+    "preco": "4,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-06",
+    "horario": "14:04:19",
+    "feito_por": "Jose jailson",
+    "produto": "Acucar Cristal Caete 1kg",
+    "preco": "3,58",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-06",
+    "horario": "14:17:02",
+    "feito_por": "Marcos",
+    "produto": "Cerv Itaipava Lt 473ml",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-06",
+    "horario": "16:39:10",
+    "feito_por": "Marcos",
+    "produto": "Cerv Itaipava Lt 473ml",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-06",
+    "horario": "22:25:33",
+    "feito_por": "Gustavo",
+    "produto": "Cerv Coronita Extra Ln 210ml",
+    "preco": "6,29",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "09:30:21",
+    "feito_por": "Silvania",
+    "produto": "Fralda Capricho Shortinho Hiper M. C/58",
+    "preco": "59,98",
+    "validade_oferta_ate": ""
   }
 ]
