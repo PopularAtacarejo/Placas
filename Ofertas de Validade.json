@@ -24394,5 +24394,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/09/2026",
+    "hora": "15:17:04",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Hamb Cara Preta Costela Angus 360 g",
+        "preco": "20,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/09/2026",
+        "codigo_barras": "7908267528028",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Hamb Perdigão Frango 56 g",
+        "preco": "0,48",
+        "unidade": "Unid.",
+        "validade_oferta": "09/09/2026",
+        "codigo_barras": "7891515989415",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Manteiga De Coco Copra Cremosa 200 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/09/2026",
+        "codigo_barras": "7898596082776",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Massa De Pastel Comercial Pasticrem 500 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/09/2026",
+        "codigo_barras": "7896109200037",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
