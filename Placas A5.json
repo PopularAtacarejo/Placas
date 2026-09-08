@@ -23206,5 +23206,21 @@
     "produto": "Composto Lacteo De Soro De Leite Leitesol Blendy 1kg",
     "preco": "24,98",
     "validade_oferta_ate": "08/09/2026"
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "10:40:12",
+    "feito_por": "Huiliane",
+    "produto": "Cafe Almofada Moido Ouro Verde 250g",
+    "preco": "12,48",
+    "validade_oferta_ate": "08/09/2026"
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "10:40:12",
+    "feito_por": "Huiliane",
+    "produto": "Cafe Coringa Super Almofada 250g",
+    "preco": "9,98",
+    "validade_oferta_ate": "16/09/2026"
   }
 ]
