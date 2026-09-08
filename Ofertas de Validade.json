@@ -24438,5 +24438,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/09/2026",
+    "hora": "15:18:44",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Massa De Pastel Massafest 1 kg",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/09/2026",
+        "codigo_barras": "7898928718243",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Massa De Pastel Massafest T. Aniv 500 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/09/2026",
+        "codigo_barras": "7898928718038",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Massa Pastel Bom Leite Festa 500 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/09/2026",
+        "codigo_barras": "7898970918189",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Qj Coalho Piracanjuba Ft 150 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/09/2026",
+        "codigo_barras": "7898215158059",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
