@@ -19054,5 +19054,29 @@
     "produto": "Carne Moida Fortboi 500g",
     "preco": "10,48",
     "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "19:29:13",
+    "feito_por": "Marcos",
+    "produto": "Arroz Pilao Parb 1kg",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "19:29:13",
+    "feito_por": "Marcos",
+    "produto": "Flocao De Milho Popular 400g",
+    "preco": "1,38",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "19:29:13",
+    "feito_por": "Marcos",
+    "produto": "Arroz Kiarroz Parb T1 1kg",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
   }
 ]
