@@ -23222,5 +23222,29 @@
     "produto": "Cafe Coringa Super Almofada 250g",
     "preco": "9,98",
     "validade_oferta_ate": "16/09/2026"
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "11:22:57",
+    "feito_por": "Josenildo",
+    "produto": "Hamb Perdigao Frango 56g",
+    "preco": "0,48",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "14:39:37",
+    "feito_por": "Gabrielly",
+    "produto": "Arroz Pilao Parb 1kg",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "14:39:37",
+    "feito_por": "Gabrielly",
+    "produto": "Arroz Kiarroz Parb T1 1kg",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
   }
 ]
