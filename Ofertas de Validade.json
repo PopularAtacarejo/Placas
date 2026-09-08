@@ -25001,5 +25001,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/09/2026",
+    "hora": "17:29:05",
+    "placa": 11,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Amanteigado Leite Maltado Vitamassa 120 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/09/2026",
+        "codigo_barras": "7897353903439",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Oreo Chocolate Mondelez 270 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/09/2026",
+        "codigo_barras": "7622210565938",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
