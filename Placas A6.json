@@ -26934,5 +26934,21 @@
     "produto": "Achoc Nescau Uht 1l",
     "preco": "13,48",
     "validade_oferta_ate": "08/09/2026"
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "11:22:57",
+    "feito_por": "Josenildo",
+    "produto": "Hamb Perdigao Frango 56g",
+    "preco": "0,48",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "13:08:34",
+    "feito_por": "Raul",
+    "produto": "Bisc Oreo Chocolate Mondelez 270g",
+    "preco": "9,98",
+    "validade_oferta_ate": "11/09/2026"
   }
 ]
