@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-08-31T18:24:26",
+  "atualizado_em": "2026-09-08T15:14:43",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -929,7 +929,7 @@
       "descricao": "Hamb Perdigão Frango 56 g",
       "unidade": "Unid.",
       "codigo_barras": "7891515989415",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "hamb perdigao frango 56 g",
         "hamb perdigao frango 56g",
@@ -940,7 +940,7 @@
         "massa:56g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-31T18:24:26"
+      "atualizado_em": "2026-09-08T15:14:43"
     },
     "iog itambe fit bdj mor/ameixa/maca | massa:510g": {
       "descricao": "Iog Itambe Fit 510g Bdj Mor/Ameixa/Maçã",
@@ -3279,7 +3279,7 @@
       "descricao": "Queijo Cheddar Frimesa Fatiado 150 g",
       "unidade": "Unid.",
       "codigo_barras": "7896275983963",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "queijo cheddar frimesa fatiado 150 g",
         "queijo cheddar frimesa fatiado 150g",
@@ -3290,7 +3290,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-13T12:01:59"
+      "atualizado_em": "2026-09-08T15:14:43"
     },
     "requeijao pocos de caldas cheddar | massa:200g": {
       "descricao": "Requeijão Poços De Caldas Cheddar 200 g",
@@ -3312,7 +3312,8 @@
     "queijo processado polenguinho orig | massa:68g": {
       "descricao": "Queijo Processado Polenguinho Orig 68 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "codigo_barras": "7891143017436",
+      "hits": 4,
       "aliases": [
         "queijo processado polenguinho orig 68 g",
         "queijo processado polenguinho orig 68g",
@@ -3323,7 +3324,7 @@
         "massa:68g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-12T10:05:15"
+      "atualizado_em": "2026-09-08T15:14:43"
     },
     "massa para pastel pasticrem | massa:200g": {
       "descricao": "Massa Para Pastel Pasticrem 200 g",
@@ -13141,7 +13142,7 @@
       "descricao": "Massa Pastel Bom Leite Festa 500 g",
       "unidade": "Unid.",
       "codigo_barras": "7898970918189",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "massa pastel bom leite festa 500 g",
         "massa pastel bom leite festa 500g",
@@ -13152,7 +13153,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-09-08T15:14:43"
     },
     "requeijao cremoso trad catupiry sc | massa:250g": {
       "descricao": "Requeijão Cremoso Trad Catupiry Sc 250 g",
@@ -13175,7 +13176,7 @@
       "descricao": "Requeijão Crem Regina Queijo Suíço 180 g",
       "unidade": "Unid.",
       "codigo_barras": "7896010400717",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "requeijao crem regina queijo suico 180 g",
         "requeijao crem regina queijo suico 180g",
@@ -13186,13 +13187,13 @@
         "massa:180g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-09-08T15:14:43"
     },
     "massa de pastel comercial pasticrem | massa:500g": {
       "descricao": "Massa De Pastel Comercial Pasticrem 500 g",
       "unidade": "Unid.",
       "codigo_barras": "7896109200037",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "massa de pastel comercial pasticrem 500 g",
         "massa de pastel comercial pasticrem 500g",
@@ -13203,7 +13204,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-09-08T15:14:43"
     },
     "mortadela fat def vacuo sd | massa:180g": {
       "descricao": "Mortadela Fat Def Vacuo Sd 180 g",
@@ -17394,7 +17395,7 @@
       "descricao": "Salamitos Perdigao 100 g",
       "unidade": "Unid.",
       "codigo_barras": "7891515490218",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "salamitos perdigao 100 g",
         "salamitos perdigao 100g",
@@ -17405,7 +17406,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-13T12:01:59"
+      "atualizado_em": "2026-09-08T15:14:43"
     },
     "salsicha viena c/corante nat ceratti": {
       "descricao": "Salsicha Viena c/corante Nat Ceratti",
@@ -18645,7 +18646,7 @@
       "descricao": "Hamb Cara Preta Costela Angus 360 g",
       "unidade": "Unid.",
       "codigo_barras": "7908267528028",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "hamb cara preta costela angus 360 g",
         "hamb cara preta costela angus 360g",
@@ -18656,7 +18657,7 @@
         "massa:360g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-27T16:25:03"
+      "atualizado_em": "2026-09-08T15:14:43"
     },
     "hamb brasa picanha gourmet | massa:150g": {
       "descricao": "Hamb.Brasa Picanha Gourmet 150 g",
@@ -18781,7 +18782,7 @@
       "descricao": "Manteiga De Coco Copra Cremosa 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7898596082776",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "manteiga de coco copra cremosa 200 g",
         "manteiga de coco copra cremosa 200g",
@@ -18792,7 +18793,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-31T18:24:26"
+      "atualizado_em": "2026-09-08T15:14:43"
     },
     "mortadela defumada gourmet seara | massa:180g": {
       "descricao": "Mortadela Defumada Gourmet Seara 180 g",
@@ -18969,7 +18970,7 @@
       "descricao": "Massa De Pastel Massafest 1 kg",
       "unidade": "Unid.",
       "codigo_barras": "7898928718243",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "massa de pastel massafest 1 kg",
         "massa de pastel massafest 1kg",
@@ -18980,13 +18981,13 @@
         "massa:1000g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-09-08T15:14:43"
     },
     "qj coalho piracanjuba ft | massa:150g": {
       "descricao": "Qj Coalho Piracanjuba Ft 150 g",
       "unidade": "Unid.",
       "codigo_barras": "7898215158059",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "qj coalho piracanjuba ft 150 g",
         "qj coalho piracanjuba ft 150g",
@@ -18997,7 +18998,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-09-08T15:14:43"
     },
     "requeijao cremoso vigor light zero | massa:200g": {
       "descricao": "Requeijão Cremoso Vigor Light Zero 200 g",
@@ -19564,7 +19565,7 @@
       "descricao": "Massa De Pastel Massafest T. Aniv 500 g",
       "unidade": "Unid.",
       "codigo_barras": "7898928718038",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "massa de pastel massafest t aniv 500 g",
         "massa de pastel massafest t aniv 500g",
@@ -19575,7 +19576,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-31T18:24:26"
+      "atualizado_em": "2026-09-08T15:14:43"
     },
     "mort confianca trad | massa:1000g": {
       "descricao": "Mort Confianca Trad 1 kg",
@@ -19658,6 +19659,57 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-08-31T18:24:26"
+    },
+    "queijo petit camembert president | massa:125g": {
+      "descricao": "Queijo Petit Camembert President 125 g",
+      "unidade": "Unid.",
+      "codigo_barras": "3228020481846",
+      "hits": 1,
+      "aliases": [
+        "queijo petit camembert 125g president",
+        "queijo petit camembert president 125 g",
+        "queijo petit camembert president | massa:125g"
+      ],
+      "descricao_base": "queijo petit camembert president",
+      "medidas": [
+        "massa:125g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-09-08T15:14:43"
+    },
+    "queijo tipo gouda vigor | massa:200g": {
+      "descricao": "Queijo Tipo Gouda Vigor 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891999008923",
+      "hits": 1,
+      "aliases": [
+        "queijo tipo gouda vigor 200 g",
+        "queijo tipo gouda vigor 200g",
+        "queijo tipo gouda vigor | massa:200g"
+      ],
+      "descricao_base": "queijo tipo gouda vigor",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-09-08T15:14:43"
+    },
+    "requeijao frimesa crem trad | massa:200g": {
+      "descricao": "Requeijão Frimesa Crem Trad 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896275960193",
+      "hits": 1,
+      "aliases": [
+        "requeijao frimesa crem trad 200 g",
+        "requeijao frimesa crem trad 200g",
+        "requeijao frimesa crem trad | massa:200g"
+      ],
+      "descricao_base": "requeijao frimesa crem trad",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-09-08T15:14:43"
     }
   }
 }
