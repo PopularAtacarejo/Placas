@@ -19022,5 +19022,37 @@
     "produto": "Ovos Caipira Coopag Bandeja C/30",
     "preco": "22,98",
     "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "19:26:40",
+    "feito_por": "Jeferson",
+    "produto": "Carne Moida Segunda Kg",
+    "preco": "24,48",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "19:26:40",
+    "feito_por": "Jeferson",
+    "produto": "Salsicha Perdigao Kg",
+    "preco": "11,48",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "19:26:40",
+    "feito_por": "Jeferson",
+    "produto": "Batata Palha Pratic Leve 400gr",
+    "preco": "21,98",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-08",
+    "horario": "19:26:40",
+    "feito_por": "Jeferson",
+    "produto": "Carne Moida Fortboi 500g",
+    "preco": "10,48",
+    "validade_oferta_ate": "09/09/2026"
   }
 ]
