@@ -24526,5 +24526,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "08/09/2026",
+    "hora": "15:21:38",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Requeijão Crem Regina Queijo Suíço 180 g",
+        "preco": "10,48",
+        "unidade": "Unid.",
+        "validade_oferta": "19/09/2026",
+        "codigo_barras": "7896010400717",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Requeijão Frimesa Crem Trad 200 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/09/2026",
+        "codigo_barras": "7896275960193",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Salamitos Perdigao 100 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/09/2026",
+        "codigo_barras": "7891515490218",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
