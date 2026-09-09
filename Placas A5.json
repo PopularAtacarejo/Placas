@@ -23598,5 +23598,45 @@
     "produto": "Pinha Kg",
     "preco": "15,98",
     "validade_oferta_ate": "11/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "12:03:32",
+    "feito_por": "Marcos",
+    "produto": "Refri Pepsi Black Zero Pet 2l",
+    "preco": "7,48",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "12:03:32",
+    "feito_por": "Marcos",
+    "produto": "Bisc Treloso Rech Brigadeiro 120g",
+    "preco": "1,98",
+    "validade_oferta_ate": "26/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "12:03:32",
+    "feito_por": "Marcos",
+    "produto": "Cerv Imperio Ultra Gfa 275ml",
+    "preco": "5,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "12:22:00",
+    "feito_por": "Marcos",
+    "produto": "Cerv Imperio Ultra Gfa 275ml",
+    "preco": "5,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "14:59:14",
+    "feito_por": "Huiliane",
+    "produto": "Achoc Em Po Toddy Light 280g",
+    "preco": "13,48",
+    "validade_oferta_ate": ""
   }
 ]
