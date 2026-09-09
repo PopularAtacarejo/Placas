@@ -23590,5 +23590,13 @@
     "produto": "Cafe Moido Pilao Tradic 250g",
     "preco": "9,98",
     "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "11:03:28",
+    "feito_por": "Renato",
+    "produto": "Pinha Kg",
+    "preco": "15,98",
+    "validade_oferta_ate": "11/09/2026"
   }
 ]
