@@ -19142,5 +19142,77 @@
     "produto": "Abacaxi Un",
     "preco": "4,98",
     "validade_oferta_ate": "10/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "17:55:16",
+    "feito_por": "Jeferson",
+    "produto": "Chareu C/Osso Kg",
+    "preco": "21,98",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "17:55:16",
+    "feito_por": "Jeferson",
+    "produto": "Costela Ponta De Agulha Kg",
+    "preco": "19,98",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "17:55:16",
+    "feito_por": "Jeferson",
+    "produto": "Chã De Dentro Kg",
+    "preco": "39,98",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "17:55:16",
+    "feito_por": "Jeferson",
+    "produto": "Filé De Peito Granel Kg",
+    "preco": "18,98",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "17:55:16",
+    "feito_por": "Jeferson",
+    "produto": "Hamb Ave/Bov Perdigao 56g",
+    "preco": "1,48",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "17:55:16",
+    "feito_por": "Jeferson",
+    "produto": "Arroz Tio Vieira Branco Tipo 2 1kg",
+    "preco": "3,98",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "17:55:16",
+    "feito_por": "Jeferson",
+    "produto": "Bombom Garoto Sortidos 220g",
+    "preco": "11,98",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "17:55:16",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Heineken Lt 473ml",
+    "preco": "6,48",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "17:55:16",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Imperio Ultra Gfa 275ml",
+    "preco": "4,68",
+    "validade_oferta_ate": "09/09/2026"
   }
 ]
