@@ -19094,5 +19094,29 @@
     "produto": "Cafe Moido Pilao Tradic 250g",
     "preco": "9,98",
     "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "12:03:32",
+    "feito_por": "Marcos",
+    "produto": "Refri Pepsi Black Zero Pet 2l",
+    "preco": "7,48",
+    "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "12:03:32",
+    "feito_por": "Marcos",
+    "produto": "Bisc Treloso Rech Brigadeiro 120g",
+    "preco": "1,98",
+    "validade_oferta_ate": "26/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "12:03:32",
+    "feito_por": "Marcos",
+    "produto": "Cerv Imperio Ultra Gfa 275ml",
+    "preco": "5,18",
+    "validade_oferta_ate": ""
   }
 ]
