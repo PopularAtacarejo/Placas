@@ -23782,5 +23782,29 @@
     "produto": "Sabão Barra Brisa 800g - Diversas fragrancias",
     "preco": "10,98",
     "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "18:06:56",
+    "feito_por": "Jeferson",
+    "produto": "Salg Popshow Pizza 40g",
+    "preco": "0,75",
+    "validade_oferta_ate": "15/09/2026"
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "09:06:37",
+    "feito_por": "Huiliane",
+    "produto": "Cafe Santa Clara Extra Forte Vacuo 250g",
+    "preco": "9,98",
+    "validade_oferta_ate": "10/09/2026"
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "09:06:37",
+    "feito_por": "Huiliane",
+    "produto": "Cafe Santa Clara Alm Ext Fort 250g",
+    "preco": "9,98",
+    "validade_oferta_ate": "10/09/2026"
   }
 ]
