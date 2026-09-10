@@ -27662,5 +27662,21 @@
     "produto": "Suco Pindorama Conc Acerola Pet 500ml",
     "preco": "3,98",
     "validade_oferta_ate": "27/09/2026"
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "15:21:10",
+    "feito_por": "Renato",
+    "produto": "Uva Thompson Reserva Gourmet 400g",
+    "preco": "14,98",
+    "validade_oferta_ate": "13/09/2026"
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "15:21:10",
+    "feito_por": "Renato",
+    "produto": "Uva Vitoria Reserva Gourmet 400g",
+    "preco": "8,98",
+    "validade_oferta_ate": "13/09/2026"
   }
 ]
