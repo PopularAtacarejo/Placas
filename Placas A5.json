@@ -24030,5 +24030,37 @@
     "produto": "Super Flocao Coringa 500g",
     "preco": "1,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "11:24:48",
+    "feito_por": "Vinicius",
+    "produto": "Rider R1 Brasil Dedo Ad Bv255 36",
+    "preco": "34,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "14:01:06",
+    "feito_por": "Gustavo",
+    "produto": "Refri Pepsi Black Zero Pet 2l",
+    "preco": "6,98",
+    "validade_oferta_ate": "30/09/2026"
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "14:52:48",
+    "feito_por": "Gustavo",
+    "produto": "Beb Energ Baly 2l div. sabores",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "15:44:33",
+    "feito_por": "Raul",
+    "produto": "Bolinho Ana Maria Cenoura/Choc 35g",
+    "preco": "0,98",
+    "validade_oferta_ate": "13/09/2026"
   }
 ]
