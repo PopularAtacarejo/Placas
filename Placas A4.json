@@ -19310,5 +19310,53 @@
     "produto": "Inhame Kg",
     "preco": "13,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:23:18",
+    "feito_por": "Caio",
+    "produto": "Goiaba Kg",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:23:18",
+    "feito_por": "Caio",
+    "produto": "Melancia Kg",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:23:18",
+    "feito_por": "Caio",
+    "produto": "Maca Nacional Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:23:18",
+    "feito_por": "Caio",
+    "produto": "Mamao Papaya Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:23:18",
+    "feito_por": "Caio",
+    "produto": "Uva Vitoria Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:23:18",
+    "feito_por": "Caio",
+    "produto": "Uva Italia Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
   }
 ]
