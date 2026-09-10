@@ -27462,5 +27462,29 @@
     "produto": "Temp Completo Especial Pindorama 500 Ml",
     "preco": "0,98",
     "validade_oferta_ate": "15/09/2026"
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "09:38:17",
+    "feito_por": "Caio",
+    "produto": "Goma De Tapioca Doce Mel 1kg",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:08:10",
+    "feito_por": "Ana",
+    "produto": "Super Flocao Coringa 500g",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:08:10",
+    "feito_por": "Ana",
+    "produto": "Goma De Mandioca Luiza 1kg",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
   }
 ]
