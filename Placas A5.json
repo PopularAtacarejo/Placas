@@ -24078,5 +24078,21 @@
     "produto": "Amac Sonho 500ml Diver.",
     "preco": "5,38",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "16:02:11",
+    "feito_por": "Gustavo",
+    "produto": "Refri Pepsi Black Zero Pet 2l",
+    "preco": "6,98",
+    "validade_oferta_ate": "30/09/2026"
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "16:11:24",
+    "feito_por": "Renato",
+    "produto": "Ovos Caipira Coopag Bandeja C/30",
+    "preco": "26,98",
+    "validade_oferta_ate": ""
   }
 ]
