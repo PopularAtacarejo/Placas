@@ -24062,5 +24062,21 @@
     "produto": "Bolinho Ana Maria Cenoura/Choc 35g",
     "preco": "0,98",
     "validade_oferta_ate": "13/09/2026"
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "15:58:23",
+    "feito_por": "Silvania",
+    "produto": "Amac Sonho Lv500pg450",
+    "preco": "3,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "15:58:23",
+    "feito_por": "Silvania",
+    "produto": "Amac Sonho 500ml Diver.",
+    "preco": "5,38",
+    "validade_oferta_ate": ""
   }
 ]
