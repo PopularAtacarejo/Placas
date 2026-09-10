@@ -19358,5 +19358,21 @@
     "produto": "Uva Italia Kg",
     "preco": "9,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:36:40",
+    "feito_por": "Caio",
+    "produto": "Maca Nacional Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:36:40",
+    "feito_por": "Caio",
+    "produto": "Ovos Caipira Coopag Bandeja C/30",
+    "preco": "26,98",
+    "validade_oferta_ate": ""
   }
 ]
