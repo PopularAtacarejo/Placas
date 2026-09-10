@@ -27414,5 +27414,21 @@
     "produto": "Enx Bucal Super 12h Frutas Vermelhas 500ml",
     "preco": "12,48",
     "validade_oferta_ate": "09/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "18:06:56",
+    "feito_por": "Jeferson",
+    "produto": "Salg Popshow Pizza 40g",
+    "preco": "0,75",
+    "validade_oferta_ate": "15/09/2026"
+  },
+  {
+    "data": "2026-09-09",
+    "horario": "21:53:20",
+    "feito_por": "Jailson",
+    "produto": "Farofa Pronta Popular Soja 350g",
+    "preco": "7,39",
+    "validade_oferta_ate": ""
   }
 ]
