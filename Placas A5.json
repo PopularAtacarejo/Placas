@@ -23998,5 +23998,37 @@
     "produto": "Leite Ninho Uht 1l Semidesnat Zl Vit",
     "preco": "9,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:36:40",
+    "feito_por": "Caio",
+    "produto": "Maca Nacional Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:36:40",
+    "feito_por": "Caio",
+    "produto": "Ovos Caipira Coopag Bandeja C/30",
+    "preco": "26,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:43:01",
+    "feito_por": "Ana",
+    "produto": "Flocao De Milho Coringa 500g",
+    "preco": "2,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-10",
+    "horario": "10:43:01",
+    "feito_por": "Ana",
+    "produto": "Super Flocao Coringa 500g",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
   }
 ]
