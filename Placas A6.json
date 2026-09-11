@@ -27934,5 +27934,21 @@
     "produto": "Mac Vitarella Paraf Sem 400g",
     "preco": "4,09",
     "validade_oferta_ate": "15/09/2026"
+  },
+  {
+    "data": "2026-09-11",
+    "horario": "09:14:14",
+    "feito_por": "Jeferson",
+    "produto": "Chambaril Kg",
+    "preco": "19,98",
+    "validade_oferta_ate": "11/09/2026"
+  },
+  {
+    "data": "2026-09-11",
+    "horario": "09:18:19",
+    "feito_por": "Thiago",
+    "produto": "Massa De Pastel Massafest 1kg",
+    "preco": "5,98",
+    "validade_oferta_ate": "12/09/2026"
   }
 ]
