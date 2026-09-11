@@ -27886,5 +27886,53 @@
     "produto": "Farofa Pronta Popular Soja 350g",
     "preco": "3,98",
     "validade_oferta_ate": "12/09/2026"
+  },
+  {
+    "data": "2026-09-11",
+    "horario": "08:13:04",
+    "feito_por": "Matheus",
+    "produto": "Vinagre Minhoto Limao 500ml",
+    "preco": "3,98",
+    "validade_oferta_ate": "18/09/2026"
+  },
+  {
+    "data": "2026-09-11",
+    "horario": "08:13:04",
+    "feito_por": "Matheus",
+    "produto": "Maionese Hellmanns Pet 335g",
+    "preco": "13,98",
+    "validade_oferta_ate": "30/10/2026"
+  },
+  {
+    "data": "2026-09-11",
+    "horario": "08:13:04",
+    "feito_por": "Matheus",
+    "produto": "Mac Vitarella Ninho Semola 400g",
+    "preco": "4,49",
+    "validade_oferta_ate": "15/09/2026"
+  },
+  {
+    "data": "2026-09-11",
+    "horario": "08:13:04",
+    "feito_por": "Matheus",
+    "produto": "Mac Vitarela Penne Semola 400g",
+    "preco": "4,09",
+    "validade_oferta_ate": "15/09/2026"
+  },
+  {
+    "data": "2026-09-11",
+    "horario": "08:13:04",
+    "feito_por": "Matheus",
+    "produto": "Mac Espag Vitarella Fino 400g",
+    "preco": "3,09",
+    "validade_oferta_ate": "15/09/2026"
+  },
+  {
+    "data": "2026-09-11",
+    "horario": "08:13:04",
+    "feito_por": "Matheus",
+    "produto": "Mac Vitarella Paraf Sem 400g",
+    "preco": "4,09",
+    "validade_oferta_ate": "15/09/2026"
   }
 ]
