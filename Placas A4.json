@@ -19654,5 +19654,21 @@
     "produto": "Ovo Luna Grande Filmado C/30",
     "preco": "14,98",
     "validade_oferta_ate": "12/09/2026"
+  },
+  {
+    "data": "2026-09-11",
+    "horario": "17:35:34",
+    "feito_por": "Erick",
+    "produto": "Abacaxi Un",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-11",
+    "horario": "17:35:34",
+    "feito_por": "Erick",
+    "produto": "Banana Prata Kg",
+    "preco": "5,28",
+    "validade_oferta_ate": ""
   }
 ]
