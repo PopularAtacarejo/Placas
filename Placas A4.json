@@ -20006,5 +20006,37 @@
     "produto": "Inhame Cara Kg",
     "preco": "7,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-13",
+    "horario": "07:27:33",
+    "feito_por": "Eduardo",
+    "produto": "Banana Prata Kg",
+    "preco": "5,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-13",
+    "horario": "07:27:33",
+    "feito_por": "Eduardo",
+    "produto": "Batata Doce Roxa Kg",
+    "preco": "5,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-13",
+    "horario": "07:27:33",
+    "feito_por": "Eduardo",
+    "produto": "Laranja Pera Kg",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-13",
+    "horario": "07:27:33",
+    "feito_por": "Eduardo",
+    "produto": "Melancia Kg",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
   }
 ]
