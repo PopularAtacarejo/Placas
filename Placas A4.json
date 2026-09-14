@@ -20062,5 +20062,29 @@
     "produto": "Maca Nacional Kg",
     "preco": "9,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-14",
+    "horario": "07:50:05",
+    "feito_por": "Jeferson",
+    "produto": "Chã De Dentro Kg",
+    "preco": "39,98",
+    "validade_oferta_ate": "14/09/2026"
+  },
+  {
+    "data": "2026-09-14",
+    "horario": "07:50:05",
+    "feito_por": "Jeferson",
+    "produto": "Costela Da Agulha Kg",
+    "preco": "23,98",
+    "validade_oferta_ate": "14/09/2026"
+  },
+  {
+    "data": "2026-09-14",
+    "horario": "07:50:05",
+    "feito_por": "Jeferson",
+    "produto": "Patinho Kg",
+    "preco": "38,98",
+    "validade_oferta_ate": "14/09/2026"
   }
 ]
