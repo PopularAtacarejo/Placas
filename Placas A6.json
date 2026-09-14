@@ -28990,5 +28990,37 @@
     "produto": "Tortuguita Arcor Morango 15,5g",
     "preco": "0,48",
     "validade_oferta_ate": "16/09/2026"
+  },
+  {
+    "data": "2026-09-14",
+    "horario": "18:03:34",
+    "feito_por": "Ruan",
+    "produto": "Wafer Trento Avela 29g",
+    "preco": "0,98",
+    "validade_oferta_ate": "19/09/2026"
+  },
+  {
+    "data": "2026-09-14",
+    "horario": "18:03:34",
+    "feito_por": "Ruan",
+    "produto": "Bala Gel Haribo Wummis 80g",
+    "preco": "3,98",
+    "validade_oferta_ate": "23/09/2026"
+  },
+  {
+    "data": "2026-09-14",
+    "horario": "18:03:34",
+    "feito_por": "Ruan",
+    "produto": "Bala De Gelatina Amoras 80g",
+    "preco": "4,98",
+    "validade_oferta_ate": "18/09/2026"
+  },
+  {
+    "data": "2026-09-14",
+    "horario": "18:03:34",
+    "feito_por": "Ruan",
+    "produto": "Bala Docile Gelatina Amora 15g",
+    "preco": "0,98",
+    "validade_oferta_ate": "21/09/2026"
   }
 ]
