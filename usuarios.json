@@ -25,5 +25,14 @@
     "ativo": true,
     "email": "ti@popularhomecenter.com.br",
     "telefone": "82981190340"
+  },
+  {
+    "usuario": "Repositor",
+    "senha_hash": "pbkdf2_sha256$390000$dH0-WG9r6KBoravI-3kgfg$eixndArf4WwWDj9iX71qh1kBsXuydsPfD0qgQqsr5aA",
+    "nome": "Repositor",
+    "perfil": "Consulta e Impressão",
+    "ativo": true,
+    "email": "repositor@popular.com",
+    "telefone": "5582999158413"
   }
 ]
