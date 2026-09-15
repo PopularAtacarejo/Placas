@@ -1,5 +1,14 @@
 [
   {
+    "usuario": "Frente de Loja",
+    "senha_hash": "pbkdf2_sha256$390000$qFgHVqSToOllRoxNpQp4EA$KvMprr-IAv7GQv3L6VQRIberfOeFK3gA4wLFQCJwXBo",
+    "nome": "Frente de Loja",
+    "perfil": "Consulta",
+    "ativo": true,
+    "email": "popularatacarejomkt@gmail.com",
+    "telefone": "82991226467"
+  },
+  {
     "usuario": "Jeferson",
     "senha_hash": "pbkdf2_sha256$390000$qHqAKy5hmdYpJYVde7W3PQ$UPvp90dGjx59GyO7zPnbTCFflGuN5Wy4rOioU5qGJ_k",
     "nome": "Jeferson",
