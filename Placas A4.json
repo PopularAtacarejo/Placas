@@ -20262,5 +20262,13 @@
     "produto": "Banana Nanica Kg",
     "preco": "5,28",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-15",
+    "horario": "16:46:20",
+    "feito_por": "Renato",
+    "produto": "Maca Nacional Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
   }
 ]
