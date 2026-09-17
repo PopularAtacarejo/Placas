@@ -20894,5 +20894,13 @@
     "produto": "Figado Bovino Congelado Kg",
     "preco": "19,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-17",
+    "horario": "17:41:22",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Heineken Lt 473ml",
+    "preco": "6,28",
+    "validade_oferta_ate": "17/09/2026"
   }
 ]
