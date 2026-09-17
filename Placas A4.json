@@ -20854,5 +20854,21 @@
     "produto": "Bisteca Suina Cong. Kg",
     "preco": "19,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-17",
+    "horario": "16:37:26",
+    "feito_por": "Renato",
+    "produto": "Pera Danjou Kg",
+    "preco": "21,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-17",
+    "horario": "16:37:26",
+    "feito_por": "Renato",
+    "produto": "Maca Nacional Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
   }
 ]
