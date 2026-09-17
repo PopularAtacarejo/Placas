@@ -20726,5 +20726,69 @@
     "produto": "Banana Prata Kg",
     "preco": "5,28",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-17",
+    "horario": "10:20:04",
+    "feito_por": "Caio",
+    "produto": "Maracuja Kg",
+    "preco": "11,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-17",
+    "horario": "10:20:04",
+    "feito_por": "Caio",
+    "produto": "Laranja Pera Kg",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-17",
+    "horario": "10:20:04",
+    "feito_por": "Caio",
+    "produto": "Abacaxi Un",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-17",
+    "horario": "10:20:04",
+    "feito_por": "Caio",
+    "produto": "Maca Nacional Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-17",
+    "horario": "10:20:04",
+    "feito_por": "Caio",
+    "produto": "Melao Espanhol Kg",
+    "preco": "6,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-17",
+    "horario": "10:20:04",
+    "feito_por": "Caio",
+    "produto": "Uva Vitoria Kg",
+    "preco": "10,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-17",
+    "horario": "10:20:04",
+    "feito_por": "Caio",
+    "produto": "Uva Verde Autumn Crisp Doce Mel 400g",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-17",
+    "horario": "10:20:04",
+    "feito_por": "Caio",
+    "produto": "Morango Vilifrut Bdj 200g",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
   }
 ]
