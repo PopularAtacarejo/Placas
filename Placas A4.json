@@ -20822,5 +20822,21 @@
     "produto": "Pao De Alho Massa Fest Trad 400g",
     "preco": "11,98",
     "validade_oferta_ate": "24/09/2026"
+  },
+  {
+    "data": "2026-09-17",
+    "horario": "11:42:41",
+    "feito_por": "Renato",
+    "produto": "Abacaxi Un",
+    "preco": "1,98",
+    "validade_oferta_ate": "18/09/2026"
+  },
+  {
+    "data": "2026-09-17",
+    "horario": "11:42:41",
+    "feito_por": "Renato",
+    "produto": "Laranja Pera Kg",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
   }
 ]
