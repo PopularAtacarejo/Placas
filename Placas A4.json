@@ -21006,5 +21006,45 @@
     "produto": "Figado Bovino Congelado Kg",
     "preco": "19,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-18",
+    "horario": "09:34:14",
+    "feito_por": "Jeferson",
+    "produto": "Marg Deline Cremosa C/sal 500g",
+    "preco": "6,98",
+    "validade_oferta_ate": "18/09/2026"
+  },
+  {
+    "data": "2026-09-18",
+    "horario": "09:34:14",
+    "feito_por": "Jeferson",
+    "produto": "Sorv Fika Frio 2l diversos",
+    "preco": "26,98",
+    "validade_oferta_ate": "18/09/2026"
+  },
+  {
+    "data": "2026-09-18",
+    "horario": "09:34:14",
+    "feito_por": "Jeferson",
+    "produto": "Budweiser Lt 473ml c 12 Multipack",
+    "preco": "54,98",
+    "validade_oferta_ate": "18/09/2026"
+  },
+  {
+    "data": "2026-09-18",
+    "horario": "09:34:14",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Coronita Extra Ln 210ml",
+    "preco": "4,98",
+    "validade_oferta_ate": "18/09/2026"
+  },
+  {
+    "data": "2026-09-18",
+    "horario": "09:34:14",
+    "feito_por": "Jeferson",
+    "produto": "Refri Pepsi Black Zero Pet 2l",
+    "preco": "6,88",
+    "validade_oferta_ate": "18/09/2026"
   }
 ]
