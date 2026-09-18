@@ -25111,5 +25111,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "18/09/2026",
+    "hora": "10:36:51",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Massa De Pastel Massafest T. Aniv 500 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/09/2026",
+        "codigo_barras": "7898928718038",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
