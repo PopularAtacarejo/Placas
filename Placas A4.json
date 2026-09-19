@@ -21398,5 +21398,61 @@
     "produto": "Pitaya Vermelha Kg",
     "preco": "39,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "CARNE MOÍDA DE SEGUNDA",
+    "preco": "22,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "LAGARTO",
+    "preco": "36,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA DA AGULHA",
+    "preco": "23,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Sorv Acai C/Banana Fika Frio 1,5lt",
+    "preco": "39,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Amstel Lt 473ml",
+    "preco": "4,28",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Imperio Ultra Gfa 275ml",
+    "preco": "4,75",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Papel Hig Familiar F.D L12p11 20m",
+    "preco": "11,48",
+    "validade_oferta_ate": "21/09/2026"
   }
 ]
