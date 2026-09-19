@@ -21382,5 +21382,21 @@
     "produto": "Suco De Uva Integral Oq 1l",
     "preco": "16,98",
     "validade_oferta_ate": "20/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "08:33:57",
+    "feito_por": "Eduardo",
+    "produto": "Amendoim Cozido Kg",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "08:33:57",
+    "feito_por": "Eduardo",
+    "produto": "Pitaya Vermelha Kg",
+    "preco": "39,98",
+    "validade_oferta_ate": ""
   }
 ]
