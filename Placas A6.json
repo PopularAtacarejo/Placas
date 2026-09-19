@@ -30342,5 +30342,157 @@
     "produto": "Vodka Smirnoff 998ml",
     "preco": "34,98",
     "validade_oferta_ate": "20/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "08:33:57",
+    "feito_por": "Eduardo",
+    "produto": "Amendoim Cozido Kg",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "08:33:57",
+    "feito_por": "Eduardo",
+    "produto": "Pitaya Vermelha Kg",
+    "preco": "39,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "CARNE MOÍDA DE SEGUNDA",
+    "preco": "22,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "LAGARTO",
+    "preco": "36,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA DA AGULHA",
+    "preco": "23,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Sorv Acai C/Banana Fika Frio 1,5lt",
+    "preco": "39,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Amstel Lt 473ml",
+    "preco": "4,28",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Imperio Ultra Gfa 275ml",
+    "preco": "4,75",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Papel Hig Familiar F.D L12p11 20m",
+    "preco": "11,48",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Cereal Matinal Nescau Cookies 180g",
+    "preco": "14,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Biscoito Arcor Triunfo Tortini Chocolate 90g",
+    "preco": "2,28",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Rosq Afa 300g diversos",
+    "preco": "4,48",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Mist P/Bolo Marata 400g diversos",
+    "preco": "5,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Aveia Em Flocos Regulares ou Finos Apti 150g",
+    "preco": "4,75",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Leite Uht Piracanjuba 1l Integral ou desnatado",
+    "preco": "7,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Café Bom Jesus 250g - Extraforte ou Tradi",
+    "preco": "10,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Farinha De Trigo Rosa Branca S/F 1kg",
+    "preco": "4,48",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Sab Palmolive 85g - Div. Fragrancias",
+    "preco": "1,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-19",
+    "horario": "12:00:44",
+    "feito_por": "Jeferson",
+    "produto": "Limp Perf Casaflor 500ml - Diversas fragrancias",
+    "preco": "3,48",
+    "validade_oferta_ate": "21/09/2026"
   }
 ]
