@@ -21462,5 +21462,37 @@
     "produto": "Pao Frances Kg",
     "preco": "13,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-20",
+    "horario": "09:47:50",
+    "feito_por": "Eduardo",
+    "produto": "Cebola Branca Kg",
+    "preco": "7,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-20",
+    "horario": "09:47:50",
+    "feito_por": "Eduardo",
+    "produto": "Uva Vitoria Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-20",
+    "horario": "09:47:50",
+    "feito_por": "Eduardo",
+    "produto": "Abobora Jacare Kg",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-20",
+    "horario": "09:47:50",
+    "feito_por": "Eduardo",
+    "produto": "Maracuja Kg",
+    "preco": "10,98",
+    "validade_oferta_ate": ""
   }
 ]
