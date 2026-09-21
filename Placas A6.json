@@ -30582,5 +30582,29 @@
     "produto": "Pao Tradicao Integral 400gr",
     "preco": "4,98",
     "validade_oferta_ate": "23/09/2026"
+  },
+  {
+    "data": "2026-09-21",
+    "horario": "11:57:04",
+    "feito_por": "Arthu",
+    "produto": "Cebola Roxa Kg",
+    "preco": "7,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-21",
+    "horario": "11:57:04",
+    "feito_por": "Arthu",
+    "produto": "Goiaba Kg",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-21",
+    "horario": "12:20:55",
+    "feito_por": "Paulo",
+    "produto": "Queijo Coalho Sao Felix Kg",
+    "preco": "39,98",
+    "validade_oferta_ate": "04/10/2026"
   }
 ]
