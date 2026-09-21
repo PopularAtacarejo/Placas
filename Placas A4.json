@@ -21494,5 +21494,21 @@
     "produto": "Maracuja Kg",
     "preco": "10,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-21",
+    "horario": "09:23:48",
+    "feito_por": "Paulo",
+    "produto": "Refresc. Frutybom Uva 330ml",
+    "preco": "1,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-21",
+    "horario": "09:23:48",
+    "feito_por": "Paulo",
+    "produto": "Refresc. Frutybom Frut.Citri. 330ml",
+    "preco": "1,78",
+    "validade_oferta_ate": ""
   }
 ]
