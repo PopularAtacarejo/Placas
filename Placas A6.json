@@ -30542,5 +30542,45 @@
     "produto": "Amac Comfort Conc Oleo Lavanda 500ml",
     "preco": "8,98",
     "validade_oferta_ate": "30/10/2026"
+  },
+  {
+    "data": "2026-09-21",
+    "horario": "09:23:48",
+    "feito_por": "Paulo",
+    "produto": "Refresc. Frutybom Uva 330ml",
+    "preco": "1,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-21",
+    "horario": "09:23:48",
+    "feito_por": "Paulo",
+    "produto": "Refresc. Frutybom Frut.Citri. 330ml",
+    "preco": "1,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-21",
+    "horario": "10:58:36",
+    "feito_por": "Matheus",
+    "produto": "Pao Forma Plusvita 50% Integral Gr/Cast 450g",
+    "preco": "14,98",
+    "validade_oferta_ate": "29/09/2026"
+  },
+  {
+    "data": "2026-09-21",
+    "horario": "10:58:36",
+    "feito_por": "Matheus",
+    "produto": "Pao Nutrella 100% Integral 350g",
+    "preco": "3,98",
+    "validade_oferta_ate": "21/09/2026"
+  },
+  {
+    "data": "2026-09-21",
+    "horario": "10:58:36",
+    "feito_por": "Matheus",
+    "produto": "Pao Tradicao Integral 400gr",
+    "preco": "4,98",
+    "validade_oferta_ate": "23/09/2026"
   }
 ]
