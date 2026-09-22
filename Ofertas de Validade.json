@@ -25128,5 +25128,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/09/2026",
+    "hora": "11:48:37",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Nesfit Limão e Cereais 160 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/09/2026",
+        "codigo_barras": "7891000304716",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Granola Sao Braz Light 250 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/09/2026",
+        "codigo_barras": "7891091049428",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Granola Tia Sonia Light Zr 200 g",
+        "preco": "16,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/10/2026",
+        "codigo_barras": "7898115750070",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
