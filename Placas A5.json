@@ -27102,5 +27102,85 @@
     "produto": "Iog Batavo Bob Morango e Cereal Cp 120g",
     "preco": "2,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-23",
+    "horario": "11:51:13",
+    "feito_por": "Caio",
+    "produto": "Morango Imperial Morango e Cia 250g",
+    "preco": "10,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-23",
+    "horario": "17:22:03",
+    "feito_por": "Jeferson",
+    "produto": "CHAREU C/OSSO",
+    "preco": "24,98",
+    "validade_oferta_ate": "24/09/2026"
+  },
+  {
+    "data": "2026-09-23",
+    "horario": "17:22:03",
+    "feito_por": "Jeferson",
+    "produto": "FRALDINHA",
+    "preco": "36,98",
+    "validade_oferta_ate": "24/09/2026"
+  },
+  {
+    "data": "2026-09-23",
+    "horario": "17:22:03",
+    "feito_por": "Jeferson",
+    "produto": "PERNIL SUINO",
+    "preco": "21,98",
+    "validade_oferta_ate": "24/09/2026"
+  },
+  {
+    "data": "2026-09-23",
+    "horario": "17:22:03",
+    "feito_por": "Jeferson",
+    "produto": "Frango Cong Congran Kg",
+    "preco": "11,98",
+    "validade_oferta_ate": "24/09/2026"
+  },
+  {
+    "data": "2026-09-23",
+    "horario": "17:22:03",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Coalho Engenho Kg",
+    "preco": "44,98",
+    "validade_oferta_ate": "24/09/2026"
+  },
+  {
+    "data": "2026-09-23",
+    "horario": "17:22:03",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Amstel Lt 473ml",
+    "preco": "4,28",
+    "validade_oferta_ate": "24/09/2026"
+  },
+  {
+    "data": "2026-09-23",
+    "horario": "17:22:03",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Praya Lager Sem Gluten 330ml",
+    "preco": "6,48",
+    "validade_oferta_ate": "24/09/2026"
+  },
+  {
+    "data": "2026-09-23",
+    "horario": "17:22:03",
+    "feito_por": "Jeferson",
+    "produto": "Açucar Cristal Caete 1kg",
+    "preco": "3,15",
+    "validade_oferta_ate": "24/09/2026"
+  },
+  {
+    "data": "2026-09-23",
+    "horario": "17:22:03",
+    "feito_por": "Jeferson",
+    "produto": "Café Modo Pilão Tradic 250g",
+    "preco": "11,48",
+    "validade_oferta_ate": "24/09/2026"
   }
 ]
