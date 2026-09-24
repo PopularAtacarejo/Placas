@@ -21998,5 +21998,21 @@
     "produto": "Cebola Roxa Kg",
     "preco": "7,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-24",
+    "horario": "10:18:48",
+    "feito_por": "Caio",
+    "produto": "Laranja Pera Kg",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-24",
+    "horario": "10:18:48",
+    "feito_por": "Caio",
+    "produto": "Abacaxi Un",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
   }
 ]
