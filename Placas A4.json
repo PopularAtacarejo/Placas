@@ -22134,5 +22134,21 @@
     "produto": "Beb Ice Crystal Caju Ln 275ml",
     "preco": "4,98",
     "validade_oferta_ate": "25/09/2026"
+  },
+  {
+    "data": "2026-09-24",
+    "horario": "18:45:27",
+    "feito_por": "Renato",
+    "produto": "Maca Nacional Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-24",
+    "horario": "18:45:27",
+    "feito_por": "Renato",
+    "produto": "Pera Danjou Kg",
+    "preco": "21,98",
+    "validade_oferta_ate": ""
   }
 ]
