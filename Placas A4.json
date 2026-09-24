@@ -21974,5 +21974,21 @@
     "produto": "Maca Nacional Kg",
     "preco": "12,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-24",
+    "horario": "09:21:41",
+    "feito_por": "Caio",
+    "produto": "Cebola Branca Kg",
+    "preco": "8,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-24",
+    "horario": "09:21:41",
+    "feito_por": "Caio",
+    "produto": "Tomate Kg",
+    "preco": "4,28",
+    "validade_oferta_ate": ""
   }
 ]
