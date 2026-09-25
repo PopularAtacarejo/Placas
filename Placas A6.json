@@ -31598,5 +31598,53 @@
     "produto": "Sabão Liq. Omo Lav Perfeita 1,8l",
     "preco": "18,98",
     "validade_oferta_ate": "25/09/2026"
+  },
+  {
+    "data": "2026-09-24",
+    "horario": "18:45:27",
+    "feito_por": "Renato",
+    "produto": "Maca Nacional Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-24",
+    "horario": "18:45:27",
+    "feito_por": "Renato",
+    "produto": "Pera Danjou Kg",
+    "preco": "21,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-25",
+    "horario": "09:45:28",
+    "feito_por": "Caio",
+    "produto": "Amendoim Cozido Kg",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-25",
+    "horario": "10:02:54",
+    "feito_por": "Marcos",
+    "produto": "Batata Pringles 105g Cheddar/Bacon",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-25",
+    "horario": "12:37:38",
+    "feito_por": "IRINEIA",
+    "produto": "Des.Barra Lavanda Secret 45g",
+    "preco": "23,98",
+    "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-09-25",
+    "horario": "12:37:38",
+    "feito_por": "IRINEIA",
+    "produto": "Body Splash Rosa Selvagem DIVERSAS FRAGANCIAS 200ml",
+    "preco": "25,98",
+    "validade_oferta_ate": "30/12/2027"
   }
 ]
