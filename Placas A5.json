@@ -27726,5 +27726,61 @@
     "produto": "Arroz Kiarroz Parb T1 1kg",
     "preco": "3,98",
     "validade_oferta_ate": "27/09/2026"
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "07:50:59",
+    "feito_por": "Felipe",
+    "produto": "Cerv Imperio Ultra Gfa 275ml",
+    "preco": "4,48",
+    "validade_oferta_ate": "27/09/2026"
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "07:50:59",
+    "feito_por": "Felipe",
+    "produto": "Beb Energ Baly Div. Sabores Pet 2l",
+    "preco": "11,98",
+    "validade_oferta_ate": "27/09/2026"
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "07:50:59",
+    "feito_por": "Felipe",
+    "produto": "Cerv Budweiser Lt 350ml",
+    "preco": "3,98",
+    "validade_oferta_ate": "27/09/2026"
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "07:50:59",
+    "feito_por": "Felipe",
+    "produto": "Cerv Amstel Lt 473ml",
+    "preco": "4,28",
+    "validade_oferta_ate": "27/09/2026"
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "07:56:02",
+    "feito_por": "Paulo",
+    "produto": "Iog Batavo Bob Morango e Cereal Cp 120g",
+    "preco": "2,48",
+    "validade_oferta_ate": "01/10/2026"
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "10:09:45",
+    "feito_por": "Huiliane",
+    "produto": "Budweiser Lt 473ml c 12 Multipack",
+    "preco": "59,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "10:09:45",
+    "feito_por": "Huiliane",
+    "produto": "Cerv Skol 473ml C/12 Multipack",
+    "preco": "49,98",
+    "validade_oferta_ate": ""
   }
 ]
