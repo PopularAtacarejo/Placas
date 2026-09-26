@@ -22534,5 +22534,29 @@
     "produto": "Cerv Amstel Lt 473ml",
     "preco": "4,28",
     "validade_oferta_ate": "28/09/2026"
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "11:53:21",
+    "feito_por": "Jeferson",
+    "produto": "Maminha Kg",
+    "preco": "38,98",
+    "validade_oferta_ate": "28/09/2026"
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "11:53:21",
+    "feito_por": "Jeferson",
+    "produto": "Lagarto Bov Kg",
+    "preco": "36,98",
+    "validade_oferta_ate": "28/09/2026"
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "11:53:21",
+    "feito_por": "Jeferson",
+    "produto": "Costela Da Agulha Kg",
+    "preco": "23,98",
+    "validade_oferta_ate": "28/09/2026"
   }
 ]
