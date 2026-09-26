@@ -22558,5 +22558,21 @@
     "produto": "Costela Da Agulha Kg",
     "preco": "23,98",
     "validade_oferta_ate": "28/09/2026"
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "12:08:21",
+    "feito_por": "Eduardo",
+    "produto": "Alho Roxo Especial Trebeschi 200g",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "12:08:21",
+    "feito_por": "Eduardo",
+    "produto": "Gengibre Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
   }
 ]
