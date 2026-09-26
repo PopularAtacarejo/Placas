@@ -27782,5 +27782,29 @@
     "produto": "Cerv Skol 473ml C/12 Multipack",
     "preco": "49,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "11:42:38",
+    "feito_por": "Jeferson",
+    "produto": "Ling Frango Cong Aurora Kg",
+    "preco": "24,98",
+    "validade_oferta_ate": "28/09/2026"
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "11:42:38",
+    "feito_por": "Jeferson",
+    "produto": "Super Pizza Delicia Frango ou Calabresa 350g",
+    "preco": "9,98",
+    "validade_oferta_ate": "28/09/2026"
+  },
+  {
+    "data": "2026-09-26",
+    "horario": "11:42:38",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Amstel Lt 473ml",
+    "preco": "4,28",
+    "validade_oferta_ate": "28/09/2026"
   }
 ]
