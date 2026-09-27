@@ -22662,5 +22662,21 @@
     "produto": "Tomate Kg",
     "preco": "3,88",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "09:04:29",
+    "feito_por": "Gracenildo",
+    "produto": "Pera Danjou Kg",
+    "preco": "21,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "09:04:29",
+    "feito_por": "Gracenildo",
+    "produto": "Filezinho Sassimi Lar Bdj 1kg",
+    "preco": "20,98",
+    "validade_oferta_ate": "27/09/2026"
   }
 ]
