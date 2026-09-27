@@ -32654,5 +32654,21 @@
     "produto": "Refri Pepsi Black Zero Pet 2l",
     "preco": "6,88",
     "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "10:50:09",
+    "feito_por": "Renato",
+    "produto": "Uva Vitoria Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "14:47:27",
+    "feito_por": "Renato",
+    "produto": "Ovos De Codorna Dois Irmaos 30un",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
   }
 ]
