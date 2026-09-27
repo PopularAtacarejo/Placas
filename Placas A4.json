@@ -22582,5 +22582,85 @@
     "produto": "Limao Taiti Kg",
     "preco": "9,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "07:15:59",
+    "feito_por": "Wellington",
+    "produto": "Batatinha Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "07:15:59",
+    "feito_por": "Wellington",
+    "produto": "Abacate Kg",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "07:15:59",
+    "feito_por": "Wellington",
+    "produto": "Batata Doce Roxa Vitoria Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "07:15:59",
+    "feito_por": "Wellington",
+    "produto": "Beterraba Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "07:15:59",
+    "feito_por": "Wellington",
+    "produto": "Cenoura Kg",
+    "preco": "6,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "07:15:59",
+    "feito_por": "Wellington",
+    "produto": "Chuchu Kg",
+    "preco": "3,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "07:15:59",
+    "feito_por": "Wellington",
+    "produto": "Limao Taiti Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "07:15:59",
+    "feito_por": "Wellington",
+    "produto": "Manga Espada Kg",
+    "preco": "4,68",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "07:15:59",
+    "feito_por": "Wellington",
+    "produto": "Manga Tommy Kg",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-27",
+    "horario": "07:15:59",
+    "feito_por": "Wellington",
+    "produto": "Tomate Kg",
+    "preco": "3,88",
+    "validade_oferta_ate": ""
   }
 ]
