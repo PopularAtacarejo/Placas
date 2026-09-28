@@ -22710,5 +22710,29 @@
     "produto": "Refri Pepsi Black Zero Pet 2l",
     "preco": "6,88",
     "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-09-28",
+    "horario": "17:13:34",
+    "feito_por": "Jeferson",
+    "produto": "CHAREU C/OSSO",
+    "preco": "24,98",
+    "validade_oferta_ate": "29/09/2026"
+  },
+  {
+    "data": "2026-09-28",
+    "horario": "17:13:34",
+    "feito_por": "Jeferson",
+    "produto": "PATINHO",
+    "preco": "38,98",
+    "validade_oferta_ate": "29/09/2026"
+  },
+  {
+    "data": "2026-09-28",
+    "horario": "17:13:34",
+    "feito_por": "Jeferson",
+    "produto": "FILE MIGNON",
+    "preco": "60,48",
+    "validade_oferta_ate": "29/09/2026"
   }
 ]
