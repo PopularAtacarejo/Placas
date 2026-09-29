@@ -22750,5 +22750,21 @@
     "produto": "Iog Batavo Bob Morango e Cereal Cp 120g",
     "preco": "1,98",
     "validade_oferta_ate": "01/10/2026"
+  },
+  {
+    "data": "2026-09-29",
+    "horario": "14:07:08",
+    "feito_por": "Junior",
+    "produto": "Panettone Parati Chocomax Avela 400g",
+    "preco": "23,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-29",
+    "horario": "14:07:08",
+    "feito_por": "Junior",
+    "produto": "Panettone Parati Frutas 400g",
+    "preco": "28,98",
+    "validade_oferta_ate": ""
   }
 ]
