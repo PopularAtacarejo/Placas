@@ -32854,5 +32854,69 @@
     "produto": "Cream Cracker Marilan Nordeste 300g",
     "preco": "3,58",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-29",
+    "horario": "07:08:02",
+    "feito_por": "Paulo",
+    "produto": "Iog Batavo Bob Morango e Cereal Cp 120g",
+    "preco": "1,98",
+    "validade_oferta_ate": "01/10/2026"
+  },
+  {
+    "data": "2026-09-29",
+    "horario": "07:10:13",
+    "feito_por": "Paulo",
+    "produto": "Iog Batavo Bob Morango e Cereal Cp 120g",
+    "preco": "1,98",
+    "validade_oferta_ate": "01/10/2026"
+  },
+  {
+    "data": "2026-09-29",
+    "horario": "14:07:08",
+    "feito_por": "Junior",
+    "produto": "Panettone Parati Chocomax Avela 400g",
+    "preco": "23,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-29",
+    "horario": "14:07:08",
+    "feito_por": "Junior",
+    "produto": "Panettone Parati Frutas 400g",
+    "preco": "28,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-29",
+    "horario": "15:14:13",
+    "feito_por": "Gustavo",
+    "produto": "Panettone Parati Frutas 400g",
+    "preco": "28,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-29",
+    "horario": "15:14:13",
+    "feito_por": "Gustavo",
+    "produto": "Panettone Parati Chocomax Choco 400g",
+    "preco": "23,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-29",
+    "horario": "15:18:38",
+    "feito_por": "Irineia",
+    "produto": "Abs Cottonbab Lady Suave C/Abas 32un",
+    "preco": "25,98",
+    "validade_oferta_ate": "30/06/2027"
+  },
+  {
+    "data": "2026-09-29",
+    "horario": "15:18:38",
+    "feito_por": "Irineia",
+    "produto": "Cr Nivea Corp Todo Tipo De Pele 97g",
+    "preco": "24,98",
+    "validade_oferta_ate": "30/10/2026"
   }
 ]
