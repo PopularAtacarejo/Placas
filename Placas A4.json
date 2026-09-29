@@ -22990,5 +22990,21 @@
     "produto": "Ovos Caipira Coopag Bandeja C/30",
     "preco": "23,98",
     "validade_oferta_ate": "30/09/2026"
+  },
+  {
+    "data": "2026-09-29",
+    "horario": "17:14:04",
+    "feito_por": "Josenildo",
+    "produto": "Iog Batavo Grego Pense Zero Maracuja 100g",
+    "preco": "2,48",
+    "validade_oferta_ate": "14/10/2026"
+  },
+  {
+    "data": "2026-09-29",
+    "horario": "17:14:04",
+    "feito_por": "Josenildo",
+    "produto": "Iog Batavo Grego Pense Zero Mor 100g",
+    "preco": "2,48",
+    "validade_oferta_ate": "13/10/2026"
   }
 ]
