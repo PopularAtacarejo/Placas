@@ -22734,5 +22734,13 @@
     "produto": "FILE MIGNON",
     "preco": "60,48",
     "validade_oferta_ate": "29/09/2026"
+  },
+  {
+    "data": "2026-09-29",
+    "horario": "07:08:02",
+    "feito_por": "Paulo",
+    "produto": "Iog Batavo Bob Morango e Cereal Cp 120g",
+    "preco": "1,98",
+    "validade_oferta_ate": "01/10/2026"
   }
 ]
