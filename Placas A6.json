@@ -33254,5 +33254,69 @@
     "produto": "Massa De Pastel Massafest Rolo 1kg",
     "preco": "5,98",
     "validade_oferta_ate": "01/10/2029"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "08:44:26",
+    "feito_por": "Paulo",
+    "produto": "Mort Bologna Aurora Fatiada 180g",
+    "preco": "6,98",
+    "validade_oferta_ate": "03/10/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "08:44:26",
+    "feito_por": "Paulo",
+    "produto": "Pasta De Alho Seara 200g",
+    "preco": "6,98",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "08:44:26",
+    "feito_por": "Paulo",
+    "produto": "Pate De Peito De Peru Sadia 100g",
+    "preco": "5,48",
+    "validade_oferta_ate": "04/10/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "08:44:26",
+    "feito_por": "Paulo",
+    "produto": "Pate De Presunto Sadia 100g",
+    "preco": "5,48",
+    "validade_oferta_ate": "05/10/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "08:44:26",
+    "feito_por": "Paulo",
+    "produto": "Queijo Prato Fat Piracanjuba 150g",
+    "preco": "11,98",
+    "validade_oferta_ate": "04/10/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "08:44:26",
+    "feito_por": "Paulo",
+    "produto": "Requeijao Cremoso Trad Catupiry Sc 250g",
+    "preco": "9,98",
+    "validade_oferta_ate": "16/10/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "08:44:26",
+    "feito_por": "Paulo",
+    "produto": "Salsicha De Frango Sadia 500g",
+    "preco": "9,98",
+    "validade_oferta_ate": "06/10/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "08:44:26",
+    "feito_por": "Paulo",
+    "produto": "Salsicha De Peru Sadia Light 500g",
+    "preco": "9,98",
+    "validade_oferta_ate": "06/10/2026"
   }
 ]
