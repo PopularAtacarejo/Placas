@@ -28414,5 +28414,37 @@
     "produto": "Des Aerosol Nivea diversas fragancias 150ml",
     "preco": "10,98",
     "validade_oferta_ate": "30/09/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "09:41:40",
+    "feito_por": "Ana",
+    "produto": "Gel Dental Carmed C/Fluor Fini Beijos 70g",
+    "preco": "14,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "09:56:29",
+    "feito_por": "Caio",
+    "produto": "Tomate Kg",
+    "preco": "3,98",
+    "validade_oferta_ate": "30/09/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "11:30:07",
+    "feito_por": "Marcos",
+    "produto": "Molho Pronto Sugo Amatriciana Reggia 350g",
+    "preco": "5,98",
+    "validade_oferta_ate": "30/09/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "13:23:03",
+    "feito_por": "Paulo",
+    "produto": "Iog Batavo Bob Morango e Cereal Cp 120g",
+    "preco": "2,48",
+    "validade_oferta_ate": "12/10/2026"
   }
 ]
