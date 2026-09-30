@@ -23030,5 +23030,13 @@
     "produto": "Tomate Kg",
     "preco": "3,98",
     "validade_oferta_ate": "30/09/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "11:30:07",
+    "feito_por": "Marcos",
+    "produto": "Molho Pronto Sugo Amatriciana Reggia 350g",
+    "preco": "5,98",
+    "validade_oferta_ate": "30/09/2026"
   }
 ]
