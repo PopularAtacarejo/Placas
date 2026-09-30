@@ -33350,5 +33350,45 @@
     "produto": "Abs Cottonbab Lady Suave C/Abas 32un",
     "preco": "25,98",
     "validade_oferta_ate": "30/06/2027"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "09:41:40",
+    "feito_por": "Ana",
+    "produto": "Gel Dental Carmed C/Fluor Fini Beijos 70g",
+    "preco": "14,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "09:41:40",
+    "feito_por": "Ana",
+    "produto": "Cond Seda Luminoso Uv 300ml",
+    "preco": "9,48",
+    "validade_oferta_ate": "30/12/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "09:41:40",
+    "feito_por": "Ana",
+    "produto": "Leave In Serum Seda Luminoso Uv 110ml",
+    "preco": "13,98",
+    "validade_oferta_ate": "31/12/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "09:41:40",
+    "feito_por": "Ana",
+    "produto": "Cr Pent Seda Luminoso Uv 300ml",
+    "preco": "9,48",
+    "validade_oferta_ate": "30/12/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "09:41:40",
+    "feito_por": "Ana",
+    "produto": "Masc Trat Seda Luminoso Uv 300g",
+    "preco": "15,98",
+    "validade_oferta_ate": "30/12/2026"
   }
 ]
