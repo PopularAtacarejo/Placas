@@ -33318,5 +33318,29 @@
     "produto": "Salsicha De Peru Sadia Light 500g",
     "preco": "9,98",
     "validade_oferta_ate": "06/10/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "08:51:16",
+    "feito_por": "Jeferson",
+    "produto": "Presunt Seara Coz Magro Fat",
+    "preco": "34,98",
+    "validade_oferta_ate": "30/09/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "09:00:22",
+    "feito_por": "Irineia",
+    "produto": "Desodorante Aero Francis diversas fragancias 150ml",
+    "preco": "11,98",
+    "validade_oferta_ate": "30/10/2026"
+  },
+  {
+    "data": "2026-09-30",
+    "horario": "09:00:22",
+    "feito_por": "Irineia",
+    "produto": "Cr Nivea Corp Todo Tipo De Pele 97g",
+    "preco": "24,98",
+    "validade_oferta_ate": "30/10/2026"
   }
 ]
