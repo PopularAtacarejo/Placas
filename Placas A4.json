@@ -23134,5 +23134,13 @@
     "produto": "Tomate Kg",
     "preco": "5,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "09:41:04",
+    "feito_por": "Caio",
+    "produto": "Batatinha Kg",
+    "preco": "7,28",
+    "validade_oferta_ate": ""
   }
 ]
