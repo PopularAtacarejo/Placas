@@ -33718,5 +33718,53 @@
     "produto": "Bisc Vitarella Delicita Salg Pizza 138g",
     "preco": "1,98",
     "validade_oferta_ate": "02/10/2026"
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "09:58:56",
+    "feito_por": "Renato",
+    "produto": "Batatinha Kg",
+    "preco": "7,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "10:44:37",
+    "feito_por": "Caio",
+    "produto": "Melao Espanhol Kg",
+    "preco": "5,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "11:57:29",
+    "feito_por": "Caio",
+    "produto": "Melao Espanhol Kg",
+    "preco": "5,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "14:19:30",
+    "feito_por": "Lucas",
+    "produto": "Bisc Nesfit Banana/Aveia/Canela 160g",
+    "preco": "0,98",
+    "validade_oferta_ate": "01/10/2026"
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "14:19:30",
+    "feito_por": "Lucas",
+    "produto": "Choc.Arcor Bon o Bon Paçoca 450g",
+    "preco": "19,98",
+    "validade_oferta_ate": "10/10/2026"
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "14:19:30",
+    "feito_por": "Lucas",
+    "produto": "Choc.Arcor Bon o Bon Brigadeiro 450g",
+    "preco": "19,98",
+    "validade_oferta_ate": "24/10/2026"
   }
 ]
