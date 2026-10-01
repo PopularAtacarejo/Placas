@@ -33774,5 +33774,85 @@
     "produto": "Suco Del Valle Limonada Lt 290ml",
     "preco": "1,48",
     "validade_oferta_ate": "01/10/2026"
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "15:35:39",
+    "feito_por": "Renato",
+    "produto": "Abacaxi Un",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "17:11:57",
+    "feito_por": "Silvania",
+    "produto": "Cremogema sabores 180g",
+    "preco": "6,46",
+    "validade_oferta_ate": "18/10/2026"
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "17:11:57",
+    "feito_por": "Silvania",
+    "produto": "Cremogema Trad Lv180gpg130g",
+    "preco": "4,93",
+    "validade_oferta_ate": "18/10/2026"
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "17:11:57",
+    "feito_por": "Silvania",
+    "produto": "Amido De Milho Maizena Lv200pg150g",
+    "preco": "5,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "17:11:57",
+    "feito_por": "Silvania",
+    "produto": "Amido De Milho Maizena 500g",
+    "preco": "14,68",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "17:11:57",
+    "feito_por": "Silvania",
+    "produto": "Cremogema Maizena Tradicional 550g",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "17:11:57",
+    "feito_por": "Silvania",
+    "produto": "Cremogema Maizena Tradicional 380g",
+    "preco": "12,58",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "17:11:57",
+    "feito_por": "Silvania",
+    "produto": "Fralda Capricho Shortinho Mega",
+    "preco": "43,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "17:11:57",
+    "feito_por": "Silvania",
+    "produto": "Fralda Capricho Shortinho Hiper",
+    "preco": "59,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-01",
+    "horario": "17:11:57",
+    "feito_por": "Silvania",
+    "produto": "Fralda Capricho Shortinho Hiper M. C/58",
+    "preco": "59,98",
+    "validade_oferta_ate": ""
   }
 ]
