@@ -28710,5 +28710,21 @@
     "produto": "Bolinho Ana Maria Choc 35g",
     "preco": "0,98",
     "validade_oferta_ate": "04/10/2026"
+  },
+  {
+    "data": "2026-10-02",
+    "horario": "14:51:08",
+    "feito_por": "Jeferson",
+    "produto": "Leite Cond Piracanjuba 395g",
+    "preco": "7,98",
+    "validade_oferta_ate": "02/10/2026"
+  },
+  {
+    "data": "2026-10-02",
+    "horario": "14:51:08",
+    "feito_por": "Jeferson",
+    "produto": "Beb Lact Uht Pirakids 1l Choc C/Tp",
+    "preco": "7,98",
+    "validade_oferta_ate": "02/10/2026"
   }
 ]
