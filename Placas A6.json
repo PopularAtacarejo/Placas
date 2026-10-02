@@ -34262,5 +34262,45 @@
     "produto": "Bisc Vitarella Delicita Salg Pizza 138g",
     "preco": "1,98",
     "validade_oferta_ate": "02/10/2026"
+  },
+  {
+    "data": "2026-10-02",
+    "horario": "08:00:50",
+    "feito_por": "Ana",
+    "produto": "Bisc Wafer Pajucara Laranja 78g",
+    "preco": "1,98",
+    "validade_oferta_ate": "11/10/2026"
+  },
+  {
+    "data": "2026-10-02",
+    "horario": "08:00:50",
+    "feito_por": "Ana",
+    "produto": "Biscoito Sequilho Leite Pajucara 100g",
+    "preco": "2,48",
+    "validade_oferta_ate": "21/10/2026"
+  },
+  {
+    "data": "2026-10-02",
+    "horario": "08:00:50",
+    "feito_por": "Ana",
+    "produto": "Bolinho Ana Maria Duplo Choc 35g",
+    "preco": "1,98",
+    "validade_oferta_ate": "14/10/2026"
+  },
+  {
+    "data": "2026-10-02",
+    "horario": "08:00:50",
+    "feito_por": "Ana",
+    "produto": "Bolinho Ana Maria Gotas De Choc 35g",
+    "preco": "1,98",
+    "validade_oferta_ate": "18/10/2026"
+  },
+  {
+    "data": "2026-10-02",
+    "horario": "08:00:50",
+    "feito_por": "Ana",
+    "produto": "Pit Stop Maril.60gr Snack Calabresa",
+    "preco": "2,48",
+    "validade_oferta_ate": "15/10/2026"
   }
 ]
