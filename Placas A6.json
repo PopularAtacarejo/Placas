@@ -34406,5 +34406,45 @@
     "produto": "Sabao Liq Omo Lavagem Perfeita 3l",
     "preco": "42,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-02",
+    "horario": "15:20:36",
+    "feito_por": "Ana",
+    "produto": "Cafe Santa Clara Extra Forte Vacuo 250g",
+    "preco": "10,99",
+    "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-02",
+    "horario": "15:20:36",
+    "feito_por": "Ana",
+    "produto": "Cafe Santa Clara Gourmet Reg Vulcanica Sc 250g",
+    "preco": "14,99",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-02",
+    "horario": "15:20:36",
+    "feito_por": "Ana",
+    "produto": "Leite Em Po Piracanjuba Lt 380g Integral",
+    "preco": "14,98",
+    "validade_oferta_ate": "03/10/2026"
+  },
+  {
+    "data": "2026-10-02",
+    "horario": "15:20:36",
+    "feito_por": "Ana",
+    "produto": "Leite Ninho Uht 1l Tp Zl Integral Vit",
+    "preco": "9,48",
+    "validade_oferta_ate": "06/10/2026"
+  },
+  {
+    "data": "2026-10-02",
+    "horario": "15:20:36",
+    "feito_por": "Ana",
+    "produto": "Leite Po Piracanjuba Pct 700g Int Inst",
+    "preco": "25,48",
+    "validade_oferta_ate": "23/10/2026"
   }
 ]
