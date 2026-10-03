@@ -23678,5 +23678,21 @@
     "produto": "Bisteca Suina Cong. Kg",
     "preco": "14,98",
     "validade_oferta_ate": "03/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:18:05",
+    "feito_por": "Jeferson",
+    "produto": "COXÃO MOLE / CHÃ DE DENTRO",
+    "preco": "39,98",
+    "validade_oferta_ate": "04/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:18:05",
+    "feito_por": "Jeferson",
+    "produto": "CONTRA FILE",
+    "preco": "42,98",
+    "validade_oferta_ate": "03/10/2026"
   }
 ]
