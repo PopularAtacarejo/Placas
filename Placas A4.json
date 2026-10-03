@@ -23806,5 +23806,13 @@
     "produto": "Banana Prata Kg",
     "preco": "4,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:37:00",
+    "feito_por": "Jeferson",
+    "produto": "Coxa C/ Sobrecoxa Dorsal a Granel Kg",
+    "preco": "9,48",
+    "validade_oferta_ate": "04/10/2026"
   }
 ]
