@@ -23814,5 +23814,45 @@
     "produto": "Coxa C/ Sobrecoxa Dorsal a Granel Kg",
     "preco": "9,48",
     "validade_oferta_ate": "04/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:59:20",
+    "feito_por": "Eduardo",
+    "produto": "Melao Galia Kg",
+    "preco": "11,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:59:20",
+    "feito_por": "Eduardo",
+    "produto": "Melao Redinha Rei Kg",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:59:20",
+    "feito_por": "Eduardo",
+    "produto": "Melao Portugues Kg",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:59:20",
+    "feito_por": "Eduardo",
+    "produto": "Melao Espanhol Kg",
+    "preco": "5,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:59:20",
+    "feito_por": "Eduardo",
+    "produto": "Melancia Magali Kg",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
   }
 ]
