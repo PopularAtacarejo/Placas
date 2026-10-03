@@ -35246,5 +35246,109 @@
     "produto": "Cerv Itaipava Lt 473ml",
     "preco": "2,98",
     "validade_oferta_ate": "03/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:59:20",
+    "feito_por": "Eduardo",
+    "produto": "Melao Galia Kg",
+    "preco": "11,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:59:20",
+    "feito_por": "Eduardo",
+    "produto": "Melao Redinha Rei Kg",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:59:20",
+    "feito_por": "Eduardo",
+    "produto": "Melao Portugues Kg",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:59:20",
+    "feito_por": "Eduardo",
+    "produto": "Melao Espanhol Kg",
+    "preco": "5,18",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:59:20",
+    "feito_por": "Eduardo",
+    "produto": "Melancia Magali Kg",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "09:55:13",
+    "feito_por": "Paulo",
+    "produto": "Massa De Pastel Pasticrem T. Aniv 500g",
+    "preco": "6,98",
+    "validade_oferta_ate": "11/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "09:55:13",
+    "feito_por": "Paulo",
+    "produto": "Pasta De Alho Seara 200g",
+    "preco": "5,98",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "09:55:13",
+    "feito_por": "Paulo",
+    "produto": "Pate De Peito De Peru Sadia 100g",
+    "preco": "4,98",
+    "validade_oferta_ate": "04/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "09:55:13",
+    "feito_por": "Paulo",
+    "produto": "Pate De Presunto Sadia 100g",
+    "preco": "4,98",
+    "validade_oferta_ate": "05/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "09:55:13",
+    "feito_por": "Paulo",
+    "produto": "Queijo Prato Fat Piracanjuba 150g",
+    "preco": "5,98",
+    "validade_oferta_ate": "04/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "09:55:13",
+    "feito_por": "Paulo",
+    "produto": "Requeijao Nestle Tradicional 200g",
+    "preco": "8,98",
+    "validade_oferta_ate": "16/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "09:55:13",
+    "feito_por": "Paulo",
+    "produto": "Salsicha De Frango Sadia 500g",
+    "preco": "8,98",
+    "validade_oferta_ate": "06/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "09:55:13",
+    "feito_por": "Paulo",
+    "produto": "Salsicha Perdigao Frango 500g",
+    "preco": "9,98",
+    "validade_oferta_ate": "12/10/2026"
   }
 ]
