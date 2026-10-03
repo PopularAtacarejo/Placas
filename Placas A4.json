@@ -23774,5 +23774,29 @@
     "produto": "Beterraba Kg",
     "preco": "6,58",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:30:57",
+    "feito_por": "Eduardo",
+    "produto": "Tangerina Importada Kg",
+    "preco": "10,98",
+    "validade_oferta_ate": "04/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:30:57",
+    "feito_por": "Eduardo",
+    "produto": "Pimentao Verde Kg",
+    "preco": "7,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:30:57",
+    "feito_por": "Eduardo",
+    "produto": "Laranja Pera Kg",
+    "preco": "1,18",
+    "validade_oferta_ate": "04/10/2026"
   }
 ]
