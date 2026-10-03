@@ -23798,5 +23798,13 @@
     "produto": "Laranja Pera Kg",
     "preco": "1,18",
     "validade_oferta_ate": "04/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:35:33",
+    "feito_por": "Jeferson",
+    "produto": "Banana Prata Kg",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
   }
 ]
