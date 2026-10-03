@@ -23694,5 +23694,13 @@
     "produto": "CONTRA FILE",
     "preco": "42,98",
     "validade_oferta_ate": "03/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:24:45",
+    "feito_por": "Jeferson Jefry",
+    "produto": "Ling Frango Cong Aurora Kg",
+    "preco": "19,98",
+    "validade_oferta_ate": "15/10/2026"
   }
 ]
