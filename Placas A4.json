@@ -23702,5 +23702,77 @@
     "produto": "Ling Frango Cong Aurora Kg",
     "preco": "19,98",
     "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:26:41",
+    "feito_por": "Eduardo",
+    "produto": "Manga Tommy Kg",
+    "preco": "3,68",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:26:41",
+    "feito_por": "Eduardo",
+    "produto": "Cebola Roxa Kg",
+    "preco": "7,28",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:26:41",
+    "feito_por": "Eduardo",
+    "produto": "Maca Nacional Kg",
+    "preco": "8,98",
+    "validade_oferta_ate": "04/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:26:41",
+    "feito_por": "Eduardo",
+    "produto": "Manga Rosa Kg",
+    "preco": "5,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:26:41",
+    "feito_por": "Eduardo",
+    "produto": "Batata Doce Roxa Vitoria Kg",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:26:41",
+    "feito_por": "Eduardo",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "13,75",
+    "validade_oferta_ate": "03/10/2026"
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:26:41",
+    "feito_por": "Eduardo",
+    "produto": "Mamao Papaya Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:26:41",
+    "feito_por": "Eduardo",
+    "produto": "Goiaba Kg",
+    "preco": "6,38",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-03",
+    "horario": "07:26:41",
+    "feito_por": "Eduardo",
+    "produto": "Beterraba Kg",
+    "preco": "6,58",
+    "validade_oferta_ate": ""
   }
 ]
