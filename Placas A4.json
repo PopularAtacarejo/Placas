@@ -23926,5 +23926,21 @@
     "produto": "Budweiser Lt 473ml c 12 Multipack",
     "preco": "54,98",
     "validade_oferta_ate": "05/10/2026"
+  },
+  {
+    "data": "2026-10-05",
+    "horario": "07:55:33",
+    "feito_por": "Eduardo",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-05",
+    "horario": "07:55:33",
+    "feito_por": "Eduardo",
+    "produto": "Tomate Kg",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
   }
 ]
