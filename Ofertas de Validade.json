@@ -25163,5 +25163,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "05/10/2026",
+    "hora": "12:17:41",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Treloso Clubinho Leite 130 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/10/2026",
+        "codigo_barras": "7896213004521",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/10/2026",
+        "codigo_barras": "7896213006310",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Bauducco Wafer Chocolate 70 g",
+        "preco": "1,68",
+        "unidade": "Unid.",
+        "validade_oferta": "07/10/2026",
+        "codigo_barras": "7891962071732",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Divertix Rech Morango 112 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/10/2026",
+        "codigo_barras": "7896022207090",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
