@@ -24094,5 +24094,21 @@
     "produto": "Melao Redinha Rei Kg",
     "preco": "15,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-05",
+    "horario": "09:35:38",
+    "feito_por": "Caio",
+    "produto": "Maca Nacional Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-05",
+    "horario": "09:35:38",
+    "feito_por": "Caio",
+    "produto": "Banana Prata Kg",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
   }
 ]
