@@ -25207,5 +25207,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "05/10/2026",
+    "hora": "12:19:51",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Amant Vitamas Toboga Chocolate 120 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/10/2026",
+        "codigo_barras": "7897353903569",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Amant Vitamas Toboga Leite 120 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/10/2026",
+        "codigo_barras": "7897353903552",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Piraque Rech Leite Malt. Choc 85 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/10/2026",
+        "codigo_barras": "7896024761354",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Piraque Rech Leite Malt. Black c/baun 85 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/10/2026",
+        "codigo_barras": "7896024761620",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
