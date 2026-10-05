@@ -25471,5 +25471,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "05/10/2026",
+    "hora": "12:30:54",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bolinho Ana Maria Cober Choc 42 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/10/2026",
+        "codigo_barras": "7896002362054",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
