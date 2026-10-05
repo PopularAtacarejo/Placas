@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-09-08T17:06:06",
+  "atualizado_em": "2026-10-05T12:14:55",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -792,7 +792,8 @@
     "bisc cr cracker vitarella crocks queijo | massa:350g": {
       "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "codigo_barras": "7896213006310",
+      "hits": 4,
       "aliases": [
         "bisc cr cracker vitarella crocks queijo 350g",
         "bisc cr cracker vitarella crocks queijo | massa:350g",
@@ -805,7 +806,7 @@
         "massa:350g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-10-05T12:14:55"
     },
     "bisc cr cracker vitarella tostadinha | massa:350g": {
       "descricao": "Bisc Vitarella Delicita Salg Pizza 138g",
@@ -3819,9 +3820,10 @@
       "atualizado_em": "2026-06-17T15:11:21"
     },
     "bisc vitarella delicita doce crist | massa:414g": {
-      "descricao": "Bisc Maizena Marilan Fl 300 g",
+      "descricao": "Bisc Vitarella Delicita Doce Crist 414 g",
       "unidade": "Unid.",
-      "hits": 6,
+      "codigo_barras": "7896213005771",
+      "hits": 7,
       "aliases": [
         "bisc maizena marilan fl 300 g",
         "bisc maizena marilan fl | massa:300g",
@@ -3829,12 +3831,12 @@
         "bisc vitarella delicita doce crist 414g",
         "bisc vitarella delicita doce crist | massa:414g"
       ],
-      "descricao_base": "bisc maizena marilan fl",
+      "descricao_base": "bisc vitarella delicita doce crist",
       "medidas": [
-        "massa:300g"
+        "massa:414g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:11:21"
+      "atualizado_em": "2026-10-05T12:14:55"
     },
     "bisc maizena marilan chocolate | massa:300g": {
       "descricao": "Bisc Maizena Marilan Chocolate 300 g",
@@ -3905,7 +3907,8 @@
     "bisc vitarella coquinho | massa:300g": {
       "descricao": "Bisc Vitarella Coquinho 300 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896213002909",
+      "hits": 2,
       "aliases": [
         "bisc vitarella coquinho 300 g",
         "bisc vitarella coquinho 300g",
@@ -3916,7 +3919,7 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-10-05T12:14:55"
     },
     "bisc maria vitarella tradicional | massa:350g": {
       "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
@@ -4103,7 +4106,8 @@
     "bisc cookies vitarella chocolate | massa:80g": {
       "descricao": "Bisc Cookies Vitarella Chocolate 80 g",
       "unidade": "Unid.",
-      "hits": 6,
+      "codigo_barras": "7896213005719",
+      "hits": 7,
       "aliases": [
         "bisc cookies vitarella chocolate 80 g",
         "bisc cookies vitarella chocolate 80g",
@@ -4114,7 +4118,7 @@
         "massa:80g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:11:21"
+      "atualizado_em": "2026-10-05T12:14:55"
     },
     "bisc marilan pit stop rech misto quente | massa:91g": {
       "descricao": "Bisc Marilan Pit Stop Rech Salsa Ceb 91 g",
@@ -4193,7 +4197,8 @@
     "bisc cookies vitarella original | massa:80g": {
       "descricao": "Bisc Cookies Vitarella Original 80 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896213005702",
+      "hits": 2,
       "aliases": [
         "bisc cookies vitarella original 80 g",
         "bisc cookies vitarella original 80g",
@@ -4204,7 +4209,7 @@
         "massa:80g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-10-05T12:14:55"
     },
     "bisc treloso rech flocos 4 pts | massa:480g": {
       "descricao": "Bisc Treloso Rech Flocos 4 pts 480 g",
@@ -4321,7 +4326,8 @@
     "bisc divertix rech chocolate | massa:112g": {
       "descricao": "Bisc Divertix Rech Chocolate 112 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896022207106",
+      "hits": 2,
       "aliases": [
         "bisc divertix rech chocolate 112 g",
         "bisc divertix rech chocolate 112g",
@@ -4332,12 +4338,13 @@
         "massa:112g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-10-05T12:14:55"
     },
     "bisc piraque rech leite malt black c/baun | massa:85g": {
       "descricao": "Bisc Piraque Rech Leite Malt. Black c/baun 85 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896024761620",
+      "hits": 2,
       "aliases": [
         "bisc piraque rech leite malt black c baun 85 g",
         "bisc piraque rech leite malt black c baun 85g",
@@ -4348,7 +4355,7 @@
         "massa:85g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-06T07:50:09"
+      "atualizado_em": "2026-10-05T12:14:55"
     },
     "bisc pajucara wafer choc branco | massa:78g": {
       "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
@@ -7949,23 +7956,25 @@
       "atualizado_em": "2026-05-22T14:46:18"
     },
     "bisc pajucara wafer morango | massa:78g": {
-      "descricao": "Bisc Afa Wafer Maroto Abacaxi 26 g",
+      "descricao": "Bisc Pajucara Wafer Morango 78 g",
       "unidade": "Unid.",
-      "hits": 3,
+      "codigo_barras": "7896016435331",
+      "hits": 4,
       "aliases": [
         "bisc afa wafer maroto abacaxi 26 g",
         "bisc afa wafer maroto abacaxi | massa:26g",
         "bisc pajucara wafer choc branco 78 g",
         "bisc pajucara wafer choc branco | massa:78g",
+        "bisc pajucara wafer morango 78 g",
         "bisc pajucara wafer morango 78g",
         "bisc pajucara wafer morango | massa:78g"
       ],
-      "descricao_base": "bisc afa wafer maroto abacaxi",
+      "descricao_base": "bisc pajucara wafer morango",
       "medidas": [
-        "massa:26g"
+        "massa:78g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:11:21"
+      "atualizado_em": "2026-10-05T12:14:55"
     },
     "bisc amant renata leite | massa:330g": {
       "descricao": "Bisc Amant Renata Leite 330 g",
@@ -8020,7 +8029,8 @@
     "bisc pajucara wafer trufa | massa:78g": {
       "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7896016435935",
+      "hits": 3,
       "aliases": [
         "bisc pajucara wafer choc branco 78 g",
         "bisc pajucara wafer choc branco | massa:78g",
@@ -8032,7 +8042,7 @@
         "massa:78g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T14:46:18"
+      "atualizado_em": "2026-10-05T12:14:55"
     },
     "tablete lacta cookies ao leite | massa:80g": {
       "descricao": "Tablete Lacta Cookies Ao Leite 80 g",
@@ -13879,7 +13889,7 @@
       "descricao": "Bolinho Ana Maria Duplo Choc 35 g",
       "unidade": "Unid.",
       "codigo_barras": "7896002302661",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bolinho ana maria duplo choc 35 g",
         "bolinho ana maria duplo choc 35g",
@@ -13890,7 +13900,7 @@
         "massa:35g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-15T14:34:18"
+      "atualizado_em": "2026-10-05T12:14:55"
     },
     "tangerina importada kg": {
       "descricao": "Barra De Cereal Naturale Castanhas c/ave 25 g",
@@ -19276,7 +19286,7 @@
       "descricao": "Bisc Treloso Clubinho Leite 130 g",
       "unidade": "Unid.",
       "codigo_barras": "7896213004521",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc treloso clubinho leite 130 g",
         "bisc treloso clubinho leite 130g",
@@ -19287,7 +19297,7 @@
         "massa:130g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-09-08T17:06:06"
+      "atualizado_em": "2026-10-05T12:14:55"
     },
     "bisc amant renata chocolate | massa:330g": {
       "descricao": "Bisc Amant Renata Chocolate 330 g",
@@ -19310,7 +19320,7 @@
       "descricao": "Biscoito Sequilho Leite Pajucara 100 g",
       "unidade": "Unid.",
       "codigo_barras": "7896016436208",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "biscoito sequilho leite pajucara 100 g",
         "biscoito sequilho leite pajucara 100g",
@@ -19321,7 +19331,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-09-08T17:06:06"
+      "atualizado_em": "2026-10-05T12:14:55"
     },
     "bisc rech futurinhos morango | massa:113g": {
       "descricao": "Bisc Rech Futurinhos Morango 113 g",
@@ -19710,6 +19720,296 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-09-08T15:14:43"
+    },
+    "bisc bauducco wafer chocolate | massa:70g": {
+      "descricao": "Bisc Bauducco Wafer Chocolate 70 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891962071732",
+      "hits": 1,
+      "aliases": [
+        "bisc bauducco wafer 70g chocolate",
+        "bisc bauducco wafer chocolate 70 g",
+        "bisc bauducco wafer chocolate | massa:70g"
+      ],
+      "descricao_base": "bisc bauducco wafer chocolate",
+      "medidas": [
+        "massa:70g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "bisc divertix rech morango | massa:112g": {
+      "descricao": "Bisc Divertix Rech Morango 112 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896022207090",
+      "hits": 1,
+      "aliases": [
+        "bisc divertix rech morango 112 g",
+        "bisc divertix rech morango 112g",
+        "bisc divertix rech morango | massa:112g"
+      ],
+      "descricao_base": "bisc divertix rech morango",
+      "medidas": [
+        "massa:112g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "bisc amant vitamas toboga chocolate | massa:120g": {
+      "descricao": "Bisc Amant Vitamas Toboga Chocolate 120 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897353903569",
+      "hits": 1,
+      "aliases": [
+        "bisc amant vitamas 120g toboga chocolate",
+        "bisc amant vitamas toboga chocolate 120 g",
+        "bisc amant vitamas toboga chocolate | massa:120g"
+      ],
+      "descricao_base": "bisc amant vitamas toboga chocolate",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "bisc amant vitamas toboga leite | massa:120g": {
+      "descricao": "Bisc Amant Vitamas Toboga Leite 120 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897353903552",
+      "hits": 1,
+      "aliases": [
+        "bisc amant vitamas 120g toboga leite",
+        "bisc amant vitamas toboga leite 120 g",
+        "bisc amant vitamas toboga leite | massa:120g"
+      ],
+      "descricao_base": "bisc amant vitamas toboga leite",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "bisc piraque rech leite malt choc | massa:85g": {
+      "descricao": "Bisc Piraque Rech Leite Malt. Choc 85 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896024761354",
+      "hits": 1,
+      "aliases": [
+        "bisc piraque rech leite malt choc 85 g",
+        "bisc piraque rech leite malt choc 85g",
+        "bisc piraque rech leite malt choc | massa:85g"
+      ],
+      "descricao_base": "bisc piraque rech leite malt choc",
+      "medidas": [
+        "massa:85g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "bisc wafer pajucara laranja | massa:78g": {
+      "descricao": "Bisc Wafer Pajucara Laranja 78 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896016435539",
+      "hits": 1,
+      "aliases": [
+        "bisc wafer pajucara laranja 78 g",
+        "bisc wafer pajucara laranja 78g",
+        "bisc wafer pajucara laranja | massa:78g"
+      ],
+      "descricao_base": "bisc wafer pajucara laranja",
+      "medidas": [
+        "massa:78g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "bisc waffer look itamaraty doce de leite | massa:55g": {
+      "descricao": "Bisc Waffer Look Itamaraty Doce De Leite 55 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891340303431",
+      "hits": 1,
+      "aliases": [
+        "bisc waffer look itamaraty doce de leite 55 g",
+        "bisc waffer look itamaraty doce de leite 55g",
+        "bisc waffer look itamaraty doce de leite | massa:55g"
+      ],
+      "descricao_base": "bisc waffer look itamaraty doce de leite",
+      "medidas": [
+        "massa:55g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "cookie chocolate maril | massa:60g": {
+      "descricao": "Cookie Chocolate Maril 60 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003740622",
+      "hits": 1,
+      "aliases": [
+        "cookie chocolate maril 60 g",
+        "cookie chocolate maril 60g",
+        "cookie chocolate maril | massa:60g"
+      ],
+      "descricao_base": "cookie chocolate maril",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "pit stop maril snack calabresa | massa:60g": {
+      "descricao": "Pit Stop Maril. Snack Calabresa 60 gr",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003740134",
+      "hits": 1,
+      "aliases": [
+        "pit stop maril 60gr snack calabresa",
+        "pit stop maril snack calabresa 60 gr",
+        "pit stop maril snack calabresa | massa:60g"
+      ],
+      "descricao_base": "pit stop maril snack calabresa",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "cookie maril original | massa:60g": {
+      "descricao": "Cookie Maril Original 60 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003740615",
+      "hits": 1,
+      "aliases": [
+        "cookie maril original 60 g",
+        "cookie maril original 60g",
+        "cookie maril original | massa:60g"
+      ],
+      "descricao_base": "cookie maril original",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "bisc marilan salgadinhos sortidos trad | massa:400g": {
+      "descricao": "Bisc Marilan Salgadinhos Sortidos Trad 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003703719",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan 400g salgadinhos sortidos trad",
+        "bisc marilan salgadinhos sortidos trad 400 g",
+        "bisc marilan salgadinhos sortidos trad | massa:400g"
+      ],
+      "descricao_base": "bisc marilan salgadinhos sortidos trad",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "bolinho ana maria gotas de choc | massa:35g": {
+      "descricao": "Bolinho Ana Maria Gotas De Choc 35 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896002301497",
+      "hits": 1,
+      "aliases": [
+        "bolinho ana maria gotas de choc 35 g",
+        "bolinho ana maria gotas de choc 35g",
+        "bolinho ana maria gotas de choc | massa:35g"
+      ],
+      "descricao_base": "bolinho ana maria gotas de choc",
+      "medidas": [
+        "massa:35g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "bisc rech marilan morango | massa:80g": {
+      "descricao": "Bisc Rech Marilan Morango 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003739305",
+      "hits": 1,
+      "aliases": [
+        "bisc rech marilan 80g morango",
+        "bisc rech marilan morango 80 g",
+        "bisc rech marilan morango | massa:80g"
+      ],
+      "descricao_base": "bisc rech marilan morango",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "bolinho ana maria cenoura/choc | massa:35g": {
+      "descricao": "Bolinho Ana Maria Cenoura/Choc 35 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896002366557",
+      "hits": 1,
+      "aliases": [
+        "bolinho ana maria cenoura choc 35 g",
+        "bolinho ana maria cenoura choc 35g",
+        "bolinho ana maria cenoura/choc | massa:35g"
+      ],
+      "descricao_base": "bolinho ana maria cenoura/choc",
+      "medidas": [
+        "massa:35g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "bisc piraque original | massa:138g": {
+      "descricao": "Bisc Piraque Original 138 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896024760449",
+      "hits": 1,
+      "aliases": [
+        "bisc piraque original 138 g",
+        "bisc piraque original 138g",
+        "bisc piraque original | massa:138g"
+      ],
+      "descricao_base": "bisc piraque original",
+      "medidas": [
+        "massa:138g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "bisc marilan cr cracker premium | massa:300g": {
+      "descricao": "Bisc Cr Cracker Marilan Premium 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003738452",
+      "hits": 1,
+      "aliases": [
+        "bisc cr cracker marilan premium 300 g",
+        "bisc cr cracker marilan premium | massa:300g",
+        "bisc marilan 300g cr cracker premium",
+        "bisc marilan cr cracker premium | massa:300g"
+      ],
+      "descricao_base": "bisc cr cracker marilan premium",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
+    },
+    "bolinho ana maria cober choc | massa:42g": {
+      "descricao": "Bolinho Ana Maria Cober Choc 42 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896002362054",
+      "hits": 1,
+      "aliases": [
+        "bolinho ana maria cober choc 42 g",
+        "bolinho ana maria cober choc 42g",
+        "bolinho ana maria cober choc | massa:42g"
+      ],
+      "descricao_base": "bolinho ana maria cober choc",
+      "medidas": [
+        "massa:42g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-05T12:14:55"
     }
   }
 }
