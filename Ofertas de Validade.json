@@ -25251,5 +25251,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "05/10/2026",
+    "hora": "12:21:53",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Vitarella Coquinho 300 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/10/2026",
+        "codigo_barras": "7896213002909",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Wafer Pajucara Laranja 78 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/10/2026",
+        "codigo_barras": "7896016435539",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Waffer Look Itamaraty Doce De Leite 55 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/10/2026",
+        "codigo_barras": "7891340303431",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bolinho Ana Maria Duplo Choc 35 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/10/2026",
+        "codigo_barras": "7896002302661",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
