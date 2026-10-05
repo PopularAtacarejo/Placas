@@ -25383,5 +25383,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "05/10/2026",
+    "hora": "12:28:00",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Rech Marilan Morango 80 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/10/2026",
+        "codigo_barras": "7896003739305",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bolinho Ana Maria Cenoura/Choc 35 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/10/2026",
+        "codigo_barras": "7896002366557",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Vitarella Delicita Doce Crist 414 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/10/2026",
+        "codigo_barras": "7896213005771",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Piraque Original 138 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/10/2026",
+        "codigo_barras": "7896024760449",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
