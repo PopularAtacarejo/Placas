@@ -25295,5 +25295,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "05/10/2026",
+    "hora": "12:23:56",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cookie Chocolate Maril 60 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/10/2026",
+        "codigo_barras": "7896003740622",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pit Stop Maril. Snack Calabresa 60 gr",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/10/2026",
+        "codigo_barras": "7896003740134",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cookie Maril Original 60 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/10/2026",
+        "codigo_barras": "7896003740615",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Salgadinhos Sortidos Trad 400 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/10/2026",
+        "codigo_barras": "7896003703719",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
