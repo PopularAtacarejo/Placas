@@ -25576,5 +25576,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/10/2026",
+    "hora": "17:38:56",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Wafer Pajucara Laranja 78 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/10/2026",
+        "codigo_barras": "7896016435539",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Amanteigado Toboga Chocolate 120 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/10/2026",
+        "codigo_barras": "7897353903569",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Amanteigado Toboga Leite 120 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/10/2026",
+        "codigo_barras": "7897353903552",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Rech Marilan Morango 80 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/10/2026",
+        "codigo_barras": "7896003739305",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
