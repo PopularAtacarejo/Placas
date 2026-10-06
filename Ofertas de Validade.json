@@ -25620,5 +25620,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/10/2026",
+    "hora": "17:40:54",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Piraque Rech Leite Malt. Choc 85 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/10/2026",
+        "codigo_barras": "7896024761354",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Biscoito Sequilho Leite Pajucara 100 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "21/10/2026",
+        "codigo_barras": "7896016436208",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Divertix Rech Chocolate 112 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/10/2026",
+        "codigo_barras": "7896022207106",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Divertix Rech Morango 112 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/10/2026",
+        "codigo_barras": "7896022207090",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
