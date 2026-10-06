@@ -25796,5 +25796,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/10/2026",
+    "hora": "17:48:47",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cerv Petra Puro Malte Lt Un 473 ml",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/10/2026",
+        "codigo_barras": "7897395099695",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cerv Budweiser Zero Lata 473 ml",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "29/10/2026",
+        "codigo_barras": "7891991307956",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cerv Heineken Z.Alc 330 ml",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/10/2026",
+        "codigo_barras": "7896045506040",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cerv Premium Sol Ln 330 ml",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/10/2026",
+        "codigo_barras": "0000078934115",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
