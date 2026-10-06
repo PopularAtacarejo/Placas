@@ -25664,5 +25664,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/10/2026",
+    "hora": "17:42:54",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bolinho Ana Maria Gotas De Choc 35 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/10/2026",
+        "codigo_barras": "7896002301497",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bolinho Ana Maria Duplo Choc 35 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/10/2026",
+        "codigo_barras": "7896002302661",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bolinho Ana Maria Cober Choc 42 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/10/2026",
+        "codigo_barras": "7896002362054",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bolinho Ana Maria Cenoura/Choc 35 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/10/2026",
+        "codigo_barras": "7896002366557",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
