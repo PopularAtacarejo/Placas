@@ -25488,5 +25488,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/10/2026",
+    "hora": "17:34:50",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Vitarella Delicita Doce Crist 414 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/10/2026",
+        "codigo_barras": "7896213005771",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Marilan Salgadinhos Sortidos Trad 400 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/10/2026",
+        "codigo_barras": "7896003703719",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Vitarella Coquinho 300 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/10/2026",
+        "codigo_barras": "7896213002909",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Piraque Original 138 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/10/2026",
+        "codigo_barras": "7896024760449",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
