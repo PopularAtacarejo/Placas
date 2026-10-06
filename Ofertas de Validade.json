@@ -25708,5 +25708,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/10/2026",
+    "hora": "17:44:55",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cookie Maril Original 60 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/10/2026",
+        "codigo_barras": "7896003740615",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cookie Chocolate Maril 60 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/10/2026",
+        "codigo_barras": "7896003740622",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Cookies Vitarella Chocolate 80 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "18/10/2026",
+        "codigo_barras": "7896213005719",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Batata Palha Pratic Leve 400 gr",
+        "preco": "21,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/10/2026",
+        "codigo_barras": "7896422000031",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
