@@ -24398,5 +24398,13 @@
     "produto": "Cesta Básica Pequena",
     "preco": "79,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-06",
+    "horario": "16:27:34",
+    "feito_por": "Marcos",
+    "produto": "Refri Pepsi Black Zero Pet 2l",
+    "preco": "5,98",
+    "validade_oferta_ate": "15/10/2026"
   }
 ]
