@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-10-05T12:14:55",
+  "atualizado_em": "2026-10-06T17:31:58",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3823,7 +3823,7 @@
       "descricao": "Bisc Vitarella Delicita Doce Crist 414 g",
       "unidade": "Unid.",
       "codigo_barras": "7896213005771",
-      "hits": 7,
+      "hits": 8,
       "aliases": [
         "bisc maizena marilan fl 300 g",
         "bisc maizena marilan fl | massa:300g",
@@ -3836,7 +3836,7 @@
         "massa:414g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bisc maizena marilan chocolate | massa:300g": {
       "descricao": "Bisc Maizena Marilan Chocolate 300 g",
@@ -3908,7 +3908,7 @@
       "descricao": "Bisc Vitarella Coquinho 300 g",
       "unidade": "Unid.",
       "codigo_barras": "7896213002909",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc vitarella coquinho 300 g",
         "bisc vitarella coquinho 300g",
@@ -3919,7 +3919,7 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bisc maria vitarella tradicional | massa:350g": {
       "descricao": "Bisc Cr Cracker Vitarella Tostadinha 350 g",
@@ -4107,7 +4107,7 @@
       "descricao": "Bisc Cookies Vitarella Chocolate 80 g",
       "unidade": "Unid.",
       "codigo_barras": "7896213005719",
-      "hits": 7,
+      "hits": 8,
       "aliases": [
         "bisc cookies vitarella chocolate 80 g",
         "bisc cookies vitarella chocolate 80g",
@@ -4118,7 +4118,7 @@
         "massa:80g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bisc marilan pit stop rech misto quente | massa:91g": {
       "descricao": "Bisc Marilan Pit Stop Rech Salsa Ceb 91 g",
@@ -4327,7 +4327,7 @@
       "descricao": "Bisc Divertix Rech Chocolate 112 g",
       "unidade": "Unid.",
       "codigo_barras": "7896022207106",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc divertix rech chocolate 112 g",
         "bisc divertix rech chocolate 112g",
@@ -4338,7 +4338,7 @@
         "massa:112g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bisc piraque rech leite malt black c/baun | massa:85g": {
       "descricao": "Bisc Piraque Rech Leite Malt. Black c/baun 85 g",
@@ -8030,7 +8030,7 @@
       "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
       "unidade": "Unid.",
       "codigo_barras": "7896016435935",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "bisc pajucara wafer choc branco 78 g",
         "bisc pajucara wafer choc branco | massa:78g",
@@ -8042,7 +8042,7 @@
         "massa:78g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "tablete lacta cookies ao leite | massa:80g": {
       "descricao": "Tablete Lacta Cookies Ao Leite 80 g",
@@ -11201,7 +11201,7 @@
       "descricao": "Refri Pet Guarana Kuat 1,5 l",
       "unidade": "Unid.",
       "codigo_barras": "7894900911756",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "refri pet guarana kuat 1 5 l",
         "refri pet guarana kuat 1 5l",
@@ -11212,7 +11212,7 @@
         "volume:1500ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-15T14:34:18"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "torrada vitarella integral | massa:142g": {
       "descricao": "Torrada Vitarella Integral 142 g",
@@ -11756,7 +11756,8 @@
     "amendoim japones yoki | massa:120g": {
       "descricao": "Amendoim Japonês Yoki 120 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7891095911783",
+      "hits": 2,
       "aliases": [
         "amendoim japones yoki 120 g",
         "amendoim japones yoki 120g",
@@ -11767,7 +11768,7 @@
         "massa:120g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T15:00:23"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "salg elma chips fandangos queijo | massa:35g": {
       "descricao": "Salg Elma Chips Fandangos Queijo 35 g",
@@ -12592,7 +12593,8 @@
     "cerv antarctica subzero lt | volume:473ml": {
       "descricao": "Cerv Antarctica Subzero Lt 473 ml",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7891991010153",
+      "hits": 2,
       "aliases": [
         "cerv antarctica subzero lt 473 ml",
         "cerv antarctica subzero lt 473ml",
@@ -12603,7 +12605,7 @@
         "volume:473ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T16:05:19"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "cerv eisenbahn pilsen unfiltered ln | volume:355ml": {
       "descricao": "Cerv Eisenbahn Pilsen Unfiltered Ln 355 ml",
@@ -13889,7 +13891,7 @@
       "descricao": "Bolinho Ana Maria Duplo Choc 35 g",
       "unidade": "Unid.",
       "codigo_barras": "7896002302661",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "bolinho ana maria duplo choc 35 g",
         "bolinho ana maria duplo choc 35g",
@@ -13900,7 +13902,7 @@
         "massa:35g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "tangerina importada kg": {
       "descricao": "Barra De Cereal Naturale Castanhas c/ave 25 g",
@@ -19320,7 +19322,7 @@
       "descricao": "Biscoito Sequilho Leite Pajucara 100 g",
       "unidade": "Unid.",
       "codigo_barras": "7896016436208",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "biscoito sequilho leite pajucara 100 g",
         "biscoito sequilho leite pajucara 100g",
@@ -19331,7 +19333,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bisc rech futurinhos morango | massa:113g": {
       "descricao": "Bisc Rech Futurinhos Morango 113 g",
@@ -19725,7 +19727,7 @@
       "descricao": "Bisc Bauducco Wafer Chocolate 70 g",
       "unidade": "Unid.",
       "codigo_barras": "7891962071732",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc bauducco wafer 70g chocolate",
         "bisc bauducco wafer chocolate 70 g",
@@ -19736,13 +19738,13 @@
         "massa:70g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bisc divertix rech morango | massa:112g": {
       "descricao": "Bisc Divertix Rech Morango 112 g",
       "unidade": "Unid.",
       "codigo_barras": "7896022207090",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc divertix rech morango 112 g",
         "bisc divertix rech morango 112g",
@@ -19753,7 +19755,7 @@
         "massa:112g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bisc amant vitamas toboga chocolate | massa:120g": {
       "descricao": "Bisc Amant Vitamas Toboga Chocolate 120 g",
@@ -19793,7 +19795,7 @@
       "descricao": "Bisc Piraque Rech Leite Malt. Choc 85 g",
       "unidade": "Unid.",
       "codigo_barras": "7896024761354",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc piraque rech leite malt choc 85 g",
         "bisc piraque rech leite malt choc 85g",
@@ -19804,13 +19806,13 @@
         "massa:85g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bisc wafer pajucara laranja | massa:78g": {
       "descricao": "Bisc Wafer Pajucara Laranja 78 g",
       "unidade": "Unid.",
       "codigo_barras": "7896016435539",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc wafer pajucara laranja 78 g",
         "bisc wafer pajucara laranja 78g",
@@ -19821,7 +19823,7 @@
         "massa:78g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bisc waffer look itamaraty doce de leite | massa:55g": {
       "descricao": "Bisc Waffer Look Itamaraty Doce De Leite 55 g",
@@ -19844,7 +19846,7 @@
       "descricao": "Cookie Chocolate Maril 60 g",
       "unidade": "Unid.",
       "codigo_barras": "7896003740622",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cookie chocolate maril 60 g",
         "cookie chocolate maril 60g",
@@ -19855,7 +19857,7 @@
         "massa:60g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "pit stop maril snack calabresa | massa:60g": {
       "descricao": "Pit Stop Maril. Snack Calabresa 60 gr",
@@ -19878,7 +19880,7 @@
       "descricao": "Cookie Maril Original 60 g",
       "unidade": "Unid.",
       "codigo_barras": "7896003740615",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cookie maril original 60 g",
         "cookie maril original 60g",
@@ -19889,13 +19891,13 @@
         "massa:60g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bisc marilan salgadinhos sortidos trad | massa:400g": {
       "descricao": "Bisc Marilan Salgadinhos Sortidos Trad 400 g",
       "unidade": "Unid.",
       "codigo_barras": "7896003703719",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc marilan 400g salgadinhos sortidos trad",
         "bisc marilan salgadinhos sortidos trad 400 g",
@@ -19906,13 +19908,13 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bolinho ana maria gotas de choc | massa:35g": {
       "descricao": "Bolinho Ana Maria Gotas De Choc 35 g",
       "unidade": "Unid.",
       "codigo_barras": "7896002301497",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bolinho ana maria gotas de choc 35 g",
         "bolinho ana maria gotas de choc 35g",
@@ -19923,16 +19925,17 @@
         "massa:35g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bisc rech marilan morango | massa:80g": {
       "descricao": "Bisc Rech Marilan Morango 80 g",
       "unidade": "Unid.",
       "codigo_barras": "7896003739305",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc rech marilan 80g morango",
         "bisc rech marilan morango 80 g",
+        "bisc rech marilan morango 80g",
         "bisc rech marilan morango | massa:80g"
       ],
       "descricao_base": "bisc rech marilan morango",
@@ -19940,13 +19943,13 @@
         "massa:80g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bolinho ana maria cenoura/choc | massa:35g": {
       "descricao": "Bolinho Ana Maria Cenoura/Choc 35 g",
       "unidade": "Unid.",
       "codigo_barras": "7896002366557",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bolinho ana maria cenoura choc 35 g",
         "bolinho ana maria cenoura choc 35g",
@@ -19957,13 +19960,13 @@
         "massa:35g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bisc piraque original | massa:138g": {
       "descricao": "Bisc Piraque Original 138 g",
       "unidade": "Unid.",
       "codigo_barras": "7896024760449",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bisc piraque original 138 g",
         "bisc piraque original 138g",
@@ -19974,7 +19977,7 @@
         "massa:138g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
     },
     "bisc marilan cr cracker premium | massa:300g": {
       "descricao": "Bisc Cr Cracker Marilan Premium 300 g",
@@ -19998,7 +20001,7 @@
       "descricao": "Bolinho Ana Maria Cober Choc 42 g",
       "unidade": "Unid.",
       "codigo_barras": "7896002362054",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "bolinho ana maria cober choc 42 g",
         "bolinho ana maria cober choc 42g",
@@ -20009,7 +20012,381 @@
         "massa:42g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "pit stop maril snack calabresa cx 16 x 60 | massa:60g": {
+      "descricao": "Pit Stop Maril. Snack Calabresa Cx 16 x 60 60 gr",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003740134",
+      "hits": 1,
+      "aliases": [
+        "pit stop maril 60gr snack calabresa cx16x60",
+        "pit stop maril snack calabresa cx 16 x 60 60 gr",
+        "pit stop maril snack calabresa cx 16 x 60 | massa:60g"
+      ],
+      "descricao_base": "pit stop maril snack calabresa cx 16 x 60",
+      "medidas": [
+        "massa:60g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "bisc bauducco wafer limao | massa:70g": {
+      "descricao": "Bisc Bauducco Wafer Limão 70 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891962071763",
+      "hits": 1,
+      "aliases": [
+        "bisc bauducco wafer 70g limao",
+        "bisc bauducco wafer limao 70 g",
+        "bisc bauducco wafer limao | massa:70g"
+      ],
+      "descricao_base": "bisc bauducco wafer limao",
+      "medidas": [
+        "massa:70g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "bisc amanteigado toboga chocolate | massa:120g": {
+      "descricao": "Bisc Amanteigado Toboga Chocolate 120 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897353903569",
+      "hits": 1,
+      "aliases": [
+        "bisc amanteigado toboga chocolate 120 g",
+        "bisc amanteigado toboga chocolate 120g",
+        "bisc amanteigado toboga chocolate | massa:120g"
+      ],
+      "descricao_base": "bisc amanteigado toboga chocolate",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "bisc amanteigado toboga leite | massa:120g": {
+      "descricao": "Bisc Amanteigado Toboga Leite 120 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897353903552",
+      "hits": 1,
+      "aliases": [
+        "bisc amanteigado toboga leite 120 g",
+        "bisc amanteigado toboga leite 120g",
+        "bisc amanteigado toboga leite | massa:120g"
+      ],
+      "descricao_base": "bisc amanteigado toboga leite",
+      "medidas": [
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "batata palha pratic leve | massa:400g": {
+      "descricao": "Batata Palha Pratic Leve 400 gr",
+      "unidade": "Unid.",
+      "codigo_barras": "7896422000031",
+      "hits": 1,
+      "aliases": [
+        "batata palha pratic leve 400 gr",
+        "batata palha pratic leve 400gr",
+        "batata palha pratic leve | massa:400g"
+      ],
+      "descricao_base": "batata palha pratic leve",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "amendoim dori pett croc cebola/salsa | massa:70g": {
+      "descricao": "Amendoim Dori Pett Croc Cebola/Salsa 70 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896058599206",
+      "hits": 1,
+      "aliases": [
+        "amendoim dori pett croc cebola salsa 70 g",
+        "amendoim dori pett croc cebola salsa 70g",
+        "amendoim dori pett croc cebola/salsa | massa:70g"
+      ],
+      "descricao_base": "amendoim dori pett croc cebola/salsa",
+      "medidas": [
+        "massa:70g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "doritos sweet chilli | massa:37g": {
+      "descricao": "Doritos Sweet Chilli 37 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7892840822439",
+      "hits": 1,
+      "aliases": [
+        "doritos sweet chilli 37 g",
+        "doritos sweet chilli 37g",
+        "doritos sweet chilli | massa:37g"
+      ],
+      "descricao_base": "doritos sweet chilli",
+      "medidas": [
+        "massa:37g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "salg brazitos queijo nacho | massa:55g": {
+      "descricao": "Salg Brazitos Queijo Nacho 55 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891091067019",
+      "hits": 1,
+      "aliases": [
+        "salg brazitos queijo nacho 55 g",
+        "salg brazitos queijo nacho 55g",
+        "salg brazitos queijo nacho | massa:55g"
+      ],
+      "descricao_base": "salg brazitos queijo nacho",
+      "medidas": [
+        "massa:55g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "cerv petra puro malte lt un | volume:473ml": {
+      "descricao": "Cerv Petra Puro Malte Lt Un 473 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7897395099695",
+      "hits": 1,
+      "aliases": [
+        "cerv petra puro malte lt un 473 ml",
+        "cerv petra puro malte lt un 473ml",
+        "cerv petra puro malte lt un | volume:473ml"
+      ],
+      "descricao_base": "cerv petra puro malte lt un",
+      "medidas": [
+        "volume:473ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "cerv budweiser zero lata | volume:473ml": {
+      "descricao": "Cerv Budweiser Zero Lata 473 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891991307956",
+      "hits": 1,
+      "aliases": [
+        "cerv budweiser zero lata 473 ml",
+        "cerv budweiser zero lata 473ml",
+        "cerv budweiser zero lata | volume:473ml"
+      ],
+      "descricao_base": "cerv budweiser zero lata",
+      "medidas": [
+        "volume:473ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "cerv heineken z alc | volume:330ml": {
+      "descricao": "Cerv Heineken Z.Alc 330 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896045506040",
+      "hits": 1,
+      "aliases": [
+        "cerv heineken z alc 330 ml",
+        "cerv heineken z alc 330ml",
+        "cerv heineken z alc | volume:330ml"
+      ],
+      "descricao_base": "cerv heineken z alc",
+      "medidas": [
+        "volume:330ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "cerv premium sol ln | volume:330ml": {
+      "descricao": "Cerv Premium Sol Ln 330 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "0000078934115",
+      "hits": 1,
+      "aliases": [
+        "cerv premium sol ln 330 ml",
+        "cerv premium sol ln 330ml",
+        "cerv premium sol ln | volume:330ml"
+      ],
+      "descricao_base": "cerv premium sol ln",
+      "medidas": [
+        "volume:330ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "whisky jack daniels coca cola | volume:269ml": {
+      "descricao": "Whisky Jack Daniels Coca Cola 269 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7894900336535",
+      "hits": 1,
+      "aliases": [
+        "whisky jack daniels coca cola 269 ml",
+        "whisky jack daniels coca cola 269ml",
+        "whisky jack daniels coca cola | volume:269ml"
+      ],
+      "descricao_base": "whisky jack daniels coca cola",
+      "medidas": [
+        "volume:269ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "coquetel corote canelinha | volume:500ml": {
+      "descricao": "Coquetel Corote Canelinha 500 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896547501376",
+      "hits": 1,
+      "aliases": [
+        "coquetel corote canelinha 500 ml",
+        "coquetel corote canelinha 500ml",
+        "coquetel corote canelinha | volume:500ml"
+      ],
+      "descricao_base": "coquetel corote canelinha",
+      "medidas": [
+        "volume:500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "coquetel corote pessego | volume:500ml": {
+      "descricao": "Coquetel Corote Pêssego 500 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896547501161",
+      "hits": 1,
+      "aliases": [
+        "coquetel corote pessego 500 ml",
+        "coquetel corote pessego 500ml",
+        "coquetel corote pessego | volume:500ml"
+      ],
+      "descricao_base": "coquetel corote pessego",
+      "medidas": [
+        "volume:500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "isotonico powerade mount z cal | volume:500ml": {
+      "descricao": "Isotonico Powerade Mount Z.Cal 500 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7894900506006",
+      "hits": 1,
+      "aliases": [
+        "isotonico powerade mount z cal 500 ml",
+        "isotonico powerade mount z cal 500ml",
+        "isotonico powerade mount z cal | volume:500ml"
+      ],
+      "descricao_base": "isotonico powerade mount z cal",
+      "medidas": [
+        "volume:500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "beb isotonico tnt laranja | volume:500ml": {
+      "descricao": "Beb Isotonico Tnt Laranja 500 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898377661695",
+      "hits": 1,
+      "aliases": [
+        "beb isotonico tnt laranja 500 ml",
+        "beb isotonico tnt laranja 500ml",
+        "beb isotonico tnt laranja | volume:500ml"
+      ],
+      "descricao_base": "beb isotonico tnt laranja",
+      "medidas": [
+        "volume:500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "refresco mid graviola | massa:20g": {
+      "descricao": "Refresco Mid Graviola 20 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891132082520",
+      "hits": 1,
+      "aliases": [
+        "refresco mid graviola 20 g",
+        "refresco mid graviola 20g",
+        "refresco mid graviola | massa:20g"
+      ],
+      "descricao_base": "refresco mid graviola",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "ref tang frutas especial | massa:18g": {
+      "descricao": "Ref Tang Frutas Especial 18 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7622202347535",
+      "hits": 1,
+      "aliases": [
+        "ref tang frutas especial 18 g",
+        "ref tang frutas especial 18g",
+        "ref tang frutas especial | massa:18g"
+      ],
+      "descricao_base": "ref tang frutas especial",
+      "medidas": [
+        "massa:18g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "refri soda limonada zero/ac lt | volume:350ml": {
+      "descricao": "Refri Soda Limonada Zero/Aç Lt 350 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891991000819",
+      "hits": 1,
+      "aliases": [
+        "refri soda limonada zero ac lt 350 ml",
+        "refri soda limonada zero ac lt 350ml",
+        "refri soda limonada zero/ac lt | volume:350ml"
+      ],
+      "descricao_base": "refri soda limonada zero/ac lt",
+      "medidas": [
+        "volume:350ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "refri lt fanta caju | volume:350ml": {
+      "descricao": "Refri Lt Fanta Caju 350 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7894900096538",
+      "hits": 1,
+      "aliases": [
+        "refri lt 350ml fanta caju",
+        "refri lt fanta caju 350 ml",
+        "refri lt fanta caju | volume:350ml"
+      ],
+      "descricao_base": "refri lt fanta caju",
+      "medidas": [
+        "volume:350ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "refri pepsi black zero pet | volume:2000ml": {
+      "descricao": "Refri Pepsi Black Zero Pet 2 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7892840813444",
+      "hits": 1,
+      "aliases": [
+        "refri pepsi black zero pet 2 l",
+        "refri pepsi black zero pet 2l",
+        "refri pepsi black zero pet | volume:2000ml"
+      ],
+      "descricao_base": "refri pepsi black zero pet",
+      "medidas": [
+        "volume:2000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-06T17:31:58"
     }
   }
 }
