@@ -25840,5 +25840,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/10/2026",
+    "hora": "17:50:51",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Whisky Jack Daniels Coca Cola 269 ml",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/10/2026",
+        "codigo_barras": "7894900336535",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Coquetel Corote Canelinha 500 ml",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/10/2026",
+        "codigo_barras": "7896547501376",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Coquetel Corote Pêssego 500 ml",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/10/2026",
+        "codigo_barras": "7896547501161",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Isotonico Powerade Mount Z.Cal 500 ml",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7894900506006",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
