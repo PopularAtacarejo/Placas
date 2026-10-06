@@ -25752,5 +25752,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/10/2026",
+    "hora": "17:46:53",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Amendoim Japonês Yoki 120 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/10/2026",
+        "codigo_barras": "7891095911783",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Amendoim Dori Pett Croc Cebola/Salsa 70 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/10/2026",
+        "codigo_barras": "7896058599206",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Doritos Sweet Chilli 37 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/10/2026",
+        "codigo_barras": "7892840822439",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Salg Brazitos Queijo Nacho 55 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/10/2026",
+        "codigo_barras": "7891091067019",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
