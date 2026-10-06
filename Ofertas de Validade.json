@@ -25928,5 +25928,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "06/10/2026",
+    "hora": "17:54:57",
+    "placa": 11,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Refri Soda Limonada Zero/Aç Lt 350 ml",
+        "preco": "2,88",
+        "unidade": "Unid.",
+        "validade_oferta": "28/10/2026",
+        "codigo_barras": "7891991000819",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Refri Pet Guarana Kuat 1,5 l",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/10/2026",
+        "codigo_barras": "7894900911756",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Refri Lt Fanta Caju 350 ml",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/10/2026",
+        "codigo_barras": "7894900096538",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Refri Pepsi Black Zero Pet 2 l",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/10/2026",
+        "codigo_barras": "7892840813444",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
