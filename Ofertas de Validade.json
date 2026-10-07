@@ -26480,5 +26480,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "16:13:24",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Caldo Knorr Legumes 57 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/10/2026",
+        "codigo_barras": "7894000000268",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Catchup Hellmanns Picante 380 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/10/2026",
+        "codigo_barras": "7891150027831",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Kit De Molhos De Pimentas Hot Gonzalo",
+        "preco": "39,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/10/2026",
+        "codigo_barras": "7898706060281",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mac Inst Talharim Nissin Bolonhesa 90 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/10/2026",
+        "codigo_barras": "7891079000427",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
