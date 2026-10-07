@@ -26744,5 +26744,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "16:22:40",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Chá Leão Gel Abac/Hort 25 g",
+        "preco": "13,48",
+        "unidade": "Unid.",
+        "validade_oferta": "17/10/2026",
+        "codigo_barras": "7891098041869",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Chá Leão Gel Mate/Groselha Negra 25 g",
+        "preco": "13,48",
+        "unidade": "Unid.",
+        "validade_oferta": "22/10/2026",
+        "codigo_barras": "7891098041432",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Chá Leão Gel Pêssego 25 g",
+        "preco": "12,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/10/2026",
+        "codigo_barras": "7891098041845",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Em Pó Betania Inst. 750 g",
+        "preco": "27,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/10/2026",
+        "codigo_barras": "7898064011697",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
