@@ -24542,5 +24542,29 @@
     "produto": "Choc.Arcor Bon o Bon Paçoca 450g",
     "preco": "9,98",
     "validade_oferta_ate": "10/10/2026"
+  },
+  {
+    "data": "2026-10-07",
+    "horario": "11:39:32",
+    "feito_por": "Caio",
+    "produto": "Goiaba Kg",
+    "preco": "6,38",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-07",
+    "horario": "11:39:32",
+    "feito_por": "Caio",
+    "produto": "Limao Taiti Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-07",
+    "horario": "11:39:32",
+    "feito_por": "Caio",
+    "produto": "Gengibre Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
   }
 ]
