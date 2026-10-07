@@ -26656,5 +26656,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "16:19:27",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pimenta Pico De Gallo Gonzalo 280 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/10/2026",
+        "codigo_barras": "7898959242380",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Queijo Parm Ralado Faixa Azul Vigor 50 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "10/10/2026",
+        "codigo_barras": "7891999960054",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Achoc Apti Power Refil 300 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7896327515708",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Achocolatado Frutigutti 200 ml",
+        "preco": "1,25",
+        "unidade": "Unid.",
+        "validade_oferta": "15/10/2026",
+        "codigo_barras": "7898022211107",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
