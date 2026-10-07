@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-10-07T15:34:32",
+  "atualizado_em": "2026-10-07T15:52:12",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -959,10 +959,12 @@
       "atualizado_em": "2026-03-19T15:21:23"
     },
     "cacau em po apti 100 | massa:200g": {
-      "descricao": "Cacau Em Pó Apti 100% 200g",
+      "descricao": "Cacau Em Pó Apti 100% 200 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7896327500674",
+      "hits": 2,
       "aliases": [
+        "cacau em po apti 100 200 g",
         "cacau em po apti 100 200g",
         "cacau em po apti 100 | massa:200g"
       ],
@@ -971,7 +973,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-19T17:52:28"
+      "atualizado_em": "2026-10-07T15:52:12"
     },
     "pastilha minty menta sem acucar | massa:21g": {
       "descricao": "Pastilha Minty Menta Sem Açúcar 21 g",
@@ -6966,7 +6968,8 @@
     "cha dr oetker hortela | massa:10g": {
       "descricao": "Chá Dr.Oetker Hortela 10 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891048038055",
+      "hits": 3,
       "aliases": [
         "cha dr oetker hortela 10 g",
         "cha dr oetker hortela 10g",
@@ -6977,7 +6980,7 @@
         "massa:10g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-10-07T15:52:12"
     },
     "gelatina sol uva sch | massa:20g": {
       "descricao": "Gelatina Sol Uva Sch 20 g",
@@ -10660,7 +10663,8 @@
     "leite em po betania inst | massa:750g": {
       "descricao": "Leite Em Pó Betania Inst. 750 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7898064011697",
+      "hits": 3,
       "aliases": [
         "leite em po betania inst 750 g",
         "leite em po betania inst 750g",
@@ -10671,7 +10675,7 @@
         "massa:750g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T17:48:35"
+      "atualizado_em": "2026-10-07T15:52:12"
     },
     "gelatina sol framboesa | massa:20g": {
       "descricao": "Gelatina Sol Framboesa 20 g",
@@ -16099,7 +16103,7 @@
       "descricao": "Chá Leão Gel Abac/Hort 25 g",
       "unidade": "Unid.",
       "codigo_barras": "7891098041869",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cha leao gel abac hort 25 g",
         "cha leao gel abac hort 25g",
@@ -16110,7 +16114,7 @@
         "massa:25g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-25T09:50:20"
+      "atualizado_em": "2026-10-07T15:52:12"
     },
     "doce leite c/choc bom principio pt | massa:350g": {
       "descricao": "Doce Leite c/choc Bom Principio Pt 350 g",
@@ -20608,6 +20612,227 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-10-07T15:34:32"
+    },
+    "creme de pistache bom principio | massa:250g": {
+      "descricao": "Creme De Pistache Bom Principio 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897500607531",
+      "hits": 1,
+      "aliases": [
+        "creme de pistache bom principio 250 g",
+        "creme de pistache bom principio 250g",
+        "creme de pistache bom principio | massa:250g"
+      ],
+      "descricao_base": "creme de pistache bom principio",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:52:12"
+    },
+    "mist p/bolo feishcmann milho | massa:390g": {
+      "descricao": "Mist P/Bolo Feishcmann Milho 390 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898331012549",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo feishcmann 390g milho",
+        "mist p bolo feishcmann milho 390 g",
+        "mist p/bolo feishcmann milho | massa:390g"
+      ],
+      "descricao_base": "mist p/bolo feishcmann milho",
+      "medidas": [
+        "massa:390g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:52:12"
+    },
+    "cha fases cicl suav fra+cra+can | massa:20g": {
+      "descricao": "Chá Fases Cicl Suav Fra+cra+can 20 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891098042255",
+      "hits": 1,
+      "aliases": [
+        "cha fases cicl suav fra cra can 20 g",
+        "cha fases cicl suav fra cra can 20g",
+        "cha fases cicl suav fra+cra+can | massa:20g"
+      ],
+      "descricao_base": "cha fases cicl suav fra+cra+can",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:52:12"
+    },
+    "achocolatado frutigutti | volume:200ml": {
+      "descricao": "Achocolatado Frutigutti 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898022211107",
+      "hits": 1,
+      "aliases": [
+        "achocolatado frutigutti 200 ml",
+        "achocolatado frutigutti 200ml",
+        "achocolatado frutigutti | volume:200ml"
+      ],
+      "descricao_base": "achocolatado frutigutti",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:52:12"
+    },
+    "mist p/bolo vitamassa coco | massa:400g": {
+      "descricao": "Mist P/Bolo Vitamassa Coco 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897353901237",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo vitamassa coco 400 g",
+        "mist p bolo vitamassa coco 400g",
+        "mist p/bolo vitamassa coco | massa:400g"
+      ],
+      "descricao_base": "mist p/bolo vitamassa coco",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:52:12"
+    },
+    "mist p/bolo vitamassa choc | massa:400g": {
+      "descricao": "Mist P/Bolo Vitamassa Choc 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897353901114",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo vitamassa choc 400 g",
+        "mist p bolo vitamassa choc 400g",
+        "mist p/bolo vitamassa choc | massa:400g"
+      ],
+      "descricao_base": "mist p/bolo vitamassa choc",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:52:12"
+    },
+    "beb lact hr da merenda f lactea | volume:200ml": {
+      "descricao": "Beb Lact Hr Da Merenda F.Láctea 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898064011932",
+      "hits": 1,
+      "aliases": [
+        "beb lact hr da merenda 200ml f lactea",
+        "beb lact hr da merenda f lactea 200 ml",
+        "beb lact hr da merenda f lactea | volume:200ml"
+      ],
+      "descricao_base": "beb lact hr da merenda f lactea",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:52:12"
+    },
+    "cha leao gel mate/groselha negra | massa:25g": {
+      "descricao": "Chá Leão Gel Mate/Groselha Negra 25 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891098041432",
+      "hits": 1,
+      "aliases": [
+        "cha leao gel mate groselha negra 25 g",
+        "cha leao gel mate groselha negra 25g",
+        "cha leao gel mate/groselha negra | massa:25g"
+      ],
+      "descricao_base": "cha leao gel mate/groselha negra",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:52:12"
+    },
+    "cafe bom jesus trad sache | massa:250g": {
+      "descricao": "Café Bom Jesus Trad.Sache 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896348301694",
+      "hits": 1,
+      "aliases": [
+        "cafe bom jesus trad sache 250 g",
+        "cafe bom jesus trad sache 250g",
+        "cafe bom jesus trad sache | massa:250g"
+      ],
+      "descricao_base": "cafe bom jesus trad sache",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:52:12"
+    },
+    "cha leao gel pessego | massa:25g": {
+      "descricao": "Chá Leão Gel Pêssego 25 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891098041845",
+      "hits": 1,
+      "aliases": [
+        "cha leao gel pessego 25 g",
+        "cha leao gel pessego 25g",
+        "cha leao gel pessego | massa:25g"
+      ],
+      "descricao_base": "cha leao gel pessego",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:52:12"
+    },
+    "po p/sorvete dr oetker morango | massa:150g": {
+      "descricao": "Pó P/Sorvete Dr Oetker Morango 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891048054116",
+      "hits": 1,
+      "aliases": [
+        "po p sorvete dr oetker morango 150 g",
+        "po p sorvete dr oetker morango 150g",
+        "po p/sorvete dr oetker morango | massa:150g"
+      ],
+      "descricao_base": "po p/sorvete dr oetker morango",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:52:12"
+    },
+    "mist bolo apti choc/coco | massa:380g": {
+      "descricao": "Mist Bolo Apti Choc/Coco 380 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896327516620",
+      "hits": 1,
+      "aliases": [
+        "mist bolo apti choc coco 380 g",
+        "mist bolo apti choc coco 380g",
+        "mist bolo apti choc/coco | massa:380g"
+      ],
+      "descricao_base": "mist bolo apti choc/coco",
+      "medidas": [
+        "massa:380g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:52:12"
+    },
+    "achoc apti power refil | massa:300g": {
+      "descricao": "Achoc Apti Power Refil 300 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896327515708",
+      "hits": 1,
+      "aliases": [
+        "achoc apti power refil 300 g",
+        "achoc apti power refil 300g",
+        "achoc apti power refil | massa:300g"
+      ],
+      "descricao_base": "achoc apti power refil",
+      "medidas": [
+        "massa:300g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:52:12"
     }
   }
 }
