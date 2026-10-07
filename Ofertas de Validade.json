@@ -26192,5 +26192,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "15:54:24",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Creme De Pistache Bom Principio 250 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/10/2026",
+        "codigo_barras": "7897500607531",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mist P/Bolo Feishcmann Milho 390 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "12/10/2026",
+        "codigo_barras": "7898331012549",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Em Pó Betania Inst. 750 g",
+        "preco": "27,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/10/2026",
+        "codigo_barras": "7898064011697",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Chá Fases Cicl Suav Fra+cra+can 20 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/10/2026",
+        "codigo_barras": "7891098042255",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
