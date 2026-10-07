@@ -26612,5 +26612,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "16:17:56",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Óleo De Algodão Liza 900 ml",
+        "preco": "15,48",
+        "unidade": "Unid.",
+        "validade_oferta": "12/11/2026",
+        "codigo_barras": "7896036099254",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Óleo Girassol Liza 500 ml",
+        "preco": "9,48",
+        "unidade": "Unid.",
+        "validade_oferta": "20/10/2026",
+        "codigo_barras": "7896036001578",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Óleo Liza De Milho Pet 900 ml",
+        "preco": "17,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/11/2026",
+        "codigo_barras": "7896036090619",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Óleo Milho Liza 500 ml",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/10/2026",
+        "codigo_barras": "7896036099612",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
