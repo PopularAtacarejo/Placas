@@ -26016,5 +26016,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "15:38:32",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Molho Gota Alho Picante 150 ml",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/10/2026",
+        "codigo_barras": "7898286191191",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Canela Em Pó Da China Maratá 8 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/10/2026",
+        "codigo_barras": "7898286201029",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Miojo Nissin Yakissoba Ufo Tomate 95 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/10/2026",
+        "codigo_barras": "7891079014318",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Molho De Pimenta Com Alho Knorr 150 m",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/10/2026",
+        "codigo_barras": "7891150057715",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
