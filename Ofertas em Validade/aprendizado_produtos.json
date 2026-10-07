@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-10-07T16:28:31",
+  "atualizado_em": "2026-10-07T16:38:53",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -11488,7 +11488,8 @@
     "barra whey grego bar mous/marac nutr | massa:40g": {
       "descricao": "Barra Whey Grego Bar Mous/Marac Nutr 40 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7898599212729",
+      "hits": 2,
       "aliases": [
         "barra whey grego bar mous marac nutr 40 g",
         "barra whey grego bar mous marac nutr 40g",
@@ -11499,7 +11500,7 @@
         "massa:40g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-17T14:42:31"
+      "atualizado_em": "2026-10-07T16:38:53"
     },
     "barra suplemento yopro chocolate nutrata | massa:55g": {
       "descricao": "Barra Suplemento Yopro Chocolate Nutrata 55 g",
@@ -15342,7 +15343,7 @@
       "descricao": "Barra Prot Nutrata Grego Cookies Cream 40 g",
       "unidade": "Unid.",
       "codigo_barras": "7898599218172",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "barra prot nutrata grego cookies cream 40 g",
         "barra prot nutrata grego cookies cream 40g",
@@ -15353,7 +15354,7 @@
         "massa:40g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-25T09:50:20"
+      "atualizado_em": "2026-10-07T16:38:53"
     },
     "choco wheyfer 6 gprot cookies c | massa:25g": {
       "descricao": "Choco Wheyfer 6 gprot Cookies C. 25 g",
@@ -21105,6 +21106,23 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-10-07T16:28:31"
+    },
+    "barra de proteina 3 coracoes caramelo salgado | massa:50g": {
+      "descricao": "Barra De Proteína 3 corações Caramelo Salgado 50 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896045115709",
+      "hits": 1,
+      "aliases": [
+        "barra de proteina 3 coracoes caramelo salgado 50 g",
+        "barra de proteina 3 coracoes caramelo salgado | massa:50g",
+        "barra de proteina 3coracoes caramelo salgado 50g"
+      ],
+      "descricao_base": "barra de proteina 3 coracoes caramelo salgado",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T16:38:53"
     }
   }
 }
