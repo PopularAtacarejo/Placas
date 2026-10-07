@@ -26937,5 +26937,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "16:31:59",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Goma De Tapioca Mumbuca 500 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/11/2026",
+        "codigo_barras": "0070341200049",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Óleo De Algodão Liza 900 ml",
+        "preco": "15,48",
+        "unidade": "Unid.",
+        "validade_oferta": "12/11/2026",
+        "codigo_barras": "7896036099254",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Farofa Crocante Seridoense 300 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "21/11/2026",
+        "codigo_barras": "7898944082892",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Farofa Yoki Caseirissima Cebola 200 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "23/11/2026",
+        "codigo_barras": "7891095911677",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
