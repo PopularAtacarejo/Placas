@@ -26876,5 +26876,22 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "16:26:08",
+    "placa": 12,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Finalizador Oh My Haskell Quimica 150 ml",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7898662450386",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
