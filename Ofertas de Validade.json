@@ -26568,5 +26568,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "16:16:23",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Molho Gota Alho Picante 150 ml",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/10/2026",
+        "codigo_barras": "7898286191191",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Molho Liza P/Salada Vinagrete 234 ml",
+        "preco": "9,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/10/2026",
+        "codigo_barras": "7896036098813",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Molho Pronto Sugo Amatriciana Reggia 350 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/10/2026",
+        "codigo_barras": "8008857033556",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Molho Teriyaki Sakura 180 ml",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/10/2026",
+        "codigo_barras": "7896007865130",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
