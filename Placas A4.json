@@ -24534,5 +24534,13 @@
     "produto": "Cebola Roxa Kg",
     "preco": "7,28",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-07",
+    "horario": "10:56:05",
+    "feito_por": "Lucas",
+    "produto": "Choc.Arcor Bon o Bon Paçoca 450g",
+    "preco": "9,98",
+    "validade_oferta_ate": "10/10/2026"
   }
 ]
