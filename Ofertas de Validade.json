@@ -26394,5 +26394,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "16:10:00",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Farofa Crocante Seridoense 300 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "21/11/2026",
+        "codigo_barras": "7898944082892",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Farofa De Mandioca Yoki Trad 200 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7891095911639",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Farofa Yoki Caseirissima Cebola 200 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "23/11/2026",
+        "codigo_barras": "7891095911677",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Farofa Zaeli Tradic 500 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/10/2026",
+        "codigo_barras": "7896183901783",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
