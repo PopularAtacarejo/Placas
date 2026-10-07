@@ -26893,5 +26893,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "16:30:33",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Sora Pronto e Saud Hamb Veg 200 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "10/10/2026",
+        "codigo_barras": "7898614670596",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Farofa Zaeli Tradic 500 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/10/2026",
+        "codigo_barras": "7896183901783",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Farofa De Mandioca Yoki Trad 200 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7891095911639",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Óleo Liza De Milho Pet 900 ml",
+        "preco": "17,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/11/2026",
+        "codigo_barras": "7896036090619",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
