@@ -37366,5 +37366,69 @@
     "produto": "Cafe Bom Jesus Trad.Sache 250g",
     "preco": "8,98",
     "validade_oferta_ate": "31/10/2026"
+  },
+  {
+    "data": "2026-10-07",
+    "horario": "11:39:32",
+    "feito_por": "Caio",
+    "produto": "Goiaba Kg",
+    "preco": "6,38",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-07",
+    "horario": "11:39:32",
+    "feito_por": "Caio",
+    "produto": "Limao Taiti Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-07",
+    "horario": "11:39:32",
+    "feito_por": "Caio",
+    "produto": "Gengibre Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-07",
+    "horario": "11:47:57",
+    "feito_por": "Vinicius",
+    "produto": "Sand Ipanema Classica Fem Verm/Perol 37/38",
+    "preco": "10,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-07",
+    "horario": "12:01:13",
+    "feito_por": "Caio",
+    "produto": "Batata Doce Branca Kg",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-07",
+    "horario": "12:01:13",
+    "feito_por": "Caio",
+    "produto": "Batata Doce Roxa Vitoria Kg",
+    "preco": "5,55",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-07",
+    "horario": "12:01:13",
+    "feito_por": "Caio",
+    "produto": "Manga Palmer Kg",
+    "preco": "6,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-07",
+    "horario": "14:18:01",
+    "feito_por": "Ana",
+    "produto": "Iog Gourmet Batalha Diversos Sabores 230g",
+    "preco": "7,48",
+    "validade_oferta_ate": "07/10/2026"
   }
 ]
