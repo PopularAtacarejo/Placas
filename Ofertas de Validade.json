@@ -26700,5 +26700,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "16:20:56",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Café Bom Jesus Trad.Sache 250 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7896348301694",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cereal Choco Power Ball Choc/Branco Mini Mavalerio 80 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7896072641578",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Chá Dr.Oetker Hortela 10 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/10/2026",
+        "codigo_barras": "7891048038055",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Chá Fases Cicl Suav Fra+cra+can 20 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/10/2026",
+        "codigo_barras": "7891098042255",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
