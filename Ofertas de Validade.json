@@ -26324,5 +26324,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "15:59:28",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pó P/Sorvete Dr Oetker Morango 150 g",
+        "preco": "6,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/10/2026",
+        "codigo_barras": "7891048054116",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Chá Dr.Oetker Hortela 10 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7891048038055",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cacau Em Pó Apti 100% 200 g",
+        "preco": "24,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7896327500674",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cereal Choco Power Ball Choc/Branco M",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7896072641578",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
