@@ -26148,5 +26148,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "15:42:42",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Molho Teriyaki Sakura 180 ml",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/10/2026",
+        "codigo_barras": "7896007865130",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Kit De Molhos De Pimentas Hot Gonzalo",
+        "preco": "39,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/10/2026",
+        "codigo_barras": "7898706060281",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Manjerona Maratá Desidratado 5 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "28/10/2026",
+        "codigo_barras": "7898286201111",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Molho Liza P/Salada Vinagrete 234 ml",
+        "preco": "9,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/10/2026",
+        "codigo_barras": "7896036098813",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
