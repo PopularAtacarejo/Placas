@@ -26981,5 +26981,40 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "16:40:49",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Barra De Proteína 3 corações Caramelo Salgado 50 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7896045115709",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra Whey Grego Bar Mous/Marac Nutr 40 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7898599212729",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra Prot Nutrata Grego Cookies Cream 40 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7898599218172",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
