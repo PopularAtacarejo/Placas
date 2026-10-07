@@ -26368,5 +26368,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "16:00:34",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mist Bolo Apti Choc/Coco 380 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7896327516620",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Achoc Apti Power Refil 300 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/10/2026",
+        "codigo_barras": "7896327515708",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
