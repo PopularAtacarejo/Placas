@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-10-06T17:31:58",
+  "atualizado_em": "2026-10-07T15:34:32",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1838,7 +1838,8 @@
     "mac inst talharim nissin bolonhesa | massa:90g": {
       "descricao": "Mac Inst Talharim Nissin Bolonhesa 90 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7891079000427",
+      "hits": 2,
       "aliases": [
         "mac inst talharim nissin bolonhesa 90 g",
         "mac inst talharim nissin bolonhesa 90g",
@@ -1849,7 +1850,7 @@
         "massa:90g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T14:52:36"
+      "atualizado_em": "2026-10-07T15:34:32"
     },
     "mac inst talharim nissin carne c/tom | massa:99g": {
       "descricao": "Mac Inst Talharim Nissin Carne c/tom 99 g",
@@ -2049,7 +2050,8 @@
     "caldo knorr legumes | massa:57g": {
       "descricao": "Caldo Knorr Legumes 57 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7894000000268",
+      "hits": 2,
       "aliases": [
         "caldo knorr legumes 57 g",
         "caldo knorr legumes 57g",
@@ -2060,7 +2062,7 @@
         "massa:57g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-27T14:52:36"
+      "atualizado_em": "2026-10-07T15:34:32"
     },
     "caldo maggi carne | massa:57g": {
       "descricao": "Caldo Maggi Carne 57 g",
@@ -6397,7 +6399,8 @@
     "maionese hellmanns supreme | massa:330g": {
       "descricao": "Maionese Hellmanns Supreme 330 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7891150080546",
+      "hits": 2,
       "aliases": [
         "maionese hellmanns supreme 330 g",
         "maionese hellmanns supreme 330g",
@@ -6408,7 +6411,7 @@
         "massa:330g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T10:09:06"
+      "atualizado_em": "2026-10-07T15:34:32"
     },
     "maionese liza regular | massa:450g": {
       "descricao": "Maionese Liza Regular 450 g",
@@ -15828,7 +15831,7 @@
       "descricao": "Miojo Nissin Yakissoba Ufo Tomate 95 g",
       "unidade": "Unid.",
       "codigo_barras": "7891079014318",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "miojo nissin yakissoba ufo tomate 95 g",
         "miojo nissin yakissoba ufo tomate 95g",
@@ -15839,7 +15842,7 @@
         "massa:95g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-25T09:50:20"
+      "atualizado_em": "2026-10-07T15:34:32"
     },
     "molho de tomate pomarola sachet piz | massa:300g": {
       "descricao": "Molho De Tomate Pomarola Sachet Piz 300 g",
@@ -20086,7 +20089,7 @@
       "descricao": "Batata Palha Pratic Leve 400 gr",
       "unidade": "Unid.",
       "codigo_barras": "7896422000031",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "batata palha pratic leve 400 gr",
         "batata palha pratic leve 400gr",
@@ -20097,7 +20100,7 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-06T17:31:58"
+      "atualizado_em": "2026-10-07T15:34:32"
     },
     "amendoim dori pett croc cebola/salsa | massa:70g": {
       "descricao": "Amendoim Dori Pett Croc Cebola/Salsa 70 g",
@@ -20387,6 +20390,224 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-10-06T17:31:58"
+    },
+    "catchup hellmanns picante | massa:380g": {
+      "descricao": "Catchup Hellmanns Picante 380 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891150027831",
+      "hits": 1,
+      "aliases": [
+        "catchup hellmanns picante 380 g",
+        "catchup hellmanns picante 380g",
+        "catchup hellmanns picante | massa:380g"
+      ],
+      "descricao_base": "catchup hellmanns picante",
+      "medidas": [
+        "massa:380g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:34:32"
+    },
+    "queijo parm ralado faixa azul vigor | massa:50g": {
+      "descricao": "Queijo Parm Ralado Faixa Azul Vigor 50 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891999960054",
+      "hits": 1,
+      "aliases": [
+        "queijo parm ralado faixa azul vigor 50 g",
+        "queijo parm ralado faixa azul vigor 50g",
+        "queijo parm ralado faixa azul vigor | massa:50g"
+      ],
+      "descricao_base": "queijo parm ralado faixa azul vigor",
+      "medidas": [
+        "massa:50g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:34:32"
+    },
+    "pimenta pico de gallo gonzalo | massa:280g": {
+      "descricao": "Pimenta Pico De Gallo Gonzalo 280 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898959242380",
+      "hits": 1,
+      "aliases": [
+        "pimenta pico de gallo gonzalo 280 g",
+        "pimenta pico de gallo gonzalo 280g",
+        "pimenta pico de gallo gonzalo | massa:280g"
+      ],
+      "descricao_base": "pimenta pico de gallo gonzalo",
+      "medidas": [
+        "massa:280g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:34:32"
+    },
+    "molho gota alho picante | volume:150ml": {
+      "descricao": "Molho Gota Alho Picante 150 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898286191191",
+      "hits": 1,
+      "aliases": [
+        "molho gota alho picante 150 ml",
+        "molho gota alho picante 150ml",
+        "molho gota alho picante | volume:150ml"
+      ],
+      "descricao_base": "molho gota alho picante",
+      "medidas": [
+        "volume:150ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:34:32"
+    },
+    "canela em po da china marata | massa:8g": {
+      "descricao": "Canela Em Pó Da China Maratá 8 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898286201029",
+      "hits": 1,
+      "aliases": [
+        "canela em po da china marata 8 g",
+        "canela em po da china marata 8g",
+        "canela em po da china marata | massa:8g"
+      ],
+      "descricao_base": "canela em po da china marata",
+      "medidas": [
+        "massa:8g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:34:32"
+    },
+    "molho de pimenta com alho knorr 150 m": {
+      "descricao": "Molho De Pimenta Com Alho Knorr 150 m",
+      "unidade": "Unid.",
+      "codigo_barras": "7891150057715",
+      "hits": 1,
+      "aliases": [
+        "molho de pimenta com alho knorr 150 m",
+        "molho de pimenta com alho knorr 150m"
+      ],
+      "descricao_base": "molho de pimenta com alho knorr 150 m",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:34:32"
+    },
+    "oleo milho liza | volume:500ml": {
+      "descricao": "Óleo Milho Liza 500 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896036099612",
+      "hits": 1,
+      "aliases": [
+        "oleo milho liza 500 ml",
+        "oleo milho liza 500ml",
+        "oleo milho liza | volume:500ml"
+      ],
+      "descricao_base": "oleo milho liza",
+      "medidas": [
+        "volume:500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:34:32"
+    },
+    "oleo girassol liza | volume:500ml": {
+      "descricao": "Óleo Girassol Liza 500 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896036001578",
+      "hits": 1,
+      "aliases": [
+        "oleo girassol liza 500 ml",
+        "oleo girassol liza 500ml",
+        "oleo girassol liza | volume:500ml"
+      ],
+      "descricao_base": "oleo girassol liza",
+      "medidas": [
+        "volume:500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:34:32"
+    },
+    "batata palha elma chips trad | massa:100g": {
+      "descricao": "Batata Palha Elma Chips Trad 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7892840820381",
+      "hits": 1,
+      "aliases": [
+        "batata palha elma chips trad 100 g",
+        "batata palha elma chips trad 100g",
+        "batata palha elma chips trad | massa:100g"
+      ],
+      "descricao_base": "batata palha elma chips trad",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:34:32"
+    },
+    "batata palha yoki extra fina | massa:100g": {
+      "descricao": "Batata Palha Yoki Extra Fina 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891095031122",
+      "hits": 1,
+      "aliases": [
+        "batata palha yoki extra fina 100 g",
+        "batata palha yoki extra fina 100g",
+        "batata palha yoki extra fina | massa:100g"
+      ],
+      "descricao_base": "batata palha yoki extra fina",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:34:32"
+    },
+    "molho teriyaki sakura | volume:180ml": {
+      "descricao": "Molho Teriyaki Sakura 180 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896007865130",
+      "hits": 1,
+      "aliases": [
+        "molho teriyaki sakura 180 ml",
+        "molho teriyaki sakura 180ml",
+        "molho teriyaki sakura | volume:180ml"
+      ],
+      "descricao_base": "molho teriyaki sakura",
+      "medidas": [
+        "volume:180ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:34:32"
+    },
+    "manjerona marata desidratado | massa:5g": {
+      "descricao": "Manjerona Maratá Desidratado 5 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898286201111",
+      "hits": 1,
+      "aliases": [
+        "manjerona marata desidratado 5 g",
+        "manjerona marata desidratado 5g",
+        "manjerona marata desidratado | massa:5g"
+      ],
+      "descricao_base": "manjerona marata desidratado",
+      "medidas": [
+        "massa:5g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:34:32"
+    },
+    "molho liza p/salada vinagrete | volume:234ml": {
+      "descricao": "Molho Liza P/Salada Vinagrete 234 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896036098813",
+      "hits": 1,
+      "aliases": [
+        "molho liza p salada vinagrete 234 ml",
+        "molho liza p salada vinagrete 234ml",
+        "molho liza p/salada vinagrete | volume:234ml"
+      ],
+      "descricao_base": "molho liza p/salada vinagrete",
+      "medidas": [
+        "volume:234ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T15:34:32"
     }
   }
 }
