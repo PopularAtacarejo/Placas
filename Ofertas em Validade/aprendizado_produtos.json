@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-10-07T16:07:52",
+  "atualizado_em": "2026-10-07T16:28:31",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -20838,7 +20838,7 @@
       "descricao": "Farofa Crocante Seridoense 300 g",
       "unidade": "Unid.",
       "codigo_barras": "7898944082892",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "farofa crocante seridoense 300 g",
         "farofa crocante seridoense 300g",
@@ -20849,13 +20849,13 @@
         "massa:300g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-07T16:07:52"
+      "atualizado_em": "2026-10-07T16:28:31"
     },
     "farofa de mandioca yoki trad | massa:200g": {
       "descricao": "Farofa De Mandioca Yoki Trad 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7891095911639",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "farofa de mandioca yoki trad 200 g",
         "farofa de mandioca yoki trad 200g",
@@ -20866,13 +20866,13 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-07T16:07:52"
+      "atualizado_em": "2026-10-07T16:28:31"
     },
     "farofa yoki caseirissima cebola | massa:200g": {
       "descricao": "Farofa Yoki Caseirissima Cebola 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7891095911677",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "farofa yoki caseirissima cebola 200 g",
         "farofa yoki caseirissima cebola 200g",
@@ -20883,13 +20883,13 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-07T16:07:52"
+      "atualizado_em": "2026-10-07T16:28:31"
     },
     "farofa zaeli tradic | massa:500g": {
       "descricao": "Farofa Zaeli Tradic 500 g",
       "unidade": "Unid.",
       "codigo_barras": "7896183901783",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "farofa zaeli tradic 500 g",
         "farofa zaeli tradic 500g",
@@ -20900,13 +20900,13 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-07T16:07:52"
+      "atualizado_em": "2026-10-07T16:28:31"
     },
     "goma de tapioca mumbuca | massa:500g": {
       "descricao": "Goma De Tapioca Mumbuca 500 g",
       "unidade": "Unid.",
-      "codigo_barras": "",
-      "hits": 1,
+      "codigo_barras": "0070341200049",
+      "hits": 2,
       "aliases": [
         "goma de tapioca mumbuca 500 g",
         "goma de tapioca mumbuca 500g",
@@ -20917,7 +20917,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-07T16:07:52"
+      "atualizado_em": "2026-10-07T16:28:31"
     },
     "mac renata pena s/gluten | massa:500g": {
       "descricao": "Mac Renata Pena s/gluten 500 g",
@@ -20974,7 +20974,7 @@
       "descricao": "Óleo De Algodão Liza 900 ml",
       "unidade": "Unid.",
       "codigo_barras": "7896036099254",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "oleo de algodao liza 900 ml",
         "oleo de algodao liza 900ml",
@@ -20985,13 +20985,13 @@
         "volume:900ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-07T16:07:52"
+      "atualizado_em": "2026-10-07T16:28:31"
     },
     "oleo liza de milho pet | volume:900ml": {
       "descricao": "Óleo Liza De Milho Pet 900 ml",
       "unidade": "Unid.",
       "codigo_barras": "7896036090619",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "oleo liza de milho pet 900 ml",
         "oleo liza de milho pet 900ml",
@@ -21002,7 +21002,7 @@
         "volume:900ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-07T16:07:52"
+      "atualizado_em": "2026-10-07T16:28:31"
     },
     "cereal choco power ball choc/branco mini mavalerio | massa:80g": {
       "descricao": "Cereal Choco Power Ball Choc/Branco Mini Mavalerio 80 g",
@@ -21088,6 +21088,23 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-10-07T16:07:52"
+    },
+    "sora pronto e saud hamb veg | massa:200g": {
+      "descricao": "Sora Pronto e Saud Hamb Veg 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898614670596",
+      "hits": 1,
+      "aliases": [
+        "sora pronto e saud hamb veg 200 g",
+        "sora pronto e saud hamb veg 200g",
+        "sora pronto e saud hamb veg | massa:200g"
+      ],
+      "descricao_base": "sora pronto e saud hamb veg",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-07T16:28:31"
     }
   }
 }
