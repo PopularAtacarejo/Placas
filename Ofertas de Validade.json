@@ -26104,5 +26104,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "15:41:30",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mac Inst Talharim Nissin Bolonhesa 90 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/10/2026",
+        "codigo_barras": "7891079000427",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Batata Palha Yoki Ext Fina Cebola Salsa",
+        "preco": "10,48",
+        "unidade": "Unid.",
+        "validade_oferta": "24/10/2026",
+        "codigo_barras": "7891095031153",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Batata Palha Elma Chips Trad 100 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "26/10/2026",
+        "codigo_barras": "7892840820381",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Batata Palha Yoki Extra Fina 100 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "26/10/2026",
+        "codigo_barras": "7891095031122",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
