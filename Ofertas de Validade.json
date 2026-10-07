@@ -26280,5 +26280,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "15:57:49",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb Lact Hr Da Merenda F.Láctea 200 ml",
+        "preco": "2,15",
+        "unidade": "Unid.",
+        "validade_oferta": "21/10/2026",
+        "codigo_barras": "7898064011932",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Chá Leão Gel Mate/Groselha Negra 25 g",
+        "preco": "13,48",
+        "unidade": "Unid.",
+        "validade_oferta": "22/10/2026",
+        "codigo_barras": "7891098041432",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Café Bom Jesus Trad.Sache 250 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/10/2026",
+        "codigo_barras": "7896348301694",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Chá Leão Gel Pêssego 25 g",
+        "preco": "12,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/10/2026",
+        "codigo_barras": "7891098041845",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
