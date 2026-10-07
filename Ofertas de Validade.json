@@ -26524,5 +26524,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "07/10/2026",
+    "hora": "16:14:52",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mac Renata Pena s/gluten 500 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/10/2026",
+        "codigo_barras": "7896022207557",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Manjerona Maratá Desidratado 5 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "28/10/2026",
+        "codigo_barras": "7898286201111",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Miojo Nissin Yakissoba Ufo Tomate 95 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/10/2026",
+        "codigo_barras": "7891079014318",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Molho De Pimenta Com Alho Knorr 150 ml",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/10/2026",
+        "codigo_barras": "7891150057715",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
