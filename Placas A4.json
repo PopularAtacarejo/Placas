@@ -24830,5 +24830,13 @@
     "produto": "Banana Prata Kg",
     "preco": "5,78",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "10:32:03",
+    "feito_por": "Eduardo",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
   }
 ]
