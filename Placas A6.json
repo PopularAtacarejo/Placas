@@ -37766,5 +37766,29 @@
     "produto": "Cafe Santa Clara Vacuo Clas 250g",
     "preco": "12,99",
     "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "10:06:38",
+    "feito_por": "Ana",
+    "produto": "Cafe Santa Clara Extra Forte Vacuo 250g",
+    "preco": "10,99",
+    "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "10:06:38",
+    "feito_por": "Ana",
+    "produto": "Cafe Santa Clara Vacuo Clas 250g",
+    "preco": "12,99",
+    "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "10:06:38",
+    "feito_por": "Ana",
+    "produto": "Cafe Santa Clara Alm Classico 250g",
+    "preco": "12,99",
+    "validade_oferta_ate": "15/10/2026"
   }
 ]
