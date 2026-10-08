@@ -30574,5 +30574,29 @@
     "produto": "Costela De Porco Frimesa Passarinho 1kg",
     "preco": "28,98",
     "validade_oferta_ate": "24/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "10:30:38",
+    "feito_por": "Eduardo",
+    "produto": "Banana Prata Kg",
+    "preco": "5,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "10:32:03",
+    "feito_por": "Eduardo",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "11:00:21",
+    "feito_por": "Gracenildo",
+    "produto": "Bacon Cogran Manta Kg",
+    "preco": "29,98",
+    "validade_oferta_ate": "21/10/2026"
   }
 ]
