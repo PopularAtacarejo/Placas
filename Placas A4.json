@@ -24854,5 +24854,69 @@
     "produto": "Tangerina Importada Kg",
     "preco": "8,98",
     "validade_oferta_ate": "11/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "15:02:05",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA DA AGULHA",
+    "preco": "23,98",
+    "validade_oferta_ate": "09/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "15:02:05",
+    "feito_por": "Jeferson",
+    "produto": "CARNE MOIDA DE SEGUNDA",
+    "preco": "22,98",
+    "validade_oferta_ate": "09/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "15:02:05",
+    "feito_por": "Jeferson",
+    "produto": "MAMINHA",
+    "preco": "38,98",
+    "validade_oferta_ate": "09/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "15:02:05",
+    "feito_por": "Jeferson",
+    "produto": "Frango De Padaria a Passarinho Seara 1kg",
+    "preco": "15,98",
+    "validade_oferta_ate": "09/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "15:02:05",
+    "feito_por": "Jeferson",
+    "produto": "Pão De Queijo Maricota Coquetel 300g",
+    "preco": "5,98",
+    "validade_oferta_ate": "09/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "15:02:05",
+    "feito_por": "Jeferson",
+    "produto": "Cx Bombom Trento Momentos 168g",
+    "preco": "12,48",
+    "validade_oferta_ate": "09/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "15:02:05",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Budweiser Lt 350ml",
+    "preco": "3,98",
+    "validade_oferta_ate": "09/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "15:02:05",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Corona Cero Sunbrew Ln 330ml",
+    "preco": "6,98",
+    "validade_oferta_ate": "09/10/2026"
   }
 ]
