@@ -24766,5 +24766,61 @@
     "produto": "Abacaxi Un",
     "preco": "3,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "06:47:18",
+    "feito_por": "Eduardo",
+    "produto": "Tomate Kg",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "06:47:18",
+    "feito_por": "Eduardo",
+    "produto": "Inhame Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "06:47:18",
+    "feito_por": "Eduardo",
+    "produto": "Maca Nacional Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "06:47:18",
+    "feito_por": "Eduardo",
+    "produto": "Maracuja Kg",
+    "preco": "10,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "06:47:18",
+    "feito_por": "Eduardo",
+    "produto": "Tangerina Paulistinha Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "06:47:18",
+    "feito_por": "Eduardo",
+    "produto": "Abacaxi Un",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "06:47:18",
+    "feito_por": "Eduardo",
+    "produto": "Tangerina Importada Kg",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
   }
 ]
