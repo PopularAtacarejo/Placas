@@ -24822,5 +24822,13 @@
     "produto": "Tangerina Importada Kg",
     "preco": "15,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "10:30:38",
+    "feito_por": "Eduardo",
+    "produto": "Banana Prata Kg",
+    "preco": "5,78",
+    "validade_oferta_ate": ""
   }
 ]
