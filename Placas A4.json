@@ -24846,5 +24846,13 @@
     "produto": "Tomate Kg",
     "preco": "7,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "12:10:41",
+    "feito_por": "Renato",
+    "produto": "Tangerina Importada Kg",
+    "preco": "8,98",
+    "validade_oferta_ate": "11/10/2026"
   }
 ]
