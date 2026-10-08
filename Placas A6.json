@@ -37790,5 +37790,45 @@
     "produto": "Cafe Santa Clara Alm Classico 250g",
     "preco": "12,99",
     "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "10:30:38",
+    "feito_por": "Eduardo",
+    "produto": "Banana Prata Kg",
+    "preco": "5,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "10:32:03",
+    "feito_por": "Eduardo",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "11:08:11",
+    "feito_por": "Renato",
+    "produto": "Tomate Kg",
+    "preco": "7,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "12:10:41",
+    "feito_por": "Renato",
+    "produto": "Tangerina Importada Kg",
+    "preco": "8,98",
+    "validade_oferta_ate": "11/10/2026"
+  },
+  {
+    "data": "2026-10-08",
+    "horario": "12:13:19",
+    "feito_por": "Raul",
+    "produto": "Bisc Piraque Rech Leite Malt. Black C/ Baun 85g",
+    "preco": "1,48",
+    "validade_oferta_ate": "10/10/2026"
   }
 ]
