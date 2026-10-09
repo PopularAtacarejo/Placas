@@ -25118,5 +25118,29 @@
     "produto": "Amendoim Japones Marata 50g",
     "preco": "1,98",
     "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "10:35:41",
+    "feito_por": "Caio",
+    "produto": "Cebola Branca Kg",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "10:35:41",
+    "feito_por": "Caio",
+    "produto": "Cenoura Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "10:35:41",
+    "feito_por": "Caio",
+    "produto": "Inhame Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
   }
 ]
