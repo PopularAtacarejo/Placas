@@ -38502,5 +38502,29 @@
     "produto": "Leite Em Po Betania Integral 750g",
     "preco": "31,98",
     "validade_oferta_ate": "04/11/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "15:01:57",
+    "feito_por": "Josenildo",
+    "produto": "Massa De Pastel Pasticrem T. Aniv 500g",
+    "preco": "5,98",
+    "validade_oferta_ate": "11/10/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "15:01:57",
+    "feito_por": "Josenildo",
+    "produto": "Requeijao Nestle Light 200g",
+    "preco": "5,48",
+    "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "15:01:57",
+    "feito_por": "Josenildo",
+    "produto": "Requeijao Nestle Tradicional 200g",
+    "preco": "5,48",
+    "validade_oferta_ate": "16/10/2026"
   }
 ]
