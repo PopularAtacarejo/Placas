@@ -38406,5 +38406,29 @@
     "produto": "Amendoim Japones Marata 50g",
     "preco": "1,98",
     "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "09:02:44",
+    "feito_por": "Ana",
+    "produto": "Coco Ralado Pindorama Umido Adocado 50g",
+    "preco": "2,15",
+    "validade_oferta_ate": "29/10/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "09:02:44",
+    "feito_por": "Ana",
+    "produto": "Gelatina Apti Amora 20g",
+    "preco": "1,98",
+    "validade_oferta_ate": "30/10/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "09:02:44",
+    "feito_por": "Ana",
+    "produto": "Creme De Pistache Bom Principio 250g",
+    "preco": "26,68",
+    "validade_oferta_ate": ""
   }
 ]
