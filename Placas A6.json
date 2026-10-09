@@ -38462,5 +38462,21 @@
     "produto": "Toalha Umed Huggies Suave Refr C/48un",
     "preco": "9,98",
     "validade_oferta_ate": "30/12/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "11:33:15",
+    "feito_por": "Caio",
+    "produto": "Cebola Branca Kg",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "13:07:25",
+    "feito_por": "Gustavo",
+    "produto": "Refri Soda Limonada Zero/Aç Lt 350ml",
+    "preco": "2,88",
+    "validade_oferta_ate": "28/10/2026"
   }
 ]
