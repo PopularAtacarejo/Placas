@@ -38478,5 +38478,29 @@
     "produto": "Refri Soda Limonada Zero/Aç Lt 350ml",
     "preco": "2,88",
     "validade_oferta_ate": "28/10/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "14:51:35",
+    "feito_por": "Ana",
+    "produto": "Suco Kapo Diversos Sabores 200ml",
+    "preco": "2,39",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "14:51:35",
+    "feito_por": "Ana",
+    "produto": "Mist P/Bolo Vitamassa Coco 400g",
+    "preco": "5,48",
+    "validade_oferta_ate": "16/10/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "14:51:35",
+    "feito_por": "Ana",
+    "produto": "Leite Em Po Betania Integral 750g",
+    "preco": "31,98",
+    "validade_oferta_ate": "04/11/2026"
   }
 ]
