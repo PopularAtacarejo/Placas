@@ -25430,5 +25430,45 @@
     "produto": "Ovos De Codorna Dois Irmaos 30un",
     "preco": "4,98",
     "validade_oferta_ate": "10/10/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "18:28:20",
+    "feito_por": "Jeferson",
+    "produto": "ACEM COM /OSSO",
+    "preco": "26,98",
+    "validade_oferta_ate": "11/10/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "18:28:20",
+    "feito_por": "Jeferson",
+    "produto": "CHÃ DE FORA / COXÃO DURO",
+    "preco": "37,98",
+    "validade_oferta_ate": "11/10/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "18:28:20",
+    "feito_por": "Jeferson",
+    "produto": "CHÃ DE DENTRO/COXÃO MOLE",
+    "preco": "41,98",
+    "validade_oferta_ate": "11/10/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "18:28:20",
+    "feito_por": "Jeferson",
+    "produto": "CONTRA FILE",
+    "preco": "46,98",
+    "validade_oferta_ate": "11/10/2026"
+  },
+  {
+    "data": "2026-10-09",
+    "horario": "18:28:20",
+    "feito_por": "Jeferson",
+    "produto": "BISTECA DO CONTRA FILE",
+    "preco": "34,98",
+    "validade_oferta_ate": "11/10/2026"
   }
 ]
