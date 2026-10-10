@@ -25470,5 +25470,45 @@
     "produto": "BISTECA DO CONTRA FILE",
     "preco": "34,98",
     "validade_oferta_ate": "11/10/2026"
+  },
+  {
+    "data": "2026-10-10",
+    "horario": "10:26:03",
+    "feito_por": "Sidnei",
+    "produto": "Salg Popcroc Met Queijo 30g",
+    "preco": "8,31",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-10",
+    "horario": "10:26:03",
+    "feito_por": "Sidnei",
+    "produto": "Salg Popcroc Met Costela 30g",
+    "preco": "8,31",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-10",
+    "horario": "10:26:03",
+    "feito_por": "Sidnei",
+    "produto": "Salg Popcroc Met Cebola 30g",
+    "preco": "8,31",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-10",
+    "horario": "10:26:03",
+    "feito_por": "Sidnei",
+    "produto": "Salg Popcroc Met Churrasco 30g",
+    "preco": "8,31",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-10",
+    "horario": "10:26:03",
+    "feito_por": "Sidnei",
+    "produto": "Salg Popcroc Met Presunto 30g",
+    "preco": "8,31",
+    "validade_oferta_ate": ""
   }
 ]
