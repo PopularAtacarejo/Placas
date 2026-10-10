@@ -25518,5 +25518,13 @@
     "produto": "Abacaxi Un",
     "preco": "1,98",
     "validade_oferta_ate": "10/10/2026"
+  },
+  {
+    "data": "2026-10-10",
+    "horario": "12:07:47",
+    "feito_por": "Sidnei",
+    "produto": "Pipoca Popular Betti 20x15g",
+    "preco": "8,44",
+    "validade_oferta_ate": ""
   }
 ]
