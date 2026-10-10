@@ -25526,5 +25526,29 @@
     "produto": "Pipoca Popular Betti 20x15g",
     "preco": "8,44",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-10",
+    "horario": "13:20:50",
+    "feito_por": "Eduardo",
+    "produto": "Cebola Roxa Kg",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-10",
+    "horario": "13:20:50",
+    "feito_por": "Eduardo",
+    "produto": "Macaxeira Kg",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-10",
+    "horario": "13:20:50",
+    "feito_por": "Eduardo",
+    "produto": "Tomate Kg",
+    "preco": "7,48",
+    "validade_oferta_ate": ""
   }
 ]
