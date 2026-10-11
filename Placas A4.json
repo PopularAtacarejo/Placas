@@ -25566,5 +25566,45 @@
     "produto": "Bisteca Suina Cong. Kg",
     "preco": "15,98",
     "validade_oferta_ate": "11/10/2026"
+  },
+  {
+    "data": "2026-10-11",
+    "horario": "18:36:07",
+    "feito_por": "Jeferson",
+    "produto": "Carne Moida Segunda Kg",
+    "preco": "23,98",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-11",
+    "horario": "18:36:07",
+    "feito_por": "Jeferson",
+    "produto": "Chareu C/Osso Kg",
+    "preco": "26,48",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-11",
+    "horario": "18:36:07",
+    "feito_por": "Jeferson",
+    "produto": "Salsicha Perdigao Kg",
+    "preco": "11,98",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-11",
+    "horario": "18:36:07",
+    "feito_por": "Jeferson",
+    "produto": "Hamb Tony Frango 56g",
+    "preco": "1,28",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-11",
+    "horario": "18:36:07",
+    "feito_por": "Jeferson",
+    "produto": "Kit Pantene Sh300ml+cond150ml Equilibrio",
+    "preco": "45,98",
+    "validade_oferta_ate": "12/10/2026"
   }
 ]
