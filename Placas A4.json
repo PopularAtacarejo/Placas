@@ -25646,5 +25646,13 @@
     "produto": "Lagarto Bov Kg",
     "preco": "38,98",
     "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "08:55:01",
+    "feito_por": "Jane",
+    "produto": "Batata Cong. Mccain 350g",
+    "preco": "9,98",
+    "validade_oferta_ate": "12/10/2026"
   }
 ]
