@@ -31566,5 +31566,61 @@
     "produto": "Iog Itambe Maracuja Gf 1,15kg Diversos sabores",
     "preco": "16,98",
     "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "06:44:14",
+    "feito_por": "Jane",
+    "produto": "Bisteca Suina Cong. Kg",
+    "preco": "19,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "06:45:45",
+    "feito_por": "Jane",
+    "produto": "Lagarto Bov Kg",
+    "preco": "38,98",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "08:55:01",
+    "feito_por": "Jane",
+    "produto": "Batata Cong. Mccain 350g",
+    "preco": "9,98",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "09:29:04",
+    "feito_por": "Jane",
+    "produto": "Arroz Pilao Branco 1kg",
+    "preco": "4,48",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "09:29:04",
+    "feito_por": "Jane",
+    "produto": "Leite Uht Frutigutti Int 1l",
+    "preco": "6,98",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "09:29:58",
+    "feito_por": "Jane",
+    "produto": "Cream Cracker Marilan Nordeste 300g",
+    "preco": "2,98",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "09:31:23",
+    "feito_por": "Jane",
+    "produto": "Comp Lacteo De Soro De Leite Leitesol 400g",
+    "preco": "9,98",
+    "validade_oferta_ate": "12/10/2026"
   }
 ]
