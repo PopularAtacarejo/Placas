@@ -25638,5 +25638,13 @@
     "produto": "Bisteca Suina Cong. Kg",
     "preco": "19,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "06:45:45",
+    "feito_por": "Jane",
+    "produto": "Lagarto Bov Kg",
+    "preco": "38,98",
+    "validade_oferta_ate": "12/10/2026"
   }
 ]
