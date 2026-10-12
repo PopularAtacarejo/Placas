@@ -39166,5 +39166,21 @@
     "produto": "Barra Prot.Crisp div sabores 45g",
     "preco": "11,48",
     "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "12:22:19",
+    "feito_por": "Jane",
+    "produto": "Abacaxi Un",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "15:37:37",
+    "feito_por": "Marcos",
+    "produto": "Filme Pvc Giromix 28cm15mt",
+    "preco": "7,28",
+    "validade_oferta_ate": ""
   }
 ]
