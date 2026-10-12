@@ -39142,5 +39142,29 @@
     "produto": "Sab Francis 80g",
     "preco": "1,65",
     "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "11:05:18",
+    "feito_por": "Jane",
+    "produto": "Hamb Tony Frango 56g",
+    "preco": "0,98",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "11:24:48",
+    "feito_por": "Jane",
+    "produto": "Iog Itambe div sabores Gf 1,5kg",
+    "preco": "14,48",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "11:39:08",
+    "feito_por": "Jane",
+    "produto": "Barra Prot.Crisp div sabores 45g",
+    "preco": "11,48",
+    "validade_oferta_ate": "12/10/2026"
   }
 ]
