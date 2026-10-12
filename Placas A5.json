@@ -31630,5 +31630,21 @@
     "produto": "Bombom Garoto Sortidos 220g",
     "preco": "11,48",
     "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "11:05:18",
+    "feito_por": "Jane",
+    "produto": "Hamb Tony Frango 56g",
+    "preco": "0,98",
+    "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "11:06:13",
+    "feito_por": "Jane",
+    "produto": "Kit Pantene Sh300ml+cond150ml Equilibrio",
+    "preco": "37,98",
+    "validade_oferta_ate": "12/10/2026"
   }
 ]
