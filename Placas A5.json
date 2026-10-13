@@ -31662,5 +31662,21 @@
     "produto": "Sabao Po Minuano Emb Econ 1,6kg div fragrancias",
     "preco": "15,98",
     "validade_oferta_ate": "12/10/2026"
+  },
+  {
+    "data": "2026-10-12",
+    "horario": "12:22:19",
+    "feito_por": "Jane",
+    "produto": "Abacaxi Un",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-13",
+    "horario": "07:46:21",
+    "feito_por": "Raul",
+    "produto": "Cookie Marilan original 60g",
+    "preco": "1,98",
+    "validade_oferta_ate": "17/10/2026"
   }
 ]
