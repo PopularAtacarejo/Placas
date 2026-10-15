@@ -26286,5 +26286,13 @@
     "produto": "Abacaxi Un",
     "preco": "3,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "09:30:48",
+    "feito_por": "Jeferson",
+    "produto": "Manga",
+    "preco": "74,89",
+    "validade_oferta_ate": "15/10/2026"
   }
 ]
