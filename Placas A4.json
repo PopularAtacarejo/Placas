@@ -26318,5 +26318,13 @@
     "produto": "teste",
     "preco": "8,66",
     "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "12:04:37",
+    "feito_por": "Jeferson",
+    "produto": "lsldkslkd",
+    "preco": "5,25",
+    "validade_oferta_ate": "15/10/2026"
   }
 ]
