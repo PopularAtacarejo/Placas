@@ -27318,5 +27318,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/10/2026",
+    "hora": "15:36:30",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Pedaços De Coco Pense Zr 100 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/10/2026",
+        "codigo_barras": "7891097107023",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Petit Nestlé Chambinho Choc Bdj 320 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/10/2026",
+        "codigo_barras": "7891000110430",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Verde Campo Whey 11 Ban/Can 140 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/10/2026",
+        "codigo_barras": "7898205925562",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Verde Campo Whey 28 Morango 500 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/10/2026",
+        "codigo_barras": "7898205924725",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
