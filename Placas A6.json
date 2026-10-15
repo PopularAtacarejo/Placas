@@ -40110,5 +40110,53 @@
     "produto": "Aveia Em Flocos Regulares Apti 150g",
     "preco": "4,48",
     "validade_oferta_ate": "31/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "11:57:42",
+    "feito_por": "Jeferson",
+    "produto": "tesdte147",
+    "preco": "895,33",
+    "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "12:01:15",
+    "feito_por": "Jeferson",
+    "produto": "teste",
+    "preco": "8,66",
+    "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "12:04:37",
+    "feito_por": "Jeferson",
+    "produto": "lsldkslkd",
+    "preco": "5,25",
+    "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "12:29:33",
+    "feito_por": "Matheus",
+    "produto": "Amendoim Dori Pettiz Croc Natural 70g",
+    "preco": "0,98",
+    "validade_oferta_ate": "16/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "12:29:33",
+    "feito_por": "Matheus",
+    "produto": "Amendoim Japones Yoki 60g",
+    "preco": "1,98",
+    "validade_oferta_ate": "26/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "12:29:33",
+    "feito_por": "Matheus",
+    "produto": "Amendoim Dori Torrado Salgado 70g",
+    "preco": "2,98",
+    "validade_oferta_ate": "24/10/2026"
   }
 ]
