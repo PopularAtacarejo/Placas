@@ -27104,5 +27104,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/10/2026",
+    "hora": "15:25:11",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Marg Qualy Light Zer/Lact c/sal 250 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/10/2026",
+        "codigo_barras": "7893000514973",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Massa De Pastel Luiza Aniversario 500 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "20/10/2026",
+        "codigo_barras": "7898970918059",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Massa De Pastel Luiza Tp Festinha 200 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "17/10/2026",
+        "codigo_barras": "7898970918110",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Queijo Coalho Capelinha Kg",
+        "preco": "46,98",
+        "unidade": "Kg",
+        "validade_oferta": "26/10/2026"
+      }
+    ]
   }
 ]
