@@ -26254,5 +26254,21 @@
     "produto": "Tomate Kg",
     "preco": "8,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "07:38:01",
+    "feito_por": "Eduardo",
+    "produto": "Banana Prata Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "07:38:01",
+    "feito_por": "Eduardo",
+    "produto": "Uva Vitoria Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
   }
 ]
