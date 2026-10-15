@@ -26310,5 +26310,13 @@
     "produto": "tesdte147",
     "preco": "895,33",
     "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "12:01:15",
+    "feito_por": "Jeferson",
+    "produto": "teste",
+    "preco": "8,66",
+    "validade_oferta_ate": "15/10/2026"
   }
 ]
