@@ -26294,5 +26294,13 @@
     "produto": "Manga",
     "preco": "74,89",
     "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "11:39:39",
+    "feito_por": "Caio",
+    "produto": "Chuchu Kg",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
   }
 ]
