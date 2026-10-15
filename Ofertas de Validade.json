@@ -27230,5 +27230,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/10/2026",
+    "hora": "15:31:59",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Danone Activia Gf Ameixa 170 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/10/2026",
+        "codigo_barras": "7891025109419",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Danone Activia Gf Morango 170 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/10/2026",
+        "codigo_barras": "7891025109396",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Danoninho Multi Frutas Danone Bdj 320 g",
+        "preco": "10,48",
+        "unidade": "Unid.",
+        "validade_oferta": "18/10/2026",
+        "codigo_barras": "7891025109884",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Itambe c/pedacos Coco 450 g",
+        "preco": "11,48",
+        "unidade": "Unid.",
+        "validade_oferta": "21/10/2026",
+        "codigo_barras": "7896051164630",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
