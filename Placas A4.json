@@ -26326,5 +26326,13 @@
     "produto": "lsldkslkd",
     "preco": "5,25",
     "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "14:13:32",
+    "feito_por": "Jeferson",
+    "produto": "pão",
+    "preco": "3,28",
+    "validade_oferta_ate": "15/10/2026"
   }
 ]
