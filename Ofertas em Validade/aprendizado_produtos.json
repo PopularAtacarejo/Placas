@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-10-07T16:38:53",
+  "atualizado_em": "2026-10-15T15:18:08",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3527,7 +3527,8 @@
     "marg deline cremosa c/sal | massa:250g": {
       "descricao": "Marg Deline Cremosa c/sal 250 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7893000979932",
+      "hits": 3,
       "aliases": [
         "marg deline cremosa c sal 250 g",
         "marg deline cremosa c sal 250g",
@@ -3538,7 +3539,7 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "lombo ceratti tp canadense ft | massa:100g": {
       "descricao": "Lombo Ceratti Tp Canadense Ft 100 g",
@@ -4707,9 +4708,10 @@
       "atualizado_em": "2026-05-13T10:29:07"
     },
     "iog liq nestle neston 3/cer | massa:850g": {
-      "descricao": "Iog Liq Nestle Neston 3/Cer 850 g",
+      "descricao": "Iog Liq Nestlé Neston 3/Cer 850 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7891000260623",
+      "hits": 3,
       "aliases": [
         "iog liq nestle neston 3 cer 850 g",
         "iog liq nestle neston 3 cer 850g",
@@ -4720,7 +4722,7 @@
         "massa:850g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T10:29:07"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "iog batavo mor/coco bdj | massa:540g": {
       "descricao": "Iog Batavo Mor/Coco Bdj 540 g",
@@ -4790,7 +4792,8 @@
     "leite ferm desnatado yakult | massa:80g": {
       "descricao": "Leite Ferm Desnatado Yakult 80 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "",
+      "hits": 3,
       "aliases": [
         "leite ferm desnatado yakult 80 g",
         "leite ferm desnatado yakult 80g",
@@ -4801,7 +4804,7 @@
         "massa:80g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T10:29:07"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "iog batavo morango bdj | massa:510g": {
       "descricao": "Iog Batavo Morango Bdj 510 g",
@@ -4983,7 +4986,8 @@
     "iog verde campo whey 28 morango | massa:500g": {
       "descricao": "Iog Verde Campo Whey 28 Morango 500 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7898205924725",
+      "hits": 3,
       "aliases": [
         "iog verde campo whey 28 morango 500 g",
         "iog verde campo whey 28 morango 500g",
@@ -4994,7 +4998,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-13T10:29:07"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "beb lact frutigutti ameixa sh | massa:900g": {
       "descricao": "Beb Lact Frutigutti Ameixa Sh 900 g",
@@ -8514,7 +8518,7 @@
       "descricao": "Iog Danone Activia Gf Ameixa 170 g",
       "unidade": "Unid.",
       "codigo_barras": "7891025109419",
-      "hits": 4,
+      "hits": 5,
       "aliases": [
         "iog danone activia gf 170g ameixa",
         "iog danone activia gf ameixa 170 g",
@@ -8525,7 +8529,7 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-21T09:36:09"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "iog danone yopro natural | massa:160g": {
       "descricao": "Iog Danone Yopro Natural 160 g",
@@ -8563,7 +8567,8 @@
     "beb lact engenho gf ameixa | massa:180g": {
       "descricao": "Beb Lact Engenho Gf Ameixa 180 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "6183413227906",
+      "hits": 3,
       "aliases": [
         "beb lact engenho gf 180g ameixa",
         "beb lact engenho gf ameixa 180 g",
@@ -8574,7 +8579,7 @@
         "massa:180g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-30T09:23:43"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "iog nestle morango garrafa | massa:1150g": {
       "descricao": "Iog Nestlé Morango Garrafa 1,15 kg",
@@ -9038,7 +9043,7 @@
       "descricao": "Iog Verde Campo Whey 11 Ban/Can 140 g",
       "unidade": "Unid.",
       "codigo_barras": "7898205925562",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "iog verde campo whey 11 ban can 140 g",
         "iog verde campo whey 11 ban can 140g",
@@ -9049,7 +9054,7 @@
         "massa:140g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-08T16:14:30"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "iog danone morango bdj | massa:510g": {
       "descricao": "Iog Danone Morango Bdj 510 g",
@@ -9649,7 +9654,7 @@
       "descricao": "Massa De Pastel Luiza Aniversario 500 g",
       "unidade": "Unid.",
       "codigo_barras": "7898970918059",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "massa de pastel luiza aniversario 500 g",
         "massa de pastel luiza aniversario 500g",
@@ -9660,12 +9665,13 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "marg claybom c/sal | massa:500g": {
       "descricao": "Marg Claybom c/sal 500 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7891515901059",
+      "hits": 2,
       "aliases": [
         "marg claybom c sal 500 g",
         "marg claybom c sal 500g",
@@ -9676,7 +9682,7 @@
         "massa:500g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-05T14:45:58"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "linguica tipo calabresa defumada sadia": {
       "descricao": "Linguiça Tipo Calabresa Defumada Sadia",
@@ -9694,7 +9700,7 @@
       "descricao": "Creme De Ricota Polenghi Light 150 g",
       "unidade": "Unid.",
       "codigo_barras": "7891143017009",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "creme de ricota polenghi light 150 g",
         "creme de ricota polenghi light 150g",
@@ -9705,7 +9711,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "beb lact frutigutti frutas c/cereais bdj | massa:510g": {
       "descricao": "Beb Lact Frutigutti Frutas c/cereais Bdj 510 g",
@@ -13264,7 +13270,7 @@
       "descricao": "Manteiga Piracanjuba s/sal Pote 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7898215151470",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "manteiga piracanjuba s sal pote 200 g",
         "manteiga piracanjuba s sal pote 200g",
@@ -13275,7 +13281,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "requeijao cremoso catupiry light | massa:200g": {
       "descricao": "Requeijão Cremoso Catupiry Light 200 g",
@@ -13625,7 +13631,7 @@
       "descricao": "Iog Pedaços De Coco Pense Zr 100 g",
       "unidade": "Unid.",
       "codigo_barras": "7891097107023",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog pedacos de coco pense zr 100 g",
         "iog pedacos de coco pense zr 100g",
@@ -13636,7 +13642,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T15:39:33"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "iog betania yobem trip zero pap/lin | massa:850g": {
       "descricao": "Iog Betania Yobem Trip Zero Pap/Lin 850 g",
@@ -14091,7 +14097,7 @@
       "descricao": "Iog Batavo Morango Probio 2 510 g",
       "unidade": "Unid.",
       "codigo_barras": "7891097104855",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog batavo morango probio 2 510 g",
         "iog batavo morango probio 2 | massa:510g",
@@ -14102,7 +14108,7 @@
         "massa:510g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-08T16:14:30"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "iog petit nestle chambinho mor bdj | massa:320g": {
       "descricao": "Iog Petit Nestlé Chambinho Mor Bdj 320 g",
@@ -14227,7 +14233,7 @@
       "descricao": "Iog Nestlé Natural Mel 170 g",
       "unidade": "Unid.",
       "codigo_barras": "7891000072974",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog nestle natural mel 170 g",
         "iog nestle natural mel 170g",
@@ -14238,7 +14244,7 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-08T16:14:30"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "iog danone verd grego f vermelhad | massa:90g": {
       "descricao": "Iog Danone Verd.Grego F.Vermelhad 90 g",
@@ -14294,8 +14300,8 @@
     "leite ferm yakult 40 light | massa:80g": {
       "descricao": "Leite Ferm Yakult 40 Light 80 g",
       "unidade": "Unid.",
-      "codigo_barras": "0000078936676",
-      "hits": 1,
+      "codigo_barras": "",
+      "hits": 2,
       "aliases": [
         "leite ferm yakult 40 light 80 g",
         "leite ferm yakult 40 light 80g",
@@ -14306,7 +14312,7 @@
         "massa:80g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-08T16:14:30"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "iog bom leite light morango bdj | massa:540g": {
       "descricao": "Iog Bom Leite Light Morango Bdj 540 g",
@@ -14669,7 +14675,7 @@
       "descricao": "Iog Danone Activia Gf Morango 170 g",
       "unidade": "Unid.",
       "codigo_barras": "7891025109396",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog danone activia gf 170g morango",
         "iog danone activia gf morango 170 g",
@@ -14680,7 +14686,7 @@
         "massa:170g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-21T09:36:09"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "iog batavo grego pt tradicional | massa:100g": {
       "descricao": "Iog Batavo Grego Pt Tradicional 100 g",
@@ -16716,7 +16722,7 @@
       "descricao": "Amendoim Japonês Yoki 60 g",
       "unidade": "Unid.",
       "codigo_barras": "7891095911776",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "amendoim japones yoki 60 g",
         "amendoim japones yoki 60g",
@@ -16727,7 +16733,7 @@
         "massa:60g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-27T15:40:09"
+      "atualizado_em": "2026-10-15T15:18:08"
     },
     "amendoim crokissimo shoyu | massa:150g": {
       "descricao": "Amendoim Crokissimo Shoyu 150 g",
@@ -21123,6 +21129,244 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-10-07T16:38:53"
+    },
+    "creme de ricota galbani light | massa:200g": {
+      "descricao": "Creme De Ricota Galbani Light 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097105982",
+      "hits": 1,
+      "aliases": [
+        "creme de ricota galbani light 200 g",
+        "creme de ricota galbani light 200g",
+        "creme de ricota galbani light | massa:200g"
+      ],
+      "descricao_base": "creme de ricota galbani light",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
+    },
+    "manteiga piracanjuba c/sal pote | massa:200g": {
+      "descricao": "Manteiga Piracanjuba c/sal Pote 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898215151302",
+      "hits": 1,
+      "aliases": [
+        "manteiga piracanjuba c sal pote 200 g",
+        "manteiga piracanjuba c sal pote 200g",
+        "manteiga piracanjuba c/sal pote | massa:200g"
+      ],
+      "descricao_base": "manteiga piracanjuba c/sal pote",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
+    },
+    "marg delicia c/sal | massa:250g": {
+      "descricao": "Marg Delicia c/sal 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7894904271535",
+      "hits": 1,
+      "aliases": [
+        "marg delicia c sal 250 g",
+        "marg delicia c sal 250g",
+        "marg delicia c/sal | massa:250g"
+      ],
+      "descricao_base": "marg delicia c/sal",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
+    },
+    "marg qualy light zer/lact c/sal | massa:250g": {
+      "descricao": "Marg Qualy Light Zer/Lact c/sal 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7893000514973",
+      "hits": 1,
+      "aliases": [
+        "marg qualy light zer lact c sal 250 g",
+        "marg qualy light zer lact c sal 250g",
+        "marg qualy light zer/lact c/sal | massa:250g"
+      ],
+      "descricao_base": "marg qualy light zer/lact c/sal",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
+    },
+    "massa de pastel luiza tp festinha | massa:200g": {
+      "descricao": "Massa De Pastel Luiza Tp Festinha 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898970918110",
+      "hits": 1,
+      "aliases": [
+        "massa de pastel luiza tp festinha 200 g",
+        "massa de pastel luiza tp festinha 200g",
+        "massa de pastel luiza tp festinha | massa:200g"
+      ],
+      "descricao_base": "massa de pastel luiza tp festinha",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
+    },
+    "coalhada batalha light | massa:140g": {
+      "descricao": "Coalhada Batalha Light 140 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896596000301",
+      "hits": 1,
+      "aliases": [
+        "coalhada batalha light 140 g",
+        "coalhada batalha light 140g",
+        "coalhada batalha light | massa:140g"
+      ],
+      "descricao_base": "coalhada batalha light",
+      "medidas": [
+        "massa:140g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
+    },
+    "iog batavo cereal | massa:1.15g": {
+      "descricao": "Iog Batavo Cereal 1,150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097103391",
+      "hits": 1,
+      "aliases": [
+        "iog batavo cereal 1 150 g",
+        "iog batavo cereal 1 150g",
+        "iog batavo cereal | massa:1.15g"
+      ],
+      "descricao_base": "iog batavo cereal",
+      "medidas": [
+        "massa:1.15g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
+    },
+    "iog batavo natural int | massa:510g": {
+      "descricao": "Iog Batavo Natural Int 510 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097108105",
+      "hits": 1,
+      "aliases": [
+        "iog batavo natural int 510 g",
+        "iog batavo natural int 510g",
+        "iog batavo natural int | massa:510g"
+      ],
+      "descricao_base": "iog batavo natural int",
+      "medidas": [
+        "massa:510g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
+    },
+    "iog danoninho multi frutas danone bdj | massa:320g": {
+      "descricao": "Iog Danoninho Multi Frutas Danone Bdj 320 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891025109884",
+      "hits": 1,
+      "aliases": [
+        "iog danoninho multi frutas danone bdj 320 g",
+        "iog danoninho multi frutas danone bdj 320g",
+        "iog danoninho multi frutas danone bdj | massa:320g"
+      ],
+      "descricao_base": "iog danoninho multi frutas danone bdj",
+      "medidas": [
+        "massa:320g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
+    },
+    "iog itambe c/pedacos coco | massa:450g": {
+      "descricao": "Iog Itambe c/pedacos Coco 450 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896051164630",
+      "hits": 1,
+      "aliases": [
+        "iog itambe c pedacos 450g coco",
+        "iog itambe c pedacos coco 450 g",
+        "iog itambe c/pedacos coco | massa:450g"
+      ],
+      "descricao_base": "iog itambe c/pedacos coco",
+      "medidas": [
+        "massa:450g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
+    },
+    "iog itambe kids polpa frutas | massa:510g": {
+      "descricao": "Iog Itambe Kids Polpa Frutas 510 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896051164159",
+      "hits": 1,
+      "aliases": [
+        "iog itambe kids polpa frutas 510 g",
+        "iog itambe kids polpa frutas 510g",
+        "iog itambe kids polpa frutas | massa:510g"
+      ],
+      "descricao_base": "iog itambe kids polpa frutas",
+      "medidas": [
+        "massa:510g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
+    },
+    "iog nestle molico ameixa | massa:170g": {
+      "descricao": "Iog Nestlé Molico Ameixa 170 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898755200218",
+      "hits": 1,
+      "aliases": [
+        "iog nestle molico ameixa 170 g",
+        "iog nestle molico ameixa 170g",
+        "iog nestle molico ameixa | massa:170g"
+      ],
+      "descricao_base": "iog nestle molico ameixa",
+      "medidas": [
+        "massa:170g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
+    },
+    "iog petit nestle chambinho choc bdj | massa:320g": {
+      "descricao": "Iog Petit Nestlé Chambinho Choc Bdj 320 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000110430",
+      "hits": 1,
+      "aliases": [
+        "iog petit nestle chambinho choc bdj 320 g",
+        "iog petit nestle chambinho choc bdj 320g",
+        "iog petit nestle chambinho choc bdj | massa:320g"
+      ],
+      "descricao_base": "iog petit nestle chambinho choc bdj",
+      "medidas": [
+        "massa:320g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
+    },
+    "leite ferm yakult 40 desnatado | massa:80g": {
+      "descricao": "Leite Ferm Yakult 40 Desnatado 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "",
+      "hits": 1,
+      "aliases": [
+        "leite ferm yakult 40 desnatado 80 g",
+        "leite ferm yakult 40 desnatado 80g",
+        "leite ferm yakult 40 desnatado | massa:80g"
+      ],
+      "descricao_base": "leite ferm yakult 40 desnatado",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-15T15:18:08"
     }
   }
 }
