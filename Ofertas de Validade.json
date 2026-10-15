@@ -27146,5 +27146,45 @@
         "validade_oferta": "26/10/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/10/2026",
+    "hora": "15:27:32",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Queijo Minas Padrao Regina Frac Kg",
+        "preco": "75,98",
+        "unidade": "Kg",
+        "validade_oferta": "24/10/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Queijo Prato Minilanche Regina Kg",
+        "preco": "75,98",
+        "unidade": "Kg",
+        "validade_oferta": "31/10/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Amendoim Japonês Yoki 60 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/10/2026",
+        "codigo_barras": "7891095911776",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Beb Lact Engenho Gf Ameixa 180 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "17/10/2026",
+        "codigo_barras": "6183413227906",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
