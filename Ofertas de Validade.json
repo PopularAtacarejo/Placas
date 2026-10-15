@@ -27060,5 +27060,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/10/2026",
+    "hora": "15:22:58",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Manteiga Piracanjuba s/sal Pote 200 g",
+        "preco": "11,48",
+        "unidade": "Unid.",
+        "validade_oferta": "27/10/2026",
+        "codigo_barras": "7898215151470",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Marg Claybom c/sal 500 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/10/2026",
+        "codigo_barras": "7891515901059",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Marg Delicia c/sal 250 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "24/10/2026",
+        "codigo_barras": "7894904271535",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Marg Deline Cremosa c/sal 250 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "18/10/2026",
+        "codigo_barras": "7893000979932",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
