@@ -27274,5 +27274,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/10/2026",
+    "hora": "15:34:12",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Itambe Kids Polpa Frutas 510 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/10/2026",
+        "codigo_barras": "7896051164159",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Liq Nestlé Neston 3/Cer 850 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/10/2026",
+        "codigo_barras": "7891000260623",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Nestlé Molico Ameixa 170 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/10/2026",
+        "codigo_barras": "7898755200218",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Nestlé Natural Mel 170 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "27/10/2026",
+        "codigo_barras": "7891000072974",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
