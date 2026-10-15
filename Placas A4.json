@@ -26334,5 +26334,53 @@
     "produto": "pão",
     "preco": "3,28",
     "validade_oferta_ate": "15/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "16:06:50",
+    "feito_por": "Jeferson",
+    "produto": "MAMINHA",
+    "preco": "39,98",
+    "validade_oferta_ate": "16/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "16:06:50",
+    "feito_por": "Jeferson",
+    "produto": "CARNE DE SOL",
+    "preco": "43,98",
+    "validade_oferta_ate": "16/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "16:06:50",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA DA AGULHA",
+    "preco": "25,98",
+    "validade_oferta_ate": "16/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "16:06:50",
+    "feito_por": "Jeferson",
+    "produto": "Filé De Peito Frango Pioneiro Bdj 500g",
+    "preco": "11,48",
+    "validade_oferta_ate": "16/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "16:06:50",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Imperio Ultra Gfa 275ml",
+    "preco": "4,68",
+    "validade_oferta_ate": "16/10/2026"
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "16:06:50",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Itaipava Lt 473ml",
+    "preco": "3,18",
+    "validade_oferta_ate": "16/10/2026"
   }
 ]
