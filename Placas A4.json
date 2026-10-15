@@ -26302,5 +26302,13 @@
     "produto": "Chuchu Kg",
     "preco": "2,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-15",
+    "horario": "11:57:42",
+    "feito_por": "Jeferson",
+    "produto": "tesdte147",
+    "preco": "895,33",
+    "validade_oferta_ate": "15/10/2026"
   }
 ]
