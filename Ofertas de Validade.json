@@ -27362,5 +27362,34 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "15/10/2026",
+    "hora": "15:38:10",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Ferm Desnatado Yakult 80 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/10/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Leite Ferm Yakult 40 Desnatado 80 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/10/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Ferm Yakult 40 Light 80 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/10/2026"
+      }
+    ]
   }
 ]
