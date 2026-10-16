@@ -40574,5 +40574,37 @@
     "produto": "Vodka Skyy 980ml",
     "preco": "18,10",
     "validade_oferta_ate": "18/10/2026"
+  },
+  {
+    "data": "2026-10-16",
+    "horario": "09:49:31",
+    "feito_por": "Irineia",
+    "produto": "Cond Forever Liss Libera o Crespo 200g",
+    "preco": "27,98",
+    "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-10-16",
+    "horario": "09:49:31",
+    "feito_por": "Irineia",
+    "produto": "Cr Facial Negra Rosa Aqua Gel Antipoluicao 100g",
+    "preco": "14,98",
+    "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-10-16",
+    "horario": "09:49:31",
+    "feito_por": "Irineia",
+    "produto": "Gel Pes Pernas Granado Pink 120g",
+    "preco": "34,98",
+    "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-10-16",
+    "horario": "09:49:31",
+    "feito_por": "Irineia",
+    "produto": "Masc.Cap.Fattore B-Tox Organiq 1kg",
+    "preco": "77,98",
+    "validade_oferta_ate": "30/11/2026"
   }
 ]
