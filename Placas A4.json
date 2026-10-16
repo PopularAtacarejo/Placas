@@ -26710,5 +26710,21 @@
     "produto": "Ovo Luna Grande Filmado C/30",
     "preco": "14,98",
     "validade_oferta_ate": "17/10/2026"
+  },
+  {
+    "data": "2026-10-16",
+    "horario": "14:21:46",
+    "feito_por": "Eduardo",
+    "produto": "Laranja Pera Kg",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-16",
+    "horario": "14:21:46",
+    "feito_por": "Eduardo",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
   }
 ]
