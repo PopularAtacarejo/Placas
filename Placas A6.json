@@ -41054,5 +41054,21 @@
     "produto": "Vodka Skyy 980ml",
     "preco": "44,98",
     "validade_oferta_ate": "18/10/2026"
+  },
+  {
+    "data": "2026-10-16",
+    "horario": "16:17:14",
+    "feito_por": "Ana",
+    "produto": "Nestonutri Nestle 1-3naos 800g",
+    "preco": "49,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-16",
+    "horario": "16:17:14",
+    "feito_por": "Ana",
+    "produto": "Farinha De Trigo Brandini C/Ferm 1kg",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
   }
 ]
