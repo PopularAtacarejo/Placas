@@ -41070,5 +41070,21 @@
     "produto": "Farinha De Trigo Brandini C/Ferm 1kg",
     "preco": "3,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-16",
+    "horario": "17:18:02",
+    "feito_por": "Vinicius",
+    "produto": "Sand Ipan Classica Inf Azul/Az 25/6",
+    "preco": "10,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-18",
+    "horario": "15:00:46",
+    "feito_por": "Gustavo",
+    "produto": "Refri Lt 350ml Fanta Caju",
+    "preco": "2,98",
+    "validade_oferta_ate": "21/10/2026"
   }
 ]
