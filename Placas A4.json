@@ -27102,5 +27102,13 @@
     "produto": "Banana Prata Kg",
     "preco": "4,98",
     "validade_oferta_ate": "19/10/2026"
+  },
+  {
+    "data": "2026-10-19",
+    "horario": "18:20:53",
+    "feito_por": "Wellington",
+    "produto": "Maca Nacional Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": "19/10/2026"
   }
 ]
