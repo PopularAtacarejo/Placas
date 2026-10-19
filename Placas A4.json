@@ -26974,5 +26974,37 @@
     "produto": "Marg Deline Cremosa 3kg",
     "preco": "32,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-19",
+    "horario": "11:42:14",
+    "feito_por": "Caio",
+    "produto": "Mamao Formosa Kg",
+    "preco": "5,68",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-19",
+    "horario": "11:42:14",
+    "feito_por": "Caio",
+    "produto": "Mamao Papaya Kg",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-19",
+    "horario": "11:42:14",
+    "feito_por": "Caio",
+    "produto": "Laranja Pera Kg",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-19",
+    "horario": "11:42:14",
+    "feito_por": "Caio",
+    "produto": "Ovos De Codorna Dois Irmaos 30un",
+    "preco": "4,98",
+    "validade_oferta_ate": "24/10/2026"
   }
 ]
