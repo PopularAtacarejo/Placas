@@ -27391,5 +27391,49 @@
         "validade_oferta": "16/10/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/10/2026",
+    "hora": "17:25:58",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Amendoim Japonês Yoki 60 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/10/2026",
+        "codigo_barras": "7891095911776",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Lact Engenho Gf Ameixa 180 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "17/10/2026",
+        "codigo_barras": "6183413227906",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Coalhada Batalha Light 140 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/10/2026",
+        "codigo_barras": "7896596000301",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Batavo Cereal 1,150 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/10/2026",
+        "codigo_barras": "7891097103391",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
