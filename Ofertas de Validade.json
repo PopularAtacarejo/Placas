@@ -27607,5 +27607,20 @@
         "validade_oferta": "15/10/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/10/2026",
+    "hora": "17:36:21",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Ferm Yakult 40 Light 80 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/10/2026"
+      }
+    ]
   }
 ]
