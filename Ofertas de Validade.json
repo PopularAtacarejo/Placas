@@ -27567,5 +27567,45 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/10/2026",
+    "hora": "17:35:32",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Verde Campo Whey 11 Ban/Can 140 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/10/2026",
+        "codigo_barras": "7898205925562",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Verde Campo Whey 28 Morango 500 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/10/2026",
+        "codigo_barras": "7898205924725",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Ferm Desnatado Yakult 80 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/10/2026"
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Ferm Yakult 40 Desnatado 80 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/10/2026"
+      }
+    ]
   }
 ]
