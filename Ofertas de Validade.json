@@ -27479,5 +27479,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/10/2026",
+    "hora": "17:31:01",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Danoninho Multi Frutas Danone Bdj 320 g",
+        "preco": "10,48",
+        "unidade": "Unid.",
+        "validade_oferta": "18/10/2026",
+        "codigo_barras": "7891025109884",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Itambe c/pedacos Coco 450 g",
+        "preco": "11,48",
+        "unidade": "Unid.",
+        "validade_oferta": "21/10/2026",
+        "codigo_barras": "7896051164630",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Itambe Kids Polpa Frutas 510 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/10/2026",
+        "codigo_barras": "7896051164159",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Liq Nestlé Neston 3/Cer 850 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/10/2026",
+        "codigo_barras": "7891000260623",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
