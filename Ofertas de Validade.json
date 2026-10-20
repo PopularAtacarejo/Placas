@@ -27435,5 +27435,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/10/2026",
+    "hora": "17:28:20",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Batavo Morango Probio 2 510 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/10/2026",
+        "codigo_barras": "7891097104855",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Batavo Natural Int 510 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/10/2026",
+        "codigo_barras": "7891097108105",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Danone Activia Gf Ameixa 170 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/10/2026",
+        "codigo_barras": "7891025109419",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Danone Activia Gf Morango 170 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/10/2026",
+        "codigo_barras": "7891025109396",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
