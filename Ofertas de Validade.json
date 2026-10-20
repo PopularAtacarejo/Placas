@@ -27523,5 +27523,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "20/10/2026",
+    "hora": "17:33:13",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Iog Nestlé Molico Ameixa 170 g",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/10/2026",
+        "codigo_barras": "7898755200218",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Nestlé Natural Mel 170 g",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "27/10/2026",
+        "codigo_barras": "7891000072974",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Pedaços De Coco Pense Zr 100 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/10/2026",
+        "codigo_barras": "7891097107023",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Petit Nestlé Chambinho Choc Bdj 320 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/10/2026",
+        "codigo_barras": "7891000110430",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
