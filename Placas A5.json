@@ -33614,5 +33614,29 @@
     "produto": "Leite Ferm Nestle Chamyto Big 120g",
     "preco": "1,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "14:37:11",
+    "feito_por": "Gustavo",
+    "produto": "Refri Pet 2l Coca Cola Z/Acucar",
+    "preco": "10,99",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "14:37:11",
+    "feito_por": "Gustavo",
+    "produto": "Refri Lt 350ml Fanta Caju",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "14:50:37",
+    "feito_por": "Páulo",
+    "produto": "Beb Lact Bom Leite Diver. Sabor. Sh 900g",
+    "preco": "4,48",
+    "validade_oferta_ate": "21/10/2026"
   }
 ]
