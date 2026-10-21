@@ -27470,5 +27470,21 @@
     "produto": "Ovo Luna Grande Filmado C/30",
     "preco": "14,98",
     "validade_oferta_ate": "21/10/2026"
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "14:37:11",
+    "feito_por": "Gustavo",
+    "produto": "Refri Pet 2l Coca Cola Z/Acucar",
+    "preco": "10,99",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "14:37:11",
+    "feito_por": "Gustavo",
+    "produto": "Refri Lt 350ml Fanta Caju",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
   }
 ]
