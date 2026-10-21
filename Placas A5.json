@@ -33638,5 +33638,21 @@
     "produto": "Beb Lact Bom Leite Diver. Sabor. Sh 900g",
     "preco": "4,48",
     "validade_oferta_ate": "21/10/2026"
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "15:06:47",
+    "feito_por": "Marcos",
+    "produto": "Refri Pet 2l Coca Cola Z/Acucar",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "15:07:24",
+    "feito_por": "Marcos",
+    "produto": "Refri Lt 350ml Fanta Caju",
+    "preco": "1,48",
+    "validade_oferta_ate": ""
   }
 ]
