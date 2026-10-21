@@ -42150,5 +42150,29 @@
     "produto": "Toalha Umed Huggies Supreme C/48un",
     "preco": "16,98",
     "validade_oferta_ate": "30/12/2026"
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "14:37:11",
+    "feito_por": "Gustavo",
+    "produto": "Refri Pet 2l Coca Cola Z/Acucar",
+    "preco": "10,99",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "14:37:11",
+    "feito_por": "Gustavo",
+    "produto": "Refri Lt 350ml Fanta Caju",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "14:50:37",
+    "feito_por": "Páulo",
+    "produto": "Iog Bom Leite Integral Ameixa 150g",
+    "preco": "1,98",
+    "validade_oferta_ate": "30/10/2026"
   }
 ]
