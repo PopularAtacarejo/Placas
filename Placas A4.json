@@ -27318,5 +27318,61 @@
     "produto": "Cerv Heineken 0,0% Lt Un 350ml",
     "preco": "5,48",
     "validade_oferta_ate": "21/10/2026"
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "07:08:16",
+    "feito_por": "Wellington",
+    "produto": "Mamao Formosa Kg",
+    "preco": "3,98",
+    "validade_oferta_ate": "21/10/2026"
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "07:08:16",
+    "feito_por": "Wellington",
+    "produto": "Cebola Branca Kg",
+    "preco": "6,98",
+    "validade_oferta_ate": "21/10/2026"
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "07:08:16",
+    "feito_por": "Wellington",
+    "produto": "Cenoura Kg",
+    "preco": "4,98",
+    "validade_oferta_ate": "21/10/2026"
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "07:08:16",
+    "feito_por": "Wellington",
+    "produto": "Maca Nacional Kg",
+    "preco": "6,98",
+    "validade_oferta_ate": "21/10/2026"
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "07:08:16",
+    "feito_por": "Wellington",
+    "produto": "Melancia Kg",
+    "preco": "1,55",
+    "validade_oferta_ate": "21/10/2026"
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "07:08:16",
+    "feito_por": "Wellington",
+    "produto": "Melao Espanhol Kg",
+    "preco": "3,48",
+    "validade_oferta_ate": "21/10/2026"
+  },
+  {
+    "data": "2026-10-21",
+    "horario": "07:08:16",
+    "feito_por": "Wellington",
+    "produto": "Manga Tommy Kg",
+    "preco": "2,48",
+    "validade_oferta_ate": "21/10/2026"
   }
 ]
