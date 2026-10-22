@@ -27991,5 +27991,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "14:58:06",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Caldo Maggi Carne 57 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/11/2026",
+        "codigo_barras": "7891000250150",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Temp Maggi Tomate e Ervas 42 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/11/2026",
+        "codigo_barras": "7891000340073",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Batata Palha Yoki Trad Lv 105 gp 90 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "01/11/2026",
+        "codigo_barras": "7891095031696",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Maionese Hellmanns Sh 200 g",
+        "preco": "5,48",
+        "unidade": "Unid.",
+        "validade_oferta": "10/11/2026",
+        "codigo_barras": "7894000030470",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
