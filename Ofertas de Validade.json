@@ -27771,5 +27771,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "14:46:44",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Toddy Original 750 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/11/2026",
+        "codigo_barras": "7892840819170",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Beb Lac Betania Kids Chocolate 200 ml",
+        "preco": "1,75",
+        "unidade": "Unid.",
+        "validade_oferta": "19/11/2026",
+        "codigo_barras": "7898403780499",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Ninho Uht Levinho Zl Vit 1 l",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/11/2026",
+        "codigo_barras": "7898215157434",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Uht Piracanjuba Semidesnt Tp 1 l",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "19/11/2026",
+        "codigo_barras": "7898215151760",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
