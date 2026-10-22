@@ -27639,5 +27639,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "14:39:25",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mist P/Bolo Fleischmann Petit Gateau 350 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/11/2026",
+        "codigo_barras": "7897309408599",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Gelatina Royal Limão 25 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/11/2026",
+        "codigo_barras": "7622300859893",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Gelatina Royal Framboesa 25 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/11/2026",
+        "codigo_barras": "7622300859930",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Ninho Uht Semidesnat A 2 Vit 1 l",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/11/2026",
+        "codigo_barras": "7898215157908",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
