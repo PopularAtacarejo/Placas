@@ -28149,5 +28149,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "15:24:19",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Toddy Rech Morango/Chocolate 100 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "10/11/2026",
+        "codigo_barras": "7896071024433",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pão De Mel Bauducco Especial 180 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/11/2026",
+        "codigo_barras": "7891962073811",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Club Social Bacon&provol 141 g",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/11/2026",
+        "codigo_barras": "7622210568847",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Marilan Maizena Chocolate 335 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/11/2026",
+        "codigo_barras": "7896003740257",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
