@@ -27726,5 +27726,37 @@
     "produto": "Uva Verde Thompson Frutana 500g",
     "preco": "8,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "16:51:14",
+    "feito_por": "Jeferson",
+    "produto": "PATINHO",
+    "preco": "41,98",
+    "validade_oferta_ate": "23/10/2026"
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "16:51:14",
+    "feito_por": "Jeferson",
+    "produto": "CARNE MOÍDA DE SEGUNDA",
+    "preco": "24,48",
+    "validade_oferta_ate": "23/10/2026"
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "16:51:14",
+    "feito_por": "Jeferson",
+    "produto": "PALETA SUÍNA",
+    "preco": "21,88",
+    "validade_oferta_ate": "23/10/2026"
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "16:51:14",
+    "feito_por": "Jeferson",
+    "produto": "Filé Peito Frango Seara Bdj 1kg",
+    "preco": "21,98",
+    "validade_oferta_ate": "23/10/2026"
   }
 ]
