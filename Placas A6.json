@@ -42566,5 +42566,61 @@
     "produto": "Masc.Trat.Dove Hidratacao/ Nutrição/ Brilho/Restauração 270g",
     "preco": "19,98",
     "validade_oferta_ate": "31/12/2026"
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "08:53:23",
+    "feito_por": "Caio",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "08:53:23",
+    "feito_por": "Caio",
+    "produto": "Abacaxi Un",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "08:53:23",
+    "feito_por": "Caio",
+    "produto": "Maca Nacional Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "10:49:27",
+    "feito_por": "Allicia",
+    "produto": "Choc Lacta 5 Star 40g",
+    "preco": "1,98",
+    "validade_oferta_ate": "29/10/2026"
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "10:49:27",
+    "feito_por": "Allicia",
+    "produto": "Barra Choc Leite Mei/Mei Cia 20g",
+    "preco": "2,48",
+    "validade_oferta_ate": "28/10/2026"
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "10:49:27",
+    "feito_por": "Allicia",
+    "produto": "Bolinho Ana Maria Triplo Choc 70g",
+    "preco": "2,48",
+    "validade_oferta_ate": "23/10/2026"
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "10:49:27",
+    "feito_por": "Allicia",
+    "produto": "Barra Choc. Neugebauer Napolitano 70g",
+    "preco": "4,98",
+    "validade_oferta_ate": "30/10/2026"
   }
 ]
