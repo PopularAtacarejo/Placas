@@ -27947,5 +27947,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "14:56:00",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Gelatina Apti Morango 20 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "31/12/2026",
+        "codigo_barras": "7896327516118",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Óleo Liza De Milho Pet 900 ml",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/11/2026",
+        "codigo_barras": "7896036090619",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Canjica Dona Clara Branca 400 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/11/2026",
+        "codigo_barras": "7896045114313",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Caldo Maggi Costela 57 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/11/2026",
+        "codigo_barras": "7891000249871",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
