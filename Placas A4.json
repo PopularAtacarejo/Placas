@@ -27638,5 +27638,37 @@
     "produto": "Inhame Cara Kg",
     "preco": "9,68",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "08:34:03",
+    "feito_por": "Caio",
+    "produto": "Cebola Branca Kg",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "08:34:03",
+    "feito_por": "Caio",
+    "produto": "Abobora Jacare Kg",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "08:34:03",
+    "feito_por": "Caio",
+    "produto": "Mamao Formosa Kg",
+    "preco": "5,68",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "08:34:03",
+    "feito_por": "Caio",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
   }
 ]
