@@ -28105,5 +28105,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "15:21:57",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Piraque Rech Leite Malt. Black c/baun 85 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/11/2026",
+        "codigo_barras": "7896024761620",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Rech Arcor Tortuguita Morango 86 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/11/2026",
+        "codigo_barras": "7896058257199",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Bono Rech Coco 90 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "25/11/2026",
+        "codigo_barras": "7891000377017",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc.Wafer Parati Minueto Chocolate 73 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/11/2026",
+        "codigo_barras": "7896004009940",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
