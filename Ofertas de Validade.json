@@ -28193,5 +28193,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "15:26:49",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Choc. Arcor Tortuguita Mix Cx 134,5 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/11/2026",
+        "codigo_barras": "7898142865143",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bala Butter Toffees Coco 400 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/11/2026",
+        "codigo_barras": "7891118027323",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra Choc. Neugebawer Bco 80 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/11/2026",
+        "codigo_barras": "7891330019342",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bombom Ferrero Rocher T 8 100 g",
+        "preco": "33,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/11/2026",
+        "codigo_barras": "7861002900117",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
