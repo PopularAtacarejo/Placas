@@ -27727,5 +27727,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "14:44:19",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Café Café Puro Moido Almofada 100 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/11/2026",
+        "codigo_barras": "7898286200503",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Creme De Arroz Coringa 200 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/11/2026",
+        "codigo_barras": "7896481192043",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Em Pó Betania Integral 750 g",
+        "preco": "27,48",
+        "unidade": "Unid.",
+        "validade_oferta": "16/11/2026",
+        "codigo_barras": "7898403782929",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Em Pó Piracanjuba Lt Int Inst Lt 380 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/11/2026",
+        "codigo_barras": "7898215158851",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
