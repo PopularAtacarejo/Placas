@@ -27683,5 +27683,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "14:41:39",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Nutella Creme De Avelã c/cacau 650 g",
+        "preco": "49,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/11/2026",
+        "codigo_barras": "7898024396529",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Chá Preto Maratá 18 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/11/2026",
+        "codigo_barras": "7898286200152",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Gelatina Royal Maracujá 25 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/11/2026",
+        "codigo_barras": "7622300859855",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Gelatina Royal Uva 25 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/11/2026",
+        "codigo_barras": "7622300859770",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
