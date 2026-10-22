@@ -27815,5 +27815,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "14:49:02",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Uht Molico Desn Zl Vit 1 l",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "20/11/2026",
+        "codigo_barras": "7898215157458",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Leite Uht Camponesa Zero Lactose 1 l",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/11/2026",
+        "codigo_barras": "7896259416364",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Uht Camponesa Zero Lactose Semi 1 l",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/11/2026",
+        "codigo_barras": "7896259414674",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mist P/Bolo Bom Leite Chocolate 400 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/11/2026",
+        "codigo_barras": "7898118392932",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
