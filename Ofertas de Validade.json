@@ -28035,5 +28035,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "15:00:22",
+    "placa": 10,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Molho Liza P/Salada Caesar 234 ml",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/11/2026",
+        "codigo_barras": "7896036097458",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Miojo Yakissoba Ufo Galinha Caipira Nissin 93 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/11/2026",
+        "codigo_barras": "7891079014172",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cup Noodles Frutos Do Mar Nissin 65 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/11/2026",
+        "codigo_barras": "7891079013076",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Maionese Cepera Tradicional 200 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/11/2026",
+        "codigo_barras": "7896025805620",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
