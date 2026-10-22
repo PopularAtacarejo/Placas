@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-10-20T17:22:54",
+  "atualizado_em": "2026-10-22T14:36:18",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -2070,7 +2070,7 @@
       "descricao": "Caldo Maggi Carne 57 g",
       "unidade": "Unid.",
       "codigo_barras": "7891000250150",
-      "hits": 4,
+      "hits": 5,
       "aliases": [
         "caldo maggi carne 57 g",
         "caldo maggi carne 57g",
@@ -2081,7 +2081,7 @@
         "massa:57g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-26T10:35:02"
+      "atualizado_em": "2026-10-22T14:36:18"
     },
     "colorifico kitano | massa:400g": {
       "descricao": "Colorifico Kitano 400 g",
@@ -6906,7 +6906,8 @@
     "cha preto marata | massa:18g": {
       "descricao": "Chá Preto Maratá 18 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7898286200152",
+      "hits": 3,
       "aliases": [
         "cha preto marata 18 g",
         "cha preto marata 18g",
@@ -6917,7 +6918,7 @@
         "massa:18g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-05-22T11:00:35"
+      "atualizado_em": "2026-10-22T14:36:18"
     },
     "doce de leite b principio | massa:350g": {
       "descricao": "Doce De Leite B.Principio 350 g",
@@ -10637,7 +10638,7 @@
       "descricao": "Toddy Original 750 g",
       "unidade": "Unid.",
       "codigo_barras": "7892840819170",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "toddy original 750 g",
         "toddy original 750g",
@@ -10648,7 +10649,7 @@
         "massa:750g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-25T09:50:20"
+      "atualizado_em": "2026-10-22T14:36:18"
     },
     "doce de leite engenho | massa:270g": {
       "descricao": "Doce De Leite Engenho 270 g",
@@ -10734,7 +10735,8 @@
     "creme de arroz coringa | massa:200g": {
       "descricao": "Creme De Arroz Coringa 200 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "7896481192043",
+      "hits": 3,
       "aliases": [
         "creme de arroz coringa 200 g",
         "creme de arroz coringa 200g",
@@ -10745,7 +10747,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T17:48:35"
+      "atualizado_em": "2026-10-22T14:36:18"
     },
     "leite po piracanjuba int lt | massa:380g": {
       "descricao": "Leite Pó Piracanjuba Int. Lt 380 g",
@@ -17924,7 +17926,7 @@
       "descricao": "Caldo Maggi Costela 57 g",
       "unidade": "Unid.",
       "codigo_barras": "7891000249871",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "caldo maggi costela 57 g",
         "caldo maggi costela 57g",
@@ -17935,7 +17937,7 @@
         "massa:57g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-26T10:35:02"
+      "atualizado_em": "2026-10-22T14:36:18"
     },
     "molho pr predilecta strog un | massa:300g": {
       "descricao": "Molho Pr. Predilecta Strog. - Un 300 g",
@@ -18332,8 +18334,9 @@
       "descricao": "Mist P/Bolo Fleischmann Petit Gateau 350 g",
       "unidade": "Unid.",
       "codigo_barras": "7897309408599",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
+        "mist p bolo fleischmann 350g petit gateau",
         "mist p bolo fleischmann petit gateau 350 g",
         "mist p bolo fleischmann petit gateau 350g",
         "mist p/bolo fleischmann petit gateau | massa:350g"
@@ -18343,7 +18346,7 @@
         "massa:350g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-27T16:25:03"
+      "atualizado_em": "2026-10-22T14:36:18"
     },
     "mist p/bolo fleischmann aipim | massa:390g": {
       "descricao": "Mist P/bolo Fleischmann Aipim 390 g",
@@ -18502,7 +18505,7 @@
       "descricao": "Leite Ninho Uht Tp Zl Integral Vit 1 l",
       "unidade": "Unid.",
       "codigo_barras": "7898215157410",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "leite ninho uht 1l tp zl integral vit",
         "leite ninho uht tp zl integral vit 1 l",
@@ -18513,7 +18516,7 @@
         "volume:1000ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-27T16:25:03"
+      "atualizado_em": "2026-10-22T14:36:18"
     },
     "cafe moido melitta trad | massa:250g": {
       "descricao": "Café Moido Melitta Trad 250 g",
@@ -20998,7 +21001,7 @@
       "descricao": "Óleo Liza De Milho Pet 900 ml",
       "unidade": "Unid.",
       "codigo_barras": "7896036090619",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "oleo liza de milho pet 900 ml",
         "oleo liza de milho pet 900ml",
@@ -21009,7 +21012,7 @@
         "volume:900ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-07T16:28:31"
+      "atualizado_em": "2026-10-22T14:36:18"
     },
     "cereal choco power ball choc/branco mini mavalerio | massa:80g": {
       "descricao": "Cereal Choco Power Ball Choc/Branco Mini Mavalerio 80 g",
@@ -21367,6 +21370,567 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-10-20T17:22:54"
+    },
+    "gelatina royal limao | massa:25g": {
+      "descricao": "Gelatina Royal Limão 25 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7622300859893",
+      "hits": 1,
+      "aliases": [
+        "gelatina royal limao 25 g",
+        "gelatina royal limao 25g",
+        "gelatina royal limao | massa:25g"
+      ],
+      "descricao_base": "gelatina royal limao",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "gelatina royal framboesa | massa:25g": {
+      "descricao": "Gelatina Royal Framboesa 25 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7622300859930",
+      "hits": 1,
+      "aliases": [
+        "gelatina royal framboesa 25 g",
+        "gelatina royal framboesa 25g",
+        "gelatina royal framboesa | massa:25g"
+      ],
+      "descricao_base": "gelatina royal framboesa",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "leite ninho uht semidesnat a 2 vit | volume:1000ml": {
+      "descricao": "Leite Ninho Uht Semidesnat A 2 Vit 1 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7898215157908",
+      "hits": 1,
+      "aliases": [
+        "leite ninho uht 1l semidesnat a2 vit",
+        "leite ninho uht semidesnat a 2 vit 1 l",
+        "leite ninho uht semidesnat a 2 vit | volume:1000ml"
+      ],
+      "descricao_base": "leite ninho uht semidesnat a 2 vit",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "nutella creme de avela c/cacau | massa:650g": {
+      "descricao": "Nutella Creme De Avelã c/cacau 650 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898024396529",
+      "hits": 1,
+      "aliases": [
+        "nutella creme de avela c cacau 650 g",
+        "nutella creme de avela c cacau 650g",
+        "nutella creme de avela c/cacau | massa:650g"
+      ],
+      "descricao_base": "nutella creme de avela c/cacau",
+      "medidas": [
+        "massa:650g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "gelatina royal maracuja | massa:25g": {
+      "descricao": "Gelatina Royal Maracujá 25 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7622300859855",
+      "hits": 1,
+      "aliases": [
+        "gelatina royal maracuja 25 g",
+        "gelatina royal maracuja 25g",
+        "gelatina royal maracuja | massa:25g"
+      ],
+      "descricao_base": "gelatina royal maracuja",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "gelatina royal uva | massa:25g": {
+      "descricao": "Gelatina Royal Uva 25 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7622300859770",
+      "hits": 1,
+      "aliases": [
+        "gelatina royal uva 25 g",
+        "gelatina royal uva 25g",
+        "gelatina royal uva | massa:25g"
+      ],
+      "descricao_base": "gelatina royal uva",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "cafe cafe puro moido almofada | massa:100g": {
+      "descricao": "Café Café Puro Moido Almofada 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898286200503",
+      "hits": 1,
+      "aliases": [
+        "cafe cafe puro moido almofada 100 g",
+        "cafe cafe puro moido almofada 100g",
+        "cafe cafe puro moido almofada | massa:100g"
+      ],
+      "descricao_base": "cafe cafe puro moido almofada",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "leite em po betania integral | massa:750g": {
+      "descricao": "Leite Em Pó Betania Integral 750 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898403782929",
+      "hits": 1,
+      "aliases": [
+        "leite em po betania integral 750 g",
+        "leite em po betania integral 750g",
+        "leite em po betania integral | massa:750g"
+      ],
+      "descricao_base": "leite em po betania integral",
+      "medidas": [
+        "massa:750g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "leite em po piracanjuba lt int inst lt | massa:380g": {
+      "descricao": "Leite Em Pó Piracanjuba Lt Int Inst Lt 380 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898215158851",
+      "hits": 1,
+      "aliases": [
+        "leite em po piracanjuba lt 380g int inst lt",
+        "leite em po piracanjuba lt int inst lt 380 g",
+        "leite em po piracanjuba lt int inst lt | massa:380g"
+      ],
+      "descricao_base": "leite em po piracanjuba lt int inst lt",
+      "medidas": [
+        "massa:380g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "beb lac betania kids chocolate | volume:200ml": {
+      "descricao": "Beb Lac Betania Kids Chocolate 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898403780499",
+      "hits": 1,
+      "aliases": [
+        "beb lac betania kids chocolate 200 ml",
+        "beb lac betania kids chocolate 200ml",
+        "beb lac betania kids chocolate | volume:200ml"
+      ],
+      "descricao_base": "beb lac betania kids chocolate",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "leite ninho uht levinho zl vit | volume:1000ml": {
+      "descricao": "Leite Ninho Uht Levinho Zl Vit 1 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7898215157434",
+      "hits": 1,
+      "aliases": [
+        "leite ninho uht 1l levinho zl vit",
+        "leite ninho uht levinho zl vit 1 l",
+        "leite ninho uht levinho zl vit | volume:1000ml"
+      ],
+      "descricao_base": "leite ninho uht levinho zl vit",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "leite uht piracanjuba semidesnt tp | volume:1000ml": {
+      "descricao": "Leite Uht Piracanjuba Semidesnt Tp 1 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7898215151760",
+      "hits": 1,
+      "aliases": [
+        "leite uht piracanjuba 1l semidesnt tp",
+        "leite uht piracanjuba semidesnt tp 1 l",
+        "leite uht piracanjuba semidesnt tp | volume:1000ml"
+      ],
+      "descricao_base": "leite uht piracanjuba semidesnt tp",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "leite uht molico desn zl vit | volume:1000ml": {
+      "descricao": "Leite Uht Molico Desn Zl Vit 1 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7898215157458",
+      "hits": 1,
+      "aliases": [
+        "leite uht molico 1l desn zl vit",
+        "leite uht molico desn zl vit 1 l",
+        "leite uht molico desn zl vit | volume:1000ml"
+      ],
+      "descricao_base": "leite uht molico desn zl vit",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "leite uht camponesa zero lactose | volume:1000ml": {
+      "descricao": "Leite Uht Camponesa Zero Lactose 1 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7896259416364",
+      "hits": 1,
+      "aliases": [
+        "leite uht camponesa zero lactose 1 l",
+        "leite uht camponesa zero lactose 1l",
+        "leite uht camponesa zero lactose | volume:1000ml"
+      ],
+      "descricao_base": "leite uht camponesa zero lactose",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "leite uht camponesa zero lactose semi | volume:1000ml": {
+      "descricao": "Leite Uht Camponesa Zero Lactose Semi 1 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7896259414674",
+      "hits": 1,
+      "aliases": [
+        "leite uht camponesa zero lactose semi 1 l",
+        "leite uht camponesa zero lactose semi 1l",
+        "leite uht camponesa zero lactose semi | volume:1000ml"
+      ],
+      "descricao_base": "leite uht camponesa zero lactose semi",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "mist p/bolo bom leite chocolate | massa:400g": {
+      "descricao": "Mist P/Bolo Bom Leite Chocolate 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898118392932",
+      "hits": 1,
+      "aliases": [
+        "mist p bolo bom leite chocolate 400 g",
+        "mist p bolo bom leite chocolate 400g",
+        "mist p/bolo bom leite chocolate | massa:400g"
+      ],
+      "descricao_base": "mist p/bolo bom leite chocolate",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "cafe m vac ouro verd desc | massa:250g": {
+      "descricao": "Café M. Vac Ouro Verd Desc. 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7897443400657",
+      "hits": 1,
+      "aliases": [
+        "cafe m vac ouro verd desc 250 g",
+        "cafe m vac ouro verd desc 250g",
+        "cafe m vac ouro verd desc | massa:250g"
+      ],
+      "descricao_base": "cafe m vac ouro verd desc",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "gelatina apti framboesa | massa:20g": {
+      "descricao": "Gelatina Apti Framboesa 20 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896327516163",
+      "hits": 1,
+      "aliases": [
+        "gelatina apti framboesa 20 g",
+        "gelatina apti framboesa 20g",
+        "gelatina apti framboesa | massa:20g"
+      ],
+      "descricao_base": "gelatina apti framboesa",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "gelatina dr oetker abacaxi | massa:20g": {
+      "descricao": "Gelatina Dr Oetker Abacaxi 20 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891048050606",
+      "hits": 1,
+      "aliases": [
+        "gelatina dr oetker abacaxi 20 g",
+        "gelatina dr oetker abacaxi 20g",
+        "gelatina dr oetker abacaxi | massa:20g"
+      ],
+      "descricao_base": "gelatina dr oetker abacaxi",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "gelatina dr oetker amora | massa:20g": {
+      "descricao": "Gelatina Dr Oetker Amora 20 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891048050613",
+      "hits": 1,
+      "aliases": [
+        "gelatina dr oetker amora 20 g",
+        "gelatina dr oetker amora 20g",
+        "gelatina dr oetker amora | massa:20g"
+      ],
+      "descricao_base": "gelatina dr oetker amora",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "cereal choco power ball choc/branco micro mavaler | massa:80g": {
+      "descricao": "Cereal Choco Power Ball Choc/Branco Micro Mavaler 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896072641561",
+      "hits": 1,
+      "aliases": [
+        "cereal choco power ball choc branco micro 80g mavaler",
+        "cereal choco power ball choc branco micro mavaler 80 g",
+        "cereal choco power ball choc/branco micro mavaler | massa:80g"
+      ],
+      "descricao_base": "cereal choco power ball choc/branco micro mavaler",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "sustagen senior baunilha | massa:370g": {
+      "descricao": "Sustagen Senior Baunilha 370 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898941911294",
+      "hits": 1,
+      "aliases": [
+        "sustagen senior baunilha 370 g",
+        "sustagen senior baunilha 370g",
+        "sustagen senior baunilha | massa:370g"
+      ],
+      "descricao_base": "sustagen senior baunilha",
+      "medidas": [
+        "massa:370g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "sustagen kids chocolate | massa:350g": {
+      "descricao": "Sustagen Kids Chocolate 350 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898941911065",
+      "hits": 1,
+      "aliases": [
+        "sustagen kids chocolate 350 g",
+        "sustagen kids chocolate 350g",
+        "sustagen kids chocolate | massa:350g"
+      ],
+      "descricao_base": "sustagen kids chocolate",
+      "medidas": [
+        "massa:350g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "gelatina apti morango | massa:20g": {
+      "descricao": "Gelatina Apti Morango 20 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896327516118",
+      "hits": 1,
+      "aliases": [
+        "gelatina apti morango 20 g",
+        "gelatina apti morango 20g",
+        "gelatina apti morango | massa:20g"
+      ],
+      "descricao_base": "gelatina apti morango",
+      "medidas": [
+        "massa:20g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "canjica dona clara branca | massa:400g": {
+      "descricao": "Canjica Dona Clara Branca 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896045114313",
+      "hits": 1,
+      "aliases": [
+        "canjica dona clara branca 400 g",
+        "canjica dona clara branca 400g",
+        "canjica dona clara branca | massa:400g"
+      ],
+      "descricao_base": "canjica dona clara branca",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "temp maggi tomate e ervas | massa:42g": {
+      "descricao": "Temp Maggi Tomate e Ervas 42 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000340073",
+      "hits": 1,
+      "aliases": [
+        "temp maggi tomate e ervas 42 g",
+        "temp maggi tomate e ervas 42g",
+        "temp maggi tomate e ervas | massa:42g"
+      ],
+      "descricao_base": "temp maggi tomate e ervas",
+      "medidas": [
+        "massa:42g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "batata palha yoki trad lv 105 gp | massa:90g": {
+      "descricao": "Batata Palha Yoki Trad Lv 105 gp 90 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891095031696",
+      "hits": 1,
+      "aliases": [
+        "batata palha yoki trad lv 105 gp 90 g",
+        "batata palha yoki trad lv 105 gp | massa:90g",
+        "batata palha yoki trad lv105gp90g"
+      ],
+      "descricao_base": "batata palha yoki trad lv 105 gp",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "maionese hellmanns sh | massa:200g": {
+      "descricao": "Maionese Hellmanns Sh 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7894000030470",
+      "hits": 1,
+      "aliases": [
+        "maionese hellmanns sh 200 g",
+        "maionese hellmanns sh 200g",
+        "maionese hellmanns sh | massa:200g"
+      ],
+      "descricao_base": "maionese hellmanns sh",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "molho liza p/salada caesar | volume:234ml": {
+      "descricao": "Molho Liza P/Salada Caesar 234 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896036097458",
+      "hits": 1,
+      "aliases": [
+        "molho liza p salada caesar 234 ml",
+        "molho liza p salada caesar 234ml",
+        "molho liza p/salada caesar | volume:234ml"
+      ],
+      "descricao_base": "molho liza p/salada caesar",
+      "medidas": [
+        "volume:234ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "miojo yakissoba ufo galinha caipira nissin | massa:93g": {
+      "descricao": "Miojo Yakissoba Ufo Galinha Caipira Nissin 93 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891079014172",
+      "hits": 1,
+      "aliases": [
+        "miojo yakissoba ufo galinha caipira nissin 93 g",
+        "miojo yakissoba ufo galinha caipira nissin 93g",
+        "miojo yakissoba ufo galinha caipira nissin | massa:93g"
+      ],
+      "descricao_base": "miojo yakissoba ufo galinha caipira nissin",
+      "medidas": [
+        "massa:93g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "cup noodles frutos do mar nissin | massa:65g": {
+      "descricao": "Cup Noodles Frutos Do Mar Nissin 65 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891079013076",
+      "hits": 1,
+      "aliases": [
+        "cup noodles frutos do mar nissin 65 g",
+        "cup noodles frutos do mar nissin 65g",
+        "cup noodles frutos do mar nissin | massa:65g"
+      ],
+      "descricao_base": "cup noodles frutos do mar nissin",
+      "medidas": [
+        "massa:65g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "maionese cepera tradicional | massa:200g": {
+      "descricao": "Maionese Cepera Tradicional 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896025805620",
+      "hits": 1,
+      "aliases": [
+        "maionese cepera tradicional 200 g",
+        "maionese cepera tradicional 200g",
+        "maionese cepera tradicional | massa:200g"
+      ],
+      "descricao_base": "maionese cepera tradicional",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "caldo arisco galinha caipira | massa:57g": {
+      "descricao": "Caldo Arisco Galinha Caipira 57 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891700080415",
+      "hits": 1,
+      "aliases": [
+        "caldo arisco galinha caipira 57 g",
+        "caldo arisco galinha caipira 57g",
+        "caldo arisco galinha caipira | massa:57g"
+      ],
+      "descricao_base": "caldo arisco galinha caipira",
+      "medidas": [
+        "massa:57g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T14:36:18"
     }
   }
 }
