@@ -28079,5 +28079,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "15:01:41",
+    "placa": 11,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Caldo Arisco Galinha Caipira 57 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026",
+        "codigo_barras": "7891700080415",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Maionese Verde Sache Bico Fugini 80 g",
+        "preco": "3,25",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026",
+        "codigo_barras": "7897517200084",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
