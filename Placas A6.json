@@ -42550,5 +42550,21 @@
     "produto": "Gelatines Melissa 70g",
     "preco": "6,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "08:51:57",
+    "feito_por": "Ana",
+    "produto": "Cafe Moido Pilao Tradic 250g",
+    "preco": "11,98",
+    "validade_oferta_ate": "22/10/2026"
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "08:51:57",
+    "feito_por": "Ana",
+    "produto": "Masc.Trat.Dove Hidratacao/ Nutrição/ Brilho/Restauração 270g",
+    "preco": "19,98",
+    "validade_oferta_ate": "31/12/2026"
   }
 ]
