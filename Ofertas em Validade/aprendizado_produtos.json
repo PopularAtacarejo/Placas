@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-10-22T14:36:18",
+  "atualizado_em": "2026-10-22T15:19:08",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -4349,7 +4349,7 @@
       "descricao": "Bisc Piraque Rech Leite Malt. Black c/baun 85 g",
       "unidade": "Unid.",
       "codigo_barras": "7896024761620",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "bisc piraque rech leite malt black c baun 85 g",
         "bisc piraque rech leite malt black c baun 85g",
@@ -4360,7 +4360,7 @@
         "massa:85g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-05T12:14:55"
+      "atualizado_em": "2026-10-22T15:19:08"
     },
     "bisc pajucara wafer choc branco | massa:78g": {
       "descricao": "Bisc Pajucara Wafer Choc Branco 78 g",
@@ -7831,24 +7831,27 @@
       "atualizado_em": "2026-05-22T14:46:18"
     },
     "bisc marilan laminado manteiga | massa:300g": {
-      "descricao": "Bisc Mini Maiz Petyan Trad 300 g",
+      "descricao": "Choc. Arcor Tortuguita Mix Cx 134,5 g",
       "unidade": "Unid.",
-      "codigo_barras": "7896532701606",
-      "hits": 3,
+      "codigo_barras": "7898142865143",
+      "hits": 4,
       "aliases": [
+        "bisc marilan 300g laminado manteiga",
         "bisc marilan cream cracker agua sal 300 g",
         "bisc marilan cream cracker agua sal | massa:300g",
         "bisc marilan laminado manteiga 300g",
         "bisc marilan laminado manteiga | massa:300g",
         "bisc mini maiz petyan trad 300 g",
-        "bisc mini maiz petyan trad | massa:300g"
+        "bisc mini maiz petyan trad | massa:300g",
+        "choc arcor tortuguita mix cx 134 5 g",
+        "choc arcor tortuguita mix | massa:134.5g"
       ],
-      "descricao_base": "bisc mini maiz petyan trad",
+      "descricao_base": "choc arcor tortuguita mix",
       "medidas": [
-        "massa:300g"
+        "massa:134.5g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-27T15:40:09"
+      "atualizado_em": "2026-10-22T15:19:08"
     },
     "bisc cr cracker petyan amandt | massa:350g": {
       "descricao": "Bisc Cr. Cracker Petyan Amandt 350 g",
@@ -12423,8 +12426,8 @@
     "bisc wafer parati minueto chocolate | massa:73g": {
       "descricao": "Bisc.Wafer Parati Minueto Chocolate 73 g",
       "unidade": "Unid.",
-      "codigo_barras": "8960040099407",
-      "hits": 2,
+      "codigo_barras": "7896004009940",
+      "hits": 3,
       "aliases": [
         "bisc wafer parati minueto chocolate 73 g",
         "bisc wafer parati minueto chocolate 73g",
@@ -12435,7 +12438,7 @@
         "massa:73g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-07T17:13:59"
+      "atualizado_em": "2026-10-22T15:19:08"
     },
     "bolinho ana maria chocolate | massa:70g": {
       "descricao": "Bolinho Ana Maria Gotas Choc 70 g",
@@ -13856,7 +13859,7 @@
       "descricao": "Bisc Club Social Bacon&provol 141 g",
       "unidade": "Unid.",
       "codigo_barras": "7622210568847",
-      "hits": 3,
+      "hits": 4,
       "aliases": [
         "bisc club social bacon provol 141 g",
         "bisc club social bacon provol 141g",
@@ -13867,7 +13870,7 @@
         "massa:141g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-09-08T17:06:06"
+      "atualizado_em": "2026-10-22T15:19:08"
     },
     "bisc parati hot cracker queijo | massa:100g": {
       "descricao": "Bisc Parati Hot Cracker Queijo 100 g",
@@ -21931,6 +21934,145 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-10-22T14:36:18"
+    },
+    "bisc rech arcor tortuguita morango | massa:86g": {
+      "descricao": "Bisc Rech Arcor Tortuguita Morango 86 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896058257199",
+      "hits": 1,
+      "aliases": [
+        "bisc rech arcor tortuguita morango 86 g",
+        "bisc rech arcor tortuguita morango 86g",
+        "bisc rech arcor tortuguita morango | massa:86g"
+      ],
+      "descricao_base": "bisc rech arcor tortuguita morango",
+      "medidas": [
+        "massa:86g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T15:19:08"
+    },
+    "bisc bono rech coco | massa:90g": {
+      "descricao": "Bisc Bono Rech Coco 90 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891000377017",
+      "hits": 1,
+      "aliases": [
+        "bisc bono rech coco 90 g",
+        "bisc bono rech coco 90g",
+        "bisc bono rech coco | massa:90g"
+      ],
+      "descricao_base": "bisc bono rech coco",
+      "medidas": [
+        "massa:90g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T15:19:08"
+    },
+    "bisc toddy rech morango/chocolate | massa:100g": {
+      "descricao": "Bisc Toddy Rech Morango/Chocolate 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896071024433",
+      "hits": 1,
+      "aliases": [
+        "bisc toddy rech morango chocolate 100 g",
+        "bisc toddy rech morango chocolate 100g",
+        "bisc toddy rech morango/chocolate | massa:100g"
+      ],
+      "descricao_base": "bisc toddy rech morango/chocolate",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T15:19:08"
+    },
+    "pao de mel bauducco especial | massa:180g": {
+      "descricao": "Pão De Mel Bauducco Especial 180 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891962073811",
+      "hits": 1,
+      "aliases": [
+        "pao de mel bauducco 180g especial",
+        "pao de mel bauducco especial 180 g",
+        "pao de mel bauducco especial | massa:180g"
+      ],
+      "descricao_base": "pao de mel bauducco especial",
+      "medidas": [
+        "massa:180g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T15:19:08"
+    },
+    "bisc marilan maizena chocolate | massa:335g": {
+      "descricao": "Bisc Marilan Maizena Chocolate 335 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7896003740257",
+      "hits": 1,
+      "aliases": [
+        "bisc marilan 335g maizena chocolate",
+        "bisc marilan maizena chocolate 335 g",
+        "bisc marilan maizena chocolate | massa:335g"
+      ],
+      "descricao_base": "bisc marilan maizena chocolate",
+      "medidas": [
+        "massa:335g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T15:19:08"
+    },
+    "choc arcor tortuguita mix | massa:134.5g": {
+      "descricao": "Bala Butter Toffees Coco 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891118027323",
+      "hits": 1,
+      "aliases": [
+        "bala butter toffees coco 400 g",
+        "bala butter toffees coco | massa:400g",
+        "choc arcor tortuguita mix cx 134 5g",
+        "choc arcor tortuguita mix | massa:134.5g"
+      ],
+      "descricao_base": "bala butter toffees coco",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T15:19:08"
+    },
+    "bala butter toffees coco | massa:400g": {
+      "descricao": "Barra Choc. Neugebawer Bco 80 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891330019342",
+      "hits": 1,
+      "aliases": [
+        "bala butter toffees coco 400g",
+        "bala butter toffees coco | massa:400g",
+        "barra choc neugebawer bco 80 g",
+        "barra choc neugebawer bco | massa:80g"
+      ],
+      "descricao_base": "barra choc neugebawer bco",
+      "medidas": [
+        "massa:80g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T15:19:08"
+    },
+    "barra choc neugebawer bco | massa:80g": {
+      "descricao": "Bombom Ferrero Rocher T 8 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7861002900117",
+      "hits": 1,
+      "aliases": [
+        "barra choc neugebawer bco 80g",
+        "barra choc neugebawer bco | massa:80g",
+        "bombom ferrero rocher t 8 100 g",
+        "bombom ferrero rocher t 8 | massa:100g"
+      ],
+      "descricao_base": "bombom ferrero rocher t 8",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-22T15:19:08"
     }
   }
 }
