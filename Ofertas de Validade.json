@@ -27903,5 +27903,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "14:53:55",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Gelatina Dr Oetker Amora 20 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026",
+        "codigo_barras": "7891048050613",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cereal Choco Power Ball Choc/Branco Micro Mavaler 80 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026",
+        "codigo_barras": "7896072641561",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sustagen Senior Baunilha 370 g",
+        "preco": "64,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026",
+        "codigo_barras": "7898941911294",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Sustagen Kids Chocolate 350 g",
+        "preco": "24,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026",
+        "codigo_barras": "7898941911065",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
