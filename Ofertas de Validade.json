@@ -27859,5 +27859,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "22/10/2026",
+    "hora": "14:51:23",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Ninho Uht Tp Zl Integral Vit 1 l",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/11/2026",
+        "codigo_barras": "7898215157410",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Café M. Vac Ouro Verd Desc. 250 g",
+        "preco": "21,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/11/2026",
+        "codigo_barras": "7897443400657",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Gelatina Apti Framboesa 20 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026",
+        "codigo_barras": "7896327516163",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Gelatina Dr Oetker Abacaxi 20 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026",
+        "codigo_barras": "7891048050606",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
