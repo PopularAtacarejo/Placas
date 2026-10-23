@@ -33870,5 +33870,77 @@
     "produto": "Marg Delicia C/Sal 250g",
     "preco": "2,98",
     "validade_oferta_ate": "24/10/2026"
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "13:56:32",
+    "feito_por": "Eduardo",
+    "produto": "Tangerina Importada Kg",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "13:56:32",
+    "feito_por": "Eduardo",
+    "produto": "Kiwi Kg",
+    "preco": "34,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "13:56:32",
+    "feito_por": "Eduardo",
+    "produto": "Laranja Pera Kg",
+    "preco": "2,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "16:24:25",
+    "feito_por": "Renato",
+    "produto": "Uva Verde Thompson Frutana 500g",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "16:51:14",
+    "feito_por": "Jeferson",
+    "produto": "PATINHO",
+    "preco": "41,98",
+    "validade_oferta_ate": "23/10/2026"
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "16:51:14",
+    "feito_por": "Jeferson",
+    "produto": "CARNE MOÍDA DE SEGUNDA",
+    "preco": "24,48",
+    "validade_oferta_ate": "23/10/2026"
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "16:51:14",
+    "feito_por": "Jeferson",
+    "produto": "PALETA SUÍNA",
+    "preco": "21,88",
+    "validade_oferta_ate": "23/10/2026"
+  },
+  {
+    "data": "2026-10-22",
+    "horario": "16:51:14",
+    "feito_por": "Jeferson",
+    "produto": "Filé Peito Frango Seara Bdj 1kg",
+    "preco": "21,98",
+    "validade_oferta_ate": "23/10/2026"
+  },
+  {
+    "data": "2026-10-23",
+    "horario": "09:52:13",
+    "feito_por": "Ana",
+    "produto": "Beb Lactea Parmalat Wheyfit Cappuccin 250ml",
+    "preco": "7,48",
+    "validade_oferta_ate": ""
   }
 ]
