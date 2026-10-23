@@ -42838,5 +42838,29 @@
     "produto": "Gelatina Royal Diversos Sabores 25g",
     "preco": "1,98",
     "validade_oferta_ate": "03/11/2026"
+  },
+  {
+    "data": "2026-10-23",
+    "horario": "09:52:13",
+    "feito_por": "Ana",
+    "produto": "Beb Lactea Parmalat Wheyfit Cappuccin 250ml",
+    "preco": "7,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-23",
+    "horario": "09:52:13",
+    "feito_por": "Ana",
+    "produto": "Mist P/Bolo Fleischmann 350g Petit Gateau",
+    "preco": "7,98",
+    "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-10-23",
+    "horario": "09:52:13",
+    "feito_por": "Ana",
+    "produto": "Leite Em Po Betania Integral 750g",
+    "preco": "27,48",
+    "validade_oferta_ate": "16/11/2026"
   }
 ]
