@@ -42798,5 +42798,37 @@
     "produto": "Sabão Barra Brisa 800g - Diversas Fragrâncias",
     "preco": "10,48",
     "validade_oferta_ate": "23/10/2026"
+  },
+  {
+    "data": "2026-10-23",
+    "horario": "08:29:55",
+    "feito_por": "Ana",
+    "produto": "Creme De Arroz Coringa 200g",
+    "preco": "3,48",
+    "validade_oferta_ate": "14/11/2026"
+  },
+  {
+    "data": "2026-10-23",
+    "horario": "08:29:55",
+    "feito_por": "Ana",
+    "produto": "Cha Preto Marata 18g",
+    "preco": "2,98",
+    "validade_oferta_ate": "09/11/2026"
+  },
+  {
+    "data": "2026-10-23",
+    "horario": "08:29:55",
+    "feito_por": "Ana",
+    "produto": "Cafe Cafe Puro Moido Almofada 100g",
+    "preco": "4,98",
+    "validade_oferta_ate": "13/11/2026"
+  },
+  {
+    "data": "2026-10-23",
+    "horario": "08:29:55",
+    "feito_por": "Ana",
+    "produto": "Gelatina Royal Limao 25g",
+    "preco": "1,98",
+    "validade_oferta_ate": "03/11/2026"
   }
 ]
