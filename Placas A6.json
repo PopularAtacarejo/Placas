@@ -43286,5 +43286,21 @@
     "produto": "Cachaça Matuta 1l - Sabores tradicionais",
     "preco": "49,98",
     "validade_oferta_ate": "25/10/2026"
+  },
+  {
+    "data": "2026-10-23",
+    "horario": "18:21:58",
+    "feito_por": "Matheus",
+    "produto": "Pao Forma Plusvita 50% Integral Gr/Cast 450g",
+    "preco": "4,98",
+    "validade_oferta_ate": "23/10/2026"
+  },
+  {
+    "data": "2026-10-23",
+    "horario": "18:21:58",
+    "feito_por": "Matheus",
+    "produto": "Pao Nutrella 100% Integral 350g",
+    "preco": "4,98",
+    "validade_oferta_ate": "23/10/2026"
   }
 ]
