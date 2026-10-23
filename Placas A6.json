@@ -42870,5 +42870,21 @@
     "produto": "Nutella Creme De Avela C/Cacau 650g",
     "preco": "49,98",
     "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-10-23",
+    "horario": "11:17:47",
+    "feito_por": "Ana",
+    "produto": "Beb Lactea Parmalat Wheyfit Choco 250ml",
+    "preco": "7,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-23",
+    "horario": "11:17:47",
+    "feito_por": "Ana",
+    "produto": "Leite Ninho Uht 1l Semidesnat A2 Vit",
+    "preco": "9,98",
+    "validade_oferta_ate": "05/11/2026"
   }
 ]
