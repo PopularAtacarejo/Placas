@@ -43590,5 +43590,29 @@
     "produto": "Barra Choc Hersheys Toffe Dark 73% 80g",
     "preco": "18,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-24",
+    "horario": "15:30:38",
+    "feito_por": "Henrique",
+    "produto": "Barra Choc Hersheys Toffe Dark 73% 80g",
+    "preco": "18,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-24",
+    "horario": "15:30:38",
+    "feito_por": "Henrique",
+    "produto": "Choc Barra Hersheys Cranberry 60% Cacau 85g",
+    "preco": "11,98",
+    "validade_oferta_ate": "30/10/2026"
+  },
+  {
+    "data": "2026-10-24",
+    "horario": "15:30:38",
+    "feito_por": "Henrique",
+    "produto": "Choc Barra Hersheys 60% Cacau Cafe Amarg 85g",
+    "preco": "18,48",
+    "validade_oferta_ate": ""
   }
 ]
