@@ -28166,5 +28166,13 @@
     "produto": "Goiaba Kg",
     "preco": "5,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-24",
+    "horario": "08:54:33",
+    "feito_por": "Jeferson",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "14,98",
+    "validade_oferta_ate": "24/10/2026"
   }
 ]
