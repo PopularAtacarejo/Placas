@@ -44118,5 +44118,37 @@
     "produto": "Barra Choc. Neugebawer Bco 80g",
     "preco": "9,98",
     "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-10-24",
+    "horario": "19:29:11",
+    "feito_por": "Henrique",
+    "produto": "Barra Choc Hersheys Ovomaltine/ Cookies/Cream 138g",
+    "preco": "17,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-24",
+    "horario": "19:29:11",
+    "feito_por": "Henrique",
+    "produto": "Choc Barra Hersheys 40% 75g Diver. Sab.",
+    "preco": "10,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-24",
+    "horario": "19:29:11",
+    "feito_por": "Henrique",
+    "produto": "Choc Barra Rech Nestle 80g/ 90g",
+    "preco": "11,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-24",
+    "horario": "19:29:11",
+    "feito_por": "Henrique",
+    "produto": "Choc Barra Hersheys 82g Div. Sab.",
+    "preco": "10,98",
+    "validade_oferta_ate": ""
   }
 ]
