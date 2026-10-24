@@ -44038,5 +44038,21 @@
     "produto": "Choc Lacta Bis Xtra Oreo 45g",
     "preco": "6,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-24",
+    "horario": "16:53:27",
+    "feito_por": "Gustavo",
+    "produto": "Agua Min Village S/ Gas 500ml",
+    "preco": "0,98",
+    "validade_oferta_ate": "26/10/2026"
+  },
+  {
+    "data": "2026-10-24",
+    "horario": "18:48:01",
+    "feito_por": "Henrique",
+    "produto": "Barra Choc Hersheys 73% 75g/ 80g /85g",
+    "preco": "18,48",
+    "validade_oferta_ate": ""
   }
 ]
