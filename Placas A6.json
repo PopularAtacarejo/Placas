@@ -44310,5 +44310,45 @@
     "produto": "Amendoim Crokissimo Lev Salgado 24g",
     "preco": "0,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-25",
+    "horario": "06:56:48",
+    "feito_por": "Wellington",
+    "produto": "Maca Nacional Kg",
+    "preco": "14,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-25",
+    "horario": "06:56:48",
+    "feito_por": "Wellington",
+    "produto": "Cenoura Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-25",
+    "horario": "07:02:33",
+    "feito_por": "Wellington",
+    "produto": "Abacaxi Un",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-25",
+    "horario": "07:02:33",
+    "feito_por": "Wellington",
+    "produto": "Laranja Pera Kg",
+    "preco": "2,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-25",
+    "horario": "08:54:36",
+    "feito_por": "Felipe",
+    "produto": "Pate Coqueiro De Atum Toque Pimenta 170g",
+    "preco": "6,48",
+    "validade_oferta_ate": ""
   }
 ]
