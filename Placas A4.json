@@ -28254,5 +28254,21 @@
     "produto": "Agua Min Village S/ Gas 500ml",
     "preco": "0,98",
     "validade_oferta_ate": "26/10/2026"
+  },
+  {
+    "data": "2026-10-25",
+    "horario": "06:56:48",
+    "feito_por": "Wellington",
+    "produto": "Maca Nacional Kg",
+    "preco": "14,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-25",
+    "horario": "06:56:48",
+    "feito_por": "Wellington",
+    "produto": "Cenoura Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
   }
 ]
