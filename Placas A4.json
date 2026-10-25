@@ -28270,5 +28270,21 @@
     "produto": "Cenoura Kg",
     "preco": "5,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-25",
+    "horario": "07:02:33",
+    "feito_por": "Wellington",
+    "produto": "Abacaxi Un",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-25",
+    "horario": "07:02:33",
+    "feito_por": "Wellington",
+    "produto": "Laranja Pera Kg",
+    "preco": "2,48",
+    "validade_oferta_ate": ""
   }
 ]
