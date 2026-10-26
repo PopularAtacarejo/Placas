@@ -28281,5 +28281,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "26/10/2026",
+    "hora": "12:03:13",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Bisc Popular Sete Capas 250 g",
+        "preco": "5,85",
+        "unidade": "Unid.",
+        "validade_oferta": "14/12/2026",
+        "codigo_barras": "7908103800301",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Amanteigado Calabresa Popular 200 g",
+        "preco": "4,15",
+        "unidade": "Unid.",
+        "validade_oferta": "12/11/2026",
+        "codigo_barras": "7898029659582",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Amanteigado Cebola Popular 200 g",
+        "preco": "4,15",
+        "unidade": "Unid.",
+        "validade_oferta": "12/11/2026",
+        "codigo_barras": "7898029659599",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Amanteigado Galeto Popular 200 g",
+        "preco": "4,15",
+        "unidade": "Unid.",
+        "validade_oferta": "12/11/2026",
+        "codigo_barras": "7898029659612",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
