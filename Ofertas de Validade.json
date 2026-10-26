@@ -28237,5 +28237,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "26/10/2026",
+    "hora": "12:01:21",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Refri Cola Pop Pet Zero Açúcar 2 l",
+        "preco": "3,75",
+        "unidade": "Unid.",
+        "validade_oferta": "24/11/2026",
+        "codigo_barras": "7898029654747",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Bisc Popular Sete Capas Integral 250 g",
+        "preco": "5,85",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026",
+        "codigo_barras": "7898029659551",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Bisc Amanteigado Requeijão Popular 200",
+        "preco": "4,15",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026",
+        "codigo_barras": "7898029659605",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Bisc Popular Sete Capas Ceb/Alho 250 g",
+        "preco": "5,85",
+        "unidade": "Unid.",
+        "validade_oferta": "26/11/2026",
+        "codigo_barras": "7908103800325",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
