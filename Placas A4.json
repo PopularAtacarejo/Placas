@@ -28286,5 +28286,69 @@
     "produto": "Laranja Pera Kg",
     "preco": "2,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-26",
+    "horario": "09:20:30",
+    "feito_por": "Jeferson",
+    "produto": "Patinho Kg",
+    "preco": "41,98",
+    "validade_oferta_ate": "26/10/2026"
+  },
+  {
+    "data": "2026-10-26",
+    "horario": "09:20:30",
+    "feito_por": "Jeferson",
+    "produto": "Acem C/ Osso Kg",
+    "preco": "25,88",
+    "validade_oferta_ate": "26/10/2026"
+  },
+  {
+    "data": "2026-10-26",
+    "horario": "09:20:30",
+    "feito_por": "Jeferson",
+    "produto": "Carne De Sol Kg",
+    "preco": "43,98",
+    "validade_oferta_ate": "26/10/2026"
+  },
+  {
+    "data": "2026-10-26",
+    "horario": "09:20:30",
+    "feito_por": "Jeferson",
+    "produto": "Filé De Peito Frango Pioneiro Bdj 500g",
+    "preco": "11,98",
+    "validade_oferta_ate": "26/10/2026"
+  },
+  {
+    "data": "2026-10-26",
+    "horario": "09:20:30",
+    "feito_por": "Jeferson",
+    "produto": "Ling Calab Grossa Cogran Kg",
+    "preco": "23,98",
+    "validade_oferta_ate": "26/10/2026"
+  },
+  {
+    "data": "2026-10-26",
+    "horario": "09:20:30",
+    "feito_por": "Jeferson",
+    "produto": "Salsicha Seara Kg",
+    "preco": "10,98",
+    "validade_oferta_ate": "26/10/2026"
+  },
+  {
+    "data": "2026-10-26",
+    "horario": "09:20:30",
+    "feito_por": "Jeferson",
+    "produto": "Beb Engov After 250ml Div. Sabores",
+    "preco": "8,48",
+    "validade_oferta_ate": "26/10/2026"
+  },
+  {
+    "data": "2026-10-26",
+    "horario": "09:20:30",
+    "feito_por": "Jeferson",
+    "produto": "Energetico Red Horse 473ml Div. Sabores",
+    "preco": "5,98",
+    "validade_oferta_ate": "26/10/2026"
   }
 ]
