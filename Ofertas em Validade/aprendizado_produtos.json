@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-10-22T15:19:08",
+  "atualizado_em": "2026-10-26T11:58:23",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -22073,6 +22073,189 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-10-22T15:19:08"
+    },
+    "refri cola pop pet zero acucar | volume:2000ml": {
+      "descricao": "Refri Cola Pop Pet Zero Açúcar 2 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7898029654747",
+      "hits": 1,
+      "aliases": [
+        "refri cola pop pet zero acucar 2 l",
+        "refri cola pop pet zero acucar 2l",
+        "refri cola pop pet zero acucar | volume:2000ml"
+      ],
+      "descricao_base": "refri cola pop pet zero acucar",
+      "medidas": [
+        "volume:2000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-26T11:58:23"
+    },
+    "bisc popular sete capas integral | massa:250g": {
+      "descricao": "Bisc Popular Sete Capas Integral 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898029659551",
+      "hits": 1,
+      "aliases": [
+        "bisc popular sete capas integral 250 g",
+        "bisc popular sete capas integral 250g",
+        "bisc popular sete capas integral | massa:250g"
+      ],
+      "descricao_base": "bisc popular sete capas integral",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-26T11:58:23"
+    },
+    "bisc amanteigado requeijao popular 200": {
+      "descricao": "Bisc Amanteigado Requeijão Popular 200",
+      "unidade": "Unid.",
+      "codigo_barras": "7898029659605",
+      "hits": 1,
+      "aliases": [
+        "bisc amanteigado requeijao popular 200"
+      ],
+      "descricao_base": "bisc amanteigado requeijao popular 200",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-26T11:58:23"
+    },
+    "bisc popular sete capas ceb/alho | massa:250g": {
+      "descricao": "Bisc Popular Sete Capas Ceb/Alho 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7908103800325",
+      "hits": 1,
+      "aliases": [
+        "bisc popular sete capas ceb alho 250 g",
+        "bisc popular sete capas ceb alho 250g",
+        "bisc popular sete capas ceb/alho | massa:250g"
+      ],
+      "descricao_base": "bisc popular sete capas ceb/alho",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-26T11:58:23"
+    },
+    "bisc popular sete capas | massa:250g": {
+      "descricao": "Bisc Popular Sete Capas 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7908103800301",
+      "hits": 1,
+      "aliases": [
+        "bisc popular sete capas 250 g",
+        "bisc popular sete capas 250g",
+        "bisc popular sete capas | massa:250g"
+      ],
+      "descricao_base": "bisc popular sete capas",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-26T11:58:23"
+    },
+    "bisc amanteigado calabresa popular | massa:200g": {
+      "descricao": "Bisc Amanteigado Calabresa Popular 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898029659582",
+      "hits": 1,
+      "aliases": [
+        "bisc amanteigado calabresa popular 200 g",
+        "bisc amanteigado calabresa popular 200g",
+        "bisc amanteigado calabresa popular | massa:200g"
+      ],
+      "descricao_base": "bisc amanteigado calabresa popular",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-26T11:58:23"
+    },
+    "bisc amanteigado cebola popular | massa:200g": {
+      "descricao": "Bisc Amanteigado Cebola Popular 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898029659599",
+      "hits": 1,
+      "aliases": [
+        "bisc amanteigado cebola popular 200 g",
+        "bisc amanteigado cebola popular 200g",
+        "bisc amanteigado cebola popular | massa:200g"
+      ],
+      "descricao_base": "bisc amanteigado cebola popular",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-26T11:58:23"
+    },
+    "bisc amanteigado galeto popular | massa:200g": {
+      "descricao": "Bisc Amanteigado Galeto Popular 200 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898029659612",
+      "hits": 1,
+      "aliases": [
+        "bisc amanteigado galeto popular 200 g",
+        "bisc amanteigado galeto popular 200g",
+        "bisc amanteigado galeto popular | massa:200g"
+      ],
+      "descricao_base": "bisc amanteigado galeto popular",
+      "medidas": [
+        "massa:200g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-26T11:58:23"
+    },
+    "pe de moca pote | massa:1320g": {
+      "descricao": "Pe De Moça Pote 1,320 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "",
+      "hits": 1,
+      "aliases": [
+        "pe de moca pote 1 320 kg",
+        "pe de moca pote 1 320kg",
+        "pe de moca pote | massa:1320g"
+      ],
+      "descricao_base": "pe de moca pote",
+      "medidas": [
+        "massa:1320g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-26T11:58:23"
+    },
+    "pe de moleque crocante pote | massa:800g": {
+      "descricao": "Pe De Moleque Crocante Pote 800 g",
+      "unidade": "Unid.",
+      "codigo_barras": "",
+      "hits": 1,
+      "aliases": [
+        "pe de moleque crocante pote 800 g",
+        "pe de moleque crocante pote 800g",
+        "pe de moleque crocante pote | massa:800g"
+      ],
+      "descricao_base": "pe de moleque crocante pote",
+      "medidas": [
+        "massa:800g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-26T11:58:23"
+    },
+    "barrinha goiabinha popular display 20 x | massa:30g": {
+      "descricao": "Barrinha Goiabinha Popular Display 20 x 30 g",
+      "unidade": "Unid.",
+      "codigo_barras": "",
+      "hits": 1,
+      "aliases": [
+        "barrinha goiabinha popular display 20 x 30 g",
+        "barrinha goiabinha popular display 20 x | massa:30g",
+        "barrinha goiabinha popular display 20x30g"
+      ],
+      "descricao_base": "barrinha goiabinha popular display 20 x",
+      "medidas": [
+        "massa:30g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-26T11:58:23"
     }
   }
 }
