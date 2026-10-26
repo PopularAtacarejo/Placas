@@ -28374,5 +28374,21 @@
     "produto": "Coco Seco Un",
     "preco": "4,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-26",
+    "horario": "15:20:21",
+    "feito_por": "Jane",
+    "produto": "Tomate Kg",
+    "preco": "10,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-26",
+    "horario": "15:22:15",
+    "feito_por": "Renato",
+    "produto": "Tomate Kg",
+    "preco": "10,98",
+    "validade_oferta_ate": ""
   }
 ]
