@@ -28325,5 +28325,34 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "26/10/2026",
+    "hora": "12:04:35",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pe De Moça Pote 1,320 kg",
+        "preco": "36,58",
+        "unidade": "Unid.",
+        "validade_oferta": "20/11/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pe De Moleque Crocante Pote 800 g",
+        "preco": "20,75",
+        "unidade": "Unid.",
+        "validade_oferta": "11/11/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barrinha Goiabinha Popular Display 20 x 30 g",
+        "preco": "12,15",
+        "unidade": "Unid.",
+        "validade_oferta": "11/26/2026"
+      }
+    ]
   }
 ]
