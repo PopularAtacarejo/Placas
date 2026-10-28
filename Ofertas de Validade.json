@@ -28684,5 +28684,36 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/10/2026",
+    "hora": "16:03:33",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Salsichao Copacol 600 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/11/2026",
+        "codigo_barras": "7891527064391",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Queijo Prato Gran Reserva President 130 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/11/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Marg Claybom Cremosa c/sal 250 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "03/11/2026"
+      }
+    ]
   }
 ]
