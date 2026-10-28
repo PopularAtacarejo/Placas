@@ -28604,5 +28604,43 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/10/2026",
+    "hora": "16:01:26",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pão De Alho Santa Massa Trad 400 g",
+        "preco": "16,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/11/2026",
+        "codigo_barras": "7898067340404",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pres Perdigao s/c Gord Fat Kg",
+        "preco": "35,98",
+        "unidade": "Kg",
+        "validade_oferta": "30/11/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pres Peru Sadia Fat Kg",
+        "preco": "36,98",
+        "unidade": "Kg",
+        "validade_oferta": "08/11/2026"
+      },
+      {
+        "posicao": "4",
+        "descricao": "Queijo Coalho Sao Felix Kg",
+        "preco": "39,98",
+        "unidade": "Kg",
+        "validade_oferta": "01/11/2026"
+      }
+    ]
   }
 ]
