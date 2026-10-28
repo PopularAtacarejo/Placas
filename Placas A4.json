@@ -28870,5 +28870,21 @@
     "produto": "Tangerina Paulistinha Kg",
     "preco": "6,78",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-28",
+    "horario": "13:23:09",
+    "feito_por": "Wellington",
+    "produto": "Uva Italia Kg",
+    "preco": "13,88",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-28",
+    "horario": "13:23:09",
+    "feito_por": "Wellington",
+    "produto": "Uva Vitoria Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": "28/10/2026"
   }
 ]
