@@ -28396,5 +28396,49 @@
         "validade_oferta": "20/11/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/10/2026",
+    "hora": "15:55:29",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Ling Mist Coz Def Perdigao Pct 215 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "17/11/2026",
+        "codigo_barras": "7891515606824",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Ling Paio Seara 370 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "16/11/2026",
+        "codigo_barras": "7894904966172",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Linguiça Tipo Calabresa Defumada Sadia 1 kg",
+        "preco": "31,48",
+        "unidade": "Unid.",
+        "validade_oferta": "29/11/2026",
+        "codigo_barras": "7891515518424",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Massa De Pastel Massafest Rolo 1 kg",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/11/2026",
+        "codigo_barras": "7898928718106",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
