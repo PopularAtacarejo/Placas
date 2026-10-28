@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-10-26T11:58:23",
+  "atualizado_em": "2026-10-28T15:51:17",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3384,7 +3384,8 @@
     "marg claybom cremosa c/sal | massa:250g": {
       "descricao": "Marg Claybom Cremosa c/sal 250 g",
       "unidade": "Unid.",
-      "hits": 2,
+      "codigo_barras": "",
+      "hits": 3,
       "aliases": [
         "marg claybom cremosa c sal 250 g",
         "marg claybom cremosa c sal 250g",
@@ -3395,7 +3396,7 @@
         "massa:250g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-04-29T08:12:22"
+      "atualizado_em": "2026-10-28T15:51:17"
     },
     "creme de ricota galbani | massa:200g": {
       "descricao": "Creme De Ricota Galbani 200 g",
@@ -9898,7 +9899,8 @@
     "mort sadia frango mini | massa:400g": {
       "descricao": "Mort Sadia Frango Mini 400 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7891515432089",
+      "hits": 2,
       "aliases": [
         "mort sadia frango mini 400 g",
         "mort sadia frango mini 400g",
@@ -9909,13 +9911,13 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T08:10:58"
+      "atualizado_em": "2026-10-28T15:51:17"
     },
     "mortadela de frango perdigao | massa:400g": {
       "descricao": "Mortadela De Frango Perdigao 400 g",
       "unidade": "Unid.",
       "codigo_barras": "7891515429966",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "mortadela de frango perdigao 400 g",
         "mortadela de frango perdigao 400g",
@@ -9926,12 +9928,13 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-10-28T15:51:17"
     },
     "pao de alho santa massa trad | massa:400g": {
       "descricao": "Pão De Alho Santa Massa Trad 400 g",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7898067340404",
+      "hits": 2,
       "aliases": [
         "pao de alho santa massa trad 400 g",
         "pao de alho santa massa trad 400g",
@@ -9942,7 +9945,7 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-16T08:10:58"
+      "atualizado_em": "2026-10-28T15:51:17"
     },
     "caldo maggi carne menos sodio | massa:114g": {
       "descricao": "Caldo Maggi Carne Menos Sódio 114 g",
@@ -13340,10 +13343,10 @@
       "atualizado_em": "2026-06-30T14:28:21"
     },
     "mort ouro fatiada ervas finas | massa:200g": {
-      "descricao": "Patê De Presunto Sadia 100 g",
+      "descricao": "Mort Ouro Fatiada Ervas Finas 200 g",
       "unidade": "Unid.",
-      "codigo_barras": "7893000004757",
-      "hits": 2,
+      "codigo_barras": "7891515539177",
+      "hits": 3,
       "aliases": [
         "mort ouro fatiada ervas finas 200 g",
         "mort ouro fatiada ervas finas 200g",
@@ -13351,12 +13354,12 @@
         "pate de presunto sadia 100 g",
         "pate de presunto sadia | massa:100g"
       ],
-      "descricao_base": "pate de presunto sadia",
+      "descricao_base": "mort ouro fatiada ervas finas",
       "medidas": [
-        "massa:100g"
+        "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-07T17:13:59"
+      "atualizado_em": "2026-10-28T15:51:17"
     },
     "queijo brie faixa azul | massa:120g": {
       "descricao": "Queijo Brie Faixa Azul 120 g",
@@ -17426,7 +17429,7 @@
       "descricao": "Salamitos Perdigao 100 g",
       "unidade": "Unid.",
       "codigo_barras": "7891515490218",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "salamitos perdigao 100 g",
         "salamitos perdigao 100g",
@@ -17437,7 +17440,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-09-08T15:14:43"
+      "atualizado_em": "2026-10-28T15:51:17"
     },
     "salsicha viena c/corante nat ceratti": {
       "descricao": "Salsicha Viena c/corante Nat Ceratti",
@@ -18746,7 +18749,7 @@
       "descricao": "Ling Calab Def Perdigao 400 g",
       "unidade": "Unid.",
       "codigo_barras": "7891515977511",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "ling calab def perdigao 400 g",
         "ling calab def perdigao 400g",
@@ -18757,7 +18760,7 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-10-28T15:51:17"
     },
     "ling calabresa ceratti def fat ft | massa:100g": {
       "descricao": "Ling Calabresa Ceratti Def Fat Ft 100 g",
@@ -18865,7 +18868,7 @@
       "descricao": "Mortadela Perdigao 1 kg",
       "unidade": "Unid.",
       "codigo_barras": "7891515408312",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "mortadela perdigao 1 kg",
         "mortadela perdigao 1kg",
@@ -18876,13 +18879,13 @@
         "massa:1000g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-31T18:24:26"
+      "atualizado_em": "2026-10-28T15:51:17"
     },
     "massa de pastel massafest rolo | massa:1000g": {
       "descricao": "Massa De Pastel Massafest Rolo 1 kg",
       "unidade": "Unid.",
       "codigo_barras": "7898928718106",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "massa de pastel massafest rolo 1 kg",
         "massa de pastel massafest rolo 1kg",
@@ -18893,13 +18896,13 @@
         "massa:1000g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-10-28T15:51:17"
     },
     "queijo mussarela fatiado galbani | massa:150g": {
       "descricao": "Queijo Muçarela Fatiado Galbani 150 g",
       "unidade": "Unid.",
       "codigo_barras": "7891097105739",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "queijo mucarela fatiado galbani 150 g",
         "queijo mucarela fatiado galbani | massa:150g",
@@ -18911,7 +18914,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-31T18:24:26"
+      "atualizado_em": "2026-10-28T15:51:17"
     },
     "queijo cream cheese polenghi light | massa:150g": {
       "descricao": "Queijo Cream Cheese Polenghi Light 150 g",
@@ -18934,7 +18937,7 @@
       "descricao": "Mort Tub Sadia 1 kg",
       "unidade": "Unid.",
       "codigo_barras": "7893000340107",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "mort tub sadia 1 kg",
         "mort tub sadia 1kg",
@@ -18945,7 +18948,7 @@
         "massa:1000g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-10-28T15:51:17"
     },
     "presunto sadia solt fatiado | massa:200g": {
       "descricao": "Presunto Sadia Solt Fatiado 200 g",
@@ -22256,6 +22259,225 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-10-26T11:58:23"
+    },
+    "mortadela de frango tony | massa:500g": {
+      "descricao": "Mortadela De Frango Tony 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898206930305",
+      "hits": 1,
+      "aliases": [
+        "mortadela de frango tony 500 g",
+        "mortadela de frango tony 500g",
+        "mortadela de frango tony | massa:500g"
+      ],
+      "descricao_base": "mortadela de frango tony",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-28T15:51:17"
+    },
+    "ling mist coz def perdigao | massa:215g": {
+      "descricao": "Ling Mist Coz Def Perdigao Pct 215 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515606824",
+      "hits": 1,
+      "aliases": [
+        "ling mist coz def perdigao pct 215 g",
+        "ling mist coz def perdigao pct 215g",
+        "ling mist coz def perdigao | massa:215g"
+      ],
+      "descricao_base": "ling mist coz def perdigao",
+      "medidas": [
+        "massa:215g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-28T15:51:17"
+    },
+    "ling paio seara | massa:370g": {
+      "descricao": "Ling Paio Seara 370 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7894904966172",
+      "hits": 1,
+      "aliases": [
+        "ling paio seara 370 g",
+        "ling paio seara 370g",
+        "ling paio seara | massa:370g"
+      ],
+      "descricao_base": "ling paio seara",
+      "medidas": [
+        "massa:370g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-28T15:51:17"
+    },
+    "linguica tipo calabresa defumada sadia | massa:1000g": {
+      "descricao": "Linguiça Tipo Calabresa Defumada Sadia 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515518424",
+      "hits": 1,
+      "aliases": [
+        "linguica tipo calabresa defumada sadia 1 kg",
+        "linguica tipo calabresa defumada sadia 1kg",
+        "linguica tipo calabresa defumada sadia | massa:1000g"
+      ],
+      "descricao_base": "linguica tipo calabresa defumada sadia",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-28T15:51:17"
+    },
+    "mortadela de frango aurora | massa:400g": {
+      "descricao": "Mortadela De Frango Aurora 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891164018900",
+      "hits": 1,
+      "aliases": [
+        "mortadela de frango aurora 400 g",
+        "mortadela de frango aurora 400g",
+        "mortadela de frango aurora | massa:400g"
+      ],
+      "descricao_base": "mortadela de frango aurora",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-28T15:51:17"
+    },
+    "mortadela frango tony | massa:1000g": {
+      "descricao": "Mortadela Frango Tony 1 kg",
+      "unidade": "Unid.",
+      "codigo_barras": "7898206930091",
+      "hits": 1,
+      "aliases": [
+        "mortadela frango tony 1 kg",
+        "mortadela frango tony 1kg",
+        "mortadela frango tony | massa:1000g"
+      ],
+      "descricao_base": "mortadela frango tony",
+      "medidas": [
+        "massa:1000g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-28T15:51:17"
+    },
+    "mortadela tony boi s/t de touc | massa:500g": {
+      "descricao": "Mortadela Tony Boi s/t De Touc 500 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898206930299",
+      "hits": 1,
+      "aliases": [
+        "mortadela tony boi s t de touc 500 g",
+        "mortadela tony boi s t de touc 500g",
+        "mortadela tony boi s/t de touc | massa:500g"
+      ],
+      "descricao_base": "mortadela tony boi s/t de touc",
+      "medidas": [
+        "massa:500g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-28T15:51:17"
+    },
+    "pao de alho massa fest bacon | massa:400g": {
+      "descricao": "Pão De Alho Massa Fest Bacon 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898928718717",
+      "hits": 1,
+      "aliases": [
+        "pao de alho massa fest bacon 400 g",
+        "pao de alho massa fest bacon 400g",
+        "pao de alho massa fest bacon | massa:400g"
+      ],
+      "descricao_base": "pao de alho massa fest bacon",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-28T15:51:17"
+    },
+    "pao de alho picante so minas | massa:400g": {
+      "descricao": "Pão De Alho Picante So Minas 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898913382046",
+      "hits": 1,
+      "aliases": [
+        "pao de alho picante so minas 400 g",
+        "pao de alho picante so minas 400g",
+        "pao de alho picante so minas | massa:400g"
+      ],
+      "descricao_base": "pao de alho picante so minas",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-28T15:51:17"
+    },
+    "pres perdigao s/c gord fat kg": {
+      "descricao": "Pres Perdigao s/c Gord Fat Kg",
+      "unidade": "Kg",
+      "codigo_barras": "",
+      "hits": 1,
+      "aliases": [
+        "pres perdigao s c gord fat kg",
+        "pres perdigao s/c gord fat kg"
+      ],
+      "descricao_base": "pres perdigao s/c gord fat kg",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-28T15:51:17"
+    },
+    "queijo mussarela verde campo lacfree fat | massa:150g": {
+      "descricao": "Queijo Muçarela Verde Campo Lacfree Fat. 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898205924909",
+      "hits": 1,
+      "aliases": [
+        "queijo mucarela verde campo lacfree fat 150 g",
+        "queijo mucarela verde campo lacfree fat | massa:150g",
+        "queijo mussarela verde campo lacfree fat 150g",
+        "queijo mussarela verde campo lacfree fat | massa:150g"
+      ],
+      "descricao_base": "queijo mucarela verde campo lacfree fat",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-28T15:51:17"
+    },
+    "salsichao copacol | massa:600g": {
+      "descricao": "Salsichao Copacol 600 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891527064391",
+      "hits": 1,
+      "aliases": [
+        "salsichao copacol 600 g",
+        "salsichao copacol 600g",
+        "salsichao copacol | massa:600g"
+      ],
+      "descricao_base": "salsichao copacol",
+      "medidas": [
+        "massa:600g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-28T15:51:17"
+    },
+    "queijo prato gran reserva president | massa:130g": {
+      "descricao": "Queijo Prato Gran Reserva President 130 g",
+      "unidade": "Unid.",
+      "codigo_barras": "",
+      "hits": 1,
+      "aliases": [
+        "queijo prato gran reserva president 130 g",
+        "queijo prato gran reserva president 130g",
+        "queijo prato gran reserva president | massa:130g"
+      ],
+      "descricao_base": "queijo prato gran reserva president",
+      "medidas": [
+        "massa:130g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-10-28T15:51:17"
     }
   }
 }
