@@ -28440,5 +28440,43 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/10/2026",
+    "hora": "15:56:32",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mort Frango Perdigao Kg",
+        "preco": "11,48",
+        "unidade": "Kg",
+        "validade_oferta": "13/11/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mort Mista Perdigao Kg",
+        "preco": "10,98",
+        "unidade": "Kg",
+        "validade_oferta": "06/11/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mort Ouro Fatiada Ervas Finas 200 g",
+        "preco": "8,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/11/2026",
+        "codigo_barras": "7891515539177",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mort Perdigao Ouro Fat Kg",
+        "preco": "33,98",
+        "unidade": "Kg",
+        "validade_oferta": "15/11/2026"
+      }
+    ]
   }
 ]
