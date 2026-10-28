@@ -28642,5 +28642,47 @@
         "validade_oferta": "01/11/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/10/2026",
+    "hora": "16:02:36",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Queijo Edam Regina Fracionado",
+        "preco": "89,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/11/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Queijo Muçarela Fatiado Galbani 150 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/11/2026",
+        "codigo_barras": "7891097105739",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Queijo Muçarela Verde Campo Lacfree Fat. 150 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/11/2026",
+        "codigo_barras": "7898205924909",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Salamitos Perdigao 100 g",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/11/2026",
+        "codigo_barras": "7891515490218",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
