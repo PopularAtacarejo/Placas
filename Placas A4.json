@@ -28758,5 +28758,21 @@
     "produto": "Beterraba Kg",
     "preco": "6,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-28",
+    "horario": "09:34:13",
+    "feito_por": "Caio",
+    "produto": "Milho P/Pipoca Grao Verde 400g",
+    "preco": "3,78",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-28",
+    "horario": "09:34:13",
+    "feito_por": "Caio",
+    "produto": "Milho P/Pipoca Grao Verde 500g",
+    "preco": "4,38",
+    "validade_oferta_ate": ""
   }
 ]
