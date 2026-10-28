@@ -28560,5 +28560,49 @@
         "validade_oferta": "04/11/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/10/2026",
+    "hora": "16:00:10",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mortadela Perdigao 1 kg",
+        "preco": "12,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/11/2026",
+        "codigo_barras": "7891515408312",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mortadela Tony Boi s/t De Touc 500 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/11/2026",
+        "codigo_barras": "7898206930299",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Pão De Alho Massa Fest Bacon 400 g",
+        "preco": "13,48",
+        "unidade": "Unid.",
+        "validade_oferta": "26/11/2026",
+        "codigo_barras": "7898928718717",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Pão De Alho Picante So Minas 400 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/11/2026",
+        "codigo_barras": "7898913382046",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
