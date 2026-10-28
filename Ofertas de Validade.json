@@ -28522,5 +28522,43 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/10/2026",
+    "hora": "15:58:46",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Mortadela Fluminense Kg",
+        "preco": "12,98",
+        "unidade": "Kg",
+        "validade_oferta": "23/11/2026"
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mortadela Frango Tony 1 kg",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/11/2026",
+        "codigo_barras": "7898206930091",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mortadela Mista Aurora Kg",
+        "preco": "16,98",
+        "unidade": "Kg",
+        "validade_oferta": "08/11/2026"
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mortadela Mista Sadia Kg",
+        "preco": "10,48",
+        "unidade": "Kg",
+        "validade_oferta": "04/11/2026"
+      }
+    ]
   }
 ]
