@@ -46646,5 +46646,85 @@
     "produto": "Ref Frisco Morango 18g",
     "preco": "0,79",
     "validade_oferta_ate": "15/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:31:06",
+    "feito_por": "Paulo",
+    "produto": "Chicken Supreme C/2 Molhos Seara",
+    "preco": "9,98",
+    "validade_oferta_ate": "04/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:31:06",
+    "feito_por": "Paulo",
+    "produto": "Empanado Perdigao Fgo Rech Qjo/Pres 100g",
+    "preco": "5,98",
+    "validade_oferta_ate": "22/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:31:06",
+    "feito_por": "Paulo",
+    "produto": "Hamb Cara Preta Costela Angus 360g",
+    "preco": "25,48",
+    "validade_oferta_ate": "18/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:31:06",
+    "feito_por": "Paulo",
+    "produto": "Hamb Hot Hit Seara Bacon Cheddar 145g",
+    "preco": "7,98",
+    "validade_oferta_ate": "14/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:31:06",
+    "feito_por": "Paulo",
+    "produto": "Hamb Hot Hit X-Picanha Seara 145g",
+    "preco": "7,98",
+    "validade_oferta_ate": "20/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:31:06",
+    "feito_por": "Paulo",
+    "produto": "Hamb Hot Pocket x Bacon Sadia 145g",
+    "preco": "8,98",
+    "validade_oferta_ate": "18/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:31:06",
+    "feito_por": "Paulo",
+    "produto": "Hamb Hot Pocket x Barbecue Sadia 145g",
+    "preco": "7,48",
+    "validade_oferta_ate": "19/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:31:06",
+    "feito_por": "Paulo",
+    "produto": "Hamb Hot Pocket x Burguer Sadia 145g",
+    "preco": "6,48",
+    "validade_oferta_ate": "05/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:31:06",
+    "feito_por": "Paulo",
+    "produto": "Hamb Hot Pocket x Cheddar Sadia 145g",
+    "preco": "7,98",
+    "validade_oferta_ate": "28/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:31:06",
+    "feito_por": "Paulo",
+    "produto": "Hamb Seara Bovino 672g",
+    "preco": "18,98",
+    "validade_oferta_ate": "17/11/2026"
   }
 ]
