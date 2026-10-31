@@ -46726,5 +46726,85 @@
     "produto": "Hamb Seara Bovino 672g",
     "preco": "18,98",
     "validade_oferta_ate": "17/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:37:25",
+    "feito_por": "Paulo",
+    "produto": "Hamburguer Bov.Mini Cara Preta 360g",
+    "preco": "22,98",
+    "validade_oferta_ate": "18/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:37:25",
+    "feito_por": "Paulo",
+    "produto": "Mac e Cheese Cheddar Seara 300g",
+    "preco": "9,48",
+    "validade_oferta_ate": "15/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:37:25",
+    "feito_por": "Paulo",
+    "produto": "Pizza Perdigao Brasileira Cong 460g",
+    "preco": "18,98",
+    "validade_oferta_ate": "21/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:37:25",
+    "feito_por": "Paulo",
+    "produto": "Pizza Perdigao Napolitana 460g",
+    "preco": "17,98",
+    "validade_oferta_ate": "18/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:37:25",
+    "feito_por": "Paulo",
+    "produto": "Beb Lact Bom Leite Bdj 540g Acai/Banana",
+    "preco": "4,25",
+    "validade_oferta_ate": "03/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:37:25",
+    "feito_por": "Paulo",
+    "produto": "Beb Lact Bom Leite Gf 170g Acai/Banana",
+    "preco": "2,18",
+    "validade_oferta_ate": "09/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:37:25",
+    "feito_por": "Paulo",
+    "produto": "Beb Lact Bom Leite Gf 170g Ameixa",
+    "preco": "2,18",
+    "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:37:25",
+    "feito_por": "Paulo",
+    "produto": "Beb Lact Bom Leite Sh 900g Ameixa",
+    "preco": "4,25",
+    "validade_oferta_ate": "09/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:37:25",
+    "feito_por": "Paulo",
+    "produto": "Beb Lact Bom Leite Sh 900g Banana/Maca",
+    "preco": "4,39",
+    "validade_oferta_ate": "09/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:37:25",
+    "feito_por": "Paulo",
+    "produto": "Beb Lact Bom Leite Sh 900g Ft Vermelhas",
+    "preco": "4,39",
+    "validade_oferta_ate": "05/11/2026"
   }
 ]
