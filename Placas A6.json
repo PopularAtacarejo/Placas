@@ -46950,5 +46950,21 @@
     "produto": "Leite Ferm Yakult 40 Desnatado 80g",
     "preco": "2,05",
     "validade_oferta_ate": "02/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:45:02",
+    "feito_por": "Paulo",
+    "produto": "Ling Gourmet Seara Fgo C/Bacon 500g",
+    "preco": "21,98",
+    "validade_oferta_ate": "11/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:45:02",
+    "feito_por": "Paulo",
+    "produto": "Ling Gourmet Seara Pim Biquinho 500g",
+    "preco": "14,98",
+    "validade_oferta_ate": "05/11/2026"
   }
 ]
