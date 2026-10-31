@@ -46806,5 +46806,85 @@
     "produto": "Beb Lact Bom Leite Sh 900g Ft Vermelhas",
     "preco": "4,39",
     "validade_oferta_ate": "05/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:41:26",
+    "feito_por": "Paulo",
+    "produto": "Beb Lact Frutigutti Ameixa Sh 900g",
+    "preco": "1,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:41:26",
+    "feito_por": "Paulo",
+    "produto": "Iog Batavo Mor/Coco Bdj 540g",
+    "preco": "5,98",
+    "validade_oferta_ate": "09/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:41:26",
+    "feito_por": "Paulo",
+    "produto": "Iog Batavo Morango Probio2 170g",
+    "preco": "0,98",
+    "validade_oferta_ate": "01/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:41:26",
+    "feito_por": "Paulo",
+    "produto": "Iog Batavo Natural Int 510g",
+    "preco": "9,98",
+    "validade_oferta_ate": "11/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:41:26",
+    "feito_por": "Paulo",
+    "produto": "Iog Batavo Pense Zero Morango Ferm 170g",
+    "preco": "3,48",
+    "validade_oferta_ate": "05/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:41:26",
+    "feito_por": "Paulo",
+    "produto": "Iog Beb.Lact Itambe Bdj 540g Morango",
+    "preco": "6,48",
+    "validade_oferta_ate": "11/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:41:26",
+    "feito_por": "Paulo",
+    "produto": "Iog Bom Leite Grego Bj 540g",
+    "preco": "8,28",
+    "validade_oferta_ate": "03/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:41:26",
+    "feito_por": "Paulo",
+    "produto": "Iog Bom Leite Integral Ameixa 150g",
+    "preco": "2,88",
+    "validade_oferta_ate": "03/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:41:26",
+    "feito_por": "Paulo",
+    "produto": "Iog Danone Corp Break Vita/Fruta F.Tri.Zero 800g",
+    "preco": "15,48",
+    "validade_oferta_ate": "02/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:41:26",
+    "feito_por": "Paulo",
+    "produto": "Iog Danone Gf 170g Vit De Frutas",
+    "preco": "3,48",
+    "validade_oferta_ate": "08/11/2026"
   }
 ]
