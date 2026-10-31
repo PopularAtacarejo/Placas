@@ -29486,5 +29486,45 @@
     "produto": "Ovo Luna Grande Filmado C/30",
     "preco": "13,98",
     "validade_oferta_ate": "31/10/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "13:42:30",
+    "feito_por": "Marcos",
+    "produto": "Panetone Diluca Chocolate 400g",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "13:42:30",
+    "feito_por": "Marcos",
+    "produto": "Panettone Rech Trufado Gts. Choc.500g",
+    "preco": "33,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "13:42:30",
+    "feito_por": "Marcos",
+    "produto": "Panettone Frutas Santa Edwiges 400g",
+    "preco": "20,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "13:42:30",
+    "feito_por": "Marcos",
+    "produto": "Panettone Com Frutas Di Lucca 400g",
+    "preco": "17,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "13:42:30",
+    "feito_por": "Marcos",
+    "produto": "Panettone Gotas Choc. Rech.500g",
+    "preco": "33,98",
+    "validade_oferta_ate": ""
   }
 ]
