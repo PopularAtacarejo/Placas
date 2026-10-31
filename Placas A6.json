@@ -46966,5 +46966,21 @@
     "produto": "Ling Gourmet Seara Pim Biquinho 500g",
     "preco": "14,98",
     "validade_oferta_ate": "05/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:46:18",
+    "feito_por": "Paulo",
+    "produto": "Mac e Cheese Cheddar Seara 300g",
+    "preco": "9,48",
+    "validade_oferta_ate": "15/11/2026"
+  },
+  {
+    "data": "2026-10-31",
+    "horario": "11:46:18",
+    "feito_por": "Paulo",
+    "produto": "Queijo Edam Regina Fracionado",
+    "preco": "89,98",
+    "validade_oferta_ate": "09/11/2026"
   }
 ]
