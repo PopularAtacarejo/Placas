@@ -29534,5 +29534,21 @@
     "produto": "Inhame Kg",
     "preco": "15,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-01",
+    "horario": "16:37:19",
+    "feito_por": "Gustavo",
+    "produto": "Agua Mineral Leve 510ml",
+    "preco": "0,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-01",
+    "horario": "16:37:19",
+    "feito_por": "Gustavo",
+    "produto": "Agua Min Eleve C/Gas Gfa. Pet 510ml",
+    "preco": "1,68",
+    "validade_oferta_ate": ""
   }
 ]
