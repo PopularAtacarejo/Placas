@@ -29934,5 +29934,21 @@
     "produto": "Chuchu Kg",
     "preco": "3,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-04",
+    "horario": "11:44:21",
+    "feito_por": "Caio",
+    "produto": "Maracuja Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": "04/11/2026"
+  },
+  {
+    "data": "2026-11-04",
+    "horario": "11:44:21",
+    "feito_por": "Caio",
+    "produto": "Goiaba Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
   }
 ]
