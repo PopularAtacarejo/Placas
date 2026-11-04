@@ -29950,5 +29950,69 @@
     "produto": "Goiaba Kg",
     "preco": "5,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-04",
+    "horario": "14:21:40",
+    "feito_por": "Jeferson",
+    "produto": "CHAREU C/ OSSO",
+    "preco": "26,98",
+    "validade_oferta_ate": "05/11/2026"
+  },
+  {
+    "data": "2026-11-04",
+    "horario": "14:21:40",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA DO PEITO",
+    "preco": "23,88",
+    "validade_oferta_ate": "05/11/2026"
+  },
+  {
+    "data": "2026-11-04",
+    "horario": "14:21:40",
+    "feito_por": "Jeferson",
+    "produto": "FRALDINHA",
+    "preco": "38,98",
+    "validade_oferta_ate": "05/11/2026"
+  },
+  {
+    "data": "2026-11-04",
+    "horario": "14:21:40",
+    "feito_por": "Jeferson",
+    "produto": "Pres Coz. S/Capa Rezende Kg",
+    "preco": "29,98",
+    "validade_oferta_ate": "05/11/2026"
+  },
+  {
+    "data": "2026-11-04",
+    "horario": "14:21:40",
+    "feito_por": "Jeferson",
+    "produto": "Batata Mccain Pré-Frita 9mm 720g",
+    "preco": "22,98",
+    "validade_oferta_ate": "05/11/2026"
+  },
+  {
+    "data": "2026-11-04",
+    "horario": "14:21:40",
+    "feito_por": "Jeferson",
+    "produto": "Lasanha Maricota 500g Div. Sabores",
+    "preco": "12,98",
+    "validade_oferta_ate": "05/11/2026"
+  },
+  {
+    "data": "2026-11-04",
+    "horario": "14:21:40",
+    "feito_por": "Jeferson",
+    "produto": "Refri Guarana Antarctica s /Açúcar Pet 2l",
+    "preco": "7,48",
+    "validade_oferta_ate": "05/11/2026"
+  },
+  {
+    "data": "2026-11-04",
+    "horario": "14:21:40",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Praya Lager Sem Gluten 330ml",
+    "preco": "6,48",
+    "validade_oferta_ate": "05/11/2026"
   }
 ]
