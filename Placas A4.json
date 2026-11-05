@@ -30110,5 +30110,21 @@
     "produto": "Inhame Kg",
     "preco": "15,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "07:23:44",
+    "feito_por": "Eduardo",
+    "produto": "Melancia Kg",
+    "preco": "2,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "07:23:44",
+    "feito_por": "Eduardo",
+    "produto": "Laranja Pera Kg",
+    "preco": "2,48",
+    "validade_oferta_ate": ""
   }
 ]
