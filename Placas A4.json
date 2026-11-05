@@ -30150,5 +30150,29 @@
     "produto": "Mort Conf Frango Kg",
     "preco": "7,98",
     "validade_oferta_ate": "07/11/2026"
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "10:45:56",
+    "feito_por": "Caio",
+    "produto": "Batata Doce Roxa Vitoria Kg",
+    "preco": "4,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "10:45:56",
+    "feito_por": "Caio",
+    "produto": "Laranja Pera Kg",
+    "preco": "2,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "10:45:56",
+    "feito_por": "Caio",
+    "produto": "Beterraba Kg",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
   }
 ]
