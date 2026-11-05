@@ -30126,5 +30126,21 @@
     "produto": "Laranja Pera Kg",
     "preco": "2,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "08:34:31",
+    "feito_por": "Caio",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "08:34:31",
+    "feito_por": "Caio",
+    "produto": "Abacaxi Un",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
   }
 ]
