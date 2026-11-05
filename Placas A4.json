@@ -30142,5 +30142,13 @@
     "produto": "Abacaxi Un",
     "preco": "3,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "09:49:13",
+    "feito_por": "Jeferson",
+    "produto": "Mort Conf Frango Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": "07/11/2026"
   }
 ]
