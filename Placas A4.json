@@ -30030,5 +30030,85 @@
     "produto": "Pera Danjou Kg",
     "preco": "21,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "07:20:21",
+    "feito_por": "Eduardo",
+    "produto": "Batatinha Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "07:20:21",
+    "feito_por": "Eduardo",
+    "produto": "Banana Prata Kg",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "07:20:21",
+    "feito_por": "Eduardo",
+    "produto": "Cebola Branca Kg",
+    "preco": "9,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "07:20:21",
+    "feito_por": "Eduardo",
+    "produto": "Cenoura Kg",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "07:20:21",
+    "feito_por": "Eduardo",
+    "produto": "Tomate Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "07:20:21",
+    "feito_por": "Eduardo",
+    "produto": "Manga Tommy Kg",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "07:20:21",
+    "feito_por": "Eduardo",
+    "produto": "Maracuja Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "07:20:21",
+    "feito_por": "Eduardo",
+    "produto": "Maca Nacional Kg",
+    "preco": "14,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "07:20:21",
+    "feito_por": "Eduardo",
+    "produto": "Melao Espanhol Kg",
+    "preco": "5,08",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-05",
+    "horario": "07:20:21",
+    "feito_por": "Eduardo",
+    "produto": "Inhame Kg",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
   }
 ]
