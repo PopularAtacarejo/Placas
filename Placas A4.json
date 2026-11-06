@@ -30238,5 +30238,61 @@
     "produto": "Cerveja Heineken Lt 473ml",
     "preco": "5,98",
     "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "09:05:59",
+    "feito_por": "Jeferson",
+    "produto": "PATINHO",
+    "preco": "41,98",
+    "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "09:05:59",
+    "feito_por": "Jeferson",
+    "produto": "MAMINHA",
+    "preco": "39,98",
+    "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "09:05:59",
+    "feito_por": "Jeferson",
+    "produto": "ACEM C/ OSSO",
+    "preco": "24,98",
+    "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "09:05:59",
+    "feito_por": "Jeferson",
+    "produto": "Linguiça Tipo Calabresa Defumada Perdigao 1kg",
+    "preco": "34,98",
+    "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "09:05:59",
+    "feito_por": "Jeferson",
+    "produto": "Hamburguer Maturatta 180g Div. Sabores",
+    "preco": "8,48",
+    "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "09:05:59",
+    "feito_por": "Jeferson",
+    "produto": "Batata Cong Mccain 1,5kg",
+    "preco": "39,98",
+    "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "09:05:59",
+    "feito_por": "Jeferson",
+    "produto": "Cerveja Heineken Lt 473ml",
+    "preco": "5,98",
+    "validade_oferta_ate": "06/11/2026"
   }
 ]
