@@ -30302,5 +30302,13 @@
     "produto": "Banana Prata Kg",
     "preco": "5,48",
     "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "15:04:13",
+    "feito_por": "Erick",
+    "produto": "Banana Prata Kg",
+    "preco": "5,48",
+    "validade_oferta_ate": "06/11/2026"
   }
 ]
