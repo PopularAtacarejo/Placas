@@ -48862,5 +48862,533 @@
     "produto": "Mac Parafuso Brandini 500g",
     "preco": "3,75",
     "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Presunto Cozido Cogran Fat Kg",
+    "preco": "24,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Mussarela Capelinha Fat Kg",
+    "preco": "47,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "SALSICHA FRIMESA",
+    "preco": "14,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Queijo Do Reino Sazonal Tirolez Kg",
+    "preco": "119,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Galinha Cong C/Miudos Somave Kg",
+    "preco": "8,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Filé De Peito Frango Lar Bdj 1kg",
+    "preco": "20,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Sorvete Fika Frio 2l - Sabores Div. Sabores",
+    "preco": "26,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Tomate Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Batatinha Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Cebola Branca Kg",
+    "preco": "6,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Cenoura Kg",
+    "preco": "4,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Batata Doce Roxa Vitoria Kg",
+    "preco": "3,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Banana Prata Kg",
+    "preco": "2,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Manga Tommy Kg",
+    "preco": "2,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Maçã Nacional Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Melancia Kg",
+    "preco": "1,88",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Melão Espanhol Kg",
+    "preco": "3,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Maracujá Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Uva Vitoria Kg",
+    "preco": "6,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Laranja Pera Kg",
+    "preco": "1,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Tangerina Importada Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Abacaxi Un",
+    "preco": "1,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Macaxeira Kg",
+    "preco": "1,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Repolho Verde Kg",
+    "preco": "3,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Ovo Luna Grande Filmado C/30",
+    "preco": "13,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA PONTA DE AGULHA",
+    "preco": "21,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "ACEM / OSSO",
+    "preco": "24,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA DO PEITO",
+    "preco": "22,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "COXÃO MOLE / CHÃ DE DENTRO",
+    "preco": "41,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "LAGARTO",
+    "preco": "38,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "COXÃO DORO /CHÃ DE FORA",
+    "preco": "37,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "FRALDINHA",
+    "preco": "37,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "PERNIL SUINO",
+    "preco": "21,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "COSTELA SUÍNA",
+    "preco": "20,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Coxa C/ Sobrecoxa Dorsal a Granel Kg",
+    "preco": "9,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Asa De Frango a Granel Kg",
+    "preco": "15,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Peito De Frango a Granel Kg",
+    "preco": "14,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Flocão De Milho Popular 400g",
+    "preco": "1,15",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Refri Pop Pet 2l Div. Sabores",
+    "preco": "3,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Óleo De Soja Soya 900ml",
+    "preco": "8,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Farinha de Mandioca Canaã Fina 1kg",
+    "preco": "4,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Mac Galo Parafuso Comum 400g",
+    "preco": "2,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Leite Em Pó Camponesa 200g integral ou instantâneo",
+    "preco": "7,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Dueto Predilecta 170g Sache",
+    "preco": "4,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Leite Cond Piracanjuba 395g",
+    "preco": "7,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Biscoito Arcor Triunfo Tortini 90g Div. Sabores",
+    "preco": "2,18",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Rosq Afa 300g Div. Sabores",
+    "preco": "3,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Doce Bicharada 300g",
+    "preco": "5,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Creatina Integral Medica 300g / 350g Div. Sabores",
+    "preco": "64,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Amstel Lt 473ml",
+    "preco": "4,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Budweiser Ln 330ml",
+    "preco": "5,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Whisky Red Label 1lt",
+    "preco": "98,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Energ. Red Horse 2l Div. Sabores",
+    "preco": "9,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Amac Downy Concentrado 500ml - Diversas Fragrâncias",
+    "preco": "10,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Sabão Barra Assim 900g Coco",
+    "preco": "12,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Lava Roupa Omo Po Lavagem Perfeita 700g",
+    "preco": "12,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Sand.Havaiana Top Max - AZUL/BRANCO",
+    "preco": "49,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Abs Mili Mulher Noturno Ultra C/Abas C/32un",
+    "preco": "14,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Sh375ml+cond170ml Elseve Liso Sonhos",
+    "preco": "34,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "kit Sh + Cond Niely Gold Div. Sabores",
+    "preco": "17,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Sab Liq Alyne 1l Div. Fragrâncias",
+    "preco": "16,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Ling Calab Grossa Cogran Kg",
+    "preco": "23,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Hamb Tony 56g frango ou misto",
+    "preco": "0,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Linguiça Toscana Frimesa Kg",
+    "preco": "21,98",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Beb Lact Frutigutti Sch 900g - Sabores Div. Sabores",
+    "preco": "4,48",
+    "validade_oferta_ate": "08/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "17:53:54",
+    "feito_por": "Jeferson",
+    "produto": "Beb Lact Bom Leite Bdj 540g - Sabores Div. Sabores",
+    "preco": "4,18",
+    "validade_oferta_ate": "08/11/2026"
   }
 ]
