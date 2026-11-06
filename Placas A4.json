@@ -30310,5 +30310,29 @@
     "produto": "Banana Prata Kg",
     "preco": "5,48",
     "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "16:25:16",
+    "feito_por": "Jeferson",
+    "produto": "PATINHO",
+    "preco": "41,98",
+    "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "16:25:16",
+    "feito_por": "Jeferson",
+    "produto": "MAMINHA",
+    "preco": "39,98",
+    "validade_oferta_ate": "06/11/2026"
+  },
+  {
+    "data": "2026-11-06",
+    "horario": "16:25:16",
+    "feito_por": "Jeferson",
+    "produto": "ACEM C/ OSSO",
+    "preco": "24,98",
+    "validade_oferta_ate": "06/11/2026"
   }
 ]
