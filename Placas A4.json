@@ -31174,5 +31174,37 @@
     "produto": "Ovo Luna Grande Filmado C/30",
     "preco": "13,48",
     "validade_oferta_ate": "11/11/2026"
+  },
+  {
+    "data": "2026-11-10",
+    "horario": "16:57:47",
+    "feito_por": "Jeferson",
+    "produto": "Tomate",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-10",
+    "horario": "16:57:47",
+    "feito_por": "Jeferson",
+    "produto": "Laranja Pera",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-10",
+    "horario": "16:57:47",
+    "feito_por": "Jeferson",
+    "produto": "Batatinha",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-10",
+    "horario": "16:57:47",
+    "feito_por": "Jeferson",
+    "produto": "Melão Espanho",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
   }
 ]
