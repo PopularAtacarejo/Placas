@@ -50486,5 +50486,37 @@
     "produto": "Sabão Pó Assim Perform Emb Eco 1,6kg",
     "preco": "14,98",
     "validade_oferta_ate": "12/11/2026"
+  },
+  {
+    "data": "2026-11-11",
+    "horario": "15:06:15",
+    "feito_por": "Jeferson",
+    "produto": "Bisc Maizena Renata 360g",
+    "preco": "1,98",
+    "validade_oferta_ate": "11/11/2026"
+  },
+  {
+    "data": "2026-11-11",
+    "horario": "17:01:38",
+    "feito_por": "Lazaro",
+    "produto": "Amend Crocante Pimenta Ver Dori 70g",
+    "preco": "2,98",
+    "validade_oferta_ate": "14/11/2026"
+  },
+  {
+    "data": "2026-11-11",
+    "horario": "17:01:38",
+    "feito_por": "Lazaro",
+    "produto": "Amendoim Dori Torrado Salgado 70g",
+    "preco": "2,98",
+    "validade_oferta_ate": "13/11/2026"
+  },
+  {
+    "data": "2026-11-11",
+    "horario": "17:01:38",
+    "feito_por": "Lazaro",
+    "produto": "Gelatines Festa 80g",
+    "preco": "2,98",
+    "validade_oferta_ate": "15/11/2026"
   }
 ]
