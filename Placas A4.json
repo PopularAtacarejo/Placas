@@ -31206,5 +31206,13 @@
     "produto": "Melão Espanho",
     "preco": "4,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-11",
+    "horario": "11:32:29",
+    "feito_por": "Jeferson",
+    "produto": "Maca Nacional Kg",
+    "preco": "9,48",
+    "validade_oferta_ate": "11/11/2026"
   }
 ]
