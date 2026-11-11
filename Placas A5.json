@@ -37806,5 +37806,53 @@
     "produto": "Hamburguer Maturatta Fralda 180g",
     "preco": "7,48",
     "validade_oferta_ate": "14/11/2026"
+  },
+  {
+    "data": "2026-11-10",
+    "horario": "16:57:47",
+    "feito_por": "Jeferson",
+    "produto": "Tomate",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-10",
+    "horario": "16:57:47",
+    "feito_por": "Jeferson",
+    "produto": "Laranja Pera",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-10",
+    "horario": "16:57:47",
+    "feito_por": "Jeferson",
+    "produto": "Batatinha",
+    "preco": "8,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-10",
+    "horario": "16:57:47",
+    "feito_por": "Jeferson",
+    "produto": "Melão Espanho",
+    "preco": "4,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-11",
+    "horario": "11:32:29",
+    "feito_por": "Jeferson",
+    "produto": "Maca Nacional Kg",
+    "preco": "9,48",
+    "validade_oferta_ate": "11/11/2026"
+  },
+  {
+    "data": "2026-11-11",
+    "horario": "11:33:20",
+    "feito_por": "Jeferson",
+    "produto": "Abacaxi Un",
+    "preco": "1,98",
+    "validade_oferta_ate": "11/11/2026"
   }
 ]
