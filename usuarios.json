@@ -1,7 +1,7 @@
 [
   {
     "usuario": "Eduarda",
-    "senha_hash": "pbkdf2_sha256$390000$muGyyNGcmzvsQIrwjTfghA$B1-o5ktya4d-3uRDSA4MqzxXEi7vj69VDd-lVbs1KDg",
+    "senha_hash": "pbkdf2_sha256$390000$HKCdWwdjtHSzScBb8HqxQQ$RD999cMLOXTbJy9sl26baTgp9eOhoxjNUFud6zUVjWk",
     "permissoes": {
       "page_plates": true,
       "page_labels": false,
