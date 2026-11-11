@@ -28847,5 +28847,45 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "11/11/2026",
+    "hora": "09:09:55",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pão De Alho Cebola So Minas 400 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/11/2026",
+        "codigo_barras": "7898913382107",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Pres Coz. s/capa Rezende Kg",
+        "preco": "24,98",
+        "unidade": "Kg",
+        "validade_oferta": "13/11/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Queijo Azul Fracionado Regina Kg",
+        "preco": "88,98",
+        "unidade": "Kg",
+        "validade_oferta": "16/11/2026"
+      },
+      {
+        "posicao": "4",
+        "descricao": "Queijo Cheddar Frimesa Fatiado 150 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/11/2026",
+        "codigo_barras": "7896275983963",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
