@@ -28887,5 +28887,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "11/11/2026",
+    "hora": "09:10:52",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Requeijão Nestlé Light 200 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/11/2026",
+        "codigo_barras": "7891000084663",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Requeijão Tirolez Zero Lactose 200 g",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/11/2026",
+        "codigo_barras": "7896030520273",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
