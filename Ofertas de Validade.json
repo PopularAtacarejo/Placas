@@ -28759,5 +28759,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "11/11/2026",
+    "hora": "09:06:53",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb Láctea Parmalat Mor Prot 10 g 120 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/11/2026",
+        "codigo_barras": "7891097107214",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Batavo Natural Int 510 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/11/2026",
+        "codigo_barras": "7891097108105",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Batavo Grego Pense Zero Maracujá 100 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/11/2026",
+        "codigo_barras": "7891097106101",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Ling Calab Def Perdigao 400 g",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "21/11/2026",
+        "codigo_barras": "7891515977511",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
