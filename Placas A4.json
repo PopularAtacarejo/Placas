@@ -31214,5 +31214,53 @@
     "produto": "Maca Nacional Kg",
     "preco": "9,48",
     "validade_oferta_ate": "11/11/2026"
+  },
+  {
+    "data": "2026-11-11",
+    "horario": "15:04:18",
+    "feito_por": "Eduarda",
+    "produto": "PATINHO",
+    "preco": "41,98",
+    "validade_oferta_ate": "12/11/2026"
+  },
+  {
+    "data": "2026-11-11",
+    "horario": "15:04:18",
+    "feito_por": "Eduarda",
+    "produto": "COSTELA DA AGULHA",
+    "preco": "25,98",
+    "validade_oferta_ate": "12/11/2026"
+  },
+  {
+    "data": "2026-11-11",
+    "horario": "15:04:18",
+    "feito_por": "Eduarda",
+    "produto": "LAGARTO",
+    "preco": "39,98",
+    "validade_oferta_ate": "12/11/2026"
+  },
+  {
+    "data": "2026-11-11",
+    "horario": "15:04:18",
+    "feito_por": "Eduarda",
+    "produto": "Galinha Cong C/Miudos Somave Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": "12/11/2026"
+  },
+  {
+    "data": "2026-11-11",
+    "horario": "15:04:18",
+    "feito_por": "Eduarda",
+    "produto": "Salsicha Avivar Hot Dog Kg",
+    "preco": "7,98",
+    "validade_oferta_ate": "12/11/2026"
+  },
+  {
+    "data": "2026-11-11",
+    "horario": "15:04:18",
+    "feito_por": "Eduarda",
+    "produto": "Hamburguer Maturatta fralda 180g",
+    "preco": "7,48",
+    "validade_oferta_ate": "12/11/2026"
   }
 ]
