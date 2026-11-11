@@ -28715,5 +28715,49 @@
         "validade_oferta": "03/11/2026"
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "11/11/2026",
+    "hora": "09:05:38",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Coalhada Bom Leite Desn Ameixa 140 g",
+        "preco": "0,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/11/2026",
+        "codigo_barras": "7898118391294",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Iog Batavo Grego Pense Zero Trad 100 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/11/2026",
+        "codigo_barras": "7891097000720",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Batavo Natural Cen/Lar 170 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/11/2026",
+        "codigo_barras": "7891097000195",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Iog Batavo Grego Pt Tradicional 100 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/11/2026",
+        "codigo_barras": "7891097000270",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
