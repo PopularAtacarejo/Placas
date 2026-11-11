@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-10-28T15:51:17",
+  "atualizado_em": "2026-11-11T09:03:30",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -3284,7 +3284,7 @@
       "descricao": "Queijo Cheddar Frimesa Fatiado 150 g",
       "unidade": "Unid.",
       "codigo_barras": "7896275983963",
-      "hits": 4,
+      "hits": 5,
       "aliases": [
         "queijo cheddar frimesa fatiado 150 g",
         "queijo cheddar frimesa fatiado 150g",
@@ -3295,7 +3295,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-09-08T15:14:43"
+      "atualizado_em": "2026-11-11T09:03:30"
     },
     "requeijao pocos de caldas cheddar | massa:200g": {
       "descricao": "Requeijão Poços De Caldas Cheddar 200 g",
@@ -9900,7 +9900,7 @@
       "descricao": "Mort Sadia Frango Mini 400 g",
       "unidade": "Unid.",
       "codigo_barras": "7891515432089",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "mort sadia frango mini 400 g",
         "mort sadia frango mini 400g",
@@ -9911,7 +9911,7 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-28T15:51:17"
+      "atualizado_em": "2026-11-11T09:03:30"
     },
     "mortadela de frango perdigao | massa:400g": {
       "descricao": "Mortadela De Frango Perdigao 400 g",
@@ -13295,7 +13295,7 @@
       "descricao": "Requeijão Cremoso Catupiry Light 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7896353301191",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "requeijao cremoso catupiry light 200 g",
         "requeijao cremoso catupiry light 200g",
@@ -13306,7 +13306,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T14:28:21"
+      "atualizado_em": "2026-11-11T09:03:30"
     },
     "manteiga extra c/sal catupiry | massa:200g": {
       "descricao": "Manteiga Extra c/sal Catupiry 200 g",
@@ -13435,7 +13435,7 @@
       "descricao": "Requeijão Catupiry Lactozero 150 g",
       "unidade": "Unid.",
       "codigo_barras": "7896353302204",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "requeijao catupiry lactozero 150 g",
         "requeijao catupiry lactozero 150g",
@@ -13446,7 +13446,7 @@
         "massa:150g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-11-11T09:03:30"
     },
     "queijo davaca prato fatiado | massa:150g": {
       "descricao": "Queijo Davaca Prato Fatiado 150 g",
@@ -13486,7 +13486,7 @@
       "descricao": "Requeijão Nestlé Light 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7891000084663",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "requeijao nestle light 200 g",
         "requeijao nestle light 200g",
@@ -13497,7 +13497,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-31T18:24:26"
+      "atualizado_em": "2026-11-11T09:03:30"
     },
     "queijo cream cheese catupiry | massa:150g": {
       "descricao": "Queijo Cream Cheese Catupiry 150 g",
@@ -13588,7 +13588,7 @@
       "descricao": "Iog Batavo Grego Pense Zero Trad 100 g",
       "unidade": "Unid.",
       "codigo_barras": "7891097000720",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog batavo grego pense zero trad 100 g",
         "iog batavo grego pense zero trad 100g",
@@ -13599,7 +13599,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-06-30T15:39:33"
+      "atualizado_em": "2026-11-11T09:03:30"
     },
     "iog nestle bicamada frts vermelhas | massa:150g": {
       "descricao": "Iog Nestlé Bicamada Frts Vermelhas 150 g",
@@ -14700,7 +14700,7 @@
       "descricao": "Iog Batavo Grego Pt Tradicional 100 g",
       "unidade": "Unid.",
       "codigo_barras": "7891097000270",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "iog batavo grego pt tradicional 100 g",
         "iog batavo grego pt tradicional 100g",
@@ -14711,7 +14711,7 @@
         "massa:100g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-07-21T09:36:09"
+      "atualizado_em": "2026-11-11T09:03:30"
     },
     "iog nestle natural desnatado | massa:160g": {
       "descricao": "Iog Nestlé Natural Desnatado 160 g",
@@ -18749,7 +18749,7 @@
       "descricao": "Ling Calab Def Perdigao 400 g",
       "unidade": "Unid.",
       "codigo_barras": "7891515977511",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "ling calab def perdigao 400 g",
         "ling calab def perdigao 400g",
@@ -18760,7 +18760,7 @@
         "massa:400g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-28T15:51:17"
+      "atualizado_em": "2026-11-11T09:03:30"
     },
     "ling calabresa ceratti def fat ft | massa:100g": {
       "descricao": "Ling Calabresa Ceratti Def Fat Ft 100 g",
@@ -18937,7 +18937,7 @@
       "descricao": "Mort Tub Sadia 1 kg",
       "unidade": "Unid.",
       "codigo_barras": "7893000340107",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "mort tub sadia 1 kg",
         "mort tub sadia 1kg",
@@ -18948,7 +18948,7 @@
         "massa:1000g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-28T15:51:17"
+      "atualizado_em": "2026-11-11T09:03:30"
     },
     "presunto sadia solt fatiado | massa:200g": {
       "descricao": "Presunto Sadia Solt Fatiado 200 g",
@@ -19090,7 +19090,7 @@
       "descricao": "Requeijão Tirolez Zero Lactose 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7896030520273",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "requeijao tirolez zero lactose 200 g",
         "requeijao tirolez zero lactose 200g",
@@ -19101,7 +19101,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-08-28T17:07:48"
+      "atualizado_em": "2026-11-11T09:03:30"
     },
     "bisc rosquinha petyan leite | massa:300g": {
       "descricao": "Bisc Rosquinha Petyan Leite 300 g",
@@ -21211,7 +21211,7 @@
       "descricao": "Massa De Pastel Luiza Tp Festinha 200 g",
       "unidade": "Unid.",
       "codigo_barras": "7898970918110",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "massa de pastel luiza tp festinha 200 g",
         "massa de pastel luiza tp festinha 200g",
@@ -21222,7 +21222,7 @@
         "massa:200g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-15T15:18:08"
+      "atualizado_em": "2026-11-11T09:03:30"
     },
     "coalhada batalha light | massa:140g": {
       "descricao": "Coalhada Batalha Light 140 g",
@@ -21262,7 +21262,7 @@
       "descricao": "Iog Batavo Natural Int 510 g",
       "unidade": "Unid.",
       "codigo_barras": "7891097108105",
-      "hits": 2,
+      "hits": 3,
       "aliases": [
         "iog batavo natural int 510 g",
         "iog batavo natural int 510g",
@@ -21273,7 +21273,7 @@
         "massa:510g"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-20T17:22:54"
+      "atualizado_em": "2026-11-11T09:03:30"
     },
     "iog danoninho multi frutas danone bdj | massa:320g": {
       "descricao": "Iog Danoninho Multi Frutas Danone Bdj 320 g",
@@ -22478,6 +22478,141 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-10-28T15:51:17"
+    },
+    "coalhada bom leite desn ameixa | massa:140g": {
+      "descricao": "Coalhada Bom Leite Desn Ameixa 140 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898118391294",
+      "hits": 1,
+      "aliases": [
+        "coalhada bom leite desn ameixa 140 g",
+        "coalhada bom leite desn ameixa 140g",
+        "coalhada bom leite desn ameixa | massa:140g"
+      ],
+      "descricao_base": "coalhada bom leite desn ameixa",
+      "medidas": [
+        "massa:140g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-11T09:03:30"
+    },
+    "iog batavo natural cen/lar | massa:170g": {
+      "descricao": "Iog Batavo Natural Cen/Lar 170 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097000195",
+      "hits": 1,
+      "aliases": [
+        "iog batavo natural cen lar 170 g",
+        "iog batavo natural cen lar 170g",
+        "iog batavo natural cen/lar | massa:170g"
+      ],
+      "descricao_base": "iog batavo natural cen/lar",
+      "medidas": [
+        "massa:170g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-11T09:03:30"
+    },
+    "beb lactea parmalat mor prot | massa:10g | massa:120g": {
+      "descricao": "Beb Láctea Parmalat Mor Prot 10 g 120 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097107214",
+      "hits": 1,
+      "aliases": [
+        "beb lactea parmalat mor 10g prot 120g",
+        "beb lactea parmalat mor prot 10 g 120 g",
+        "beb lactea parmalat mor prot | massa:10g | massa:120g"
+      ],
+      "descricao_base": "beb lactea parmalat mor prot",
+      "medidas": [
+        "massa:10g",
+        "massa:120g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-11T09:03:30"
+    },
+    "iog batavo grego pense zero maracuja | massa:100g": {
+      "descricao": "Iog Batavo Grego Pense Zero Maracujá 100 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097106101",
+      "hits": 1,
+      "aliases": [
+        "iog batavo grego pense zero maracuja 100 g",
+        "iog batavo grego pense zero maracuja 100g",
+        "iog batavo grego pense zero maracuja | massa:100g"
+      ],
+      "descricao_base": "iog batavo grego pense zero maracuja",
+      "medidas": [
+        "massa:100g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-11T09:03:30"
+    },
+    "bacon def fat perdigao | massa:250g": {
+      "descricao": "Bacon Def Fat Perdigao 250 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891515546847",
+      "hits": 1,
+      "aliases": [
+        "bacon def fat perdigao 250 g",
+        "bacon def fat perdigao 250g",
+        "bacon def fat perdigao | massa:250g"
+      ],
+      "descricao_base": "bacon def fat perdigao",
+      "medidas": [
+        "massa:250g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-11T09:03:30"
+    },
+    "pao de alho cebola so minas | massa:400g": {
+      "descricao": "Pão De Alho Cebola So Minas 400 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7898913382107",
+      "hits": 1,
+      "aliases": [
+        "pao de alho cebola so minas 400 g",
+        "pao de alho cebola so minas 400g",
+        "pao de alho cebola so minas | massa:400g"
+      ],
+      "descricao_base": "pao de alho cebola so minas",
+      "medidas": [
+        "massa:400g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-11T09:03:30"
+    },
+    "pres coz s/capa rezende kg": {
+      "descricao": "Pres Coz. s/capa Rezende Kg",
+      "unidade": "Kg",
+      "codigo_barras": "",
+      "hits": 1,
+      "aliases": [
+        "pres coz s capa rezende kg",
+        "pres coz s/capa rezende kg"
+      ],
+      "descricao_base": "pres coz s/capa rezende kg",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-11T09:03:30"
+    },
+    "queijo mussarela parmalat fit | massa:130g": {
+      "descricao": "Queijo Muçarela Parmalat Fit 130 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097107870",
+      "hits": 1,
+      "aliases": [
+        "queijo mucarela parmalat fit 130 g",
+        "queijo mucarela parmalat fit | massa:130g",
+        "queijo mussarela parmalat fit 130g",
+        "queijo mussarela parmalat fit | massa:130g"
+      ],
+      "descricao_base": "queijo mucarela parmalat fit",
+      "medidas": [
+        "massa:130g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-11T09:03:30"
     }
   }
 }
