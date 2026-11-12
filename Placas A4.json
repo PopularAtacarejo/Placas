@@ -31422,5 +31422,37 @@
     "produto": "panettone premium santa edwigens choc",
     "preco": "20,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-12",
+    "horario": "11:57:52",
+    "feito_por": "Eduarda",
+    "produto": "panettone rech santa edwigens brigadeiro 500g",
+    "preco": "33,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-12",
+    "horario": "11:57:52",
+    "feito_por": "Eduarda",
+    "produto": "panettone Di Lucca frutas 400g",
+    "preco": "17,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-12",
+    "horario": "11:57:52",
+    "feito_por": "Eduarda",
+    "produto": "panettone rech santa edwigens doce de leite 500g",
+    "preco": "33,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-12",
+    "horario": "11:57:52",
+    "feito_por": "Eduarda",
+    "produto": "panettone Di Lucca gotas de chocolate 400g",
+    "preco": "17,48",
+    "validade_oferta_ate": ""
   }
 ]
