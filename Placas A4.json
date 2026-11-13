@@ -31870,5 +31870,21 @@
     "produto": "Pão De Alho Poro So Minas 400g",
     "preco": "09,98",
     "validade_oferta_ate": "15/11/2026"
+  },
+  {
+    "data": "2026-11-13",
+    "horario": "18:05:18",
+    "feito_por": "Eduarda",
+    "produto": "Linguica Toscana Frimesa Kg",
+    "preco": "21,98",
+    "validade_oferta_ate": "15/11/2026"
+  },
+  {
+    "data": "2026-11-13",
+    "horario": "18:05:18",
+    "feito_por": "Eduarda",
+    "produto": "Beb Lactea Bob Esponja Mor Bdj 510g",
+    "preco": "05,98",
+    "validade_oferta_ate": "15/11/2026"
   }
 ]
