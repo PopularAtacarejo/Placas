@@ -38782,5 +38782,53 @@
     "produto": "Queijo Coalho Capelinha",
     "preco": "47,48",
     "validade_oferta_ate": "16/11/2026"
+  },
+  {
+    "data": "2026-11-16",
+    "horario": "10:39:36",
+    "feito_por": "Eduarda",
+    "produto": "Sand Ipanema Class diversos tam",
+    "preco": "12,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-16",
+    "horario": "10:39:36",
+    "feito_por": "Eduarda",
+    "produto": "Ração Evolute Premi Esp Filhote1kg",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-16",
+    "horario": "10:39:36",
+    "feito_por": "Eduarda",
+    "produto": "Ração Evolute Premium Adulto Raça/P 1kg",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-16",
+    "horario": "10:39:36",
+    "feito_por": "Eduarda",
+    "produto": "Ração Evolute Premi Esp Adulto 1kg",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-16",
+    "horario": "10:39:36",
+    "feito_por": "Eduarda",
+    "produto": "Ração Docat Gato Filhote Carne/Leite 1kg",
+    "preco": "16,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-16",
+    "horario": "10:39:36",
+    "feito_por": "Eduarda",
+    "produto": "Ração Gato Salmão/Peixe 1kg",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
   }
 ]
