@@ -51606,5 +51606,21 @@
     "produto": "Inset Sbp 380ml Multi inseticida Diversos",
     "preco": "13,98",
     "validade_oferta_ate": "19/11/2026"
+  },
+  {
+    "data": "2026-11-16",
+    "horario": "16:28:02",
+    "feito_por": "Gustavo",
+    "produto": "Cerveja Praya Lager Sem Gluten 330ml",
+    "preco": "4,98",
+    "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-11-16",
+    "horario": "16:28:02",
+    "feito_por": "Gustavo",
+    "produto": "Cerv Heineken Z.Alc 330ml",
+    "preco": "6,48",
+    "validade_oferta_ate": "25/11/2026"
   }
 ]
