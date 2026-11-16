@@ -51622,5 +51622,37 @@
     "produto": "Cerv Heineken Z.Alc 330ml",
     "preco": "6,48",
     "validade_oferta_ate": "25/11/2026"
+  },
+  {
+    "data": "2026-11-16",
+    "horario": "16:55:19",
+    "feito_por": "Eduarda",
+    "produto": "Panetone Triunfo Gotas Chocolate 400g",
+    "preco": "27,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-16",
+    "horario": "16:55:19",
+    "feito_por": "Eduarda",
+    "produto": "Panettone Triunfo Frutas Crist. 400g",
+    "preco": "32,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-16",
+    "horario": "16:55:19",
+    "feito_por": "Eduarda",
+    "produto": "Panettone Arcor Premium Doce De Leite 430g",
+    "preco": "49,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-16",
+    "horario": "16:55:19",
+    "feito_por": "Eduarda",
+    "produto": "Panettone Arcor Premium Trufa 430g",
+    "preco": "36,98",
+    "validade_oferta_ate": ""
   }
 ]
