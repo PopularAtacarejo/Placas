@@ -39518,5 +39518,21 @@
     "produto": "Cerv Itaipava Pilsen Lt Un 269ml",
     "preco": "2,48",
     "validade_oferta_ate": "20/11/2026"
+  },
+  {
+    "data": "2026-11-18",
+    "horario": "16:35:42",
+    "feito_por": "Eduarda",
+    "produto": "maçã nacional",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-18",
+    "horario": "19:07:23",
+    "feito_por": "Marcos",
+    "produto": "Canjica Dona Clara Branca 400g",
+    "preco": "2,98",
+    "validade_oferta_ate": "28/11/2026"
   }
 ]
