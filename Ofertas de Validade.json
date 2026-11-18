@@ -29001,5 +29001,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "18/11/2026",
+    "hora": "15:19:11",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cerv Pilsen Unfitered Eisenbahn Lt 350 ml",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/12/2026",
+        "codigo_barras": "7898367984377",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cerv Petra Puro Malte Lt 350 ml",
+        "preco": "3,28",
+        "unidade": "Unid.",
+        "validade_oferta": "08/12/2026",
+        "codigo_barras": "7897395099329",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cerv Premium Sol Ln 330 ml",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/12/2026",
+        "codigo_barras": "0000078934115",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cerv Sol Premium 0.0 330 ml",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "14/12/2026",
+        "codigo_barras": "7896045507368",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
