@@ -29089,5 +29089,31 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "18/11/2026",
+    "hora": "15:21:35",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Corote Ice Gin Tonica 275 ml",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/12/2026",
+        "codigo_barras": "7896547500201",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Refri Soda Limonada Pet Zero 2 l",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "04/12/2026",
+        "codigo_barras": "7891991001380",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
