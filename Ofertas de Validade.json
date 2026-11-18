@@ -28913,5 +28913,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "18/11/2026",
+    "hora": "15:17:04",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Suco Del Valle Abacaxi/Tangerina 1 l",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/12/2026",
+        "codigo_barras": "7894900664041",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Suco Artif Vigor Minions Laranja 200 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/12/2026",
+        "codigo_barras": "7891999941879",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Suco Artif Vigor Minions Maracujá 200 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "27/12/2026",
+        "codigo_barras": "7891999100023",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Suco Natural One Mist Uva/Maçã 900 ml",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/12/2026",
+        "codigo_barras": "7899916904839",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
