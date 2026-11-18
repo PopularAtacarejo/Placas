@@ -29045,5 +29045,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "18/11/2026",
+    "hora": "15:20:20",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cerv Heineken Z.Alc 330 ml",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "13/12/2026",
+        "codigo_barras": "7896045506040",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cerv Petra Ultra s Gluten Ln 275 ml",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/12/2026",
+        "codigo_barras": "7898377663071",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Cerv Brahma Chopp Zero Ln 355 ml",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "15/12/2026",
+        "codigo_barras": "7891149104956",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Schweppes Mix Gin Lt 269 ml",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/12/2026",
+        "codigo_barras": "7894900184075",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
