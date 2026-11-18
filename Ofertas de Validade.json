@@ -28957,5 +28957,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "18/11/2026",
+    "hora": "15:18:13",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Água De Coco Copra 1 lt",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/12/2026",
+        "codigo_barras": "7898596082752",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Água De Coco Oq 300 ml",
+        "preco": "8,78",
+        "unidade": "Unid.",
+        "validade_oferta": "03/12/2026",
+        "codigo_barras": "7898942775628",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Beb Isotonico Tnt Limão 500 ml",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "27/12/2026",
+        "codigo_barras": "7898377661718",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cerv Brahma Malzbier Lt 350 ml",
+        "preco": "3,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/12/2026",
+        "codigo_barras": "7891149101528",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
