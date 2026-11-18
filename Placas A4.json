@@ -32318,5 +32318,37 @@
     "produto": "Coco Seco Un",
     "preco": "4,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-18",
+    "horario": "10:54:39",
+    "feito_por": "Eduarda",
+    "produto": "chuchu",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-18",
+    "horario": "10:54:39",
+    "feito_por": "Eduarda",
+    "produto": "batata doce roxa vitória",
+    "preco": "6,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-18",
+    "horario": "10:54:39",
+    "feito_por": "Eduarda",
+    "produto": "inhame cara",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-18",
+    "horario": "10:54:39",
+    "feito_por": "Eduarda",
+    "produto": "maracujá",
+    "preco": "13,98",
+    "validade_oferta_ate": ""
   }
 ]
