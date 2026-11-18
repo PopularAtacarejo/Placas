@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-11-11T09:03:30",
+  "atualizado_em": "2026-11-18T15:15:12",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -1457,10 +1457,12 @@
       "atualizado_em": "2026-03-27T14:40:18"
     },
     "beb isotonico tnt limao | volume:500ml": {
-      "descricao": "Beb Isotonico Tnt Limão 500ml",
+      "descricao": "Beb Isotonico Tnt Limão 500 ml",
       "unidade": "Unid.",
-      "hits": 1,
+      "codigo_barras": "7898377661718",
+      "hits": 2,
       "aliases": [
+        "beb isotonico tnt limao 500 ml",
         "beb isotonico tnt limao 500ml",
         "beb isotonico tnt limao | volume:500ml"
       ],
@@ -1469,7 +1471,7 @@
         "volume:500ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-03-25T11:58:46"
+      "atualizado_em": "2026-11-18T15:15:12"
     },
     "lavitan creatina po fr | massa:150g": {
       "descricao": "Lavitan Creatina Pó Fr C/ 150g",
@@ -20211,7 +20213,7 @@
       "descricao": "Cerv Heineken Z.Alc 330 ml",
       "unidade": "Unid.",
       "codigo_barras": "7896045506040",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cerv heineken z alc 330 ml",
         "cerv heineken z alc 330ml",
@@ -20222,13 +20224,13 @@
         "volume:330ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-06T17:31:58"
+      "atualizado_em": "2026-11-18T15:15:12"
     },
     "cerv premium sol ln | volume:330ml": {
       "descricao": "Cerv Premium Sol Ln 330 ml",
       "unidade": "Unid.",
       "codigo_barras": "0000078934115",
-      "hits": 1,
+      "hits": 2,
       "aliases": [
         "cerv premium sol ln 330 ml",
         "cerv premium sol ln 330ml",
@@ -20239,7 +20241,7 @@
         "volume:330ml"
       ],
       "confidence": 1.0,
-      "atualizado_em": "2026-10-06T17:31:58"
+      "atualizado_em": "2026-11-18T15:15:12"
     },
     "whisky jack daniels coca cola | volume:269ml": {
       "descricao": "Whisky Jack Daniels Coca Cola 269 ml",
@@ -22613,6 +22615,261 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-11-11T09:03:30"
+    },
+    "suco del valle abacaxi/tangerina | volume:1000ml": {
+      "descricao": "Suco Del Valle Abacaxi/Tangerina 1 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7894900664041",
+      "hits": 1,
+      "aliases": [
+        "suco del valle abacaxi tangerina 1 l",
+        "suco del valle abacaxi tangerina 1l",
+        "suco del valle abacaxi/tangerina | volume:1000ml"
+      ],
+      "descricao_base": "suco del valle abacaxi/tangerina",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "suco artif vigor minions laranja | volume:200ml": {
+      "descricao": "Suco Artif Vigor Minions Laranja 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891999941879",
+      "hits": 1,
+      "aliases": [
+        "suco artif vigor minions laranja 200 ml",
+        "suco artif vigor minions laranja 200ml",
+        "suco artif vigor minions laranja | volume:200ml"
+      ],
+      "descricao_base": "suco artif vigor minions laranja",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "suco artif vigor minions maracuja | volume:200ml": {
+      "descricao": "Suco Artif Vigor Minions Maracujá 200 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891999100023",
+      "hits": 1,
+      "aliases": [
+        "suco artif vigor minions maracuja 200 ml",
+        "suco artif vigor minions maracuja 200ml",
+        "suco artif vigor minions maracuja | volume:200ml"
+      ],
+      "descricao_base": "suco artif vigor minions maracuja",
+      "medidas": [
+        "volume:200ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "suco natural one mist uva/maca | volume:900ml": {
+      "descricao": "Suco Natural One Mist Uva/Maçã 900 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7899916904839",
+      "hits": 1,
+      "aliases": [
+        "suco natural one mist uva maca 900 ml",
+        "suco natural one mist uva maca 900ml",
+        "suco natural one mist uva/maca | volume:900ml"
+      ],
+      "descricao_base": "suco natural one mist uva/maca",
+      "medidas": [
+        "volume:900ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "agua de coco copra | volume:1000ml": {
+      "descricao": "Água De Coco Copra 1 lt",
+      "unidade": "Unid.",
+      "codigo_barras": "7898596082752",
+      "hits": 1,
+      "aliases": [
+        "agua de coco copra 1 lt",
+        "agua de coco copra 1lt",
+        "agua de coco copra | volume:1000ml"
+      ],
+      "descricao_base": "agua de coco copra",
+      "medidas": [
+        "volume:1000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "agua de coco oq | volume:300ml": {
+      "descricao": "Água De Coco Oq 300 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898942775628",
+      "hits": 1,
+      "aliases": [
+        "agua de coco oq 300 ml",
+        "agua de coco oq 300ml",
+        "agua de coco oq | volume:300ml"
+      ],
+      "descricao_base": "agua de coco oq",
+      "medidas": [
+        "volume:300ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "cerv brahma malzbier lt | volume:350ml": {
+      "descricao": "Cerv Brahma Malzbier Lt 350 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891149101528",
+      "hits": 1,
+      "aliases": [
+        "cerv brahma malzbier lt 350 ml",
+        "cerv brahma malzbier lt 350ml",
+        "cerv brahma malzbier lt | volume:350ml"
+      ],
+      "descricao_base": "cerv brahma malzbier lt",
+      "medidas": [
+        "volume:350ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "cerv pilsen unfitered eisenbahn lt | volume:350ml": {
+      "descricao": "Cerv Pilsen Unfitered Eisenbahn Lt 350 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898367984377",
+      "hits": 1,
+      "aliases": [
+        "cerv pilsen unfitered eisenbahn lt 350 ml",
+        "cerv pilsen unfitered eisenbahn lt 350ml",
+        "cerv pilsen unfitered eisenbahn lt | volume:350ml"
+      ],
+      "descricao_base": "cerv pilsen unfitered eisenbahn lt",
+      "medidas": [
+        "volume:350ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "cerv petra puro malte lt | volume:350ml": {
+      "descricao": "Cerv Petra Puro Malte Lt 350 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7897395099329",
+      "hits": 1,
+      "aliases": [
+        "cerv petra puro malte lt 350 ml",
+        "cerv petra puro malte lt 350ml",
+        "cerv petra puro malte lt | volume:350ml"
+      ],
+      "descricao_base": "cerv petra puro malte lt",
+      "medidas": [
+        "volume:350ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "cerv sol premium 0 0 | volume:330ml": {
+      "descricao": "Cerv Sol Premium 0.0 330 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896045507368",
+      "hits": 1,
+      "aliases": [
+        "cerv sol premium 0 0 330 ml",
+        "cerv sol premium 0 0 330ml",
+        "cerv sol premium 0 0 | volume:330ml"
+      ],
+      "descricao_base": "cerv sol premium 0 0",
+      "medidas": [
+        "volume:330ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "cerv petra ultra s gluten ln | volume:275ml": {
+      "descricao": "Cerv Petra Ultra s Gluten Ln 275 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7898377663071",
+      "hits": 1,
+      "aliases": [
+        "cerv petra ultra s gluten ln 275 ml",
+        "cerv petra ultra s gluten ln 275ml",
+        "cerv petra ultra s gluten ln | volume:275ml"
+      ],
+      "descricao_base": "cerv petra ultra s gluten ln",
+      "medidas": [
+        "volume:275ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "cerv brahma chopp zero ln | volume:355ml": {
+      "descricao": "Cerv Brahma Chopp Zero Ln 355 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7891149104956",
+      "hits": 1,
+      "aliases": [
+        "cerv brahma chopp zero ln 355 ml",
+        "cerv brahma chopp zero ln 355ml",
+        "cerv brahma chopp zero ln | volume:355ml"
+      ],
+      "descricao_base": "cerv brahma chopp zero ln",
+      "medidas": [
+        "volume:355ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "schweppes mix gin lt | volume:269ml": {
+      "descricao": "Schweppes Mix Gin Lt 269 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7894900184075",
+      "hits": 1,
+      "aliases": [
+        "schweppes mix gin lt 269 ml",
+        "schweppes mix gin lt 269ml",
+        "schweppes mix gin lt | volume:269ml"
+      ],
+      "descricao_base": "schweppes mix gin lt",
+      "medidas": [
+        "volume:269ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "corote ice gin tonica | volume:275ml": {
+      "descricao": "Corote Ice Gin Tonica 275 ml",
+      "unidade": "Unid.",
+      "codigo_barras": "7896547500201",
+      "hits": 1,
+      "aliases": [
+        "corote ice gin tonica 275 ml",
+        "corote ice gin tonica 275ml",
+        "corote ice gin tonica | volume:275ml"
+      ],
+      "descricao_base": "corote ice gin tonica",
+      "medidas": [
+        "volume:275ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "refri soda limonada pet zero | volume:2000ml": {
+      "descricao": "Refri Soda Limonada Pet Zero 2 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7891991001380",
+      "hits": 1,
+      "aliases": [
+        "refri soda limonada pet zero 2 l",
+        "refri soda limonada pet zero 2l",
+        "refri soda limonada pet zero | volume:2000ml"
+      ],
+      "descricao_base": "refri soda limonada pet zero",
+      "medidas": [
+        "volume:2000ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-18T15:15:12"
     }
   }
 }
