@@ -53230,5 +53230,29 @@
     "produto": "Molho Hellmanns Chuchuar Cheddar 335g",
     "preco": "12,98",
     "validade_oferta_ate": "12/12/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "14:15:39",
+    "feito_por": "Matheus",
+    "produto": "Refil Desodor Air Wick Talco 12ml",
+    "preco": "12,98",
+    "validade_oferta_ate": "31/12/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "14:15:39",
+    "feito_por": "Matheus",
+    "produto": "Comfort Boom Per Cristais Euforia Floral 275g",
+    "preco": "17,98",
+    "validade_oferta_ate": "31/12/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "14:15:39",
+    "feito_por": "Matheus",
+    "produto": "Sabao Em Po Urca Coco Sc 500g",
+    "preco": "13,98",
+    "validade_oferta_ate": "31/12/2026"
   }
 ]
