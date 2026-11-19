@@ -53182,5 +53182,53 @@
     "produto": "Barra Sup Bold Torta De Limao 60g",
     "preco": "9,98",
     "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "10:04:42",
+    "feito_por": "Eduarda",
+    "produto": "Goma De Tapioca Doce Mel 1kg",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "10:04:42",
+    "feito_por": "Eduarda",
+    "produto": "Ovos Galinha Caipira Sao Lucas 12un",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "10:06:05",
+    "feito_por": "Eduarda",
+    "produto": "Goma De Tapioca Doce Mel 1kg",
+    "preco": "8,98",
+    "validade_oferta_ate": "25/07/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "10:35:42",
+    "feito_por": "Jeferson",
+    "produto": "Ling Def. Calab Sadia Kg",
+    "preco": "24,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "11:35:36",
+    "feito_por": "Eduarda",
+    "produto": "laranja pera",
+    "preco": "2,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "11:41:33",
+    "feito_por": "Eduarda",
+    "produto": "Molho Hellmanns Chuchuar Cheddar 335g",
+    "preco": "12,98",
+    "validade_oferta_ate": "12/12/2026"
   }
 ]
