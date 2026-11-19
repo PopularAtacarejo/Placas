@@ -39854,5 +39854,37 @@
     "produto": "Cerv Heineken Z.Alc 330ml",
     "preco": "6,48",
     "validade_oferta_ate": "22/11/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "16:32:24",
+    "feito_por": "Eduarda",
+    "produto": "CONTRA FILÉ",
+    "preco": "48,48",
+    "validade_oferta_ate": "22/11/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "16:32:24",
+    "feito_por": "Eduarda",
+    "produto": "Cerv Imperio Ultra Gfa 275ml",
+    "preco": "4,48",
+    "validade_oferta_ate": "22/11/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "16:32:24",
+    "feito_por": "Eduarda",
+    "produto": "Cerv Amstel Lt 473ml",
+    "preco": "4,48",
+    "validade_oferta_ate": "22/11/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "16:32:24",
+    "feito_por": "Eduarda",
+    "produto": "Cerv Heineken Z.Alc 330ml",
+    "preco": "6,48",
+    "validade_oferta_ate": "22/11/2026"
   }
 ]
