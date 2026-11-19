@@ -29157,5 +29157,38 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/11/2026",
+    "hora": "17:37:33",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Pre Treino Horus Max Titanium Frut.Verm 150 g",
+        "preco": "49,98",
+        "unidade": "Unid.",
+        "validade_oferta": "08/12/2026",
+        "codigo_barras": "7899941202269",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Barra De Protein Doctor Wafer Cookies Cream 25 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/11/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Barra Protein Doctor Avelã 62 g",
+        "preco": "4,98",
+        "unidade": "Unid.",
+        "validade_oferta": "25/11/2026",
+        "codigo_barras": "7899941207189",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
