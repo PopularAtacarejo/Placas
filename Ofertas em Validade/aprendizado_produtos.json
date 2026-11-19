@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "atualizado_em": "2026-11-18T15:15:12",
+  "atualizado_em": "2026-11-19T17:34:10",
   "itens": {
     "refresc frutybom frut citri 330ml 08 03 2026": {
       "descricao": "Refresc. Frutybom Frut.Citri. 330ml",
@@ -22870,6 +22870,121 @@
       ],
       "confidence": 1.0,
       "atualizado_em": "2026-11-18T15:15:12"
+    },
+    "amac downy conc frescor da primaver | volume:1500ml": {
+      "descricao": "Amac Downy Conc Frescor Da Primaver 1,5 l",
+      "unidade": "Unid.",
+      "codigo_barras": "7500435153867",
+      "hits": 1,
+      "aliases": [
+        "amac downy conc 1 5l frescor da primaver",
+        "amac downy conc frescor da primaver 1 5 l",
+        "amac downy conc frescor da primaver | volume:1500ml"
+      ],
+      "descricao_base": "amac downy conc frescor da primaver",
+      "medidas": [
+        "volume:1500ml"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-19T17:34:10"
+    },
+    "sand ipan classica diversas cores": {
+      "descricao": "Sand Ipan Clássica - Diversas cores",
+      "unidade": "Unid.",
+      "codigo_barras": "",
+      "hits": 1,
+      "aliases": [
+        "sand ipan classica diversas cores"
+      ],
+      "descricao_base": "sand ipan classica diversas cores",
+      "medidas": [],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-19T17:34:10"
+    },
+    "iog batavo surpresa morango | massa:110g": {
+      "descricao": "Iog Batavo Surpresa Morango 110 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7891097102219",
+      "hits": 1,
+      "aliases": [
+        "iog batavo surpresa morango 110 g",
+        "iog batavo surpresa morango 110g",
+        "iog batavo surpresa morango | massa:110g"
+      ],
+      "descricao_base": "iog batavo surpresa morango",
+      "medidas": [
+        "massa:110g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-19T17:34:10"
+    },
+    "whey 100 pure iog limao vf rf | massa:900g": {
+      "descricao": "Whey 100% Pure Iog. Limão Vf Rf 900 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7899941205826",
+      "hits": 1,
+      "aliases": [
+        "whey 100 pure iog limao vf rf 900 g",
+        "whey 100 pure iog limao vf rf 900g",
+        "whey 100 pure iog limao vf rf | massa:900g"
+      ],
+      "descricao_base": "whey 100 pure iog limao vf rf",
+      "medidas": [
+        "massa:900g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-19T17:34:10"
+    },
+    "pre treino horus max titanium frut verm | massa:150g": {
+      "descricao": "Pre Treino Horus Max Titanium Frut.Verm 150 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7899941202269",
+      "hits": 1,
+      "aliases": [
+        "pre treino horus max titanium frut verm 150 g",
+        "pre treino horus max titanium frut verm 150g",
+        "pre treino horus max titanium frut verm | massa:150g"
+      ],
+      "descricao_base": "pre treino horus max titanium frut verm",
+      "medidas": [
+        "massa:150g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-19T17:34:10"
+    },
+    "barra de protein doctor wafer cookies cream | massa:25g": {
+      "descricao": "Barra De Protein Doctor Wafer Cookies Cream 25 g",
+      "unidade": "Unid.",
+      "codigo_barras": "",
+      "hits": 1,
+      "aliases": [
+        "barra de protein doctor wafer cookies cream 25 g",
+        "barra de protein doctor wafer cookies cream 25g",
+        "barra de protein doctor wafer cookies cream | massa:25g"
+      ],
+      "descricao_base": "barra de protein doctor wafer cookies cream",
+      "medidas": [
+        "massa:25g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-19T17:34:10"
+    },
+    "barra protein doctor avela | massa:62g": {
+      "descricao": "Barra Protein Doctor Avelã 62 g",
+      "unidade": "Unid.",
+      "codigo_barras": "7899941207189",
+      "hits": 1,
+      "aliases": [
+        "barra protein doctor avela 62 g",
+        "barra protein doctor avela 62g",
+        "barra protein doctor avela | massa:62g"
+      ],
+      "descricao_base": "barra protein doctor avela",
+      "medidas": [
+        "massa:62g"
+      ],
+      "confidence": 1.0,
+      "atualizado_em": "2026-11-19T17:34:10"
     }
   }
 }
