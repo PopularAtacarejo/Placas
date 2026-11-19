@@ -32590,5 +32590,21 @@
     "produto": "Café Marata 250g almof",
     "preco": "10,98",
     "validade_oferta_ate": "20/11/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "09:12:51",
+    "feito_por": "Jeferson",
+    "produto": "Ling Def. Calab Sadia Kg",
+    "preco": "25,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "09:12:51",
+    "feito_por": "Jeferson",
+    "produto": "Bisteca Suina Cong. Kg",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
   }
 ]
