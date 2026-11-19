@@ -53326,5 +53326,69 @@
     "produto": "cerveja corona cero sunbrew long 330ml",
     "preco": "6,98",
     "validade_oferta_ate": "20/11/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "15:13:27",
+    "feito_por": "Gustavo",
+    "produto": "Cerv Heineken Z.Alc 330ml",
+    "preco": "5,98",
+    "validade_oferta_ate": "13/12/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "15:13:27",
+    "feito_por": "Gustavo",
+    "produto": "Cerv Sol Premium 0.0 330ml",
+    "preco": "4,48",
+    "validade_oferta_ate": "14/12/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "15:13:27",
+    "feito_por": "Gustavo",
+    "produto": "Suco Artif Vigor Minions Laranja 200ml",
+    "preco": "1,98",
+    "validade_oferta_ate": "26/12/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "15:13:27",
+    "feito_por": "Gustavo",
+    "produto": "Suco Artif Vigor Minions Maracuja 200ml",
+    "preco": "1,98",
+    "validade_oferta_ate": "27/12/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "15:13:27",
+    "feito_por": "Gustavo",
+    "produto": "Cerv Petra Ultra s Gluten Ln 275ml",
+    "preco": "4,98",
+    "validade_oferta_ate": "15/12/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "15:13:27",
+    "feito_por": "Gustavo",
+    "produto": "Cerveja Praya Lager Sem Gluten 330ml",
+    "preco": "4,98",
+    "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "15:13:27",
+    "feito_por": "Gustavo",
+    "produto": "Cerv Pilsen Unfitered Eisenbahn Lt 350ml",
+    "preco": "3,98",
+    "validade_oferta_ate": "27/12/2026"
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "15:13:27",
+    "feito_por": "Gustavo",
+    "produto": "Cerv Brahma Malzbier Lt 350ml",
+    "preco": "3,98",
+    "validade_oferta_ate": "09/12/2026"
   }
 ]
