@@ -32646,5 +32646,29 @@
     "produto": "laranja pera",
     "preco": "2,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "14:20:10",
+    "feito_por": "Eduarda",
+    "produto": "tomate",
+    "preco": "10,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "14:20:10",
+    "feito_por": "Eduarda",
+    "produto": "Uva Vitoria Kg",
+    "preco": "10,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "14:20:10",
+    "feito_por": "Eduarda",
+    "produto": "Cenoura Kg",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
   }
 ]
