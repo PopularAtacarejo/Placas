@@ -29115,5 +29115,47 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "19/11/2026",
+    "hora": "17:36:21",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Amac Downy Conc Frescor Da Primaver 1,5 l",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026",
+        "codigo_barras": "7500435153867",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Sand Ipan Clássica - Diversas cores",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/11/2026"
+      },
+      {
+        "posicao": "3",
+        "descricao": "Iog Batavo Surpresa Morango 110 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/11/2026",
+        "codigo_barras": "7891097102219",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Whey 100% Pure Iog. Limão Vf Rf 900 g",
+        "preco": "49,98",
+        "unidade": "Unid.",
+        "validade_oferta": "26/11/2026",
+        "codigo_barras": "7899941205826",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
