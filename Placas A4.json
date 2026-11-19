@@ -32606,5 +32606,21 @@
     "produto": "Bisteca Suina Cong. Kg",
     "preco": "15,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "10:04:42",
+    "feito_por": "Eduarda",
+    "produto": "Goma De Tapioca Doce Mel 1kg",
+    "preco": "8,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-19",
+    "horario": "10:04:42",
+    "feito_por": "Eduarda",
+    "produto": "Ovos Galinha Caipira Sao Lucas 12un",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
   }
 ]
