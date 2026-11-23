@@ -33102,5 +33102,21 @@
     "produto": "Coxinha Da Asa Sadia Bj 1kg",
     "preco": "24,98",
     "validade_oferta_ate": "24/11/2026"
+  },
+  {
+    "data": "2026-11-23",
+    "horario": "15:12:09",
+    "feito_por": "Eduarda",
+    "produto": "Banana Prata Kg",
+    "preco": "5,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-23",
+    "horario": "15:12:09",
+    "feito_por": "Eduarda",
+    "produto": "Pinha Kg",
+    "preco": "19,98",
+    "validade_oferta_ate": ""
   }
 ]
