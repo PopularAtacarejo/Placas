@@ -54038,5 +54038,21 @@
     "produto": "Coalhada Batalha Trad 140g",
     "preco": "2,85",
     "validade_oferta_ate": "23/12/2026"
+  },
+  {
+    "data": "2026-11-23",
+    "horario": "07:55:44",
+    "feito_por": "Ana",
+    "produto": "Barra Prot Nutrata Grego Torta Limão 40g",
+    "preco": "9,48",
+    "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-11-23",
+    "horario": "07:55:44",
+    "feito_por": "Ana",
+    "produto": "Amend Pettiz Croc Pimenta Dori 120g",
+    "preco": "6,98",
+    "validade_oferta_ate": "30/11/2026"
   }
 ]
