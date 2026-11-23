@@ -33022,5 +33022,53 @@
     "produto": "Tangerina Paulistinha Kg",
     "preco": "6,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-21",
+    "horario": "08:50:14",
+    "feito_por": "Eduarda",
+    "produto": "Carne Moída Segunda",
+    "preco": "24,48",
+    "validade_oferta_ate": "23/11/2026"
+  },
+  {
+    "data": "2026-11-21",
+    "horario": "08:50:14",
+    "feito_por": "Eduarda",
+    "produto": "Chareu C/Osso Kg",
+    "preco": "26,98",
+    "validade_oferta_ate": "23/11/2026"
+  },
+  {
+    "data": "2026-11-21",
+    "horario": "08:50:14",
+    "feito_por": "Eduarda",
+    "produto": "Patinho Kg",
+    "preco": "41,98",
+    "validade_oferta_ate": "23/11/2026"
+  },
+  {
+    "data": "2026-11-21",
+    "horario": "08:50:14",
+    "feito_por": "Eduarda",
+    "produto": "Ling Calab Grossa Cogran Kg",
+    "preco": "23,98",
+    "validade_oferta_ate": "23/11/2026"
+  },
+  {
+    "data": "2026-11-21",
+    "horario": "08:50:14",
+    "feito_por": "Eduarda",
+    "produto": "Filé De Peito Frango Pioneiro Bdj 500g",
+    "preco": "11,48",
+    "validade_oferta_ate": "23/11/2026"
+  },
+  {
+    "data": "2026-11-23",
+    "horario": "11:26:27",
+    "feito_por": "Eduarda",
+    "produto": "Sand Ipan Classica diveros tam/cores",
+    "preco": "9,98",
+    "validade_oferta_ate": "30/11/2026"
   }
 ]
