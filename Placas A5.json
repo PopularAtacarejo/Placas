@@ -40414,5 +40414,29 @@
     "produto": "Cerv Corona Cero Sunbrew Ln 330ml",
     "preco": "6,48",
     "validade_oferta_ate": "31/01/2027"
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "11:55:14",
+    "feito_por": "Eduarda",
+    "produto": "Linguica Calab Def Frimesa 2,5kg",
+    "preco": "49,98",
+    "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "14:52:13",
+    "feito_por": "Marcos",
+    "produto": "Salg Popcroc 70g Churrasco",
+    "preco": "1,19",
+    "validade_oferta_ate": "27/11/2026"
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "14:52:13",
+    "feito_por": "Marcos",
+    "produto": "Cerv Corona Cero Sunbrew Ln 330ml",
+    "preco": "6,48",
+    "validade_oferta_ate": "31/01/2027"
   }
 ]
