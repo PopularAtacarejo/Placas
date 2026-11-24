@@ -33126,5 +33126,45 @@
     "produto": "Batata Doce Roxa Vitoria Kg",
     "preco": "6,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "10:10:38",
+    "feito_por": "Eduarda",
+    "produto": "CONTRA FILÉ",
+    "preco": "48,48",
+    "validade_oferta_ate": "25/11/2026"
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "10:10:38",
+    "feito_por": "Eduarda",
+    "produto": "ACEM C/ OSSO",
+    "preco": "24,98",
+    "validade_oferta_ate": "25/11/2026"
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "10:10:38",
+    "feito_por": "Eduarda",
+    "produto": "CHAMBARIL",
+    "preco": "20,98",
+    "validade_oferta_ate": "25/11/2026"
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "10:10:38",
+    "feito_por": "Eduarda",
+    "produto": "Filé De Peito Cong Sadia 1kg",
+    "preco": "21,98",
+    "validade_oferta_ate": "25/11/2026"
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "10:10:38",
+    "feito_por": "Eduarda",
+    "produto": "Galinha Cong C/Miudos Somave Kg",
+    "preco": "9,48",
+    "validade_oferta_ate": "25/11/2026"
   }
 ]
