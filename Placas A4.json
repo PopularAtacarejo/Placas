@@ -33358,5 +33358,13 @@
     "produto": "Abacaxi",
     "preco": "3,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "12:36:46",
+    "feito_por": "Paulo",
+    "produto": "Linguica Calab Def Frimesa 2,5kg",
+    "preco": "39,98",
+    "validade_oferta_ate": "30/11/2026"
   }
 ]
