@@ -33462,5 +33462,13 @@
     "produto": "Maca Nacional Kg",
     "preco": "9,98",
     "validade_oferta_ate": "25/11/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "17:37:51",
+    "feito_por": "Eduarda",
+    "produto": "Amendoim Cozido Kg",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
   }
 ]
