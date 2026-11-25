@@ -33414,5 +33414,37 @@
     "produto": "Morango Cong Easychef 1,01kg",
     "preco": "19,98",
     "validade_oferta_ate": "26/11/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "15:05:02",
+    "feito_por": "Eduarda",
+    "produto": "PALETA SUÍNA",
+    "preco": "21,98",
+    "validade_oferta_ate": "26/11/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "15:05:02",
+    "feito_por": "Eduarda",
+    "produto": "COSTELA DA AGULHA",
+    "preco": "25,98",
+    "validade_oferta_ate": "26/11/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "15:05:02",
+    "feito_por": "Eduarda",
+    "produto": "LAGARTO",
+    "preco": "39,98",
+    "validade_oferta_ate": "26/11/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "15:05:02",
+    "feito_por": "Eduarda",
+    "produto": "Galinha Cong Bip Alimentos Kg",
+    "preco": "9,48",
+    "validade_oferta_ate": "26/11/2026"
   }
 ]
