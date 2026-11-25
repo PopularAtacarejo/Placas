@@ -54710,5 +54710,29 @@
     "produto": "Bisc Amanteigado Requeijao Popular 200g",
     "preco": "4,15",
     "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "11:28:42",
+    "feito_por": "Eduarda",
+    "produto": "Massa De Pastel Luiza Tp Industrial 500g",
+    "preco": "11,98",
+    "validade_oferta_ate": "27/11/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "11:28:42",
+    "feito_por": "Eduarda",
+    "produto": "Requeijao Catupiry Lactozero 150g",
+    "preco": "14,48",
+    "validade_oferta_ate": "28/11/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "11:28:42",
+    "feito_por": "Eduarda",
+    "produto": "Linguica Calab Def Frimesa 2,5kg",
+    "preco": "49,98",
+    "validade_oferta_ate": "30/11/2026"
   }
 ]
