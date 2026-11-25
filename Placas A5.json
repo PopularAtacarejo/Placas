@@ -40454,5 +40454,29 @@
     "produto": "Refri Soda Limonada Pet Zero 2l",
     "preco": "7,48",
     "validade_oferta_ate": "04/12/2026"
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "15:51:46",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Skol 473ml C/12 Multipack",
+    "preco": "52,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "15:51:46",
+    "feito_por": "Jeferson",
+    "produto": "Abacaxi",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "10:11:51",
+    "feito_por": "Ana",
+    "produto": "Bisc Amanteigado Galeto Popular 200g",
+    "preco": "4,15",
+    "validade_oferta_ate": "25/12/2026"
   }
 ]
