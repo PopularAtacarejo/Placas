@@ -54542,5 +54542,61 @@
     "produto": "Racao Evolute Premium Adulto Raca/P 1kg",
     "preco": "16,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "11:55:14",
+    "feito_por": "Eduarda",
+    "produto": "Linguica Calab Def Frimesa 2,5kg",
+    "preco": "49,98",
+    "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "14:52:13",
+    "feito_por": "Marcos",
+    "produto": "Salg Popcroc 70g Churrasco",
+    "preco": "1,19",
+    "validade_oferta_ate": "27/11/2026"
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "14:52:13",
+    "feito_por": "Marcos",
+    "produto": "Cerv Corona Cero Sunbrew Ln 330ml",
+    "preco": "6,48",
+    "validade_oferta_ate": "31/01/2027"
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "15:51:46",
+    "feito_por": "Jeferson",
+    "produto": "Cerv Skol 473ml C/12 Multipack",
+    "preco": "52,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-24",
+    "horario": "15:51:46",
+    "feito_por": "Jeferson",
+    "produto": "Abacaxi",
+    "preco": "3,48",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "08:24:31",
+    "feito_por": "Eduarda",
+    "produto": "Maionese Liza Regular 450g",
+    "preco": "4,98",
+    "validade_oferta_ate": "01/12/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "08:24:31",
+    "feito_por": "Eduarda",
+    "produto": "Milho Mungunza Tio Vieira 500g",
+    "preco": "2,48",
+    "validade_oferta_ate": "17/12/2026"
   }
 ]
