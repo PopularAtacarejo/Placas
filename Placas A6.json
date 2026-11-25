@@ -54678,5 +54678,37 @@
     "produto": "Beb Lactea Parmalat Wheyfit 250ml - Diversos sabores",
     "preco": "6,48",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "09:57:47",
+    "feito_por": "Eduarda",
+    "produto": "Bisc Amanteigado Calabresa Popular 200g",
+    "preco": "4,15",
+    "validade_oferta_ate": "15/12/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "09:57:47",
+    "feito_por": "Eduarda",
+    "produto": "Bisc Amanteigado Cebola Popular 200g",
+    "preco": "4,15",
+    "validade_oferta_ate": "15/12/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "09:57:47",
+    "feito_por": "Eduarda",
+    "produto": "Bisc Amanteigado Galeto Popular 200g",
+    "preco": "4,15",
+    "validade_oferta_ate": "25/12/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "09:57:47",
+    "feito_por": "Eduarda",
+    "produto": "Bisc Amanteigado Requeijao Popular 200g",
+    "preco": "4,15",
+    "validade_oferta_ate": "30/11/2026"
   }
 ]
