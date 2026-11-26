@@ -55110,5 +55110,37 @@
     "produto": "Iog Nestle Natural Integral 170g",
     "preco": "2,98",
     "validade_oferta_ate": "08/12/2026"
+  },
+  {
+    "data": "2026-11-26",
+    "horario": "10:09:11",
+    "feito_por": "Ana",
+    "produto": "Salgadinho Fandangos Queijo 105g",
+    "preco": "7,98",
+    "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-11-26",
+    "horario": "10:09:11",
+    "feito_por": "Ana",
+    "produto": "Salg Fandangos Presunto 160g",
+    "preco": "11,98",
+    "validade_oferta_ate": "07/12/2026"
+  },
+  {
+    "data": "2026-11-26",
+    "horario": "10:09:11",
+    "feito_por": "Ana",
+    "produto": "Batata Lays Rust Sal Marinho 68g",
+    "preco": "7,98",
+    "validade_oferta_ate": "07/12/2026"
+  },
+  {
+    "data": "2026-11-26",
+    "horario": "10:09:11",
+    "feito_por": "Ana",
+    "produto": "Amendoim Ovinhos 145g",
+    "preco": "5,48",
+    "validade_oferta_ate": "07/12/2026"
   }
 ]
