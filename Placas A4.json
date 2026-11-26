@@ -33486,5 +33486,29 @@
     "produto": "sand ipanema classica div. tam/cores",
     "preco": "9,98",
     "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-26",
+    "horario": "14:23:36",
+    "feito_por": "Eduarda",
+    "produto": "Limão Taiti Kg",
+    "preco": "12,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-26",
+    "horario": "14:23:36",
+    "feito_por": "Eduarda",
+    "produto": "Cenoura Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-26",
+    "horario": "14:23:36",
+    "feito_por": "Eduarda",
+    "produto": "Maçã Nacional Kg",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
   }
 ]
