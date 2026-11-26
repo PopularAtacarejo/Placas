@@ -55142,5 +55142,21 @@
     "produto": "Amendoim Ovinhos 145g",
     "preco": "5,48",
     "validade_oferta_ate": "07/12/2026"
+  },
+  {
+    "data": "2026-11-26",
+    "horario": "11:23:26",
+    "feito_por": "Eduarda",
+    "produto": "sand ipanema classica div. tam/cores",
+    "preco": "9,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-26",
+    "horario": "12:18:38",
+    "feito_por": "Gustavo",
+    "produto": "Beb Isotonico Tnt Limao 500ml",
+    "preco": "6,48",
+    "validade_oferta_ate": "27/12/2026"
   }
 ]
