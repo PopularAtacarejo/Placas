@@ -40590,5 +40590,45 @@
     "produto": "Refri Guarana Antarctica Pet 2l",
     "preco": "7,98",
     "validade_oferta_ate": "26/11/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "16:03:42",
+    "feito_por": "Eduarda",
+    "produto": "Manga Tommy Kg",
+    "preco": "1,98",
+    "validade_oferta_ate": "25/11/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "16:12:37",
+    "feito_por": "Eduarda",
+    "produto": "Maca Nacional Kg",
+    "preco": "9,98",
+    "validade_oferta_ate": "25/11/2026"
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "17:37:51",
+    "feito_por": "Eduarda",
+    "produto": "Amendoim Cozido Kg",
+    "preco": "29,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-25",
+    "horario": "18:03:17",
+    "feito_por": "Eduarda",
+    "produto": "Ovo Luna Grande Vermelho Filmado C/30",
+    "preco": "14,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-26",
+    "horario": "10:12:34",
+    "feito_por": "Jeferson",
+    "produto": "Linguica Calab Def Frimesa 2,5kg",
+    "preco": "39,98",
+    "validade_oferta_ate": "30/11/2026"
   }
 ]
