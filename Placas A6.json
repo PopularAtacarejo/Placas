@@ -55670,5 +55670,21 @@
     "produto": "Sand Hav Brasil - Diversas cores",
     "preco": "37,98",
     "validade_oferta_ate": "27/11/2026"
+  },
+  {
+    "data": "2026-11-26",
+    "horario": "16:47:39",
+    "feito_por": "Ana",
+    "produto": "Barra Suplemento Yopro Morango Nutrata 55g",
+    "preco": "11,98",
+    "validade_oferta_ate": "31/12/2026"
+  },
+  {
+    "data": "2026-11-26",
+    "horario": "16:47:39",
+    "feito_por": "Ana",
+    "produto": "Barra Prot Nutrata Grego Torta Limão 40g",
+    "preco": "9,48",
+    "validade_oferta_ate": "30/11/2026"
   }
 ]
