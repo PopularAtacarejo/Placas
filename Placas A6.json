@@ -55758,5 +55758,61 @@
     "produto": "Sab Liq Corpo Dourado div frag 1l",
     "preco": "18,99",
     "validade_oferta_ate": "30/11/2026"
+  },
+  {
+    "data": "2026-11-27",
+    "horario": "09:45:50",
+    "feito_por": "Eduarda",
+    "produto": "Manga Tommy Kg",
+    "preco": "3,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-27",
+    "horario": "09:45:50",
+    "feito_por": "Eduarda",
+    "produto": "Maca Nacional Kg",
+    "preco": "15,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-27",
+    "horario": "09:47:03",
+    "feito_por": "Eduarda",
+    "produto": "Uva Roxa S/Caroco Solta Kg",
+    "preco": "5,98",
+    "validade_oferta_ate": ""
+  },
+  {
+    "data": "2026-11-27",
+    "horario": "09:56:24",
+    "feito_por": "Eduarda",
+    "produto": "Suco De Uva Integral Oq 1l",
+    "preco": "14,98",
+    "validade_oferta_ate": "27/11/2026"
+  },
+  {
+    "data": "2026-11-27",
+    "horario": "10:23:09",
+    "feito_por": "Ana",
+    "produto": "Beb Lact Uht Pirakids 200ml Choc Zl",
+    "preco": "1,48",
+    "validade_oferta_ate": "27/11/2026"
+  },
+  {
+    "data": "2026-11-27",
+    "horario": "10:23:09",
+    "feito_por": "Ana",
+    "produto": "Barra Suplemento Yopro Morango Nutrata 55g",
+    "preco": "11,98",
+    "validade_oferta_ate": "31/12/2026"
+  },
+  {
+    "data": "2026-11-27",
+    "horario": "10:23:09",
+    "feito_por": "Ana",
+    "produto": "Torrone Montevergine C/Amendoim 90g",
+    "preco": "4,48",
+    "validade_oferta_ate": "30/11/2026"
   }
 ]
