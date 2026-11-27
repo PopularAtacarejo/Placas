@@ -55742,5 +55742,21 @@
     "produto": "Cerv Heineken Z.Alc 330ml",
     "preco": "5,98",
     "validade_oferta_ate": "13/12/2026"
+  },
+  {
+    "data": "2026-11-27",
+    "horario": "09:06:21",
+    "feito_por": "Eduarda",
+    "produto": "Biscoito Arcor Triunfo Tortini div sabores 90g",
+    "preco": "1,98",
+    "validade_oferta_ate": "29/11/2026"
+  },
+  {
+    "data": "2026-11-27",
+    "horario": "09:40:06",
+    "feito_por": "Eduarda",
+    "produto": "Sab Liq Corpo Dourado div frag 1l",
+    "preco": "18,99",
+    "validade_oferta_ate": "30/11/2026"
   }
 ]
