@@ -29586,5 +29586,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/11/2026",
+    "hora": "11:57:55",
+    "placa": 10,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Chá Maratá Verde 16 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "07/12/2026",
+        "codigo_barras": "7898286200794",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cr De Avelã c/cacau Bom Principio Pt 350 g",
+        "preco": "21,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/12/2026",
+        "codigo_barras": "7897500605865",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Chá Leão Gel Mate/Groselha Negra 25 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "09/12/2026",
+        "codigo_barras": "7891098041432",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Creme Coringa Chocolate 200 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "09/12/2026",
+        "codigo_barras": "7896481192036",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
