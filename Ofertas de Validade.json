@@ -29498,5 +29498,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/11/2026",
+    "hora": "11:54:04",
+    "placa": 8,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Café Sta Clara Reserva Mogiana 250 g",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/12/2026",
+        "codigo_barras": "7896224836173",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Composto Lac Zl Piracanjuba Lt 380 g",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/12/2026",
+        "codigo_barras": "7898215157915",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Achoc Em Pó Italac Inst Pt 400 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "02/12/2026",
+        "codigo_barras": "7898080640833",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Chá Leão Gel Preto/Frutas Vermelhas 25 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "02/12/2026",
+        "codigo_barras": "7891098041395",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
