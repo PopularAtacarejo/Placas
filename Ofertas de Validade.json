@@ -29190,5 +29190,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/11/2026",
+    "hora": "11:38:31",
+    "placa": 1,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Temp Maggi Tomate e Ervas 42 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "01/12/2026",
+        "codigo_barras": "7891000340073",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Azeitona Vde Vale Fert.Prem.Gordal 300 g",
+        "preco": "39,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/12/2026",
+        "codigo_barras": "7896272012505",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Molho Pimenta Zaeli 150 ml",
+        "preco": "5,98",
+        "unidade": "Unid.",
+        "validade_oferta": "03/12/2026",
+        "codigo_barras": "7896183901356",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Azeitona Vde Vale Fertil Temp.Mexic. 145 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "06/12/2026",
+        "codigo_barras": "7896272006405",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
