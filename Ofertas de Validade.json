@@ -29366,5 +29366,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/11/2026",
+    "hora": "11:46:49",
+    "placa": 5,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Canela Kitano Em Pó 8 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/12/2026",
+        "codigo_barras": "7891095154272",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Protetor Diario c/perfume 80 unid Always",
+        "preco": "21,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/12/2026",
+        "codigo_barras": "7501001407506",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Óleo Facial Negra Rs Rosa Mosqueta Antissin 30 ml",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/12/2026",
+        "codigo_barras": "7896902287518",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cond Pantene Equilibrio 150 ml",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/12/2026",
+        "codigo_barras": "7500435209335",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
