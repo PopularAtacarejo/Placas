@@ -29454,5 +29454,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/11/2026",
+    "hora": "11:51:26",
+    "placa": 7,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Super Flocao Coringa 500 g",
+        "preco": "2,25",
+        "unidade": "Unid.",
+        "validade_oferta": "09/12/2026",
+        "codigo_barras": "7896481130175",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Milho Mungunza Tio Vieira 500 g",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/12/2026",
+        "codigo_barras": "7898902735556",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Mist P/Bolo Dona Benta Milho 450 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "01/12/2026",
+        "codigo_barras": "7896005272121",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mist P/Bolo Dona Benta Fubá 450 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "01/12/2026",
+        "codigo_barras": "7896005279182",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
