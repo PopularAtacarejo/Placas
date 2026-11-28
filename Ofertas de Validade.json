@@ -29234,5 +29234,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/11/2026",
+    "hora": "11:40:45",
+    "placa": 2,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Salada Atum/Maionese Gomes Da Costa 170 g",
+        "preco": "10,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/12/2026",
+        "codigo_barras": "7891167014015",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Molho Hellmanns Chuchuar Ceb/Sal/Li 335 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "12/12/2026",
+        "codigo_barras": "7891150107625",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Molho Hellmanns Chuchuar Cheddar 335 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "14/12/2026",
+        "codigo_barras": "7891150107632",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Temp Completo Especial Pindorama 500 ml",
+        "preco": "4,48",
+        "unidade": "Unid.",
+        "validade_oferta": "18/12/2026",
+        "codigo_barras": "7896215301406",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
