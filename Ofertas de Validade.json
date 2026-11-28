@@ -29542,5 +29542,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/11/2026",
+    "hora": "11:56:00",
+    "placa": 9,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Achoc Em Pó Toddy Light 380 g",
+        "preco": "18,48",
+        "unidade": "Unid.",
+        "validade_oferta": "04/12/2026",
+        "codigo_barras": "7894321711058",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Composto Lácteo De Soro De Leite Leitesol Blendy 1",
+        "preco": "24,98",
+        "unidade": "Unid.",
+        "validade_oferta": "04/12/2026",
+        "codigo_barras": "7896048706232",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Uht Camponesa Zero Lactose Int 1 l",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "05/12/2026",
+        "codigo_barras": "7896259416357",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Uht Molico Desn Vit 1 l",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "05/12/2026",
+        "codigo_barras": "7898215157441",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
