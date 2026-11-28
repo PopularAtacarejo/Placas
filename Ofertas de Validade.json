@@ -29322,5 +29322,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/11/2026",
+    "hora": "11:44:49",
+    "placa": 4,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Temp Misto Dona Clara s/cominho 100 g",
+        "preco": "1,48",
+        "unidade": "Unid.",
+        "validade_oferta": "27/12/2026",
+        "codigo_barras": "7896490288904",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Catchup Hellmanns Picante 380 g",
+        "preco": "12,48",
+        "unidade": "Unid.",
+        "validade_oferta": "27/12/2026",
+        "codigo_barras": "7891150027831",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Maionese Predileta Stand Up 200 g",
+        "preco": "2,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/12/2026",
+        "codigo_barras": "7896292360433",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mostarda Tambau 3,2 kg",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "30/12/2026",
+        "codigo_barras": "7896945403098",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
