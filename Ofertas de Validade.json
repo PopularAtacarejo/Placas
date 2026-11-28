@@ -29410,5 +29410,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/11/2026",
+    "hora": "11:49:03",
+    "placa": 6,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Cond Pantene Hidro-cauterizacao 175 ml",
+        "preco": "15,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/12/2026",
+        "codigo_barras": "7500435125390",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Cond Eudora Pro Cronology 200 ml",
+        "preco": "34,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/12/2026",
+        "codigo_barras": "7891033530953",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Sh Siage Glow Expert 250 ml",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/12/2026",
+        "codigo_barras": "7891033471751",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Cond Granado Bebê Hipoalergenico 250 ml",
+        "preco": "19,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/12/2026",
+        "codigo_barras": "7896512911391",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
