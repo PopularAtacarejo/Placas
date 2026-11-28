@@ -29718,5 +29718,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/11/2026",
+    "hora": "12:02:26",
+    "placa": 13,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Leite Natville Semidesnatado Uht Tp 1 lt",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "28/12/2026",
+        "codigo_barras": "7898387120434",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Terere Menta e Limão Leão 500 g",
+        "preco": "29,98",
+        "unidade": "Unid.",
+        "validade_oferta": "29/12/2026",
+        "codigo_barras": "7891098042538",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Ninho Uht Semidesnat Vit 1 l",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "30/12/2026",
+        "codigo_barras": "7898215157427",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Café Moido Melitta Extraforte Ints 10 250 g",
+        "preco": "13,98",
+        "unidade": "Unid.",
+        "validade_oferta": "31/12/2026",
+        "codigo_barras": "7891021006095",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
