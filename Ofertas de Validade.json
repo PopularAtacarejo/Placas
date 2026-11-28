@@ -29674,5 +29674,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/11/2026",
+    "hora": "12:00:55",
+    "placa": 12,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Beb Lac Betania Kids Chocolate 200 ml",
+        "preco": "1,98",
+        "unidade": "Unid.",
+        "validade_oferta": "17/12/2026",
+        "codigo_barras": "7898403780499",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Mist P/Bolo Vitamassa Milho 400 g",
+        "preco": "6,98",
+        "unidade": "Unid.",
+        "validade_oferta": "22/12/2026",
+        "codigo_barras": "7897353902111",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Leite Uht Piracanjuba Zl 1 l",
+        "preco": "7,98",
+        "unidade": "Unid.",
+        "validade_oferta": "23/12/2026",
+        "codigo_barras": "7898215152811",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Leite Cond Piracanjuba Light Tp 395 g",
+        "preco": "8,48",
+        "unidade": "Unid.",
+        "validade_oferta": "28/12/2026",
+        "codigo_barras": "7898215151203",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
