@@ -29278,5 +29278,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/11/2026",
+    "hora": "11:42:59",
+    "placa": 3,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Maionese Hellmanns Verde 335 g",
+        "preco": "11,98",
+        "unidade": "Unid.",
+        "validade_oferta": "18/12/2026",
+        "codigo_barras": "7891150079892",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Azeitona Vde Vale Fert.c/cebola 130 g",
+        "preco": "16,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/12/2026",
+        "codigo_barras": "7896272012604",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Tempero Sazon Meu Toque Tomate 23 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "19/12/2026",
+        "codigo_barras": "7891132165445",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Maionese Arisco Pet 500 g",
+        "preco": "9,98",
+        "unidade": "Unid.",
+        "validade_oferta": "24/12/2026",
+        "codigo_barras": "7891700206921",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
