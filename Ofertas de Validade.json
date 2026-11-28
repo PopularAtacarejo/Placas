@@ -29630,5 +29630,49 @@
         "usar_codigo_barras": true
       }
     ]
+  },
+  {
+    "usuario": "Jeferson",
+    "data": "28/11/2026",
+    "hora": "11:59:58",
+    "placa": 11,
+    "produtos": [
+      {
+        "posicao": "1",
+        "descricao": "Creme Coringa Trad Baunilha 200 g",
+        "preco": "2,48",
+        "unidade": "Unid.",
+        "validade_oferta": "10/12/2026",
+        "codigo_barras": "7896481192005",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "2",
+        "descricao": "Café Capp 3 Cor Caramelo Salgado Pt 200 g",
+        "preco": "14,98",
+        "unidade": "Unid.",
+        "validade_oferta": "11/12/2026",
+        "codigo_barras": "7896045110650",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "3",
+        "descricao": "Chá Preto Maratá 18 g",
+        "preco": "3,48",
+        "unidade": "Unid.",
+        "validade_oferta": "13/12/2026",
+        "codigo_barras": "7898286200152",
+        "usar_codigo_barras": true
+      },
+      {
+        "posicao": "4",
+        "descricao": "Mist P/Bolo Dona Benta Aipim 450 g",
+        "preco": "7,48",
+        "unidade": "Unid.",
+        "validade_oferta": "15/12/2026",
+        "codigo_barras": "7896005280935",
+        "usar_codigo_barras": true
+      }
+    ]
   }
 ]
